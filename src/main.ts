@@ -86,10 +86,24 @@ function createSnippetEditor(parent: HTMLElement, doc: string): EditorView {
 
 function initExamples() {
   const grid = $("example-grid");
+  const cards: HTMLElement[] = [];
 
-  examples.forEach((ex) => {
+  // Build the mobile dropdown
+  const select = document.createElement("select");
+  select.className = "example-mobile-select";
+  examples.forEach((ex, i) => {
+    const opt = document.createElement("option");
+    opt.value = String(i);
+    opt.textContent = ex.label;
+    select.appendChild(opt);
+  });
+  grid.parentElement!.insertBefore(select, grid);
+
+  examples.forEach((ex, i) => {
     const card = document.createElement("div");
-    card.className = "example-card";
+    card.className = "example-card" + (i === 0 ? " mobile-active" : "");
+    card.dataset.index = String(i);
+    cards.push(card);
 
     const header = document.createElement("div");
     header.className = "example-card-header";
@@ -140,6 +154,13 @@ function initExamples() {
     grid.appendChild(card);
 
     createSnippetEditor(codeMount, ex.snippet);
+  });
+
+  select.addEventListener("change", () => {
+    const idx = parseInt(select.value, 10);
+    cards.forEach((c, i) => {
+      c.classList.toggle("mobile-active", i === idx);
+    });
   });
 }
 

@@ -328,6 +328,23 @@ body {
   max-width: 520px;
 }
 
+.example-mobile-select {
+  display: none;
+  padding: 0.55rem 1rem;
+  background: var(--glass);
+  border: 1px solid rgba(184, 196, 232, 0.12);
+  border-radius: 8px;
+  color: var(--cream);
+  font-family: var(--font-body);
+  font-size: 0.88rem;
+  cursor: pointer;
+  appearance: none;
+  background-image: url("data:image/svg+xml,%3Csvg width='10' height='6' viewBox='0 0 10 6' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M1 1L5 5L9 1' stroke='%23b8c4e8' stroke-width='1.5' stroke-linecap='round'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 0.75rem center;
+  padding-right: 2.25rem;
+}
+
 .example-grid {
   columns: 2;
   column-gap: 1.5rem;
@@ -590,19 +607,22 @@ body {
 
   .example-grid {
     columns: unset;
-    display: flex;
-    overflow-x: auto;
-    scroll-snap-type: x mandatory;
-    gap: 1rem;
-    padding-bottom: 1rem;
-    -webkit-overflow-scrolling: touch;
+    display: block;
   }
 
   .example-card {
-    min-width: 85vw;
-    flex-shrink: 0;
-    scroll-snap-align: center;
+    display: none;
     margin-bottom: 0;
+  }
+
+  .example-card.mobile-active {
+    display: block;
+  }
+
+  .example-mobile-select {
+    display: block;
+    width: 100%;
+    margin-bottom: 1rem;
   }
 
   .editor-split {

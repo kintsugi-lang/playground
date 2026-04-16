@@ -179,7 +179,7 @@ print rejoin [enemy/name " HP: " enemy/hp]`,
   {
     id: "pong",
     label: "Pong",
-    desc: "The @game dialect for LOVE2D.",
+    desc: "Compile-time @game dialect. We have E and C, bring your own S.",
     target: "love2d",
     snippet: `@game [
   constants [
