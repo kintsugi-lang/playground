@@ -3,6 +3,7 @@ export type Example = {
   label: string;
   desc: string;
   target: "" | "love2d" | "playdate";
+  snippet: string;
   source: string;
 };
 
@@ -10,15 +11,55 @@ export const examples: Example[] = [
   {
     id: "hello",
     label: "Hello World",
-    desc: "Functions, loop/collect, and quicksort in 20 lines.",
+    desc: "Functions and loop/collect.",
     target: "",
-    source: `print "Hello, Kintsugi!"`,
+    snippet: `print "Hello, Kintsugi!"
+
+add: function [a b] [a + b]
+print rejoin ["2 + 3 = " (add 2 3)]
+
+squares: loop/collect [
+  for [n] from 1 to 5 do [n * n]
+]
+print rejoin ["Squares: " squares]`,
+    source: `print "Hello, Kintsugi!"
+
+add: function [a b] [a + b]
+print rejoin ["2 + 3 = " (add 2 3)]
+
+squares: loop/collect [for [n] from 1 to 5 do [n * n]]
+print rejoin ["Squares: " squares]
+
+qsort: function [blk] [
+  if (length blk) <= 1 [return blk]
+  pivot: first blk
+  rest: copy blk
+  remove rest 1
+  set [lo hi] loop/partition [for [x] in rest do [x < pivot]]
+  result: qsort lo
+  append result pivot
+  loop [for [x] in qsort hi do [append result x]]
+  result
+]
+
+print rejoin ["Sorted: " qsort [3 1 4 1 5 9 2 6]]`,
   },
   {
     id: "basics",
-    label: "Language Basics",
-    desc: "Arithmetic, recursion, contexts, closures, and string ops.",
+    label: "Closures",
+    desc: "Contexts, closures, and control flow.",
     target: "",
+    snippet: `fact: function [n] [
+  if n = 0 [return 1]
+  return n * fact (n - 1)
+]
+print fact 10
+
+make-adder: function [n] [
+  function [x] [x + n]
+]
+add5: make-adder 5
+print add5 10`,
     source: `; Arithmetic, functions, control flow, closures
 
 x: 10
@@ -59,12 +100,26 @@ print uppercase "hello"
 print join "hello" " world"`,
   },
   {
-    id: "combat",
-    label: "Combat Sim",
-    desc: "Objects, match dialect, and pattern-matched ability dispatch.",
+    id: "objects",
+    label: "Objects",
+    desc: "Typed objects and pattern matching.",
     target: "",
+    snippet: `Ability: object [
+  field/required [name [string!]]
+  field/required [power [integer!]]
+  field/required [kind [string!]]
+]
+
+slash: make Ability [
+  name: "Slash" power: 25 kind: "physical"
+]
+
+match slash/kind [
+  ["heal"]    [print "healing"]
+  ["physical"] [print "attacking"]
+  default     [print "unknown"]
+]`,
     source: `; Objects, match dialect, constructors
-; (excerpt from the full combat sim)
 
 Ability: object [
   field/required [name [string!]]
@@ -75,7 +130,6 @@ Ability: object [
 slash:    make Ability [name: "Slash"    power: 25  kind: "physical"]
 fireball: make Ability [name: "Fireball" power: 30  kind: "fire"]
 heal:     make Ability [name: "Heal"     power: 20  kind: "heal"]
-poison:   make Ability [name: "Poison"   power: 8   kind: "dot"]
 
 Unit: object [
   field/required [name [string!]]
@@ -83,96 +137,82 @@ Unit: object [
   field/required [max-hp [integer!]]
   field/required [attack [integer!]]
   field/required [defense [integer!]]
-  field/required [speed [integer!]]
-  field/required [abilities [block!]]
 ]
 
-make-warrior: function [n [string!]] [
-  make Unit [
-    name: n  hp: 100  max-hp: 100
-    attack: 15  defense: 10  speed: 8
-    abilities: ["slash"]
-  ]
+hero: make Unit [
+  name: "Kael" hp: 100 max-hp: 100
+  attack: 15 defense: 10
 ]
 
-make-mage: function [n [string!]] [
-  make Unit [
-    name: n  hp: 70  max-hp: 70
-    attack: 8  defense: 5  speed: 12
-    abilities: ["fireball" "poison"]
-  ]
-]
-
-alive?: function [unit [unit!]] [unit/hp > 0]
-
-clamp: function [val [integer!] lo [integer!] hi [integer!] return: [integer!]] [
-  if val < lo [return lo]
-  if val > hi [return hi]
-  val
-]
-
-calc-damage: function [attacker [unit!] ability [ability!] defender [unit!] return: [integer!]] [
-  dmg: attacker/attack + ability/power - defender/defense
+calc-damage: function [atk [unit!] ability [ability!] def [unit!] return: [integer!]] [
+  dmg: atk/attack + ability/power - def/defense
   if dmg < 1 [dmg: 1]
   dmg
 ]
 
-; Pattern matching on ability kind
 apply-ability: function [user [unit!] ability [ability!] target [unit!]] [
   match ability/kind [
     ["heal"] [
-      amount: clamp ability/power 0 (target/max-hp - target/hp)
-      target/hp: target/hp + amount
-      print rejoin [
-        "  " user/name " heals " target/name
-        " for " amount " HP"
-        " (" target/hp "/" target/max-hp ")"
-      ]
-    ]
-    ["dot"] [
-      dmg: ability/power
-      target/hp: target/hp - dmg
-      if target/hp < 0 [target/hp: 0]
-      print rejoin [
-        "  " user/name " poisons " target/name
-        " for " dmg " damage"
-        " (" target/hp "/" target/max-hp ")"
-      ]
+      print rejoin [user/name " heals " target/name]
     ]
     default [
       dmg: calc-damage user ability target
       target/hp: target/hp - dmg
       if target/hp < 0 [target/hp: 0]
       print rejoin [
-        "  " user/name " uses " ability/name " on " target/name
-        " for " dmg " damage"
-        " (" target/hp "/" target/max-hp ")"
+        user/name " uses " ability/name " on " target/name
+        " for " dmg " (" target/hp "/" target/max-hp ")"
       ]
     ]
   ]
 ]
 
-hero: make-warrior "Kael"
-mage: make Unit [
-  name: "Lyra"  hp: 70  max-hp: 70
-  attack: 8  defense: 5  speed: 12
-  abilities: ["fireball"]
+enemy: make Unit [
+  name: "Goblin" hp: 50 max-hp: 50
+  attack: 8 defense: 3
 ]
 
-apply-ability hero slash mage
-apply-ability mage fireball hero
-print rejoin ["Kael HP: " hero/hp]
-print rejoin ["Lyra HP: " mage/hp]`,
+apply-ability hero slash enemy
+apply-ability hero fireball enemy
+print rejoin [enemy/name " HP: " enemy/hp]`,
   },
   {
     id: "pong",
     label: "Pong",
-    desc: "The @game dialect: entities, collision, and input in declarative form.",
+    desc: "The @game dialect for LOVE2D.",
     target: "love2d",
-    source: `Kintsugi [name: 'pong]
+    snippet: `@game [
+  constants [
+    SCREEN-W: 800
+    SCREEN-H: 600
+    PADDLE-SPEED: 420
+  ]
 
-; Pong - demonstrates the @game dialect
-; Requires target: love2d
+  group 'main [
+    entity player [
+      pos 20 260  rect 12 80
+      update [
+        if love/keyboard/isDown "w" [
+          self/y: self/y - (PADDLE-SPEED * dt)
+        ]
+      ]
+    ]
+
+    entity ball [
+      pos 396 296  rect 8 8
+      field dx 1  field speed 350
+      update [
+        self/x: self/x + (self/dx * self/speed * dt)
+      ]
+    ]
+
+    collide ball 'paddle [
+      ball/dx: negate ball/dx
+    ]
+  ]
+  go 'main
+]`,
+    source: `Kintsugi [name: 'pong]
 
 reset-ball: function [b dir] [
   b/x: 396  b/y: 296

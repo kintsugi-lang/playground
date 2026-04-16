@@ -68,6 +68,22 @@ function initEditors() {
   outputEditor = createOutputEditor(outputMount);
 }
 
+function createSnippetEditor(parent: HTMLElement, doc: string): EditorView {
+  return new EditorView({
+    state: EditorState.create({
+      doc,
+      extensions: [
+        EditorState.readOnly.of(true),
+        EditorView.editable.of(false),
+        kintsugi(),
+        kintsugiTheme,
+        kintsugiHighlight,
+      ],
+    }),
+    parent,
+  });
+}
+
 function initExamples() {
   const grid = $("example-grid");
 
@@ -114,17 +130,16 @@ function initExamples() {
     header.appendChild(title);
     header.appendChild(headerRight);
 
-    const code = document.createElement("pre");
-    code.className = "example-code";
-    const codeInner = document.createElement("code");
-    codeInner.textContent = ex.source;
-    code.appendChild(codeInner);
+    const codeMount = document.createElement("div");
+    codeMount.className = "example-cm";
 
     card.appendChild(header);
     card.appendChild(desc);
-    card.appendChild(code);
+    card.appendChild(codeMount);
 
     grid.appendChild(card);
+
+    createSnippetEditor(codeMount, ex.snippet);
   });
 }
 
