@@ -509,23 +509,18 @@ body {
   color: var(--slate);
 }
 
-.editor-pane textarea {
+.cm-mount {
   flex: 1;
-  width: 100%;
-  min-height: 400px;
-  padding: 1.25rem;
-  background: transparent;
-  border: none;
-  background-color: var(--cream);
-  font-family: var(--font-code);
-  font-size: 0.82rem;
-  line-height: 1.75;
-  resize: none;
-  tab-size: 2;
+  overflow: auto;
 }
 
-.editor-pane textarea:focus {
-  outline: none;
+.cm-mount .cm-editor {
+  height: 100%;
+  min-height: 400px;
+}
+
+.cm-mount .cm-scroller {
+  overflow: auto;
 }
 
 .version-section {

@@ -1,8 +1,66 @@
 import "./styles.css";
 import { examples } from "./examples";
+import { EditorState } from "@codemirror/state";
+import { EditorView, lineNumbers, keymap } from "@codemirror/view";
+import { defaultKeymap, history, historyKeymap } from "@codemirror/commands";
+import { bracketMatching } from "@codemirror/language";
+import { kintsugi } from "./lang-kintsugi";
+import { kintsugiTheme, kintsugiHighlight } from "./editor-theme";
 
 function $(id: string) {
   return document.getElementById(id)!;
+}
+
+let sourceEditor: EditorView;
+let outputEditor: EditorView;
+
+function createSourceEditor(parent: HTMLElement, doc: string): EditorView {
+  return new EditorView({
+    state: EditorState.create({
+      doc,
+      extensions: [
+        lineNumbers(),
+        history(),
+        bracketMatching(),
+        keymap.of([...defaultKeymap, ...historyKeymap]),
+        kintsugi(),
+        kintsugiTheme,
+        kintsugiHighlight,
+        EditorView.lineWrapping,
+      ],
+    }),
+    parent,
+  });
+}
+
+function createOutputEditor(parent: HTMLElement): EditorView {
+  return new EditorView({
+    state: EditorState.create({
+      doc: "",
+      extensions: [
+        lineNumbers(),
+        EditorState.readOnly.of(true),
+        kintsugiTheme,
+        kintsugiHighlight,
+        EditorView.lineWrapping,
+      ],
+    }),
+    parent,
+  });
+}
+
+function setEditorContent(view: EditorView, content: string) {
+  view.dispatch({
+    changes: { from: 0, to: view.state.doc.length, insert: content },
+  });
+}
+
+function initEditors() {
+  const sourceMount = $("source-editor");
+  const outputMount = $("output-editor");
+
+  sourceEditor = createSourceEditor(sourceMount, examples[0].source);
+  outputEditor = createOutputEditor(outputMount);
 }
 
 function initExamples() {
@@ -23,7 +81,12 @@ function initExamples() {
 
     const badge = document.createElement("span");
     badge.className = "example-badge";
-    badge.textContent = ex.target === "love2d" ? "LOVE2D" : ex.target === "playdate" ? "Playdate" : "Lua 5.4";
+    badge.textContent =
+      ex.target === "love2d"
+        ? "LOVE2D"
+        : ex.target === "playdate"
+          ? "Playdate"
+          : "Lua 5.4";
 
     header.appendChild(title);
     header.appendChild(badge);
@@ -41,9 +104,10 @@ function initExamples() {
     tryLink.className = "example-try";
     tryLink.textContent = "Try in playground";
     tryLink.addEventListener("click", () => {
-      (document.getElementById("source") as HTMLTextAreaElement).value = ex.source;
-      (document.getElementById("target-select") as HTMLSelectElement).value = ex.target;
-      (document.getElementById("output") as HTMLTextAreaElement).value = "";
+      setEditorContent(sourceEditor, ex.source);
+      (document.getElementById("target-select") as HTMLSelectElement).value =
+        ex.target;
+      setEditorContent(outputEditor, "");
     });
     footer.appendChild(tryLink);
 
@@ -58,18 +122,18 @@ function initExamples() {
 
 function initCompile() {
   $("compile-btn").addEventListener("click", () => {
-    const source = (document.getElementById("source") as HTMLTextAreaElement)
-      .value;
+    const source = sourceEditor.state.doc.toString();
     const target = (
       document.getElementById("target-select") as HTMLSelectElement
     ).value;
-    const output = document.getElementById("output") as HTMLTextAreaElement;
-    output.value = "";
+    setEditorContent(outputEditor, "");
     try {
-      output.value = window.kintsugiCompile(source, target);
+      setEditorContent(outputEditor, window.kintsugiCompile(source, target));
     } catch (e) {
-      output.value =
-        "-- JS Error: " + (e instanceof Error ? e.message : String(e));
+      setEditorContent(
+        outputEditor,
+        "-- JS Error: " + (e instanceof Error ? e.message : String(e)),
+      );
     }
   });
 }
@@ -82,18 +146,9 @@ function initVersion() {
   }
 }
 
-function seedEditor() {
-  const source = document.getElementById("source") as HTMLTextAreaElement;
-  const target = document.getElementById(
-    "target-select",
-  ) as HTMLSelectElement;
-  source.value = examples[0].source;
-  target.value = examples[0].target;
-}
-
 document.addEventListener("DOMContentLoaded", () => {
+  initEditors();
   initExamples();
   initCompile();
   initVersion();
-  seedEditor();
 });
