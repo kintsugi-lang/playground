@@ -36,8 +36,8 @@ var NTI1409288077 = {size: 0, kind: 18, base: null, node: null, finalizer: null}
 var NTI1409287798 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1409288086 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI1409286152 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI1275070603 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI1275070788 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275070611 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
+var NTI1275070796 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI570425755 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1728053259 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1728053258 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
@@ -785,12 +785,12 @@ var NNI1728053253 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "minCount", len: 0, typ: NTI33554435, name: "minCount", sons: null}, 
 {kind: 1, offset: "rposAfterRule", len: 0, typ: NTI33554435, name: "rposAfterRule", sons: null}]};
 NTI1728053253.node = NNI1728053253;
-NTI1275070788.base = NTI704643078;
-var NNI570425755 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "emitted0", len: 0, typ: NTI1275070788, name: "emitted0", sons: null}, 
+NTI1275070796.base = NTI704643078;
+var NNI570425755 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "emitted0", len: 0, typ: NTI1275070796, name: "emitted0", sons: null}, 
 {kind: 1, offset: "eval1", len: 0, typ: NTI1258291203, name: "eval1", sons: null}]};
 NTI570425755.node = NNI570425755;
 NTI570425755.base = NTI33555179;
-NTI1275070603.base = NTI704643078;
+NTI1275070611.base = NTI704643078;
 NTI1409286152.base = NTI704643078;
 var NNI1409288086 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI704643078, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI704643078, name: "Field1", sons: null}, 
@@ -2244,230 +2244,230 @@ var ConstSet624 = setConstr(23);
 var ConstSet625 = setConstr(23);
 var ConstSet626 = setConstr(23);
 var ConstSet627 = setConstr(22);
-var ConstSet628 = setConstr(20, 19);
+var ConstSet628 = setConstr(3);
 var ConstSet629 = setConstr(3);
-var ConstSet630 = setConstr(13);
-var ConstSet631 = setConstr(0);
-var ConstSet632 = setConstr(13);
+var ConstSet630 = setConstr(3);
+var ConstSet631 = setConstr(20, 19);
+var ConstSet632 = setConstr(3);
 var ConstSet633 = setConstr(13);
-var ConstSet634 = setConstr(13);
-var ConstSet635 = setConstr(15);
-var ConstSet636 = setConstr(15);
-var ConstSet637 = setConstr(17);
-var ConstSet638 = setConstr(18);
-var ConstSet639 = setConstr(17);
-var ConstSet640 = setConstr(18);
-var ConstSet641 = setConstr(15);
-var ConstSet642 = setConstr(15);
-var ConstSet643 = setConstr(6);
-var ConstSet644 = setConstr(6);
-var ConstSet645 = setConstr(7);
-var ConstSet646 = setConstr(7);
-var ConstSet647 = setConstr(5);
-var ConstSet648 = setConstr(8);
-var ConstSet649 = setConstr(8);
-var ConstSet650 = setConstr(8);
-var ConstSet651 = setConstr(9);
-var ConstSet652 = setConstr(9);
-var ConstSet653 = setConstr(9);
-var ConstSet654 = setConstr(23);
-var ConstSet655 = setConstr(19, 20);
-var ConstSet656 = setConstr(23);
-var ConstSet657 = setConstr(13);
-var ConstSet658 = setConstr(23);
+var ConstSet634 = setConstr(0);
+var ConstSet635 = setConstr(13);
+var ConstSet636 = setConstr(13);
+var ConstSet637 = setConstr(13);
+var ConstSet638 = setConstr(15);
+var ConstSet639 = setConstr(15);
+var ConstSet640 = setConstr(17);
+var ConstSet641 = setConstr(18);
+var ConstSet642 = setConstr(17);
+var ConstSet643 = setConstr(18);
+var ConstSet644 = setConstr(15);
+var ConstSet645 = setConstr(15);
+var ConstSet646 = setConstr(6);
+var ConstSet647 = setConstr(6);
+var ConstSet648 = setConstr(7);
+var ConstSet649 = setConstr(7);
+var ConstSet650 = setConstr(5);
+var ConstSet651 = setConstr(8);
+var ConstSet652 = setConstr(8);
+var ConstSet653 = setConstr(8);
+var ConstSet654 = setConstr(9);
+var ConstSet655 = setConstr(9);
+var ConstSet656 = setConstr(9);
+var ConstSet657 = setConstr(23);
+var ConstSet658 = setConstr(19, 20);
 var ConstSet659 = setConstr(23);
 var ConstSet660 = setConstr(13);
 var ConstSet661 = setConstr(23);
 var ConstSet662 = setConstr(23);
-var ConstSet663 = setConstr(23);
-var ConstSet664 = setConstr(0);
-var ConstSet665 = setConstr(13);
-var ConstSet666 = setConstr(13);
-var ConstSet667 = setConstr(17);
-var ConstSet668 = setConstr(15);
-var ConstSet669 = setConstr(15);
+var ConstSet663 = setConstr(13);
+var ConstSet664 = setConstr(23);
+var ConstSet665 = setConstr(23);
+var ConstSet666 = setConstr(23);
+var ConstSet667 = setConstr(0);
+var ConstSet668 = setConstr(13);
+var ConstSet669 = setConstr(13);
 var ConstSet670 = setConstr(17);
 var ConstSet671 = setConstr(15);
 var ConstSet672 = setConstr(15);
-var ConstSet673 = setConstr(18);
-var ConstSet674 = setConstr(23);
-var ConstSet675 = setConstr(0);
-var ConstSet676 = setConstr(13);
-var ConstSet677 = setConstr(13);
-var ConstSet678 = setConstr(17);
-var ConstSet679 = setConstr(17);
-var ConstSet680 = setConstr(17);
-var ConstSet681 = setConstr(15);
+var ConstSet673 = setConstr(17);
+var ConstSet674 = setConstr(15);
+var ConstSet675 = setConstr(15);
+var ConstSet676 = setConstr(18);
+var ConstSet677 = setConstr(23);
+var ConstSet678 = setConstr(0);
+var ConstSet679 = setConstr(13);
+var ConstSet680 = setConstr(13);
+var ConstSet681 = setConstr(17);
 var ConstSet682 = setConstr(17);
 var ConstSet683 = setConstr(17);
-var ConstSet684 = setConstr(17);
-var ConstSet685 = setConstr(15);
-var ConstSet686 = setConstr(6, 5, 7, 8, 9);
-var ConstSet687 = setConstr(0);
-var ConstSet688 = setConstr(1);
-var ConstSet689 = setConstr(6);
-var ConstSet690 = setConstr(6);
-var ConstSet691 = setConstr(0);
-var ConstSet692 = setConstr(7);
-var ConstSet693 = setConstr(7);
-var ConstSet694 = setConstr(8);
-var ConstSet695 = setConstr(8);
-var ConstSet696 = setConstr(8);
-var ConstSet697 = setConstr(9);
-var ConstSet698 = setConstr(9);
-var ConstSet699 = setConstr(9);
-var ConstSet700 = setConstr(17);
-var ConstSet701 = setConstr(15);
-var ConstSet702 = setConstr(18);
+var ConstSet684 = setConstr(15);
+var ConstSet685 = setConstr(17);
+var ConstSet686 = setConstr(17);
+var ConstSet687 = setConstr(17);
+var ConstSet688 = setConstr(15);
+var ConstSet689 = setConstr(6, 5, 7, 8, 9);
+var ConstSet690 = setConstr(0);
+var ConstSet691 = setConstr(1);
+var ConstSet692 = setConstr(6);
+var ConstSet693 = setConstr(6);
+var ConstSet694 = setConstr(0);
+var ConstSet695 = setConstr(7);
+var ConstSet696 = setConstr(7);
+var ConstSet697 = setConstr(8);
+var ConstSet698 = setConstr(8);
+var ConstSet699 = setConstr(8);
+var ConstSet700 = setConstr(9);
+var ConstSet701 = setConstr(9);
+var ConstSet702 = setConstr(9);
 var ConstSet703 = setConstr(17);
 var ConstSet704 = setConstr(15);
-var ConstSet705 = setConstr(23);
-var ConstSet706 = setConstr(23);
-var ConstSet707 = setConstr([65, 90]);
-var ConstSet708 = setConstr(18);
-var ConstSet709 = setConstr(18);
-var ConstSet710 = setConstr(17);
-var ConstSet711 = setConstr(23);
-var ConstSet712 = setConstr(23);
-var ConstSet713 = setConstr(23);
+var ConstSet705 = setConstr(18);
+var ConstSet706 = setConstr(17);
+var ConstSet707 = setConstr(15);
+var ConstSet708 = setConstr(23);
+var ConstSet709 = setConstr(23);
+var ConstSet710 = setConstr([65, 90]);
+var ConstSet711 = setConstr(18);
+var ConstSet712 = setConstr(18);
+var ConstSet713 = setConstr(17);
 var ConstSet714 = setConstr(23);
 var ConstSet715 = setConstr(23);
-var ConstSet716 = setConstr(13);
+var ConstSet716 = setConstr(23);
 var ConstSet717 = setConstr(23);
-var ConstSet718 = setConstr(13);
-var ConstSet719 = setConstr(23);
+var ConstSet718 = setConstr(23);
+var ConstSet719 = setConstr(13);
 var ConstSet720 = setConstr(23);
-var ConstSet721 = setConstr(23);
-var ConstSet722 = setConstr(21);
+var ConstSet721 = setConstr(13);
+var ConstSet722 = setConstr(23);
 var ConstSet723 = setConstr(23);
 var ConstSet724 = setConstr(23);
-var ConstSet725 = setConstr(23);
+var ConstSet725 = setConstr(21);
 var ConstSet726 = setConstr(23);
 var ConstSet727 = setConstr(23);
 var ConstSet728 = setConstr(23);
-var ConstSet729 = setConstr(14);
-var ConstSet730 = setConstr(13);
-var ConstSet731 = setConstr(13);
-var ConstSet732 = setConstr(13);
-var ConstSet733 = setConstr(23);
-var ConstSet734 = setConstr(23);
-var ConstSet735 = setConstr(23);
-var ConstSet736 = setConstr(13);
-var ConstSet737 = setConstr(13);
-var ConstSet738 = setConstr(13);
+var ConstSet729 = setConstr(23);
+var ConstSet730 = setConstr(23);
+var ConstSet731 = setConstr(23);
+var ConstSet732 = setConstr(14);
+var ConstSet733 = setConstr(13);
+var ConstSet734 = setConstr(13);
+var ConstSet735 = setConstr(13);
+var ConstSet736 = setConstr(23);
+var ConstSet737 = setConstr(23);
+var ConstSet738 = setConstr(23);
 var ConstSet739 = setConstr(13);
-var ConstSet740 = setConstr(17);
-var ConstSet741 = setConstr(17);
-var ConstSet742 = setConstr(19, 20);
-var ConstSet743 = setConstr(0, 1);
-var ConstSet744 = setConstr(22);
+var ConstSet740 = setConstr(13);
+var ConstSet741 = setConstr(13);
+var ConstSet742 = setConstr(13);
+var ConstSet743 = setConstr(17);
+var ConstSet744 = setConstr(17);
+var ConstSet745 = setConstr(19, 20);
+var ConstSet746 = setConstr(0, 1);
+var ConstSet747 = setConstr(22);
       var builtinTypes_1459618230 = [[105,110,116,101,103,101,114,33], [102,108,111,97,116,33], [115,116,114,105,110,103,33], [108,111,103,105,99,33], [110,111,110,101,33], [109,111,110,101,121,33], [112,97,105,114,33], [116,117,112,108,101,33], [100,97,116,101,33], [116,105,109,101,33], [102,105,108,101,33], [117,114,108,33], [101,109,97,105,108,33], [98,108,111,99,107,33], [112,97,114,101,110,33], [109,97,112,33], [115,101,116,33], [99,111,110,116,101,120,116,33], [111,98,106,101,99,116,33], [102,117,110,99,116,105,111,110,33], [110,97,116,105,118,101,33], [119,111,114,100,33], [116,121,112,101,33], [115,101,116,45,119,111,114,100,33], [103,101,116,45,119,111,114,100,33], [108,105,116,45,119,111,114,100,33], [109,101,116,97,45,119,111,114,100,33], [111,112,33]];
-var ConstSet745 = setConstr(0, 1);
-var ConstSet746 = setConstr(0, 1, 6, 7, 8, 9, 5);
-var ConstSet747 = setConstr(20);
-var ConstSet748 = setConstr(13);
-var ConstSet749 = setConstr(18);
-var ConstSet750 = setConstr(17);
+var ConstSet748 = setConstr(0, 1);
+var ConstSet749 = setConstr(0, 1, 6, 7, 8, 9, 5);
+var ConstSet750 = setConstr(20);
 var ConstSet751 = setConstr(13);
-var ConstSet752 = setConstr(2);
-var ConstSet753 = setConstr(15);
-var ConstSet754 = setConstr(16);
-var ConstSet755 = setConstr(17);
-var ConstSet756 = setConstr(18);
-var ConstSet757 = setConstr(14);
-var ConstSet758 = setConstr(13);
-var ConstSet759 = setConstr(2);
-var ConstSet760 = setConstr(15);
-var ConstSet761 = setConstr(17);
-var ConstSet762 = setConstr(18);
-var ConstSet763 = setConstr(13);
-var ConstSet764 = setConstr(13);
-var ConstSet765 = setConstr(13);
-var ConstSet766 = setConstr(2);
-var ConstSet767 = setConstr(2);
-var ConstSet768 = setConstr(2);
-var ConstSet769 = setConstr(13);
+var ConstSet752 = setConstr(18);
+var ConstSet753 = setConstr(17);
+var ConstSet754 = setConstr(13);
+var ConstSet755 = setConstr(2);
+var ConstSet756 = setConstr(15);
+var ConstSet757 = setConstr(16);
+var ConstSet758 = setConstr(17);
+var ConstSet759 = setConstr(18);
+var ConstSet760 = setConstr(14);
+var ConstSet761 = setConstr(13);
+var ConstSet762 = setConstr(2);
+var ConstSet763 = setConstr(15);
+var ConstSet764 = setConstr(17);
+var ConstSet765 = setConstr(18);
+var ConstSet766 = setConstr(13);
+var ConstSet767 = setConstr(13);
+var ConstSet768 = setConstr(13);
+var ConstSet769 = setConstr(2);
 var ConstSet770 = setConstr(2);
-var ConstSet771 = setConstr(0);
+var ConstSet771 = setConstr(2);
 var ConstSet772 = setConstr(13);
-var ConstSet773 = setConstr(13);
-var ConstSet774 = setConstr(13);
+var ConstSet773 = setConstr(2);
+var ConstSet774 = setConstr(0);
 var ConstSet775 = setConstr(13);
-var ConstSet776 = setConstr(17);
-var ConstSet777 = setConstr(17);
-var ConstSet778 = setConstr(2);
-var ConstSet779 = setConstr(15);
-var ConstSet780 = setConstr(16);
-var ConstSet781 = setConstr(18);
-var ConstSet782 = setConstr(18);
-var ConstSet783 = setConstr(18);
-var ConstSet784 = setConstr(13);
-var ConstSet785 = setConstr(2);
-var ConstSet786 = setConstr(17);
-var ConstSet787 = setConstr(17);
-var ConstSet788 = setConstr(0);
-var ConstSet789 = setConstr(13);
-var ConstSet790 = setConstr(13);
-var ConstSet791 = setConstr(2);
-var ConstSet792 = setConstr(2);
-var ConstSet793 = setConstr(0);
-var ConstSet794 = setConstr(0);
-var ConstSet795 = setConstr(13);
-var ConstSet796 = setConstr(13);
-var ConstSet797 = setConstr(2);
-var ConstSet798 = setConstr(0);
-var ConstSet799 = setConstr(23);
-var ConstSet800 = setConstr(13);
-var ConstSet801 = setConstr(23);
+var ConstSet776 = setConstr(13);
+var ConstSet777 = setConstr(13);
+var ConstSet778 = setConstr(13);
+var ConstSet779 = setConstr(17);
+var ConstSet780 = setConstr(17);
+var ConstSet781 = setConstr(2);
+var ConstSet782 = setConstr(15);
+var ConstSet783 = setConstr(16);
+var ConstSet784 = setConstr(18);
+var ConstSet785 = setConstr(18);
+var ConstSet786 = setConstr(18);
+var ConstSet787 = setConstr(13);
+var ConstSet788 = setConstr(2);
+var ConstSet789 = setConstr(17);
+var ConstSet790 = setConstr(17);
+var ConstSet791 = setConstr(0);
+var ConstSet792 = setConstr(13);
+var ConstSet793 = setConstr(13);
+var ConstSet794 = setConstr(2);
+var ConstSet795 = setConstr(2);
+var ConstSet796 = setConstr(0);
+var ConstSet797 = setConstr(0);
+var ConstSet798 = setConstr(13);
+var ConstSet799 = setConstr(13);
+var ConstSet800 = setConstr(2);
+var ConstSet801 = setConstr(0);
 var ConstSet802 = setConstr(23);
-var ConstSet803 = setConstr(2);
-var ConstSet804 = setConstr(15);
-var ConstSet805 = setConstr(15);
-var ConstSet806 = setConstr(23);
-var ConstSet807 = setConstr(17);
-var ConstSet808 = setConstr(17);
-var ConstSet809 = setConstr(13);
-var ConstSet810 = setConstr(2);
-var ConstSet811 = setConstr(2);
-var ConstSet812 = setConstr(15);
-var ConstSet813 = setConstr(23);
-var ConstSet814 = setConstr(15);
-var ConstSet815 = setConstr(2);
-var ConstSet816 = setConstr(17);
-var ConstSet817 = setConstr(23);
-var ConstSet818 = setConstr(16);
-var ConstSet819 = setConstr(13);
-var ConstSet820 = setConstr(13);
-var ConstSet821 = setConstr(2);
+var ConstSet803 = setConstr(13);
+var ConstSet804 = setConstr(23);
+var ConstSet805 = setConstr(23);
+var ConstSet806 = setConstr(2);
+var ConstSet807 = setConstr(15);
+var ConstSet808 = setConstr(15);
+var ConstSet809 = setConstr(23);
+var ConstSet810 = setConstr(17);
+var ConstSet811 = setConstr(17);
+var ConstSet812 = setConstr(13);
+var ConstSet813 = setConstr(2);
+var ConstSet814 = setConstr(2);
+var ConstSet815 = setConstr(15);
+var ConstSet816 = setConstr(23);
+var ConstSet817 = setConstr(15);
+var ConstSet818 = setConstr(2);
+var ConstSet819 = setConstr(17);
+var ConstSet820 = setConstr(23);
+var ConstSet821 = setConstr(16);
 var ConstSet822 = setConstr(13);
 var ConstSet823 = setConstr(13);
 var ConstSet824 = setConstr(2);
-var ConstSet825 = setConstr(2);
+var ConstSet825 = setConstr(13);
 var ConstSet826 = setConstr(13);
-var ConstSet827 = setConstr(14);
-var ConstSet828 = setConstr(23);
-var ConstSet829 = setConstr(23);
-var ConstSet830 = setConstr(23);
+var ConstSet827 = setConstr(2);
+var ConstSet828 = setConstr(2);
+var ConstSet829 = setConstr(13);
+var ConstSet830 = setConstr(14);
 var ConstSet831 = setConstr(23);
-var ConstSet832 = setConstr(2);
-var ConstSet833 = setConstr(32, 9, 11, 13, 10, 12);
-var ConstSet834 = setConstr([97, 122]);
+var ConstSet832 = setConstr(23);
+var ConstSet833 = setConstr(23);
+var ConstSet834 = setConstr(23);
 var ConstSet835 = setConstr(2);
-var ConstSet836 = setConstr(2);
-var ConstSet837 = setConstr(2);
+var ConstSet836 = setConstr(32, 9, 11, 13, 10, 12);
+var ConstSet837 = setConstr([97, 122]);
 var ConstSet838 = setConstr(2);
 var ConstSet839 = setConstr(2);
 var ConstSet840 = setConstr(2);
-var ConstSet841 = setConstr(0);
+var ConstSet841 = setConstr(2);
 var ConstSet842 = setConstr(2);
-var ConstSet843 = setConstr(0);
-var ConstSet844 = setConstr(13);
-var ConstSet845 = setConstr(13);
-var ConstSet846 = setConstr(13);
+var ConstSet843 = setConstr(2);
+var ConstSet844 = setConstr(0);
+var ConstSet845 = setConstr(2);
+var ConstSet846 = setConstr(0);
 var ConstSet847 = setConstr(13);
-var ConstSet848 = setConstr(2);
-var ConstSet849 = setConstr(2);
-var ConstSet850 = setConstr(2);
+var ConstSet848 = setConstr(13);
+var ConstSet849 = setConstr(13);
+var ConstSet850 = setConstr(13);
 var ConstSet851 = setConstr(2);
 var ConstSet852 = setConstr(2);
 var ConstSet853 = setConstr(2);
@@ -2477,14 +2477,14 @@ var ConstSet856 = setConstr(2);
 var ConstSet857 = setConstr(2);
 var ConstSet858 = setConstr(2);
 var ConstSet859 = setConstr(2);
-var ConstSet860 = setConstr(13);
-var ConstSet861 = setConstr(2, 13);
-var ConstSet862 = setConstr(0);
-var ConstSet863 = setConstr(0);
-var ConstSet864 = setConstr(2);
-var ConstSet865 = setConstr(13);
-var ConstSet866 = setConstr(13);
-var ConstSet867 = setConstr(13);
+var ConstSet860 = setConstr(2);
+var ConstSet861 = setConstr(2);
+var ConstSet862 = setConstr(2);
+var ConstSet863 = setConstr(13);
+var ConstSet864 = setConstr(2, 13);
+var ConstSet865 = setConstr(0);
+var ConstSet866 = setConstr(0);
+var ConstSet867 = setConstr(2);
 var ConstSet868 = setConstr(13);
 var ConstSet869 = setConstr(13);
 var ConstSet870 = setConstr(13);
@@ -2493,81 +2493,84 @@ var ConstSet872 = setConstr(13);
 var ConstSet873 = setConstr(13);
 var ConstSet874 = setConstr(13);
 var ConstSet875 = setConstr(13);
-var ConstSet876 = setConstr(17);
-var ConstSet877 = setConstr(18);
-var ConstSet878 = setConstr(17);
-var ConstSet879 = setConstr(18);
-var ConstSet880 = setConstr(13);
+var ConstSet876 = setConstr(13);
+var ConstSet877 = setConstr(13);
+var ConstSet878 = setConstr(13);
+var ConstSet879 = setConstr(17);
+var ConstSet880 = setConstr(18);
 var ConstSet881 = setConstr(17);
 var ConstSet882 = setConstr(18);
-var ConstSet883 = setConstr(18);
-var ConstSet884 = setConstr(18);
-var ConstSet885 = setConstr(13);
-var ConstSet886 = setConstr(13);
-var ConstSet887 = setConstr(13);
-var ConstSet888 = setConstr(23);
-var ConstSet889 = setConstr(2);
+var ConstSet883 = setConstr(13);
+var ConstSet884 = setConstr(17);
+var ConstSet885 = setConstr(18);
+var ConstSet886 = setConstr(18);
+var ConstSet887 = setConstr(18);
+var ConstSet888 = setConstr(13);
+var ConstSet889 = setConstr(13);
 var ConstSet890 = setConstr(13);
-var ConstSet891 = setConstr(17);
-var ConstSet892 = setConstr(17);
-var ConstSet893 = setConstr(17);
+var ConstSet891 = setConstr(23);
+var ConstSet892 = setConstr(2);
+var ConstSet893 = setConstr(13);
 var ConstSet894 = setConstr(17);
-var ConstSet895 = setConstr(23);
-var ConstSet896 = setConstr(2);
-var ConstSet897 = setConstr(13);
+var ConstSet895 = setConstr(17);
+var ConstSet896 = setConstr(17);
+var ConstSet897 = setConstr(17);
 var ConstSet898 = setConstr(23);
-var ConstSet899 = setConstr(13);
+var ConstSet899 = setConstr(2);
 var ConstSet900 = setConstr(13);
 var ConstSet901 = setConstr(23);
 var ConstSet902 = setConstr(13);
-var ConstSet903 = setConstr(23);
-var ConstSet904 = setConstr(13);
-var ConstSet905 = setConstr(17);
+var ConstSet903 = setConstr(13);
+var ConstSet904 = setConstr(23);
+var ConstSet905 = setConstr(13);
 var ConstSet906 = setConstr(23);
-var ConstSet907 = setConstr(23);
+var ConstSet907 = setConstr(13);
 var ConstSet908 = setConstr(17);
 var ConstSet909 = setConstr(23);
-var ConstSet910 = setConstr(18);
-var ConstSet911 = setConstr(23);
+var ConstSet910 = setConstr(23);
+var ConstSet911 = setConstr(17);
 var ConstSet912 = setConstr(23);
 var ConstSet913 = setConstr(18);
 var ConstSet914 = setConstr(23);
-var ConstSet915 = setConstr(13);
-var ConstSet916 = setConstr(13, 2);
-var ConstSet917 = setConstr(2);
+var ConstSet915 = setConstr(23);
+var ConstSet916 = setConstr(18);
+var ConstSet917 = setConstr(23);
 var ConstSet918 = setConstr(13);
-var ConstSet919 = setConstr(0);
-var ConstSet920 = setConstr(0);
-var ConstSet921 = setConstr(0, 1);
-var ConstSet922 = setConstr(0, 1);
+var ConstSet919 = setConstr(13, 2);
+var ConstSet920 = setConstr(2);
+var ConstSet921 = setConstr(13);
+var ConstSet922 = setConstr(0);
 var ConstSet923 = setConstr(0);
-var ConstSet924 = setConstr(1);
-var ConstSet925 = setConstr(0);
-var ConstSet926 = setConstr(1);
-var ConstSet927 = setConstr(2);
-var ConstSet928 = setConstr(2);
-var ConstSet929 = setConstr(5);
-var ConstSet930 = setConstr(5);
-var ConstSet931 = setConstr(13);
-var ConstSet932 = setConstr(0);
-var ConstSet933 = setConstr(0);
-var ConstSet934 = setConstr(0, 1);
-var ConstSet935 = setConstr(0, 1);
+var ConstSet924 = setConstr(0, 1);
+var ConstSet925 = setConstr(0, 1);
+var ConstSet926 = setConstr(0);
+var ConstSet927 = setConstr(1);
+var ConstSet928 = setConstr(0);
+var ConstSet929 = setConstr(1);
+var ConstSet930 = setConstr(2);
+var ConstSet931 = setConstr(2);
+var ConstSet932 = setConstr(5);
+var ConstSet933 = setConstr(5);
+var ConstSet934 = setConstr(13);
+var ConstSet935 = setConstr(0);
 var ConstSet936 = setConstr(0);
-var ConstSet937 = setConstr(1);
-var ConstSet938 = setConstr(0);
-var ConstSet939 = setConstr(1);
-var ConstSet940 = setConstr(2);
-var ConstSet941 = setConstr(2);
-var ConstSet942 = setConstr(2);
-var ConstSet943 = setConstr(16);
-var ConstSet944 = setConstr(16);
-var ConstSet945 = setConstr(16);
+var ConstSet937 = setConstr(0, 1);
+var ConstSet938 = setConstr(0, 1);
+var ConstSet939 = setConstr(0);
+var ConstSet940 = setConstr(1);
+var ConstSet941 = setConstr(0);
+var ConstSet942 = setConstr(1);
+var ConstSet943 = setConstr(2);
+var ConstSet944 = setConstr(2);
+var ConstSet945 = setConstr(2);
 var ConstSet946 = setConstr(16);
-var ConstSet947 = setConstr(0);
-var ConstSet948 = setConstr(1);
-var ConstSet949 = setConstr(6);
-var ConstSet950 = setConstr(6);
+var ConstSet947 = setConstr(16);
+var ConstSet948 = setConstr(16);
+var ConstSet949 = setConstr(16);
+var ConstSet950 = setConstr(0);
+var ConstSet951 = setConstr(1);
+var ConstSet952 = setConstr(6);
+var ConstSet953 = setConstr(6);
 
 function negInt64(a_p0) {
   var result_33557173 = 0n;
@@ -2577,177 +2580,174 @@ function negInt64(a_p0) {
   return result_33557173;
 
 }
-var ConstSet951 = setConstr(0);
-var ConstSet952 = setConstr(1);
-var ConstSet953 = setConstr(6);
-var ConstSet954 = setConstr(6);
-var ConstSet955 = setConstr(0);
-var ConstSet956 = setConstr(0);
-var ConstSet957 = setConstr(0, 1);
-var ConstSet958 = setConstr(0, 1);
+var ConstSet954 = setConstr(0);
+var ConstSet955 = setConstr(1);
+var ConstSet956 = setConstr(6);
+var ConstSet957 = setConstr(6);
+var ConstSet958 = setConstr(0);
 var ConstSet959 = setConstr(0);
-var ConstSet960 = setConstr(1);
-var ConstSet961 = setConstr(0);
-var ConstSet962 = setConstr(1);
-var ConstSet963 = setConstr(6);
-var ConstSet964 = setConstr(6);
-var ConstSet965 = setConstr(6);
+var ConstSet960 = setConstr(0, 1);
+var ConstSet961 = setConstr(0, 1);
+var ConstSet962 = setConstr(0);
+var ConstSet963 = setConstr(1);
+var ConstSet964 = setConstr(0);
+var ConstSet965 = setConstr(1);
 var ConstSet966 = setConstr(6);
-var ConstSet967 = setConstr(0);
-var ConstSet968 = setConstr(0);
-var ConstSet969 = setConstr(0, 1);
-var ConstSet970 = setConstr(0, 1);
+var ConstSet967 = setConstr(6);
+var ConstSet968 = setConstr(6);
+var ConstSet969 = setConstr(6);
+var ConstSet970 = setConstr(0);
 var ConstSet971 = setConstr(0);
-var ConstSet972 = setConstr(1);
-var ConstSet973 = setConstr(0);
-var ConstSet974 = setConstr(1);
-var ConstSet975 = setConstr(6);
-var ConstSet976 = setConstr(6);
-var ConstSet977 = setConstr(6);
+var ConstSet972 = setConstr(0, 1);
+var ConstSet973 = setConstr(0, 1);
+var ConstSet974 = setConstr(0);
+var ConstSet975 = setConstr(1);
+var ConstSet976 = setConstr(0);
+var ConstSet977 = setConstr(1);
 var ConstSet978 = setConstr(6);
-var ConstSet979 = setConstr(1);
-var ConstSet980 = setConstr(0);
-var ConstSet981 = setConstr(0);
-var ConstSet982 = setConstr(0);
+var ConstSet979 = setConstr(6);
+var ConstSet980 = setConstr(6);
+var ConstSet981 = setConstr(6);
+var ConstSet982 = setConstr(1);
 var ConstSet983 = setConstr(0);
-var ConstSet984 = setConstr(1);
+var ConstSet984 = setConstr(0);
 var ConstSet985 = setConstr(0);
-var ConstSet986 = setConstr(1);
-var ConstSet987 = setConstr(0);
-var ConstSet988 = setConstr(1);
-var ConstSet989 = setConstr(0);
-var ConstSet990 = setConstr(1);
-var ConstSet991 = setConstr(0);
-var ConstSet992 = setConstr(1);
-var ConstSet993 = setConstr(0);
-var ConstSet994 = setConstr(1);
-var ConstSet995 = setConstr(0);
-var ConstSet996 = setConstr(1);
-var ConstSet997 = setConstr(0);
-var ConstSet998 = setConstr(1);
-var ConstSet999 = setConstr(0);
-var ConstSet1000 = setConstr(1);
-var ConstSet1001 = setConstr(0);
-var ConstSet1002 = setConstr(1);
-var ConstSet1003 = setConstr(0);
-var ConstSet1004 = setConstr(1);
-var ConstSet1005 = setConstr(0);
-var ConstSet1006 = setConstr(1);
-var ConstSet1007 = setConstr(0);
-var ConstSet1008 = setConstr(1);
-var ConstSet1009 = setConstr(0);
-var ConstSet1010 = setConstr(1);
-var ConstSet1011 = setConstr(0);
-var ConstSet1012 = setConstr(1);
-var ConstSet1013 = setConstr(0);
-var ConstSet1014 = setConstr(1);
-var ConstSet1015 = setConstr(0);
-var ConstSet1016 = setConstr(1);
+var ConstSet986 = setConstr(0);
+var ConstSet987 = setConstr(1);
+var ConstSet988 = setConstr(0);
+var ConstSet989 = setConstr(1);
+var ConstSet990 = setConstr(0);
+var ConstSet991 = setConstr(1);
+var ConstSet992 = setConstr(0);
+var ConstSet993 = setConstr(1);
+var ConstSet994 = setConstr(0);
+var ConstSet995 = setConstr(1);
+var ConstSet996 = setConstr(0);
+var ConstSet997 = setConstr(1);
+var ConstSet998 = setConstr(0);
+var ConstSet999 = setConstr(1);
+var ConstSet1000 = setConstr(0);
+var ConstSet1001 = setConstr(1);
+var ConstSet1002 = setConstr(0);
+var ConstSet1003 = setConstr(1);
+var ConstSet1004 = setConstr(0);
+var ConstSet1005 = setConstr(1);
+var ConstSet1006 = setConstr(0);
+var ConstSet1007 = setConstr(1);
+var ConstSet1008 = setConstr(0);
+var ConstSet1009 = setConstr(1);
+var ConstSet1010 = setConstr(0);
+var ConstSet1011 = setConstr(1);
+var ConstSet1012 = setConstr(0);
+var ConstSet1013 = setConstr(1);
+var ConstSet1014 = setConstr(0);
+var ConstSet1015 = setConstr(1);
+var ConstSet1016 = setConstr(0);
+var ConstSet1017 = setConstr(1);
+var ConstSet1018 = setConstr(0);
+var ConstSet1019 = setConstr(1);
                       var helper_1493172271 = new BigUint64Array([13739361407582206667n, 15594563132006766882n]);
-var ConstSet1017 = setConstr(0);
-var ConstSet1018 = setConstr(13);
-var ConstSet1019 = setConstr(0);
-var ConstSet1020 = setConstr(1);
-var ConstSet1021 = setConstr(0);
-var ConstSet1022 = setConstr(1);
-var ConstSet1023 = setConstr(0);
+var ConstSet1020 = setConstr(0);
+var ConstSet1021 = setConstr(13);
+var ConstSet1022 = setConstr(0);
+var ConstSet1023 = setConstr(1);
 var ConstSet1024 = setConstr(0);
 var ConstSet1025 = setConstr(1);
-var ConstSet1026 = setConstr(2);
-var ConstSet1027 = setConstr(2);
-var ConstSet1028 = setConstr(0);
-var ConstSet1029 = setConstr(0);
+var ConstSet1026 = setConstr(0);
+var ConstSet1027 = setConstr(0);
+var ConstSet1028 = setConstr(1);
+var ConstSet1029 = setConstr(2);
+var ConstSet1030 = setConstr(2);
+var ConstSet1031 = setConstr(0);
+var ConstSet1032 = setConstr(0);
     var unitWeights_1509949551 = new BigInt64Array([1n, 1000n, 1000000n, 1000000000n, 60000000000n, 3600000000000n, 86400000000000n, 604800000000000n]);
     var daysUntilMonthLeap_1509949690 = new Int32Array([0, 31, 60, 91, 121, 152, 182, 213, 244, 274, 305, 335]);
       var daysUntilMonth_1509949689 = new Int32Array([0, 31, 59, 90, 120, 151, 181, 212, 243, 273, 304, 334]);
-var ConstSet1030 = setConstr(0);
-var ConstSet1031 = setConstr(9);
-var ConstSet1032 = setConstr(9);
-var ConstSet1033 = setConstr(9);
+var ConstSet1033 = setConstr(0);
 var ConstSet1034 = setConstr(9);
 var ConstSet1035 = setConstr(9);
 var ConstSet1036 = setConstr(9);
-var ConstSet1037 = setConstr(0);
-var ConstSet1038 = setConstr(8);
-var ConstSet1039 = setConstr(8);
-var ConstSet1040 = setConstr(8);
+var ConstSet1037 = setConstr(9);
+var ConstSet1038 = setConstr(9);
+var ConstSet1039 = setConstr(9);
+var ConstSet1040 = setConstr(0);
 var ConstSet1041 = setConstr(8);
 var ConstSet1042 = setConstr(8);
 var ConstSet1043 = setConstr(8);
-var ConstSet1044 = setConstr(23);
-var ConstSet1045 = setConstr(23);
-      var stdlibModules_1342178734 = {data: [{Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 310365534, Field1: [99,111,108,108,101,99,116,105,111,110,115], Field2: makeNimstrLit("Kintsugi [name: \'collections]\x0A\x0A; --- Range ---\x0A; range 1 5         => [1 2 3 4 5]\x0A; range/by 0 10 2   => [0 2 4 6 8 10]\x0A\x0Arange: function [from to /by step] [\x0A  s: either by [step] [1]\x0A  loop/collect [for [i] from from to to by s do [i]]\x0A]\x0A\x0A; --- Flatten ---\x0A; flatten [[1 2] [3 4] [5]]  => [1 2 3 4 5]\x0A; flatten/deep [[[1] [2]] [[3]]]  => [1 2 3]\x0A\x0Aflatten-deep: function [data [block!]] [\x0A  result: []\x0A  loop [for [sub] in data do [\x0A    either block? sub [\x0A      append result (flatten-deep sub)\x0A    ] [\x0A      append result sub\x0A    ]\x0A  ]]\x0A  result\x0A]\x0A\x0Aflatten: function [data [block!] /deep] [\x0A  either deep [\x0A    flatten-deep data\x0A  ] [\x0A    result: []\x0A    loop [for [sub] in data do [\x0A      either block? sub [\x0A        append result sub\x0A      ] [\x0A        append result sub\x0A      ]\x0A    ]]\x0A    result\x0A  ]\x0A]\x0A\x0A; --- Zip ---\x0A; zip [1 2 3] [\"a\" \"b\" \"c\"]  => [[1 \"a\"] [2 \"b\"] [3 \"c\"]]\x0A\x0Azip: function [a [block!] b [block!]] [\x0A  len: min length a length b\x0A  loop/collect [for [i] from 1 to len do [\x0A    reduce [pick a i pick b i]\x0A  ]]\x0A]\x0A\x0A; --- Unique ---\x0A; unique [1 2 1 3 2 4]  => [1 2 3 4]\x0A\x0Aunique: function [data [block!]] [\x0A  result: []\x0A  loop [for [item] in data do [\x0A    unless has? result item [append result item]\x0A  ]]\x0A  result\x0A]\x0A\x0A; --- Take / Drop ---\x0A; take [1 2 3 4 5] 3  => [1 2 3]\x0A; drop [1 2 3 4 5] 2  => [3 4 5]\x0A\x0Atake: function [data [block!] n [integer!]] [\x0A  loop/collect [for [i] from 1 to (min n (length data)) do [\x0A    pick data i\x0A  ]]\x0A]\x0A\x0Adrop: function [data [block!] n [integer!]] [\x0A  if n >= (length data) [return []]\x0A  loop/collect [for [i] from (n + 1) to (length data) do [\x0A    pick data i\x0A  ]]\x0A]\x0A\x0A; --- Partition ---\x0A; partition data 3             => [[1 2 3] [4 5 6] [7]]  (chunk by size)\x0A; partition/by data :key-fn    => map! with key -> [values] (group by function)\x0A\x0Apartition: function [data [block!] n [integer!] /by key-fn] [\x0A  if by [\x0A    groups: make map! []\x0A    loop [for [item] in data do [\x0A      key: to string! (key-fn item)\x0A      unless has? groups \'key [\x0A        groups/:key: []\x0A      ]\x0A      append groups/:key item\x0A    ]]\x0A    return groups\x0A  ]\x0A  ; Chunk by size\x0A  result: []\x0A  len: length data\x0A  i: 1\x0A  loop [\x0A    if i > len [break]\x0A    group: loop/collect [for [j] from i to (min (i + n - 1) len) do [pick data j]]\x0A    append/only result group\x0A    i: i + n\x0A  ]\x0A  result\x0A]\x0A\x0A; --- Rotate ---\x0A; rotate [1 2 3 4 5] 2        => [3 4 5 1 2]  (circular shift block)\x0A; rotate [1 2 3 4 5] -1       => [5 1 2 3 4]\x0A; rotate 3x4 1.57             => rotated pair (2D rotation by radians)\x0A\x0Arotate: function [data n] [\x0A  if pair? data [\x0A    c: cos n\x0A    s: sin n\x0A    nx: (data/x * c) - (data/y * s)\x0A    ny: (data/x * s) + (data/y * c)\x0A    return to pair! reduce [(round nx) (round ny)]\x0A  ]\x0A  len: length data\x0A  if len = 0 [return []]\x0A  offset: n % len\x0A  if offset < 0 [offset: offset + len]\x0A  append (drop data offset) (take data offset)\x0A]\x0A\x0A; --- Choice ---\x0A; choice [1 2 3 4 5]                              => random element\x0A; choice/weighted [[\"common\" 70] [\"rare\" 25] [\"epic\" 5]]  => weighted random\x0A\x0Achoice: function [items [block!] /weighted] [\x0A  if weighted [\x0A    total: loop/fold [for [acc pair] in items do [acc + (pick pair 2)]]\x0A    roll: random total\x0A    running: 0\x0A    loop [for [pair] in items do [\x0A      running: running + (pick pair 2)\x0A      if roll < running [return first pair]\x0A    ]]\x0A    return first last items\x0A  ]\x0A  pick items (random/int length items)\x0A]\x0A\x0A; --- Repeat ---\x0A; repeat 0 5       => [0 0 0 0 0]\x0A; repeat \"ha\" 3    => \"hahaha\"\x0A\x0Arepeat: function [val n [integer!]] [\x0A  if n <= 0 [either string? val [return \"\"] [return []]]\x0A  either string? val [\x0A    rejoin loop/collect [for [i] from 1 to n do [val]]\x0A  ] [\x0A    loop/collect [for [i] from 1 to n do [val]]\x0A  ]\x0A]\x0A\x0A; --- Interleave ---\x0A; interleave [1 2 3] [\"a\" \"b\" \"c\"]  => [1 \"a\" 2 \"b\" 3 \"c\"]\x0A\x0Ainterleave: function [a [block!] b [block!]] [\x0A  len: min length a length b\x0A  result: []\x0A  loop [for [i] from 1 to len do [\x0A    append result (pick a i)\x0A    append result (pick b i)\x0A  ]]\x0A  result\x0A]\x0A\x0A; --- Tally ---\x0A; tally [1 2 1 3 2 1]  => map! with \"1\": 3, \"2\": 2, \"3\": 1\x0A\x0Atally: function [data [block!]] [\x0A  counts: make map! []\x0A  loop [for [item] in data do [\x0A    key: to string! item\x0A    either has? counts key [\x0A      counts/:key: counts/:key + 1\x0A    ] [\x0A      counts/:key: 1\x0A    ]\x0A  ]]\x0A  counts\x0A]\x0A")}, {Field0: 1087600351, Field1: [109,97,116,104], Field2: makeNimstrLit("Kintsugi [name: \'math]\x0A\x0A; --- Clamping & interpolation ---\x0A\x0Aclamp: function [val lo hi] [\x0A  if val < lo [return lo]\x0A  if val > hi [return hi]\x0A  val\x0A]\x0A\x0Alerp: function [a b t] [\x0A  a + ((b - a) * t)\x0A]\x0A\x0Ainverse-lerp: function [a b val] [\x0A  (val - a) / (b - a)\x0A]\x0A\x0A; Move val toward target by step amount per call.\x0A; approach 10 0 3  => 7  (moved 3 closer to 0)\x0Aapproach: function [val target step] [\x0A  if val < target [return min (val + step) target]\x0A  if val > target [return max (val - step) target]\x0A  val\x0A]\x0A\x0A; --- Easing ---\x0A\x0A; Hermite interpolation \xE2\x80\x94 smooth ease in/out.\x0Asmoothstep: function [t] [\x0A  t * t * (3.0 - (2.0 * t))\x0A]\x0A\x0A; Ken Perlin\'s improved smoothstep.\x0Asmootherstep: function [t] [\x0A  t * t * t * (t * ((t * 6.0) - 15.0) + 10.0)\x0A]\x0A\x0A; Quadratic easing \xE2\x80\x94 t should be 0.0 to 1.0.\x0A; ease t           \xE2\x80\x94 ease-in (default)\x0A; ease/out t       \xE2\x80\x94 ease-out\x0A; ease/in/out t    \xE2\x80\x94 ease-in-out\x0Aease: function [t /in /out] [\x0A  if all? [in out] [\x0A    return either t < 0.5 [\x0A      2.0 * t * t\x0A    ] [\x0A      -1.0 + ((4.0 - (2.0 * t)) * t)\x0A    ]\x0A  ]\x0A  if out [return t * (2.0 - t)]\x0A  t * t\x0A]\x0A\x0A; --- Fractional / sign ---\x0A\x0Afraction: function [n] [\x0A  n - (floor n)\x0A]\x0A\x0Asign: function [n] [\x0A  if n > 0 [return 1]\x0A  if n < 0 [return -1]\x0A  0\x0A]\x0A\x0A; --- Distance & vectors ---\x0A\x0A; distance a b              \xE2\x80\x94 Euclidean (straight line)\x0A; distance/manhattan a b    \xE2\x80\x94 4-directional grid (taxicab)\x0A; distance/chebyshev a b    \xE2\x80\x94 8-directional grid (chess king)\x0Adistance: function [a [pair!] b [pair!] /manhattan /chebyshev] [\x0A  if manhattan [return (abs a/x - b/x) + (abs a/y - b/y)]\x0A  if chebyshev [return max (abs a/x - b/x) (abs a/y - b/y)]\x0A  dx: a/x - b/x\x0A  dy: a/y - b/y\x0A  sqrt (dx * dx + (dy * dy))\x0A]\x0A\x0Amagnitude: function [v [pair!]] [\x0A  sqrt (v/x * v/x + (v/y * v/y))\x0A]\x0A\x0Anormalize: function [v [pair!]] [\x0A  len: magnitude v\x0A  if len = 0 [return 0x0]\x0A  to pair! reduce [(round v/x / len) (round v/y / len)]\x0A]\x0A\x0Aangle-between: function [a [pair!] b [pair!]] [\x0A  atan2 (b/y - a/y) (b/x - a/x)\x0A]\x0A\x0A; --- Grid helpers ---\x0A; Convert between 1D index and 2D position for any grid width.\x0A\x0Agrid-index: function [pos [pair!] width [integer!]] [\x0A  ((pos/y - 1) * width) + pos/x\x0A]\x0A\x0Agrid-pos: function [index [integer!] width [integer!]] [\x0A  x: ((index - 1) % width) + 1\x0A  y: ((index - 1) / width) + 1\x0A  to pair! reduce [x (floor y)]\x0A]\x0A\x0A; --- Rect / AABB ---\x0A\x0Apoint-in-rect?: function [px py rx ry rw rh] [\x0A  all? [(px >= rx) (px < (rx + rw)) (py >= ry) (py < (ry + rh))]\x0A]\x0A\x0Arects-overlap?: function [ax ay aw ah bx by bw bh] [\x0A  not any? [(ax >= (bx + bw)) ((ax + aw) <= bx) (ay >= (by + bh)) ((ay + ah) <= by)]\x0A]\x0A\x0A; --- Wrapping ---\x0A\x0Awrap: function [val lo hi] [\x0A  range: hi - lo\x0A  result: val - lo\x0A  loop [\x0A    if result >= 0 [\x0A      if result < range [return result + lo]\x0A      result: result - range\x0A    ]\x0A    if result < 0 [result: result + range]\x0A  ]\x0A]\x0A\x0A; --- Deadzone ---\x0A\x0Adeadzone: function [val threshold] [\x0A  if (abs val) < threshold [return 0]\x0A  val\x0A]\x0A\x0A; --- Remap ---\x0A\x0Aremap: function [val in-lo in-hi out-lo out-hi] [\x0A  t: (val - in-lo) / (in-hi - in-lo)\x0A  lerp out-lo out-hi t\x0A]\x0A\x0A")}], counter: 2};
-var ConstSet1046 = setConstr(32, 9, 11, 13, 10, 12);
-var ConstSet1047 = setConstr(13);
+var ConstSet1044 = setConstr(8);
+var ConstSet1045 = setConstr(8);
+var ConstSet1046 = setConstr(8);
+var ConstSet1047 = setConstr(23);
 var ConstSet1048 = setConstr(23);
-var ConstSet1049 = setConstr(13);
-var ConstSet1050 = setConstr(23);
+      var stdlibModules_1342178734 = {data: [{Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 0, Field1: [], Field2: []}, {Field0: 310365534, Field1: [99,111,108,108,101,99,116,105,111,110,115], Field2: makeNimstrLit("Kintsugi [name: \'collections]\x0A\x0A; --- Range ---\x0A; range 1 5         => [1 2 3 4 5]\x0A; range/by 0 10 2   => [0 2 4 6 8 10]\x0A\x0Arange: function [from to /by step] [\x0A  s: either by [step] [1]\x0A  loop/collect [for [i] from from to to by s do [i]]\x0A]\x0A\x0A; --- Flatten ---\x0A; flatten [[1 2] [3 4] [5]]  => [1 2 3 4 5]\x0A; flatten/deep [[[1] [2]] [[3]]]  => [1 2 3]\x0A\x0Aflatten-deep: function [data [block!]] [\x0A  result: []\x0A  loop [for [sub] in data do [\x0A    either block? sub [\x0A      append result (flatten-deep sub)\x0A    ] [\x0A      append result sub\x0A    ]\x0A  ]]\x0A  result\x0A]\x0A\x0Aflatten: function [data [block!] /deep] [\x0A  either deep [\x0A    flatten-deep data\x0A  ] [\x0A    result: []\x0A    loop [for [sub] in data do [\x0A      either block? sub [\x0A        append result sub\x0A      ] [\x0A        append result sub\x0A      ]\x0A    ]]\x0A    result\x0A  ]\x0A]\x0A\x0A; --- Zip ---\x0A; zip [1 2 3] [\"a\" \"b\" \"c\"]  => [[1 \"a\"] [2 \"b\"] [3 \"c\"]]\x0A\x0Azip: function [a [block!] b [block!]] [\x0A  len: min length a length b\x0A  loop/collect [for [i] from 1 to len do [\x0A    reduce [pick a i pick b i]\x0A  ]]\x0A]\x0A\x0A; --- Unique ---\x0A; unique [1 2 1 3 2 4]  => [1 2 3 4]\x0A\x0Aunique: function [data [block!]] [\x0A  result: []\x0A  loop [for [item] in data do [\x0A    unless has? result item [append result item]\x0A  ]]\x0A  result\x0A]\x0A\x0A; --- Take / Drop ---\x0A; take [1 2 3 4 5] 3  => [1 2 3]\x0A; drop [1 2 3 4 5] 2  => [3 4 5]\x0A\x0Atake: function [data [block!] n [integer!]] [\x0A  loop/collect [for [i] from 1 to (min n (length data)) do [\x0A    pick data i\x0A  ]]\x0A]\x0A\x0Adrop: function [data [block!] n [integer!]] [\x0A  if n >= (length data) [return []]\x0A  loop/collect [for [i] from (n + 1) to (length data) do [\x0A    pick data i\x0A  ]]\x0A]\x0A\x0A; --- Partition ---\x0A; partition data 3             => [[1 2 3] [4 5 6] [7]]  (chunk by size)\x0A; partition/by data :key-fn    => map! with key -> [values] (group by function)\x0A\x0Apartition: function [data [block!] n [integer!] /by key-fn] [\x0A  if by [\x0A    groups: make map! []\x0A    loop [for [item] in data do [\x0A      key: to string! (key-fn item)\x0A      unless has? groups \'key [\x0A        groups/:key: []\x0A      ]\x0A      append groups/:key item\x0A    ]]\x0A    return groups\x0A  ]\x0A  ; Chunk by size\x0A  result: []\x0A  len: length data\x0A  i: 1\x0A  loop [\x0A    if i > len [break]\x0A    group: loop/collect [for [j] from i to (min (i + n - 1) len) do [pick data j]]\x0A    append/only result group\x0A    i: i + n\x0A  ]\x0A  result\x0A]\x0A\x0A; --- Rotate ---\x0A; rotate [1 2 3 4 5] 2        => [3 4 5 1 2]  (circular shift block)\x0A; rotate [1 2 3 4 5] -1       => [5 1 2 3 4]\x0A; rotate 3x4 1.57             => rotated pair (2D rotation by radians)\x0A\x0Arotate: function [data n] [\x0A  if pair? data [\x0A    c: cos n\x0A    s: sin n\x0A    nx: (data/x * c) - (data/y * s)\x0A    ny: (data/x * s) + (data/y * c)\x0A    return to pair! reduce [(round nx) (round ny)]\x0A  ]\x0A  len: length data\x0A  if len = 0 [return []]\x0A  offset: n % len\x0A  if offset < 0 [offset: offset + len]\x0A  append (drop data offset) (take data offset)\x0A]\x0A\x0A; --- Choice ---\x0A; choice [1 2 3 4 5]                              => random element\x0A; choice/weighted [[\"common\" 70] [\"rare\" 25] [\"epic\" 5]]  => weighted random\x0A\x0Achoice: function [items [block!] /weighted] [\x0A  if weighted [\x0A    total: loop/fold [for [acc pair] in items do [acc + (pick pair 2)]]\x0A    roll: random total\x0A    running: 0\x0A    loop [for [pair] in items do [\x0A      running: running + (pick pair 2)\x0A      if roll < running [return first pair]\x0A    ]]\x0A    return first last items\x0A  ]\x0A  pick items (random/int length items)\x0A]\x0A\x0A; --- Repeat ---\x0A; repeat 0 5       => [0 0 0 0 0]\x0A; repeat \"ha\" 3    => \"hahaha\"\x0A\x0Arepeat: function [val n [integer!]] [\x0A  if n <= 0 [either string? val [return \"\"] [return []]]\x0A  either string? val [\x0A    rejoin loop/collect [for [i] from 1 to n do [val]]\x0A  ] [\x0A    loop/collect [for [i] from 1 to n do [val]]\x0A  ]\x0A]\x0A\x0A; --- Interleave ---\x0A; interleave [1 2 3] [\"a\" \"b\" \"c\"]  => [1 \"a\" 2 \"b\" 3 \"c\"]\x0A\x0Ainterleave: function [a [block!] b [block!]] [\x0A  len: min length a length b\x0A  result: []\x0A  loop [for [i] from 1 to len do [\x0A    append result (pick a i)\x0A    append result (pick b i)\x0A  ]]\x0A  result\x0A]\x0A\x0A; --- Tally ---\x0A; tally [1 2 1 3 2 1]  => map! with \"1\": 3, \"2\": 2, \"3\": 1\x0A\x0Atally: function [data [block!]] [\x0A  counts: make map! []\x0A  loop [for [item] in data do [\x0A    key: to string! item\x0A    either has? counts key [\x0A      counts/:key: counts/:key + 1\x0A    ] [\x0A      counts/:key: 1\x0A    ]\x0A  ]]\x0A  counts\x0A]\x0A")}, {Field0: 1087600351, Field1: [109,97,116,104], Field2: makeNimstrLit("Kintsugi [name: \'math]\x0A\x0A; --- Clamping & interpolation ---\x0A\x0Aclamp: function [val lo hi] [\x0A  if val < lo [return lo]\x0A  if val > hi [return hi]\x0A  val\x0A]\x0A\x0Alerp: function [a b t] [\x0A  a + ((b - a) * t)\x0A]\x0A\x0Ainverse-lerp: function [a b val] [\x0A  (val - a) / (b - a)\x0A]\x0A\x0A; Move val toward target by step amount per call.\x0A; approach 10 0 3  => 7  (moved 3 closer to 0)\x0Aapproach: function [val target step] [\x0A  if val < target [return min (val + step) target]\x0A  if val > target [return max (val - step) target]\x0A  val\x0A]\x0A\x0A; --- Easing ---\x0A\x0A; Hermite interpolation \xE2\x80\x94 smooth ease in/out.\x0Asmoothstep: function [t] [\x0A  t * t * (3.0 - (2.0 * t))\x0A]\x0A\x0A; Ken Perlin\'s improved smoothstep.\x0Asmootherstep: function [t] [\x0A  t * t * t * (t * ((t * 6.0) - 15.0) + 10.0)\x0A]\x0A\x0A; Quadratic easing \xE2\x80\x94 t should be 0.0 to 1.0.\x0A; ease t           \xE2\x80\x94 ease-in (default)\x0A; ease/out t       \xE2\x80\x94 ease-out\x0A; ease/in/out t    \xE2\x80\x94 ease-in-out\x0Aease: function [t /in /out] [\x0A  if all? [in out] [\x0A    return either t < 0.5 [\x0A      2.0 * t * t\x0A    ] [\x0A      -1.0 + ((4.0 - (2.0 * t)) * t)\x0A    ]\x0A  ]\x0A  if out [return t * (2.0 - t)]\x0A  t * t\x0A]\x0A\x0A; --- Fractional / sign ---\x0A\x0Afraction: function [n] [\x0A  n - (floor n)\x0A]\x0A\x0Asign: function [n] [\x0A  if n > 0 [return 1]\x0A  if n < 0 [return -1]\x0A  0\x0A]\x0A\x0A; --- Distance & vectors ---\x0A\x0A; distance a b              \xE2\x80\x94 Euclidean (straight line)\x0A; distance/manhattan a b    \xE2\x80\x94 4-directional grid (taxicab)\x0A; distance/chebyshev a b    \xE2\x80\x94 8-directional grid (chess king)\x0Adistance: function [a [pair!] b [pair!] /manhattan /chebyshev] [\x0A  if manhattan [return (abs a/x - b/x) + (abs a/y - b/y)]\x0A  if chebyshev [return max (abs a/x - b/x) (abs a/y - b/y)]\x0A  dx: a/x - b/x\x0A  dy: a/y - b/y\x0A  sqrt (dx * dx + (dy * dy))\x0A]\x0A\x0Amagnitude: function [v [pair!]] [\x0A  sqrt (v/x * v/x + (v/y * v/y))\x0A]\x0A\x0Anormalize: function [v [pair!]] [\x0A  len: magnitude v\x0A  if len = 0 [return 0x0]\x0A  to pair! reduce [(round v/x / len) (round v/y / len)]\x0A]\x0A\x0Aangle-between: function [a [pair!] b [pair!]] [\x0A  atan2 (b/y - a/y) (b/x - a/x)\x0A]\x0A\x0A; --- Grid helpers ---\x0A; Convert between 1D index and 2D position for any grid width.\x0A\x0Agrid-index: function [pos [pair!] width [integer!]] [\x0A  ((pos/y - 1) * width) + pos/x\x0A]\x0A\x0Agrid-pos: function [index [integer!] width [integer!]] [\x0A  x: ((index - 1) % width) + 1\x0A  y: ((index - 1) / width) + 1\x0A  to pair! reduce [x (floor y)]\x0A]\x0A\x0A; --- Rect / AABB ---\x0A\x0Apoint-in-rect?: function [px py rx ry rw rh] [\x0A  all? [(px >= rx) (px < (rx + rw)) (py >= ry) (py < (ry + rh))]\x0A]\x0A\x0Arects-overlap?: function [ax ay aw ah bx by bw bh] [\x0A  not any? [(ax >= (bx + bw)) ((ax + aw) <= bx) (ay >= (by + bh)) ((ay + ah) <= by)]\x0A]\x0A\x0A; --- Wrapping ---\x0A\x0Awrap: function [val lo hi] [\x0A  range: hi - lo\x0A  result: val - lo\x0A  loop [\x0A    if result >= 0 [\x0A      if result < range [return result + lo]\x0A      result: result - range\x0A    ]\x0A    if result < 0 [result: result + range]\x0A  ]\x0A]\x0A\x0A; --- Deadzone ---\x0A\x0Adeadzone: function [val threshold] [\x0A  if (abs val) < threshold [return 0]\x0A  val\x0A]\x0A\x0A; --- Remap ---\x0A\x0Aremap: function [val in-lo in-hi out-lo out-hi] [\x0A  t: (val - in-lo) / (in-hi - in-lo)\x0A  lerp out-lo out-hi t\x0A]\x0A\x0A")}], counter: 2};
+var ConstSet1049 = setConstr(32, 9, 11, 13, 10, 12);
+var ConstSet1050 = setConstr(13);
 var ConstSet1051 = setConstr(23);
 var ConstSet1052 = setConstr(13);
 var ConstSet1053 = setConstr(23);
 var ConstSet1054 = setConstr(23);
-var ConstSet1055 = setConstr(23);
+var ConstSet1055 = setConstr(13);
 var ConstSet1056 = setConstr(23);
-var ConstSet1057 = setConstr(0);
-var ConstSet1058 = setConstr(13);
-var ConstSet1059 = setConstr(13);
-var ConstSet1060 = setConstr(23);
-var ConstSet1061 = setConstr(23);
-var ConstSet1062 = setConstr([48, 57]);
+var ConstSet1057 = setConstr(23);
+var ConstSet1058 = setConstr(23);
+var ConstSet1059 = setConstr(23);
+var ConstSet1060 = setConstr(0);
+var ConstSet1061 = setConstr(13);
+var ConstSet1062 = setConstr(13);
 var ConstSet1063 = setConstr(23);
 var ConstSet1064 = setConstr(23);
-var ConstSet1065 = setConstr(13);
+var ConstSet1065 = setConstr([48, 57]);
 var ConstSet1066 = setConstr(23);
 var ConstSet1067 = setConstr(23);
-var ConstSet1068 = setConstr(23);
+var ConstSet1068 = setConstr(13);
 var ConstSet1069 = setConstr(23);
 var ConstSet1070 = setConstr(23);
-var ConstSet1071 = setConstr(22);
-var ConstSet1072 = setConstr(1);
-var ConstSet1073 = setConstr(2);
-var ConstSet1074 = setConstr(2);
-var ConstSet1075 = setConstr(2);
-var ConstSet1076 = setConstr(5);
-var ConstSet1077 = setConstr(9);
-var ConstSet1078 = setConstr(9);
-var ConstSet1079 = setConstr(9);
-var ConstSet1080 = setConstr(0);
-var ConstSet1081 = setConstr(2);
-var ConstSet1082 = setConstr(2);
-var ConstSet1083 = setConstr(5);
-var ConstSet1084 = setConstr(23);
-var ConstSet1085 = setConstr(6);
-var ConstSet1086 = setConstr(6);
-var ConstSet1087 = setConstr(7);
-var ConstSet1088 = setConstr(0);
-var ConstSet1089 = setConstr(1);
-var ConstSet1090 = setConstr(2);
-var ConstSet1091 = setConstr(13);
-var ConstSet1092 = setConstr(0);
-var ConstSet1093 = setConstr(1);
+var ConstSet1071 = setConstr(23);
+var ConstSet1072 = setConstr(23);
+var ConstSet1073 = setConstr(23);
+var ConstSet1074 = setConstr(22);
+var ConstSet1075 = setConstr(1);
+var ConstSet1076 = setConstr(2);
+var ConstSet1077 = setConstr(2);
+var ConstSet1078 = setConstr(2);
+var ConstSet1079 = setConstr(5);
+var ConstSet1080 = setConstr(9);
+var ConstSet1081 = setConstr(9);
+var ConstSet1082 = setConstr(9);
+var ConstSet1083 = setConstr(0);
+var ConstSet1084 = setConstr(2);
+var ConstSet1085 = setConstr(2);
+var ConstSet1086 = setConstr(5);
+var ConstSet1087 = setConstr(23);
+var ConstSet1088 = setConstr(6);
+var ConstSet1089 = setConstr(6);
+var ConstSet1090 = setConstr(7);
+var ConstSet1091 = setConstr(0);
+var ConstSet1092 = setConstr(1);
+var ConstSet1093 = setConstr(2);
 var ConstSet1094 = setConstr(13);
-var ConstSet1095 = setConstr(13);
-var ConstSet1096 = setConstr(2);
-var ConstSet1097 = setConstr(2);
-var ConstSet1098 = setConstr(23);
+var ConstSet1095 = setConstr(0);
+var ConstSet1096 = setConstr(1);
+var ConstSet1097 = setConstr(13);
+var ConstSet1098 = setConstr(13);
 var ConstSet1099 = setConstr(2);
-var ConstSet1100 = setConstr(23);
-var ConstSet1101 = setConstr(2);
-var ConstSet1102 = setConstr(23);
-var ConstSet1103 = setConstr(2);
-var ConstSet1104 = setConstr(23);
-var ConstSet1105 = setConstr(2);
-var ConstSet1106 = setConstr(23);
-var ConstSet1107 = setConstr(2);
+var ConstSet1100 = setConstr(2);
+var ConstSet1101 = setConstr(23);
+var ConstSet1102 = setConstr(2);
+var ConstSet1103 = setConstr(23);
+var ConstSet1104 = setConstr(2);
+var ConstSet1105 = setConstr(23);
+var ConstSet1106 = setConstr(2);
+var ConstSet1107 = setConstr(23);
 var ConstSet1108 = setConstr(2);
-var ConstSet1109 = setConstr(0);
+var ConstSet1109 = setConstr(23);
 var ConstSet1110 = setConstr(2);
 var ConstSet1111 = setConstr(2);
-var ConstSet1112 = setConstr(2);
+var ConstSet1112 = setConstr(0);
 var ConstSet1113 = setConstr(2);
-var ConstSet1114 = setConstr(13);
-var ConstSet1115 = setConstr(13);
-var ConstSet1116 = setConstr(0);
+var ConstSet1114 = setConstr(2);
+var ConstSet1115 = setConstr(2);
+var ConstSet1116 = setConstr(2);
 var ConstSet1117 = setConstr(13);
 var ConstSet1118 = setConstr(13);
 var ConstSet1119 = setConstr(0);
@@ -2757,142 +2757,142 @@ var ConstSet1122 = setConstr(0);
 var ConstSet1123 = setConstr(13);
 var ConstSet1124 = setConstr(13);
 var ConstSet1125 = setConstr(0);
-var ConstSet1126 = setConstr(2);
-var ConstSet1127 = setConstr(2);
-var ConstSet1128 = setConstr(2);
+var ConstSet1126 = setConstr(13);
+var ConstSet1127 = setConstr(13);
+var ConstSet1128 = setConstr(0);
 var ConstSet1129 = setConstr(2);
-var ConstSet1130 = setConstr(13);
-var ConstSet1131 = setConstr(23);
-var ConstSet1132 = setConstr(23);
+var ConstSet1130 = setConstr(2);
+var ConstSet1131 = setConstr(2);
+var ConstSet1132 = setConstr(2);
 var ConstSet1133 = setConstr(13);
 var ConstSet1134 = setConstr(23);
 var ConstSet1135 = setConstr(23);
 var ConstSet1136 = setConstr(13);
-var ConstSet1137 = setConstr(13);
+var ConstSet1137 = setConstr(23);
 var ConstSet1138 = setConstr(23);
-var ConstSet1139 = setConstr(23);
-var ConstSet1140 = setConstr(23);
+var ConstSet1139 = setConstr(13);
+var ConstSet1140 = setConstr(13);
 var ConstSet1141 = setConstr(23);
 var ConstSet1142 = setConstr(23);
 var ConstSet1143 = setConstr(23);
-var ConstSet1144 = setConstr(22);
-var ConstSet1145 = setConstr(22);
-var ConstSet1146 = setConstr(22);
+var ConstSet1144 = setConstr(23);
+var ConstSet1145 = setConstr(23);
+var ConstSet1146 = setConstr(23);
 var ConstSet1147 = setConstr(22);
-var ConstSet1148 = setConstr(14);
-var ConstSet1149 = setConstr(13);
-var ConstSet1150 = setConstr(13);
-var ConstSet1151 = setConstr(13);
+var ConstSet1148 = setConstr(22);
+var ConstSet1149 = setConstr(22);
+var ConstSet1150 = setConstr(22);
+var ConstSet1151 = setConstr(14);
 var ConstSet1152 = setConstr(13);
 var ConstSet1153 = setConstr(13);
-var ConstSet1154 = setConstr(23);
-var ConstSet1155 = setConstr(23);
-var ConstSet1156 = setConstr(23);
+var ConstSet1154 = setConstr(13);
+var ConstSet1155 = setConstr(13);
+var ConstSet1156 = setConstr(13);
 var ConstSet1157 = setConstr(23);
-var ConstSet1158 = setConstr(13);
+var ConstSet1158 = setConstr(23);
 var ConstSet1159 = setConstr(23);
 var ConstSet1160 = setConstr(23);
 var ConstSet1161 = setConstr(13);
-var ConstSet1162 = setConstr(13);
-var ConstSet1163 = setConstr(13);
-var ConstSet1164 = setConstr(23);
-var ConstSet1165 = setConstr(23);
+var ConstSet1162 = setConstr(23);
+var ConstSet1163 = setConstr(23);
+var ConstSet1164 = setConstr(13);
+var ConstSet1165 = setConstr(13);
 var ConstSet1166 = setConstr(13);
-var ConstSet1167 = setConstr(13);
-var ConstSet1168 = setConstr(13);
-var ConstSet1169 = setConstr(23);
+var ConstSet1167 = setConstr(23);
+var ConstSet1168 = setConstr(23);
+var ConstSet1169 = setConstr(13);
 var ConstSet1170 = setConstr(13);
-var ConstSet1171 = setConstr(23);
-var ConstSet1172 = setConstr(13);
-var ConstSet1173 = setConstr(22);
-var ConstSet1174 = setConstr(13);
-var ConstSet1175 = setConstr(22);
-var ConstSet1176 = setConstr(13);
+var ConstSet1171 = setConstr(13);
+var ConstSet1172 = setConstr(23);
+var ConstSet1173 = setConstr(13);
+var ConstSet1174 = setConstr(23);
+var ConstSet1175 = setConstr(13);
+var ConstSet1176 = setConstr(22);
 var ConstSet1177 = setConstr(13);
-var ConstSet1178 = setConstr(13);
-var ConstSet1179 = setConstr(18);
-var ConstSet1180 = setConstr(18);
-var ConstSet1181 = setConstr(17);
+var ConstSet1178 = setConstr(22);
+var ConstSet1179 = setConstr(13);
+var ConstSet1180 = setConstr(13);
+var ConstSet1181 = setConstr(13);
 var ConstSet1182 = setConstr(18);
 var ConstSet1183 = setConstr(18);
-var ConstSet1184 = setConstr(18);
-var ConstSet1185 = setConstr(13);
-var ConstSet1186 = setConstr(13);
-var ConstSet1187 = setConstr(19);
-var ConstSet1188 = setConstr(23);
-var ConstSet1189 = setConstr(23);
-var ConstSet1190 = setConstr(13);
-var ConstSet1191 = setConstr(13);
-var ConstSet1192 = setConstr(13);
-var ConstSet1193 = setConstr(23);
-var ConstSet1194 = setConstr(23);
+var ConstSet1184 = setConstr(17);
+var ConstSet1185 = setConstr(18);
+var ConstSet1186 = setConstr(18);
+var ConstSet1187 = setConstr(18);
+var ConstSet1188 = setConstr(13);
+var ConstSet1189 = setConstr(13);
+var ConstSet1190 = setConstr(19);
+var ConstSet1191 = setConstr(23);
+var ConstSet1192 = setConstr(23);
+var ConstSet1193 = setConstr(13);
+var ConstSet1194 = setConstr(13);
 var ConstSet1195 = setConstr(13);
-var ConstSet1196 = setConstr(13);
-var ConstSet1197 = setConstr(0);
-var ConstSet1198 = setConstr(23);
+var ConstSet1196 = setConstr(23);
+var ConstSet1197 = setConstr(23);
+var ConstSet1198 = setConstr(13);
 var ConstSet1199 = setConstr(13);
-var ConstSet1200 = setConstr(5);
-var ConstSet1201 = setConstr(0);
-var ConstSet1202 = setConstr(3);
-var ConstSet1203 = setConstr(3);
-var ConstSet1204 = setConstr(4);
-var ConstSet1205 = setConstr(1);
-var ConstSet1206 = setConstr(2);
-var ConstSet1207 = setConstr(3);
-var ConstSet1208 = setConstr(3);
-var ConstSet1209 = setConstr(4);
-var ConstSet1210 = setConstr(2);
-var ConstSet1211 = setConstr(13);
-var ConstSet1212 = setConstr(23);
-var ConstSet1213 = setConstr(23);
-var ConstSet1214 = setConstr(2);
-var ConstSet1215 = setConstr(2);
-var ConstSet1216 = setConstr(2);
-var ConstSet1217 = setConstr(0);
-var ConstSet1218 = setConstr(0);
-var ConstSet1219 = setConstr(23);
-var ConstSet1220 = setConstr(23);
-var ConstSet1221 = setConstr(23);
-var ConstSet1222 = setConstr(13);
-var ConstSet1223 = setConstr(14);
-var ConstSet1224 = setConstr(22);
-var ConstSet1225 = setConstr(23);
-var ConstSet1226 = setConstr(23);
-var ConstSet1227 = setConstr(2);
-var ConstSet1228 = setConstr(13);
-var ConstSet1229 = setConstr(13);
-var ConstSet1230 = setConstr(13);
-var ConstSet1231 = setConstr([97, 122], [65, 90]);
-var ConstSet1232 = setConstr([48, 57]);
-var ConstSet1233 = setConstr([97, 122], [65, 90], [48, 57]);
-var ConstSet1234 = setConstr(32, 9, 10, 13);
-var ConstSet1235 = setConstr([65, 90]);
-var ConstSet1236 = setConstr([97, 122]);
-var ConstSet1237 = setConstr(23);
-var ConstSet1238 = setConstr(23);
-var ConstSet1239 = setConstr(23);
+var ConstSet1200 = setConstr(0);
+var ConstSet1201 = setConstr(23);
+var ConstSet1202 = setConstr(13);
+var ConstSet1203 = setConstr(5);
+var ConstSet1204 = setConstr(0);
+var ConstSet1205 = setConstr(3);
+var ConstSet1206 = setConstr(3);
+var ConstSet1207 = setConstr(4);
+var ConstSet1208 = setConstr(1);
+var ConstSet1209 = setConstr(2);
+var ConstSet1210 = setConstr(3);
+var ConstSet1211 = setConstr(3);
+var ConstSet1212 = setConstr(4);
+var ConstSet1213 = setConstr(2);
+var ConstSet1214 = setConstr(13);
+var ConstSet1215 = setConstr(23);
+var ConstSet1216 = setConstr(23);
+var ConstSet1217 = setConstr(2);
+var ConstSet1218 = setConstr(2);
+var ConstSet1219 = setConstr(2);
+var ConstSet1220 = setConstr(0);
+var ConstSet1221 = setConstr(0);
+var ConstSet1222 = setConstr(23);
+var ConstSet1223 = setConstr(23);
+var ConstSet1224 = setConstr(23);
+var ConstSet1225 = setConstr(13);
+var ConstSet1226 = setConstr(14);
+var ConstSet1227 = setConstr(22);
+var ConstSet1228 = setConstr(23);
+var ConstSet1229 = setConstr(23);
+var ConstSet1230 = setConstr(2);
+var ConstSet1231 = setConstr(13);
+var ConstSet1232 = setConstr(13);
+var ConstSet1233 = setConstr(13);
+var ConstSet1234 = setConstr([97, 122], [65, 90]);
+var ConstSet1235 = setConstr([48, 57]);
+var ConstSet1236 = setConstr([97, 122], [65, 90], [48, 57]);
+var ConstSet1237 = setConstr(32, 9, 10, 13);
+var ConstSet1238 = setConstr([65, 90]);
+var ConstSet1239 = setConstr([97, 122]);
 var ConstSet1240 = setConstr(23);
 var ConstSet1241 = setConstr(23);
-var ConstSet1242 = setConstr(0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12);
-var ConstSet1243 = setConstr(13);
+var ConstSet1242 = setConstr(23);
+var ConstSet1243 = setConstr(23);
 var ConstSet1244 = setConstr(23);
-var ConstSet1245 = setConstr(23);
-var ConstSet1246 = setConstr(23);
+var ConstSet1245 = setConstr(0, 1, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12);
+var ConstSet1246 = setConstr(13);
 var ConstSet1247 = setConstr(23);
 var ConstSet1248 = setConstr(23);
 var ConstSet1249 = setConstr(23);
-var ConstSet1250 = setConstr(17);
+var ConstSet1250 = setConstr(23);
 var ConstSet1251 = setConstr(23);
 var ConstSet1252 = setConstr(23);
-var ConstSet1253 = setConstr(13);
-var ConstSet1254 = setConstr(13);
+var ConstSet1253 = setConstr(17);
+var ConstSet1254 = setConstr(23);
 var ConstSet1255 = setConstr(23);
-var ConstSet1256 = setConstr(23);
+var ConstSet1256 = setConstr(13);
 var ConstSet1257 = setConstr(13);
-var ConstSet1258 = setConstr(13);
+var ConstSet1258 = setConstr(23);
 var ConstSet1259 = setConstr(23);
-var ConstSet1260 = setConstr(23);
-var ConstSet1261 = setConstr(23);
+var ConstSet1260 = setConstr(13);
+var ConstSet1261 = setConstr(13);
 var ConstSet1262 = setConstr(23);
 var ConstSet1263 = setConstr(23);
 var ConstSet1264 = setConstr(23);
@@ -2900,33 +2900,36 @@ var ConstSet1265 = setConstr(23);
 var ConstSet1266 = setConstr(23);
 var ConstSet1267 = setConstr(23);
 var ConstSet1268 = setConstr(23);
-var ConstSet1269 = setConstr(13);
+var ConstSet1269 = setConstr(23);
 var ConstSet1270 = setConstr(23);
 var ConstSet1271 = setConstr(23);
-var ConstSet1272 = setConstr(23);
+var ConstSet1272 = setConstr(13);
 var ConstSet1273 = setConstr(23);
 var ConstSet1274 = setConstr(23);
-var ConstSet1275 = setConstr(13);
+var ConstSet1275 = setConstr(23);
 var ConstSet1276 = setConstr(23);
 var ConstSet1277 = setConstr(23);
-var ConstSet1278 = setConstr(23);
+var ConstSet1278 = setConstr(13);
 var ConstSet1279 = setConstr(23);
 var ConstSet1280 = setConstr(23);
 var ConstSet1281 = setConstr(23);
-var ConstSet1282 = setConstr(13);
+var ConstSet1282 = setConstr(23);
 var ConstSet1283 = setConstr(23);
 var ConstSet1284 = setConstr(23);
 var ConstSet1285 = setConstr(13);
 var ConstSet1286 = setConstr(23);
 var ConstSet1287 = setConstr(23);
-var ConstSet1288 = setConstr(23);
+var ConstSet1288 = setConstr(13);
 var ConstSet1289 = setConstr(23);
 var ConstSet1290 = setConstr(23);
-var ConstSet1291 = setConstr(13);
+var ConstSet1291 = setConstr(23);
 var ConstSet1292 = setConstr(23);
 var ConstSet1293 = setConstr(23);
-var ConstSet1294 = setConstr(23);
-var ConstSet1295 = setConstr(13);
+var ConstSet1294 = setConstr(13);
+var ConstSet1295 = setConstr(23);
+var ConstSet1296 = setConstr(23);
+var ConstSet1297 = setConstr(23);
+var ConstSet1298 = setConstr(13);
 
 function cmpClosures(a_p0, b_p1) {
         if (a_p0 !== null && a_p0.ClP_0 !== undefined &&
@@ -2939,33 +2942,30 @@ function cmpClosures(a_p0, b_p1) {
 
   
 }
-var ConstSet1296 = setConstr(23);
-var ConstSet1297 = setConstr(23);
-var ConstSet1298 = setConstr(6);
-var ConstSet1299 = setConstr(6);
+var ConstSet1299 = setConstr(23);
 var ConstSet1300 = setConstr(23);
-var ConstSet1301 = setConstr(23);
-var ConstSet1302 = setConstr(23);
+var ConstSet1301 = setConstr(6);
+var ConstSet1302 = setConstr(6);
 var ConstSet1303 = setConstr(23);
 var ConstSet1304 = setConstr(23);
 var ConstSet1305 = setConstr(23);
 var ConstSet1306 = setConstr(23);
 var ConstSet1307 = setConstr(23);
 var ConstSet1308 = setConstr(23);
-var ConstSet1309 = setConstr(13);
-var ConstSet1310 = setConstr(14);
+var ConstSet1309 = setConstr(23);
+var ConstSet1310 = setConstr(23);
 var ConstSet1311 = setConstr(23);
-var ConstSet1312 = setConstr(23);
-var ConstSet1313 = setConstr(23);
+var ConstSet1312 = setConstr(13);
+var ConstSet1313 = setConstr(14);
 var ConstSet1314 = setConstr(23);
-var ConstSet1315 = setConstr(13);
-var ConstSet1316 = setConstr(14);
-var ConstSet1317 = setConstr(13);
+var ConstSet1315 = setConstr(23);
+var ConstSet1316 = setConstr(23);
+var ConstSet1317 = setConstr(23);
 var ConstSet1318 = setConstr(13);
-var ConstSet1319 = setConstr(13);
-var ConstSet1320 = setConstr(23);
-var ConstSet1321 = setConstr(23);
-var ConstSet1322 = setConstr(23);
+var ConstSet1319 = setConstr(14);
+var ConstSet1320 = setConstr(13);
+var ConstSet1321 = setConstr(13);
+var ConstSet1322 = setConstr(13);
 var ConstSet1323 = setConstr(23);
 var ConstSet1324 = setConstr(23);
 var ConstSet1325 = setConstr(23);
@@ -2974,10 +2974,10 @@ var ConstSet1327 = setConstr(23);
 var ConstSet1328 = setConstr(23);
 var ConstSet1329 = setConstr(23);
 var ConstSet1330 = setConstr(23);
-var ConstSet1331 = setConstr(13);
+var ConstSet1331 = setConstr(23);
 var ConstSet1332 = setConstr(23);
 var ConstSet1333 = setConstr(23);
-var ConstSet1334 = setConstr(23);
+var ConstSet1334 = setConstr(13);
 var ConstSet1335 = setConstr(23);
 var ConstSet1336 = setConstr(23);
 var ConstSet1337 = setConstr(23);
@@ -2985,87 +2985,87 @@ var ConstSet1338 = setConstr(23);
 var ConstSet1339 = setConstr(23);
 var ConstSet1340 = setConstr(23);
 var ConstSet1341 = setConstr(23);
-var ConstSet1342 = setConstr(13);
+var ConstSet1342 = setConstr(23);
 var ConstSet1343 = setConstr(23);
 var ConstSet1344 = setConstr(23);
-var ConstSet1345 = setConstr(23);
+var ConstSet1345 = setConstr(13);
 var ConstSet1346 = setConstr(23);
-var ConstSet1347 = setConstr(13);
-var ConstSet1348 = setConstr(14);
-var ConstSet1349 = setConstr(13);
+var ConstSet1347 = setConstr(23);
+var ConstSet1348 = setConstr(23);
+var ConstSet1349 = setConstr(23);
 var ConstSet1350 = setConstr(13);
-var ConstSet1351 = setConstr(23);
-var ConstSet1352 = setConstr(23);
+var ConstSet1351 = setConstr(14);
+var ConstSet1352 = setConstr(13);
 var ConstSet1353 = setConstr(13);
-var ConstSet1354 = setConstr(13);
+var ConstSet1354 = setConstr(23);
 var ConstSet1355 = setConstr(23);
-var ConstSet1356 = setConstr(23);
-var ConstSet1357 = setConstr(23);
+var ConstSet1356 = setConstr(13);
+var ConstSet1357 = setConstr(13);
 var ConstSet1358 = setConstr(23);
-var ConstSet1359 = setConstr(13);
-var ConstSet1360 = setConstr(14);
+var ConstSet1359 = setConstr(23);
+var ConstSet1360 = setConstr(23);
 var ConstSet1361 = setConstr(23);
 var ConstSet1362 = setConstr(13);
-var ConstSet1363 = setConstr(13);
+var ConstSet1363 = setConstr(14);
 var ConstSet1364 = setConstr(23);
-var ConstSet1365 = setConstr(23);
-var ConstSet1366 = setConstr(23);
-var ConstSet1367 = setConstr(13);
-var ConstSet1368 = setConstr(14);
-var ConstSet1369 = setConstr(13);
-var ConstSet1370 = setConstr(23);
-var ConstSet1371 = setConstr(23);
-var ConstSet1372 = setConstr(23);
+var ConstSet1365 = setConstr(13);
+var ConstSet1366 = setConstr(13);
+var ConstSet1367 = setConstr(23);
+var ConstSet1368 = setConstr(23);
+var ConstSet1369 = setConstr(23);
+var ConstSet1370 = setConstr(13);
+var ConstSet1371 = setConstr(14);
+var ConstSet1372 = setConstr(13);
 var ConstSet1373 = setConstr(23);
-var ConstSet1374 = setConstr(13);
+var ConstSet1374 = setConstr(23);
 var ConstSet1375 = setConstr(23);
 var ConstSet1376 = setConstr(23);
-var ConstSet1377 = setConstr(23);
+var ConstSet1377 = setConstr(13);
 var ConstSet1378 = setConstr(23);
 var ConstSet1379 = setConstr(23);
-var ConstSet1380 = setConstr(0, 2, 3);
+var ConstSet1380 = setConstr(23);
 var ConstSet1381 = setConstr(23);
 var ConstSet1382 = setConstr(23);
-var ConstSet1383 = setConstr(13);
-var ConstSet1384 = setConstr(14);
-var ConstSet1385 = setConstr(13);
-var ConstSet1386 = setConstr(23);
-var ConstSet1387 = setConstr(23);
+var ConstSet1383 = setConstr(0, 2, 3);
+var ConstSet1384 = setConstr(23);
+var ConstSet1385 = setConstr(23);
+var ConstSet1386 = setConstr(13);
+var ConstSet1387 = setConstr(14);
 var ConstSet1388 = setConstr(13);
 var ConstSet1389 = setConstr(23);
 var ConstSet1390 = setConstr(23);
-var ConstSet1391 = setConstr(23);
+var ConstSet1391 = setConstr(13);
 var ConstSet1392 = setConstr(23);
-var ConstSet1393 = setConstr(17);
+var ConstSet1393 = setConstr(23);
 var ConstSet1394 = setConstr(23);
 var ConstSet1395 = setConstr(23);
-var ConstSet1396 = setConstr(23);
+var ConstSet1396 = setConstr(17);
 var ConstSet1397 = setConstr(23);
 var ConstSet1398 = setConstr(23);
 var ConstSet1399 = setConstr(23);
 var ConstSet1400 = setConstr(23);
-var ConstSet1401 = setConstr(2);
+var ConstSet1401 = setConstr(23);
 var ConstSet1402 = setConstr(23);
 var ConstSet1403 = setConstr(23);
-var ConstSet1404 = setConstr(0);
-var ConstSet1405 = setConstr(0);
-var ConstSet1406 = setConstr(13);
-var ConstSet1407 = setConstr(23);
-var ConstSet1408 = setConstr(23);
-var ConstSet1409 = setConstr(23);
+var ConstSet1404 = setConstr(2);
+var ConstSet1405 = setConstr(23);
+var ConstSet1406 = setConstr(23);
+var ConstSet1407 = setConstr(0);
+var ConstSet1408 = setConstr(0);
+var ConstSet1409 = setConstr(13);
 var ConstSet1410 = setConstr(23);
-var ConstSet1411 = setConstr(13);
-var ConstSet1412 = setConstr(13);
+var ConstSet1411 = setConstr(23);
+var ConstSet1412 = setConstr(23);
 var ConstSet1413 = setConstr(23);
-var ConstSet1414 = setConstr(23);
+var ConstSet1414 = setConstr(13);
 var ConstSet1415 = setConstr(13);
-var ConstSet1416 = setConstr(13);
-var ConstSet1417 = setConstr(21);
-var ConstSet1418 = setConstr(23);
-var ConstSet1419 = setConstr(23);
-var ConstSet1420 = setConstr(23);
+var ConstSet1416 = setConstr(23);
+var ConstSet1417 = setConstr(23);
+var ConstSet1418 = setConstr(13);
+var ConstSet1419 = setConstr(13);
+var ConstSet1420 = setConstr(21);
 var ConstSet1421 = setConstr(23);
-var ConstSet1422 = setConstr(13);
+var ConstSet1422 = setConstr(23);
 var ConstSet1423 = setConstr(23);
 var ConstSet1424 = setConstr(23);
 var ConstSet1425 = setConstr(13);
@@ -3078,22 +3078,22 @@ var ConstSet1431 = setConstr(13);
 var ConstSet1432 = setConstr(23);
 var ConstSet1433 = setConstr(23);
 var ConstSet1434 = setConstr(13);
-var ConstSet1435 = setConstr(22);
+var ConstSet1435 = setConstr(23);
 var ConstSet1436 = setConstr(23);
-var ConstSet1437 = setConstr(23);
-var ConstSet1438 = setConstr(13);
+var ConstSet1437 = setConstr(13);
+var ConstSet1438 = setConstr(22);
 var ConstSet1439 = setConstr(23);
-var ConstSet1440 = setConstr(13);
-var ConstSet1441 = setConstr(22);
+var ConstSet1440 = setConstr(23);
+var ConstSet1441 = setConstr(13);
 var ConstSet1442 = setConstr(23);
-var ConstSet1443 = setConstr(23);
-var ConstSet1444 = setConstr(23);
+var ConstSet1443 = setConstr(13);
+var ConstSet1444 = setConstr(22);
 var ConstSet1445 = setConstr(23);
 var ConstSet1446 = setConstr(23);
-var ConstSet1447 = setConstr(10, 2);
+var ConstSet1447 = setConstr(23);
 var ConstSet1448 = setConstr(23);
 var ConstSet1449 = setConstr(23);
-var ConstSet1450 = setConstr(23);
+var ConstSet1450 = setConstr(10, 2);
 var ConstSet1451 = setConstr(23);
 var ConstSet1452 = setConstr(23);
 var ConstSet1453 = setConstr(23);
@@ -3101,24 +3101,24 @@ var ConstSet1454 = setConstr(23);
 var ConstSet1455 = setConstr(23);
 var ConstSet1456 = setConstr(23);
 var ConstSet1457 = setConstr(23);
-var ConstSet1458 = setConstr(13);
+var ConstSet1458 = setConstr(23);
 var ConstSet1459 = setConstr(23);
 var ConstSet1460 = setConstr(23);
 var ConstSet1461 = setConstr(13);
 var ConstSet1462 = setConstr(23);
 var ConstSet1463 = setConstr(23);
 var ConstSet1464 = setConstr(13);
-var ConstSet1465 = setConstr(13);
+var ConstSet1465 = setConstr(23);
 var ConstSet1466 = setConstr(23);
-var ConstSet1467 = setConstr(23);
-var ConstSet1468 = setConstr(22);
-var ConstSet1469 = setConstr(13);
-var ConstSet1470 = setConstr(14);
-var ConstSet1471 = setConstr(23);
-var ConstSet1472 = setConstr(23);
-var ConstSet1473 = setConstr(32, 9, 11, 13, 10, 12);
-var ConstSet1474 = setConstr(32, 9, 11, 13, 10, 12);
-var ConstSet1475 = setConstr(32, 9, 11, 13, 10, 12);
+var ConstSet1467 = setConstr(13);
+var ConstSet1468 = setConstr(13);
+var ConstSet1469 = setConstr(23);
+var ConstSet1470 = setConstr(23);
+var ConstSet1471 = setConstr(22);
+var ConstSet1472 = setConstr(13);
+var ConstSet1473 = setConstr(14);
+var ConstSet1474 = setConstr(23);
+var ConstSet1475 = setConstr(23);
 var ConstSet1476 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet1477 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet1478 = setConstr(32, 9, 11, 13, 10, 12);
@@ -3133,25 +3133,28 @@ var ConstSet1486 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet1487 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet1488 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet1489 = setConstr(32, 9, 11, 13, 10, 12);
-var ConstSet1490 = setConstr(23);
-var ConstSet1491 = setConstr(13);
-var ConstSet1492 = setConstr(23);
+var ConstSet1490 = setConstr(32, 9, 11, 13, 10, 12);
+var ConstSet1491 = setConstr(32, 9, 11, 13, 10, 12);
+var ConstSet1492 = setConstr(32, 9, 11, 13, 10, 12);
 var ConstSet1493 = setConstr(23);
-var ConstSet1494 = setConstr(23);
+var ConstSet1494 = setConstr(13);
 var ConstSet1495 = setConstr(23);
 var ConstSet1496 = setConstr(23);
 var ConstSet1497 = setConstr(23);
 var ConstSet1498 = setConstr(23);
 var ConstSet1499 = setConstr(23);
-var ConstSet1500 = setConstr(13);
+var ConstSet1500 = setConstr(23);
 var ConstSet1501 = setConstr(23);
-var ConstSet1502 = setConstr(13);
-var ConstSet1503 = setConstr(13, 2);
-var ConstSet1504 = setConstr(13);
-var ConstSet1505 = setConstr(2);
-var ConstSet1506 = setConstr(0);
-var ConstSet1507 = setConstr(0);
-var ConstSet1508 = setConstr(0);
+var ConstSet1502 = setConstr(23);
+var ConstSet1503 = setConstr(13);
+var ConstSet1504 = setConstr(23);
+var ConstSet1505 = setConstr(13);
+var ConstSet1506 = setConstr(13, 2);
+var ConstSet1507 = setConstr(13);
+var ConstSet1508 = setConstr(2);
+var ConstSet1509 = setConstr(0);
+var ConstSet1510 = setConstr(0);
+var ConstSet1511 = setConstr(0);
 var objectID_738197682 = [0];
 var currentEvaluator_1258291330 = [null];
 
@@ -5349,25 +5352,25 @@ function rawGet__evalZstdlib95registry_u196(t_p0, key_p1, hc_p2, hc_p2_Idx) {
 
 }
 
-function hasKey__evalZevaluator_u4233(t_p0, key_p1) {
-  var result_1275072654 = false;
+function hasKey__evalZevaluator_u4250(t_p0, key_p1) {
+  var result_1275072671 = false;
 
-    var hc_1275072655 = [0];
-    result_1275072654 = (0 <= rawGet__evalZstdlib95registry_u196(t_p0, key_p1, hc_1275072655, 0));
+    var hc_1275072672 = [0];
+    result_1275072671 = (0 <= rawGet__evalZstdlib95registry_u196(t_p0, key_p1, hc_1275072672, 0));
 
-  return result_1275072654;
+  return result_1275072671;
 
 }
 
-function contains__evalZevaluator_u4212(t_p0, key_p1) {
-  var result_1275072633 = false;
+function contains__evalZevaluator_u4229(t_p0, key_p1) {
+  var result_1275072650 = false;
 
   BeforeRet: {
-    result_1275072633 = hasKey__evalZevaluator_u4233(t_p0, key_p1);
+    result_1275072650 = hasKey__evalZevaluator_u4250(t_p0, key_p1);
     break BeforeRet;
   };
 
-  return result_1275072633;
+  return result_1275072650;
 
 }
 
@@ -5718,7 +5721,7 @@ function resolvedName__emitZlua_u2986(e_p0, name_p1) {
 
   var result_1627392941 = [];
 
-    if (contains__evalZevaluator_u4212(e_p0.nameMap, name_p1)) {
+    if (contains__evalZevaluator_u4229(e_p0.nameMap, name_p1)) {
     Temporary1 = HEX5BHEX5D__evalZstdlib95registry_u2725(e_p0.nameMap, name_p1);
     }
     else {
@@ -6896,7 +6899,7 @@ function inferSeqType__emitZlua_u3154(e_p0, vals_p1, pos_p2) {
       break BeforeRet;
       }
       
-      if (contains__evalZevaluator_u4212(e_p0.funcReturnTypes, name_1627402258)) {
+      if (contains__evalZevaluator_u4229(e_p0.funcReturnTypes, name_1627402258)) {
       var rt_1627402850 = nimCopy(null, HEX5BHEX5D__evalZstdlib95registry_u2725(e_p0.funcReturnTypes, name_1627402258), NTI33554449);
       if (eqStrings(rt_1627402850, [115,116,114,105,110,103,33])) {
       result_1627402248 = 1;
@@ -9486,7 +9489,7 @@ function isFieldSafeForConcat__emitZlua_u339(e_p0, varName_p1, fieldName_p2) {
 
   BeforeRet: {
     var kebabVar_1627390296 = nsuReplaceStr(varName_p1, [95], [45]);
-    if (contains__evalZevaluator_u4212(e_p0.varTypes, kebabVar_1627390296)) {
+    if (contains__evalZevaluator_u4229(e_p0.varTypes, kebabVar_1627390296)) {
     var typeName_1627390409 = nimCopy(null, HEX5BHEX5D__evalZstdlib95registry_u2725(e_p0.varTypes, kebabVar_1627390296), NTI33554449);
     if (contains__emitZlua_u507(e_p0.objectFields, typeName_1627390409)) {
     Label1: {
@@ -10105,7 +10108,7 @@ function emitBlock__emitZlua_u3111(e_p0, vals_p1, asReturn_p2) {
                 if (ConstSet160[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
                 Temporary64 = (Temporary65.wordKind == 0);              }              if (!Temporary64) Temporary63 = false; else {                var Temporary66 = val_1627409637;
                 if (ConstSet161[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
-                Temporary63 = contains__evalZevaluator_u4212(e_p0.nameMap, Temporary66.wordName);              }              if (!Temporary63) Temporary62 = false; else {                var Temporary67 = val_1627409637;
+                Temporary63 = contains__evalZevaluator_u4229(e_p0.nameMap, Temporary66.wordName);              }              if (!Temporary63) Temporary62 = false; else {                var Temporary67 = val_1627409637;
                 if (ConstSet162[Temporary67.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary67.kind, NTI704643076)); }
                 Temporary62 = !(contains__stdZenumutils_u50([[105,102], [101,105,116,104,101,114], [117,110,108,101,115,115], [108,111,111,112], [109,97,116,99,104], [112,114,105,110,116], [114,101,116,117,114,110], [98,114,101,97,107], [101,114,114,111,114], [116,114,121]], Temporary67.wordName));              }              if (!Temporary62) Temporary61 = false; else {                var Temporary68 = val_1627409637;
                 if (ConstSet163[Temporary68.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary68.kind, NTI704643076)); }
@@ -10207,7 +10210,7 @@ function emitBlock__emitZlua_u3111(e_p0, vals_p1, asReturn_p2) {
             if (ConstSet170[Temporary87.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary87.kind, NTI704643076)); }
             var rawName_1627410775 = nimCopy(null, Temporary87.wordName, NTI33554449);
             var isPath_1627410780 = contains__evalZevaluator_u1123(rawName_1627410775, 47);
-            var isBound_1627410835 = contains__evalZevaluator_u4212(e_p0.nameMap, rawName_1627410775);
+            var isBound_1627410835 = contains__evalZevaluator_u4229(e_p0.nameMap, rawName_1627410775);
             if (isBound_1627410835) {
             Temporary88 = (Temporary89 = HEX5BHEX5D__emitZlua_u9821(e_p0.nameMap, rawName_1627410775), Temporary89)[0][Temporary89[1]];
             }
@@ -10582,7 +10585,7 @@ function emitBlock__emitZlua_u3111(e_p0, vals_p1, asReturn_p2) {
                 if (ConstSet258[Temporary152.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary152.kind, NTI704643076)); }
                 Temporary151 = (Temporary152.wordKind == 0);              }              if (!Temporary151) Temporary150 = false; else {                var Temporary153 = vals_p1[chckIndx(pos_1627409633[0], 0, (vals_p1).length - 1)];
                 if (ConstSet259[Temporary153.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary153.kind, NTI704643076)); }
-                Temporary150 = contains__evalZevaluator_u4212(e_p0.funcReturnTypes, Temporary153.wordName);              }              if (!Temporary150) Temporary149 = false; else {                var Temporary154 = vals_p1[chckIndx(pos_1627409633[0], 0, (vals_p1).length - 1)];
+                Temporary150 = contains__evalZevaluator_u4229(e_p0.funcReturnTypes, Temporary153.wordName);              }              if (!Temporary150) Temporary149 = false; else {                var Temporary154 = vals_p1[chckIndx(pos_1627409633[0], 0, (vals_p1).length - 1)];
                 if (ConstSet260[Temporary154.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary154.kind, NTI704643076)); }
                 Temporary149 = contains__stdZenumutils_u50(SafeConcatTypes_1627390290, (Temporary155 = HEX5BHEX5D__emitZlua_u9821(e_p0.funcReturnTypes, Temporary154.wordName), Temporary155)[0][Temporary155[1]]);              }            if (Temporary149) {
             incl__evalZstdlib95registry_u1530(e_p0.concatSafeVars, name_1627410894);
@@ -12838,7 +12841,7 @@ function emitExpr__emitZlua_u3102(e_p0, vals_p1, pos_p2, pos_p2_Idx, primary_p3)
                   if (ConstSet353[Temporary114.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary114.kind, NTI704643076)); }
                   Temporary113 = (Temporary114.wordKind == 0);                }                if (!Temporary113) Temporary112 = false; else {                  var Temporary115 = pvals_1627407561[chckIndx(0, 0, (pvals_1627407561).length - 1)];
                   if (ConstSet354[Temporary115.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary115.kind, NTI704643076)); }
-                  Temporary112 = contains__evalZevaluator_u4212(e_p0.funcReturnTypes, Temporary115.wordName);                }                if (!Temporary112) Temporary111 = false; else {                  var Temporary116 = pvals_1627407561[chckIndx(0, 0, (pvals_1627407561).length - 1)];
+                  Temporary112 = contains__evalZevaluator_u4229(e_p0.funcReturnTypes, Temporary115.wordName);                }                if (!Temporary112) Temporary111 = false; else {                  var Temporary116 = pvals_1627407561[chckIndx(0, 0, (pvals_1627407561).length - 1)];
                   if (ConstSet355[Temporary116.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary116.kind, NTI704643076)); }
                   Temporary111 = contains__stdZenumutils_u50(SafeConcatTypes_1627390290, (Temporary117 = HEX5BHEX5D__emitZlua_u9821(e_p0.funcReturnTypes, Temporary116.wordName), Temporary117)[0][Temporary117[1]]);                }              if (Temporary111) {
               fieldSafe_1627407482 = true;
@@ -14874,7 +14877,7 @@ function HEX3Aanonymous__emitZlua_u9321(e_p0, vals_p1, pos_p2, pos_p2_Idx) {
           Label14: while (true) {
           if (!(i_1627419788 < L_1627419789)) break Label14;
             field_1627399665 = fields_1627399574[chckIndx(i_1627419788, 0, (fields_1627399574).length - 1)];
-            if (contains__evalZevaluator_u4212(overrideMap_1627399591[0], field_1627399665.Field0)) {
+            if (contains__evalZevaluator_u4229(overrideMap_1627399591[0], field_1627399665.Field0)) {
             parts_1627399661.push((field_1627399665.Field0).concat([32,61,32],(Temporary15 = HEX5BHEX5D__emitZlua_u9821(overrideMap_1627399591[0], field_1627399665.Field0), Temporary15)[0][Temporary15[1]]));;
             }
             else {
@@ -18635,15 +18638,15 @@ function applyInfix__evalZevaluator_u603(eval_p0, result_p1, result_p1_Idx, vals
   
 }
 
-function pop__evalZevaluator_u3288(s_p0, s_p0_Idx) {
-  var result_1275071707 = ({name: [], file: [], line: 0});
+function pop__evalZevaluator_u3305(s_p0, s_p0_Idx) {
+  var result_1275071724 = ({name: [], file: [], line: 0});
 
-    var L_1275071711 = subInt((s_p0[s_p0_Idx]).length, 1);
-    result_1275071707 = nimCopy(result_1275071707, s_p0[s_p0_Idx][chckIndx(L_1275071711, 0, (s_p0[s_p0_Idx]).length - 1)], NTI704643088);
-    if (s_p0[s_p0_Idx].length < chckRange(L_1275071711, 0, 2147483647)) { for (var i = s_p0[s_p0_Idx].length ; i < chckRange(L_1275071711, 0, 2147483647) ; ++i) s_p0[s_p0_Idx].push(({name: [], file: [], line: 0})); }
-               else { s_p0[s_p0_Idx].length = chckRange(L_1275071711, 0, 2147483647); };
+    var L_1275071728 = subInt((s_p0[s_p0_Idx]).length, 1);
+    result_1275071724 = nimCopy(result_1275071724, s_p0[s_p0_Idx][chckIndx(L_1275071728, 0, (s_p0[s_p0_Idx]).length - 1)], NTI704643088);
+    if (s_p0[s_p0_Idx].length < chckRange(L_1275071728, 0, 2147483647)) { for (var i = s_p0[s_p0_Idx].length ; i < chckRange(L_1275071728, 0, 2147483647) ; ++i) s_p0[s_p0_Idx].push(({name: [], file: [], line: 0})); }
+               else { s_p0[s_p0_Idx].length = chckRange(L_1275071728, 0, 2147483647); };
 
-  return result_1275071707;
+  return result_1275071724;
 
 }
 
@@ -18682,16 +18685,16 @@ function has__coreZtypes_u2880(ctx_p0, name_p1) {
 function typeMatchesBuiltin__evalZevaluator_u2510(actual_p0, expected_p1) {
     var Temporary1;
 
-  var result_1275071100 = false;
+  var result_1275071117 = false;
 
   BeforeRet: {
     if (eqStrings(expected_p1, actual_p0)) {
-    result_1275071100 = true;
+    result_1275071117 = true;
     break BeforeRet;
     }
     
     if (eqStrings(expected_p1, [97,110,121,45,116,121,112,101,33])) {
-    result_1275071100 = true;
+    result_1275071117 = true;
     break BeforeRet;
     }
     
@@ -18712,10 +18715,10 @@ function typeMatchesBuiltin__evalZevaluator_u2510(actual_p0, expected_p1) {
       Temporary1 = false;
       break;
     }
-    result_1275071100 = Temporary1;
+    result_1275071117 = Temporary1;
   };
 
-  return result_1275071100;
+  return result_1275071117;
 
 }
 
@@ -18752,6 +18755,9 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
                 var Temporary44;
                 var Temporary45;
             var Temporary49;
+            var Temporary54;
+            var Temporary55;
+            var Temporary56;
 
   var result_1275070934 = false;
 
@@ -18988,7 +18994,13 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             var guardCtx_1275071085 = child__coreZtypes_u2943(ctx_p3);
             set__coreZtypes_u1354(guardCtx_1275071085, [105,116], value_p1);
             var guardResult_1275071086 = evalBlock__evalZevaluator_u66(eval_p0, ct_p2.guard, guardCtx_1275071085);
-            result_1275070934 = isTruthy__coreZtypes_u3184(guardResult_1275071086);
+            if (!((guardResult_1275071086.kind == 3))) {
+            raiseException({kind: [116,121,112,101], message: ([119,104,101,114,101,32,103,117,97,114,100,32,109,117,115,116,32,114,101,116,117,114,110,32,108,111,103,105,99,33,44,32,103,111,116,32]).concat(typeName__coreZtypes_u3187(guardResult_1275071086)), data: guardResult_1275071086, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+            }
+            
+            var Temporary54 = guardResult_1275071086;
+            if (ConstSet628[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'boolVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
+            result_1275070934 = Temporary54.boolVal;
             break BeforeRet;
             }
             
@@ -18998,10 +19010,35 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             
             if (typeMatchesBuiltin__evalZevaluator_u2510(actual_1275071077, tn_1275071081)) {
             if ((0 < (ct_p2.guard).length)) {
-            var guardCtx_1275071090 = child__coreZtypes_u2943(ctx_p3);
-            set__coreZtypes_u1354(guardCtx_1275071090, [105,116], value_p1);
-            var guardResult_1275071091 = evalBlock__evalZevaluator_u66(eval_p0, ct_p2.guard, guardCtx_1275071090);
-            result_1275070934 = isTruthy__coreZtypes_u3184(guardResult_1275071091);
+            var guardCtx_1275071094 = child__coreZtypes_u2943(ctx_p3);
+            set__coreZtypes_u1354(guardCtx_1275071094, [105,116], value_p1);
+            var guardResult_1275071095 = evalBlock__evalZevaluator_u66(eval_p0, ct_p2.guard, guardCtx_1275071094);
+            if (!((guardResult_1275071095.kind == 3))) {
+            raiseException({kind: [116,121,112,101], message: ([119,104,101,114,101,32,103,117,97,114,100,32,109,117,115,116,32,114,101,116,117,114,110,32,108,111,103,105,99,33,44,32,103,111,116,32]).concat(typeName__coreZtypes_u3187(guardResult_1275071095)), data: guardResult_1275071095, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+            }
+            
+            var Temporary55 = guardResult_1275071095;
+            if (ConstSet629[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'boolVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
+            result_1275070934 = Temporary55.boolVal;
+            break BeforeRet;
+            }
+            
+            result_1275070934 = true;
+            break BeforeRet;
+            }
+            
+            if (matchesCustomTypeByName__evalZevaluator_u2505(eval_p0, value_p1, tn_1275071081, ctx_p3)) {
+            if ((0 < (ct_p2.guard).length)) {
+            var guardCtx_1275071103 = child__coreZtypes_u2943(ctx_p3);
+            set__coreZtypes_u1354(guardCtx_1275071103, [105,116], value_p1);
+            var guardResult_1275071104 = evalBlock__evalZevaluator_u66(eval_p0, ct_p2.guard, guardCtx_1275071103);
+            if (!((guardResult_1275071104.kind == 3))) {
+            raiseException({kind: [116,121,112,101], message: ([119,104,101,114,101,32,103,117,97,114,100,32,109,117,115,116,32,114,101,116,117,114,110,32,108,111,103,105,99,33,44,32,103,111,116,32]).concat(typeName__coreZtypes_u3187(guardResult_1275071104)), data: guardResult_1275071104, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+            }
+            
+            var Temporary56 = guardResult_1275071104;
+            if (ConstSet630[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'boolVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
+            result_1275070934 = Temporary56.boolVal;
             break BeforeRet;
             }
             
@@ -19022,10 +19059,10 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
     }
     
     if ((0 < (ct_p2.guard).length)) {
-    var guardCtx_1275071095 = child__coreZtypes_u2943(ctx_p3);
-    set__coreZtypes_u1354(guardCtx_1275071095, [105,116], value_p1);
-    var guardResult_1275071096 = evalBlock__evalZevaluator_u66(eval_p0, ct_p2.guard, guardCtx_1275071095);
-    result_1275070934 = isTruthy__coreZtypes_u3184(guardResult_1275071096);
+    var guardCtx_1275071112 = child__coreZtypes_u2943(ctx_p3);
+    set__coreZtypes_u1354(guardCtx_1275071112, [105,116], value_p1);
+    var guardResult_1275071113 = evalBlock__evalZevaluator_u66(eval_p0, ct_p2.guard, guardCtx_1275071112);
+    result_1275070934 = isTruthy__coreZtypes_u3184(guardResult_1275071113);
     break BeforeRet;
     }
     
@@ -19041,13 +19078,13 @@ function matchesCustomTypeByName__evalZevaluator_u2505(eval_p0, value_p1, typeNa
     var Temporary2;
       var Temporary3;
 
-  var result_1275071350 = false;
+  var result_1275071367 = false;
 
   BeforeRet: {
     if (has__coreZtypes_u2880(ctx_p3, typeName_p2)) {
-    var typeVal_1275071351 = get__coreZtypes_u563(ctx_p3, typeName_p2);
-    if (!((typeVal_1275071351.customType == null))) {
-    result_1275071350 = matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, typeVal_1275071351.customType, ctx_p3);
+    var typeVal_1275071368 = get__coreZtypes_u563(ctx_p3, typeName_p2);
+    if (!((typeVal_1275071368.customType == null))) {
+    result_1275071367 = matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, typeVal_1275071368.customType, ctx_p3);
     break BeforeRet;
     }
     
@@ -19060,68 +19097,68 @@ function matchesCustomTypeByName__evalZevaluator_u2505(eval_p0, value_p1, typeNa
     Temporary1 = typeName_p2;
     }
     
-    var baseName_1275071374 = nimCopy(null, Temporary1, NTI33554449);
-    var predicateName_1275071375 = (baseName_1275071374).concat([63]);
-    if (has__coreZtypes_u2880(ctx_p3, predicateName_1275071375)) {
-    var predFn_1275071376 = get__coreZtypes_u563(ctx_p3, predicateName_1275071375);
-    if ((ConstSet628[predFn_1275071376.kind] != undefined)) {
-    var args_1275071385 = [value_p1];
-    var pos_1275071386 = [0];
-    var res_1275071387 = callCallable__evalZevaluator_u75(eval_p0, predFn_1275071376, args_1275071385, pos_1275071386, 0, ctx_p3, null);
-    if (!(res_1275071387.kind == 3)) Temporary2 = false; else {      var Temporary3 = res_1275071387;
-      if (ConstSet629[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'boolVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
-      Temporary2 = Temporary3.boolVal;    }    result_1275071350 = Temporary2;
+    var baseName_1275071391 = nimCopy(null, Temporary1, NTI33554449);
+    var predicateName_1275071392 = (baseName_1275071391).concat([63]);
+    if (has__coreZtypes_u2880(ctx_p3, predicateName_1275071392)) {
+    var predFn_1275071393 = get__coreZtypes_u563(ctx_p3, predicateName_1275071392);
+    if ((ConstSet631[predFn_1275071393.kind] != undefined)) {
+    var args_1275071402 = [value_p1];
+    var pos_1275071403 = [0];
+    var res_1275071404 = callCallable__evalZevaluator_u75(eval_p0, predFn_1275071393, args_1275071402, pos_1275071403, 0, ctx_p3, null);
+    if (!(res_1275071404.kind == 3)) Temporary2 = false; else {      var Temporary3 = res_1275071404;
+      if (ConstSet632[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'boolVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      Temporary2 = Temporary3.boolVal;    }    result_1275071367 = Temporary2;
     break BeforeRet;
     }
     
     }
     
-    result_1275071350 = false;
+    result_1275071367 = false;
   };
 
-  return result_1275071350;
+  return result_1275071367;
 
 }
 
 function typeMatches__evalZevaluator_u1090(eval_p0, actual_p1, expected_p2, value_p3, ctx_p4) {
-  var result_1275071398 = false;
+  var result_1275071415 = false;
 
   BeforeRet: {
     if (eqStrings(expected_p2, actual_p1)) {
-    result_1275071398 = true;
+    result_1275071415 = true;
     break BeforeRet;
     }
     
     if (eqStrings(expected_p2, [97,110,121,45,116,121,112,101,33])) {
-    result_1275071398 = true;
+    result_1275071415 = true;
     break BeforeRet;
     }
     
     switch (toJSStr(expected_p2)) {
     case "number!":
-      result_1275071398 = contains__stdZenumutils_u50([[105,110,116,101,103,101,114,33], [102,108,111,97,116,33]], actual_p1);
+      result_1275071415 = contains__stdZenumutils_u50([[105,110,116,101,103,101,114,33], [102,108,111,97,116,33]], actual_p1);
       break BeforeRet;
       break;
     case "any-word!":
-      result_1275071398 = contains__stdZenumutils_u50([[119,111,114,100,33], [115,101,116,45,119,111,114,100,33], [103,101,116,45,119,111,114,100,33], [108,105,116,45,119,111,114,100,33], [109,101,116,97,45,119,111,114,100,33]], actual_p1);
+      result_1275071415 = contains__stdZenumutils_u50([[119,111,114,100,33], [115,101,116,45,119,111,114,100,33], [103,101,116,45,119,111,114,100,33], [108,105,116,45,119,111,114,100,33], [109,101,116,97,45,119,111,114,100,33]], actual_p1);
       break BeforeRet;
       break;
     case "scalar!":
-      result_1275071398 = contains__stdZenumutils_u50([[105,110,116,101,103,101,114,33], [102,108,111,97,116,33], [109,111,110,101,121,33], [100,97,116,101,33], [116,105,109,101,33], [112,97,105,114,33], [116,117,112,108,101,33]], actual_p1);
+      result_1275071415 = contains__stdZenumutils_u50([[105,110,116,101,103,101,114,33], [102,108,111,97,116,33], [109,111,110,101,121,33], [100,97,116,101,33], [116,105,109,101,33], [112,97,105,114,33], [116,117,112,108,101,33]], actual_p1);
       break BeforeRet;
       break;
     case "any-block!":
-      result_1275071398 = contains__stdZenumutils_u50([[98,108,111,99,107,33], [112,97,114,101,110,33], [112,97,116,104,33]], actual_p1);
+      result_1275071415 = contains__stdZenumutils_u50([[98,108,111,99,107,33], [112,97,114,101,110,33], [112,97,116,104,33]], actual_p1);
       break BeforeRet;
       break;
     default: 
-      result_1275071398 = matchesCustomTypeByName__evalZevaluator_u2505(eval_p0, value_p3, expected_p2, ctx_p4);
+      result_1275071415 = matchesCustomTypeByName__evalZevaluator_u2505(eval_p0, value_p3, expected_p2, ctx_p4);
       break BeforeRet;
       break;
     }
   };
 
-  return result_1275071398;
+  return result_1275071415;
 
 }
 
@@ -19130,59 +19167,59 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       var Temporary12;
                 var Temporary20;
 
-  var result_1275071618 = null;
+  var result_1275071635 = null;
 
   BeforeRet: {
     switch (fn_p1.kind) {
     case 20:
       var Temporary1 = fn_p1;
       if (ConstSet439[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'nativeFn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
-      var native_1275071619 = Temporary1.nativeFn;
-      var args_1275071624 = [];
+      var native_1275071636 = Temporary1.nativeFn;
+      var args_1275071641 = [];
       Label2: {
-        var i_1275071629 = 0;
+        var i_1275071646 = 0;
         var i_570425834 = 0;
         Label3: {
             Label4: while (true) {
-            if (!(i_570425834 < native_1275071619.arity)) break Label4;
-              i_1275071629 = i_570425834;
+            if (!(i_570425834 < native_1275071636.arity)) break Label4;
+              i_1275071646 = i_570425834;
               if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
-              raiseException({kind: [97,114,105,116,121], message: (native_1275071619.name).concat([32,101,120,112,101,99,116,115,32],HEX24__systemZdollars_u14(native_1275071619.arity),[32,97,114,103,117,109,101,110,116,115]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+              raiseException({kind: [97,114,105,116,121], message: (native_1275071636.name).concat([32,101,120,112,101,99,116,115,32],HEX24__systemZdollars_u14(native_1275071636.arity),[32,97,114,103,117,109,101,110,116,115]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
               }
               
-              var arg_1275071633 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
-              applyInfix__evalZevaluator_u603(eval_p0, arg_1275071633, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
-              args_1275071624.push(arg_1275071633[0]);;
+              var arg_1275071650 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
+              applyInfix__evalZevaluator_u603(eval_p0, arg_1275071650, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
+              args_1275071641.push(arg_1275071650[0]);;
               i_570425834 = addInt(i_570425834, 1);
             }
         };
       };
       Label5: {
-        var refSpec_1275071659 = ({name: [], params: []});
+        var refSpec_1275071676 = ({name: [], params: []});
         var i_570425841 = 0;
-        var L_570425842 = (native_1275071619.refinements).length;
+        var L_570425842 = (native_1275071636.refinements).length;
         Label6: {
             Label7: while (true) {
             if (!(i_570425841 < L_570425842)) break Label7;
-              refSpec_1275071659 = native_1275071619.refinements[chckIndx(i_570425841, 0, (native_1275071619.refinements).length - 1)];
-              if (contains__stdZenumutils_u50(eval_p0.currentRefinements, refSpec_1275071659.name)) {
+              refSpec_1275071676 = native_1275071636.refinements[chckIndx(i_570425841, 0, (native_1275071636.refinements).length - 1)];
+              if (contains__stdZenumutils_u50(eval_p0.currentRefinements, refSpec_1275071676.name)) {
               Label8: {
-                var rp_1275071686 = ({name: [], typeName: [], elementType: [], isOpt: false});
+                var rp_1275071703 = ({name: [], typeName: [], elementType: [], isOpt: false});
                 var i_570425838 = 0;
-                var L_570425839 = (refSpec_1275071659.params).length;
+                var L_570425839 = (refSpec_1275071676.params).length;
                 Label9: {
                     Label10: while (true) {
                     if (!(i_570425838 < L_570425839)) break Label10;
-                      rp_1275071686 = refSpec_1275071659.params[chckIndx(i_570425838, 0, (refSpec_1275071659.params).length - 1)];
+                      rp_1275071703 = refSpec_1275071676.params[chckIndx(i_570425838, 0, (refSpec_1275071676.params).length - 1)];
                       if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
-                      raiseException({kind: [97,114,105,116,121], message: ([114,101,102,105,110,101,109,101,110,116,32,47]).concat(refSpec_1275071659.name,[32,101,120,112,101,99,116,115,32,97,114,103,117,109,101,110,116,32],rp_1275071686.name), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+                      raiseException({kind: [97,114,105,116,121], message: ([114,101,102,105,110,101,109,101,110,116,32,47]).concat(refSpec_1275071676.name,[32,101,120,112,101,99,116,115,32,97,114,103,117,109,101,110,116,32],rp_1275071703.name), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
                       
-                      var rarg_1275071690 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
-                      applyInfix__evalZevaluator_u603(eval_p0, rarg_1275071690, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
-                      args_1275071624.push(rarg_1275071690[0]);;
+                      var rarg_1275071707 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
+                      applyInfix__evalZevaluator_u603(eval_p0, rarg_1275071707, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
+                      args_1275071641.push(rarg_1275071707[0]);;
                       i_570425838 += 1;
-                      if (!(((refSpec_1275071659.params).length == L_570425839))) {
+                      if (!(((refSpec_1275071676.params).length == L_570425839))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -19192,7 +19229,7 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               }
               
               i_570425841 += 1;
-              if (!(((native_1275071619.refinements).length == L_570425842))) {
+              if (!(((native_1275071636.refinements).length == L_570425842))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -19203,76 +19240,76 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       raiseException({kind: [115,116,97,99,107], message: [115,116,97,99,107,32,111,118,101,114,102,108,111,119,58,32,114,101,99,117,114,115,105,111,110,32,100,101,112,116,104,32,101,120,99,101,101,100,101,100,32,53,49,50], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
       }
       
-      eval_p0.callStack.push({name: nimCopy(null, native_1275071619.name, NTI33554449), file: [], line: 0});;
-      var savedCtx_1275071703 = eval_p0.currentCtx;
+      eval_p0.callStack.push({name: nimCopy(null, native_1275071636.name, NTI33554449), file: [], line: 0});;
+      var savedCtx_1275071720 = eval_p0.currentCtx;
       eval_p0.currentCtx = ctx_p4;
       currentEvaluator_1258291330[0] = eval_p0;
       try {
-      result_1275071618 = native_1275071619.fn(args_1275071624, eval_p0);
+      result_1275071635 = native_1275071636.fn(args_1275071641, eval_p0);
       } finally {
-      eval_p0.currentCtx = savedCtx_1275071703;
-      (pop__evalZevaluator_u3288(eval_p0, "callStack"));
+      eval_p0.currentCtx = savedCtx_1275071720;
+      (pop__evalZevaluator_u3305(eval_p0, "callStack"));
       }
       break BeforeRet;
       break;
     case 19:
       var Temporary12 = fn_p1;
       if (ConstSet606[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
-      var f_1275071734 = Temporary12.fn;
-      var args_1275071739 = [];
+      var f_1275071751 = Temporary12.fn;
+      var args_1275071756 = [];
       Label13: {
-        var i_1275071747 = 0;
+        var i_1275071764 = 0;
         var colontmp__570425845 = 0;
-        colontmp__570425845 = (f_1275071734.params).length;
+        colontmp__570425845 = (f_1275071751.params).length;
         var i_570425846 = 0;
         Label14: {
             Label15: while (true) {
             if (!(i_570425846 < colontmp__570425845)) break Label15;
-              i_1275071747 = i_570425846;
+              i_1275071764 = i_570425846;
               if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
-              raiseException({kind: [97,114,105,116,121], message: ([102,117,110,99,116,105,111,110,32,101,120,112,101,99,116,115,32]).concat(HEX24__systemZdollars_u14((f_1275071734.params).length),[32,97,114,103,117,109,101,110,116,115]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+              raiseException({kind: [97,114,105,116,121], message: ([102,117,110,99,116,105,111,110,32,101,120,112,101,99,116,115,32]).concat(HEX24__systemZdollars_u14((f_1275071751.params).length),[32,97,114,103,117,109,101,110,116,115]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
               }
               
-              var arg_1275071754 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
-              applyInfix__evalZevaluator_u603(eval_p0, arg_1275071754, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
-              args_1275071739.push(arg_1275071754[0]);;
+              var arg_1275071771 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
+              applyInfix__evalZevaluator_u603(eval_p0, arg_1275071771, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
+              args_1275071756.push(arg_1275071771[0]);;
               i_570425846 = addInt(i_570425846, 1);
             }
         };
       };
-      var funcCtx_1275071759 = child__coreZtypes_u2943(f_1275071734.closure);
+      var funcCtx_1275071776 = child__coreZtypes_u2943(f_1275071751.closure);
       Label16: {
-        var i_1275071803 = 0;
-        var param_1275071804 = ({name: [], typeName: [], elementType: [], isOpt: false});
+        var i_1275071820 = 0;
+        var param_1275071821 = ({name: [], typeName: [], elementType: [], isOpt: false});
         var i_570425855 = 0;
-        var L_570425856 = (f_1275071734.params).length;
+        var L_570425856 = (f_1275071751.params).length;
         Label17: {
             Label18: while (true) {
             if (!(i_570425855 < L_570425856)) break Label18;
-              i_1275071803 = i_570425855;
-              param_1275071804 = nimCopy(param_1275071804, f_1275071734.params[chckIndx(i_570425855, 0, (f_1275071734.params).length - 1)], NTI704643082);
-              if ((!(eqStrings(param_1275071804.typeName, [])) && !(eqStrings(param_1275071804.typeName, [97,110,121,45,116,121,112,101,33])))) {
-              var actual_1275071805 = typeName__coreZtypes_u3187(args_1275071739[chckIndx(i_1275071803, 0, (args_1275071739).length - 1)]);
-              if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1275071805, param_1275071804.typeName, args_1275071739[chckIndx(i_1275071803, 0, (args_1275071739).length - 1)], ctx_p4))) {
-              raiseException({kind: [116,121,112,101], message: (param_1275071804.name).concat([32,101,120,112,101,99,116,115,32],param_1275071804.typeName,[44,32,103,111,116,32],actual_1275071805), data: args_1275071739[chckIndx(i_1275071803, 0, (args_1275071739).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+              i_1275071820 = i_570425855;
+              param_1275071821 = nimCopy(param_1275071821, f_1275071751.params[chckIndx(i_570425855, 0, (f_1275071751.params).length - 1)], NTI704643082);
+              if ((!(eqStrings(param_1275071821.typeName, [])) && !(eqStrings(param_1275071821.typeName, [97,110,121,45,116,121,112,101,33])))) {
+              var actual_1275071822 = typeName__coreZtypes_u3187(args_1275071756[chckIndx(i_1275071820, 0, (args_1275071756).length - 1)]);
+              if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1275071822, param_1275071821.typeName, args_1275071756[chckIndx(i_1275071820, 0, (args_1275071756).length - 1)], ctx_p4))) {
+              raiseException({kind: [116,121,112,101], message: (param_1275071821.name).concat([32,101,120,112,101,99,116,115,32],param_1275071821.typeName,[44,32,103,111,116,32],actual_1275071822), data: args_1275071756[chckIndx(i_1275071820, 0, (args_1275071756).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
               }
               
-              if ((!(eqStrings(param_1275071804.elementType, [])) && (args_1275071739[chckIndx(i_1275071803, 0, (args_1275071739).length - 1)].kind == 13))) {
+              if ((!(eqStrings(param_1275071821.elementType, [])) && (args_1275071756[chckIndx(i_1275071820, 0, (args_1275071756).length - 1)].kind == 13))) {
               Label19: {
-                var elem_1275071813 = null;
+                var elem_1275071830 = null;
                 var colontmp__570425850 = [];
-                var Temporary20 = args_1275071739[chckIndx(i_1275071803, 0, (args_1275071739).length - 1)];
-                if (ConstSet630[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+                var Temporary20 = args_1275071756[chckIndx(i_1275071820, 0, (args_1275071756).length - 1)];
+                if (ConstSet633[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
                 colontmp__570425850 = Temporary20.blockVals;
                 var i_570425851 = 0;
                 var L_570425852 = (colontmp__570425850).length;
                 Label21: {
                     Label22: while (true) {
                     if (!(i_570425851 < L_570425852)) break Label22;
-                      elem_1275071813 = colontmp__570425850[chckIndx(i_570425851, 0, (colontmp__570425850).length - 1)];
-                      var elemActual_1275071814 = typeName__coreZtypes_u3187(elem_1275071813);
-                      if (!(typeMatches__evalZevaluator_u1090(eval_p0, elemActual_1275071814, param_1275071804.elementType, elem_1275071813, ctx_p4))) {
-                      raiseException({kind: [116,121,112,101], message: (param_1275071804.name).concat([32,101,120,112,101,99,116,115,32,98,108,111,99,107,32,111,102,32],param_1275071804.elementType,[44,32,103,111,116,32,101,108,101,109,101,110,116,32,111,102,32],elemActual_1275071814), data: elem_1275071813, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+                      elem_1275071830 = colontmp__570425850[chckIndx(i_570425851, 0, (colontmp__570425850).length - 1)];
+                      var elemActual_1275071831 = typeName__coreZtypes_u3187(elem_1275071830);
+                      if (!(typeMatches__evalZevaluator_u1090(eval_p0, elemActual_1275071831, param_1275071821.elementType, elem_1275071830, ctx_p4))) {
+                      raiseException({kind: [116,121,112,101], message: (param_1275071821.name).concat([32,101,120,112,101,99,116,115,32,98,108,111,99,107,32,111,102,32],param_1275071821.elementType,[44,32,103,111,116,32,101,108,101,109,101,110,116,32,111,102,32],elemActual_1275071831), data: elem_1275071830, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
                       
                       i_570425851 += 1;
@@ -19287,9 +19324,9 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               
               }
               
-              set__coreZtypes_u1354(funcCtx_1275071759, param_1275071804.name, args_1275071739[chckIndx(i_1275071803, 0, (args_1275071739).length - 1)]);
+              set__coreZtypes_u1354(funcCtx_1275071776, param_1275071821.name, args_1275071756[chckIndx(i_1275071820, 0, (args_1275071756).length - 1)]);
               i_570425855 += 1;
-              if (!(((f_1275071734.params).length == L_570425856))) {
+              if (!(((f_1275071751.params).length == L_570425856))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -19297,44 +19334,44 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
         };
       };
       if (!((selfVal_p5 == null))) {
-      set__coreZtypes_u1354(funcCtx_1275071759, [115,101,108,102], selfVal_p5);
+      set__coreZtypes_u1354(funcCtx_1275071776, [115,101,108,102], selfVal_p5);
       }
       
       Label23: {
-        var refSpec_1275071822 = ({name: [], params: []});
+        var refSpec_1275071839 = ({name: [], params: []});
         var i_570425867 = 0;
-        var L_570425868 = (f_1275071734.refinements).length;
+        var L_570425868 = (f_1275071751.refinements).length;
         Label24: {
             Label25: while (true) {
             if (!(i_570425867 < L_570425868)) break Label25;
-              refSpec_1275071822 = f_1275071734.refinements[chckIndx(i_570425867, 0, (f_1275071734.refinements).length - 1)];
-              if (contains__stdZenumutils_u50(eval_p0.currentRefinements, refSpec_1275071822.name)) {
-              set__coreZtypes_u1354(funcCtx_1275071759, refSpec_1275071822.name, ktgLogic__coreZtypes_u328(true, 0));
+              refSpec_1275071839 = f_1275071751.refinements[chckIndx(i_570425867, 0, (f_1275071751.refinements).length - 1)];
+              if (contains__stdZenumutils_u50(eval_p0.currentRefinements, refSpec_1275071839.name)) {
+              set__coreZtypes_u1354(funcCtx_1275071776, refSpec_1275071839.name, ktgLogic__coreZtypes_u328(true, 0));
               Label26: {
-                var rp_1275071830 = ({name: [], typeName: [], elementType: [], isOpt: false});
+                var rp_1275071847 = ({name: [], typeName: [], elementType: [], isOpt: false});
                 var i_570425860 = 0;
-                var L_570425861 = (refSpec_1275071822.params).length;
+                var L_570425861 = (refSpec_1275071839.params).length;
                 Label27: {
                     Label28: while (true) {
                     if (!(i_570425860 < L_570425861)) break Label28;
-                      rp_1275071830 = refSpec_1275071822.params[chckIndx(i_570425860, 0, (refSpec_1275071822.params).length - 1)];
+                      rp_1275071847 = refSpec_1275071839.params[chckIndx(i_570425860, 0, (refSpec_1275071839.params).length - 1)];
                       if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
-                      raiseException({kind: [97,114,105,116,121], message: ([114,101,102,105,110,101,109,101,110,116,32,47]).concat(refSpec_1275071822.name,[32,101,120,112,101,99,116,115,32,97,114,103,117,109,101,110,116,32],rp_1275071830.name), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+                      raiseException({kind: [97,114,105,116,121], message: ([114,101,102,105,110,101,109,101,110,116,32,47]).concat(refSpec_1275071839.name,[32,101,120,112,101,99,116,115,32,97,114,103,117,109,101,110,116,32],rp_1275071847.name), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
                       
-                      var rarg_1275071834 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
-                      applyInfix__evalZevaluator_u603(eval_p0, rarg_1275071834, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
-                      if ((!(eqStrings(rp_1275071830.typeName, [])) && !(eqStrings(rp_1275071830.typeName, [97,110,121,45,116,121,112,101,33])))) {
-                      var actual_1275071835 = typeName__coreZtypes_u3187(rarg_1275071834[0]);
-                      if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1275071835, rp_1275071830.typeName, rarg_1275071834[0], ctx_p4))) {
-                      raiseException({kind: [116,121,112,101], message: (rp_1275071830.name).concat([32,101,120,112,101,99,116,115,32],rp_1275071830.typeName,[44,32,103,111,116,32],actual_1275071835), data: rarg_1275071834[0], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+                      var rarg_1275071851 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
+                      applyInfix__evalZevaluator_u603(eval_p0, rarg_1275071851, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
+                      if ((!(eqStrings(rp_1275071847.typeName, [])) && !(eqStrings(rp_1275071847.typeName, [97,110,121,45,116,121,112,101,33])))) {
+                      var actual_1275071852 = typeName__coreZtypes_u3187(rarg_1275071851[0]);
+                      if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1275071852, rp_1275071847.typeName, rarg_1275071851[0], ctx_p4))) {
+                      raiseException({kind: [116,121,112,101], message: (rp_1275071847.name).concat([32,101,120,112,101,99,116,115,32],rp_1275071847.typeName,[44,32,103,111,116,32],actual_1275071852), data: rarg_1275071851[0], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
                       
                       }
                       
-                      set__coreZtypes_u1354(funcCtx_1275071759, rp_1275071830.name, rarg_1275071834[0]);
+                      set__coreZtypes_u1354(funcCtx_1275071776, rp_1275071847.name, rarg_1275071851[0]);
                       i_570425860 += 1;
-                      if (!(((refSpec_1275071822.params).length == L_570425861))) {
+                      if (!(((refSpec_1275071839.params).length == L_570425861))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -19343,18 +19380,18 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               };
               }
               else {
-                set__coreZtypes_u1354(funcCtx_1275071759, refSpec_1275071822.name, ktgLogic__coreZtypes_u328(false, 0));
+                set__coreZtypes_u1354(funcCtx_1275071776, refSpec_1275071839.name, ktgLogic__coreZtypes_u328(false, 0));
                 Label29: {
-                  var rp_1275071839 = ({name: [], typeName: [], elementType: [], isOpt: false});
+                  var rp_1275071856 = ({name: [], typeName: [], elementType: [], isOpt: false});
                   var i_570425864 = 0;
-                  var L_570425865 = (refSpec_1275071822.params).length;
+                  var L_570425865 = (refSpec_1275071839.params).length;
                   Label30: {
                       Label31: while (true) {
                       if (!(i_570425864 < L_570425865)) break Label31;
-                        rp_1275071839 = refSpec_1275071822.params[chckIndx(i_570425864, 0, (refSpec_1275071822.params).length - 1)];
-                        set__coreZtypes_u1354(funcCtx_1275071759, rp_1275071839.name, ktgNone__coreZtypes_u332(0));
+                        rp_1275071856 = refSpec_1275071839.params[chckIndx(i_570425864, 0, (refSpec_1275071839.params).length - 1)];
+                        set__coreZtypes_u1354(funcCtx_1275071776, rp_1275071856.name, ktgNone__coreZtypes_u332(0));
                         i_570425864 += 1;
-                        if (!(((refSpec_1275071822.params).length == L_570425865))) {
+                        if (!(((refSpec_1275071839.params).length == L_570425865))) {
                         failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                         }
                         
@@ -19364,7 +19401,7 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               }
               
               i_570425867 += 1;
-              if (!(((f_1275071734.refinements).length == L_570425868))) {
+              if (!(((f_1275071751.refinements).length == L_570425868))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -19378,27 +19415,27 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       eval_p0.callStack.push({name: [102,117,110,99,116,105,111,110], file: [], line: 0});;
 ++excHandler;
       try {
-      result_1275071618 = evalBlock__evalZevaluator_u66(eval_p0, f_1275071734.body, funcCtx_1275071759);
+      result_1275071635 = evalBlock__evalZevaluator_u66(eval_p0, f_1275071751.body, funcCtx_1275071776);
 --excHandler;
 } catch (EXCEPTION) {
  var prevJSError = lastJSError;
  lastJSError = EXCEPTION;
  --excHandler;
       if (lastJSError && (isObj(lastJSError.m_type, NTI1275068482))) {
-      var r_1275071847 = getCurrentException();
-      result_1275071618 = r_1275071847.value;
+      var r_1275071864 = getCurrentException();
+      result_1275071635 = r_1275071864.value;
       }
       else {
       	reraiseException();
       }
       lastJSError = prevJSError;
       } finally {
-      (pop__evalZevaluator_u3288(eval_p0, "callStack"));
+      (pop__evalZevaluator_u3305(eval_p0, "callStack"));
       }
-      if ((!(eqStrings(f_1275071734.returnType, [])) && !(eqStrings(f_1275071734.returnType, [97,110,121,45,116,121,112,101,33])))) {
-      var actual_1275071851 = typeName__coreZtypes_u3187(result_1275071618);
-      if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1275071851, f_1275071734.returnType, result_1275071618, ctx_p4))) {
-      raiseException({kind: [116,121,112,101], message: ([114,101,116,117,114,110,32,116,121,112,101,32,109,105,115,109,97,116,99,104,58,32,101,120,112,101,99,116,101,100,32]).concat(f_1275071734.returnType,[44,32,103,111,116,32],actual_1275071851), data: result_1275071618, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+      if ((!(eqStrings(f_1275071751.returnType, [])) && !(eqStrings(f_1275071751.returnType, [97,110,121,45,116,121,112,101,33])))) {
+      var actual_1275071868 = typeName__coreZtypes_u3187(result_1275071635);
+      if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1275071868, f_1275071751.returnType, result_1275071635, ctx_p4))) {
+      raiseException({kind: [116,121,112,101], message: ([114,101,116,117,114,110,32,116,121,112,101,32,109,105,115,109,97,116,99,104,58,32,101,120,112,101,99,116,101,100,32]).concat(f_1275071751.returnType,[44,32,103,111,116,32],actual_1275071868), data: result_1275071635, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
       }
       
       }
@@ -19411,7 +19448,7 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
     }
   };
 
-  return result_1275071618;
+  return result_1275071635;
 
 }
 
@@ -19483,18 +19520,18 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             if ((current_1275069137.kind == 13)) {
             if ((idx_1275069161.kind == 0)) {
             var Temporary5 = idx_1275069161;
-            if (ConstSet631[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+            if (ConstSet634[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
             var i_1275069170 = chckRange(Number(Temporary5.intVal), (-2147483648), 2147483647);
               if (!(1 <= i_1275069170)) Temporary6 = false; else {                var Temporary7 = current_1275069137;
-                if (ConstSet632[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet635[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary6 = (i_1275069170 <= (Temporary7.blockVals).length);              }            if (Temporary6) {
             var Temporary8 = current_1275069137;
-            if (ConstSet633[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+            if (ConstSet636[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             current_1275069137 = (Temporary9 = Temporary8.blockVals, Temporary9)[chckIndx(subInt(i_1275069170, 1), 0, (Temporary9).length - 1)];
             }
             else {
               var Temporary10 = current_1275069137;
-              if (ConstSet634[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+              if (ConstSet637[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
               raiseException({kind: [114,97,110,103,101], message: ([105,110,100,101,120,32]).concat(HEX24__systemZdollars_u14(i_1275069170),[32,111,117,116,32,111,102,32,114,97,110,103,101,32,40,49,46,46],HEX24__systemZdollars_u14((Temporary10.blockVals).length),[41]), data: idx_1275069161, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
             }
             
@@ -19508,10 +19545,10 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             if ((current_1275069137.kind == 15)) {
             var key_1275069181 = HEX24__coreZtypes_u3190(idx_1275069161);
               var Temporary11 = current_1275069137;
-              if (ConstSet635[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet638[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
             if (contains__coreZtypes_u621(Temporary11.mapEntries, key_1275069181)) {
             var Temporary12 = current_1275069137;
-            if (ConstSet636[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+            if (ConstSet639[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
             current_1275069137 = (Temporary13 = HEX5BHEX5D__coreZtypes_u981(Temporary12.mapEntries, key_1275069181), Temporary13)[0][Temporary13[1]];
             }
             else {
@@ -19523,14 +19560,14 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             if ((current_1275069137.kind == 17)) {
             var key_1275069298 = HEX24__coreZtypes_u3190(idx_1275069161);
             var Temporary14 = current_1275069137;
-            if (ConstSet637[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+            if (ConstSet640[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
             current_1275069137 = get__coreZtypes_u563(Temporary14.ctx, key_1275069298);
             }
             else {
             if ((current_1275069137.kind == 18)) {
             var key_1275069303 = HEX24__coreZtypes_u3190(idx_1275069161);
             var Temporary15 = current_1275069137;
-            if (ConstSet638[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+            if (ConstSet641[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
             current_1275069137 = get__coreZtypes_u3010(Temporary15.obj, key_1275069303);
             }
             else {
@@ -19541,22 +19578,22 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             else {
             if ((current_1275069137.kind == 17)) {
             var Temporary16 = current_1275069137;
-            if (ConstSet639[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+            if (ConstSet642[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
             current_1275069137 = get__coreZtypes_u563(Temporary16.ctx, seg_1275069141);
             }
             else {
             if ((current_1275069137.kind == 18)) {
             var Temporary17 = current_1275069137;
-            if (ConstSet640[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+            if (ConstSet643[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
             current_1275069137 = get__coreZtypes_u3010(Temporary17.obj, seg_1275069141);
             }
             else {
             if ((current_1275069137.kind == 15)) {
               var Temporary18 = current_1275069137;
-              if (ConstSet641[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+              if (ConstSet644[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
             if (contains__coreZtypes_u621(Temporary18.mapEntries, seg_1275069141)) {
             var Temporary19 = current_1275069137;
-            if (ConstSet642[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+            if (ConstSet645[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
             current_1275069137 = (Temporary20 = HEX5BHEX5D__coreZtypes_u981(Temporary19.mapEntries, seg_1275069141), Temporary20)[0][Temporary20[1]];
             }
             else {
@@ -19569,12 +19606,12 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             switch (toJSStr(seg_1275069141)) {
             case "x":
               var Temporary21 = current_1275069137;
-              if (ConstSet643[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
+              if (ConstSet646[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
               current_1275069137 = numFromFloat__coreZtypes_u355(Temporary21.px, 0);
               break;
             case "y":
               var Temporary22 = current_1275069137;
-              if (ConstSet644[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+              if (ConstSet647[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
               current_1275069137 = numFromFloat__coreZtypes_u355(Temporary22.py, 0);
               break;
             default: 
@@ -19588,10 +19625,10 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             try {
             var idx_1275069436 = nsuParseInt(seg_1275069141);
               if (!(1 <= idx_1275069436)) Temporary24 = false; else {                var Temporary25 = current_1275069137;
-                if (ConstSet645[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+                if (ConstSet648[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
                 Temporary24 = (idx_1275069436 <= (Temporary25.tupleVals).length);              }            if (Temporary24) {
             var Temporary26 = current_1275069137;
-            if (ConstSet646[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
+            if (ConstSet649[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
             current_1275069137 = ktgInt__coreZtypes_u163(BigInt((Temporary27 = Temporary26.tupleVals, Temporary27)[chckIndx(subInt(idx_1275069436, 1), 0, (Temporary27).length - 1)]), 0);
             }
             else {
@@ -19618,7 +19655,7 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             switch (toJSStr(seg_1275069141)) {
             case "cents":
               var Temporary28 = current_1275069137;
-              if (ConstSet647[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
+              if (ConstSet650[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(Temporary28.cents, 0);
               break;
             default: 
@@ -19631,17 +19668,17 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             switch (toJSStr(seg_1275069141)) {
             case "year":
               var Temporary29 = current_1275069137;
-              if (ConstSet648[Temporary29.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary29.kind, NTI704643076)); }
+              if (ConstSet651[Temporary29.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary29.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(BigInt(Temporary29.year), 0);
               break;
             case "month":
               var Temporary30 = current_1275069137;
-              if (ConstSet649[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
+              if (ConstSet652[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(BigInt(Temporary30.month), 0);
               break;
             case "day":
               var Temporary31 = current_1275069137;
-              if (ConstSet650[Temporary31.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary31.kind, NTI704643076)); }
+              if (ConstSet653[Temporary31.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary31.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(BigInt(Temporary31.day), 0);
               break;
             default: 
@@ -19654,17 +19691,17 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             switch (toJSStr(seg_1275069141)) {
             case "hour":
               var Temporary32 = current_1275069137;
-              if (ConstSet651[Temporary32.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary32.kind, NTI704643076)); }
+              if (ConstSet654[Temporary32.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary32.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(BigInt(Temporary32.hour), 0);
               break;
             case "minute":
               var Temporary33 = current_1275069137;
-              if (ConstSet652[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
+              if (ConstSet655[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(BigInt(Temporary33.minute), 0);
               break;
             case "second":
               var Temporary34 = current_1275069137;
-              if (ConstSet653[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
+              if (ConstSet656[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
               current_1275069137 = ktgInt__coreZtypes_u163(BigInt(Temporary34.second), 0);
               break;
             default: 
@@ -19713,7 +19750,7 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
 function isCallable__evalZdialect_u42(val_p0) {
   var result_1258291244 = false;
 
-    result_1258291244 = (ConstSet655[val_p0.kind] != undefined);
+    result_1258291244 = (ConstSet658[val_p0.kind] != undefined);
 
   return result_1258291244;
 
@@ -19729,7 +19766,7 @@ function intRhs__evalZevaluator_u16(rhs_p0, label_p1) {
     }
     
     var Temporary1 = rhs_p0;
-    if (ConstSet691[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet694[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1275068435 = Temporary1.intVal;
 
   return result_1275068435;
@@ -19803,13 +19840,13 @@ function buildValueTypeRebind__evalZevaluator_u24(current_p0, seg_p1, rhs_p2, li
       
       if ((rhs_p2.kind == 0)) {
       var Temporary3 = rhs_p2;
-      if (ConstSet687[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet690[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary2 = Number(Temporary3.intVal);
       }
       else {
       if ((rhs_p2.kind == 1)) {
       var Temporary4 = rhs_p2;
-      if (ConstSet688[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet691[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       Temporary2 = Temporary4.floatVal;
       }
       else {
@@ -19819,12 +19856,12 @@ function buildValueTypeRebind__evalZevaluator_u24(current_p0, seg_p1, rhs_p2, li
       var v_1275068454 = Temporary2;
       if (eqStrings(seg_p1, [120])) {
       var Temporary6 = current_p0;
-      if (ConstSet689[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet692[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       Temporary5 = ktgPair__coreZtypes_u339(v_1275068454, Temporary6.py, line_p3);
       }
       else {
         var Temporary7 = current_p0;
-        if (ConstSet690[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+        if (ConstSet693[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
       Temporary5 = ktgPair__coreZtypes_u339(Temporary7.px, v_1275068454, line_p3);
       }
       
@@ -19857,7 +19894,7 @@ function buildValueTypeRebind__evalZevaluator_u24(current_p0, seg_p1, rhs_p2, li
       }
       var idx_1275068455 = Temporary8;
         if ((idx_1275068455 < 1)) Temporary10 = true; else {          var Temporary11 = current_p0;
-          if (ConstSet692[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+          if (ConstSet695[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
           Temporary10 = ((Temporary11.tupleVals).length < idx_1275068455);        }      if (Temporary10) {
       raiseException({kind: [114,97,110,103,101], message: ([116,117,112,108,101,32,105,110,100,101,120,32]).concat(seg_p1,[32,111,117,116,32,111,102,32,114,97,110,103,101]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
       }
@@ -19868,20 +19905,20 @@ function buildValueTypeRebind__evalZevaluator_u24(current_p0, seg_p1, rhs_p2, li
       }
       
       var Temporary12 = current_p0;
-      if (ConstSet693[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+      if (ConstSet696[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
       var newVals_1275068460 = nimCopy(null, Temporary12.tupleVals, NTI704643096);
       newVals_1275068460[chckIndx(subInt(idx_1275068455, 1), 0, (newVals_1275068460).length - 1)] = Number(BigInt.asUintN(8, v_1275068459));
       Temporary1 = {kind: 7, tupleVals: nimCopy(null, newVals_1275068460, NTI704643096), line: line_p3, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
       break;
     case 8:
       var Temporary13 = current_p0;
-      if (ConstSet694[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+      if (ConstSet697[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
       var year_1275068461 = ((Temporary13.year) | 0);
       var Temporary14 = current_p0;
-      if (ConstSet695[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+      if (ConstSet698[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
       var month_1275068462 = ((Temporary14.month) | 0);
       var Temporary15 = current_p0;
-      if (ConstSet696[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+      if (ConstSet699[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
       var day_1275068463 = ((Temporary15.day) | 0);
       var v_1275068464 = intRhs__evalZevaluator_u16(rhs_p2, ([100,97,116,101,33,47]).concat(seg_p1));
       switch (toJSStr(seg_p1)) {
@@ -19918,13 +19955,13 @@ function buildValueTypeRebind__evalZevaluator_u24(current_p0, seg_p1, rhs_p2, li
       break;
     case 9:
       var Temporary16 = current_p0;
-      if (ConstSet697[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+      if (ConstSet700[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
       var hour_1275068473 = ((Temporary16.hour) | 0);
       var Temporary17 = current_p0;
-      if (ConstSet698[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+      if (ConstSet701[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
       var minute_1275068474 = ((Temporary17.minute) | 0);
       var Temporary18 = current_p0;
-      if (ConstSet699[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+      if (ConstSet702[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
       var second_1275068475 = ((Temporary18.second) | 0);
       var v_1275068476 = intRhs__evalZevaluator_u16(rhs_p2, ([116,105,109,101,33,47]).concat(seg_p1));
       switch (toJSStr(seg_p1)) {
@@ -19969,7 +20006,7 @@ function nsuIsUpperAsciiChar(c_p0) {
   var result_1023410256 = false;
 
   BeforeRet: {
-    result_1023410256 = (ConstSet707[c_p0] != undefined);
+    result_1023410256 = (ConstSet710[c_p0] != undefined);
     break BeforeRet;
   };
 
@@ -20036,7 +20073,7 @@ function HEX3Aanonymous__evalZevaluator_u1990(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570425752 < L_570425753)) break Label3;
             fs_1275070418 = this.specs0[chckIndx(i_570425752, 0, (this.specs0).length - 1)];
               var Temporary4 = val_1275070410;
-              if (ConstSet710[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if (ConstSet713[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
             if (!(contains__coreZtypes_u621(Temporary4.ctx.entries, fs_1275070418.name))) {
             result_1275070409 = ktgLogic__coreZtypes_u328(false, 0);
             break BeforeRet;
@@ -20098,14 +20135,14 @@ function composeBlock__evalZevaluator_u2161(eval_p0, blk_p1, ctx_p2, deep_p3, on
             v_1275070592 = blk_p1[chckIndx(i_570425762, 0, (blk_p1).length - 1)];
             if ((v_1275070592.kind == 14)) {
             var Temporary4 = v_1275070592;
-            if (ConstSet729[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+            if (ConstSet732[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
             var val_1275070597 = evalBlock__evalZevaluator_u66(eval_p0, Temporary4.parenVals, ctx_p2);
             if (((val_1275070597.kind == 13) && !(only_p4))) {
             Label5: {
               var item_1275070605 = null;
               var colontmp__570425758 = [];
               var Temporary6 = val_1275070597;
-              if (ConstSet730[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+              if (ConstSet733[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               colontmp__570425758 = Temporary6.blockVals;
               var i_570425759 = 0;
               var L_570425760 = (colontmp__570425758).length;
@@ -20131,7 +20168,7 @@ function composeBlock__evalZevaluator_u2161(eval_p0, blk_p1, ctx_p2, deep_p3, on
             else {
             if ((deep_p3 && (v_1275070592.kind == 13))) {
             var Temporary9 = v_1275070592;
-            if (ConstSet731[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+            if (ConstSet734[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             results_1275070588.push(ktgBlock__coreZtypes_u367(composeBlock__evalZevaluator_u2161(eval_p0, Temporary9.blockVals, ctx_p2, deep_p3, only_p4), 0));;
             }
             else {
@@ -20380,7 +20417,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
             if (!(segIdx_1275069598 < (segments_1275069561).length)) break Label15;
               var seg_1275069602 = nimCopy(null, segments_1275069561[chckIndx(segIdx_1275069598, 0, (segments_1275069561).length - 1)], NTI33554449);
               var Temporary16 = val_1275069521;
-              if (ConstSet654[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+              if (ConstSet657[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
               var next_1275069607 = navigatePath__evalZevaluator_u714(eval_p0, current_1275069597, [nimCopy(null, seg_1275069602, NTI33554449)], ctx_p3, Temporary16.wordName);
               if ((isCallable__evalZdialect_u42(next_1275069607) && (addInt(segIdx_1275069598, 1) < (segments_1275069561).length))) {
               eval_p0.currentRefinements = nimCopy(null, HEX5BHEX5D__evalZevaluator_u1050(segments_1275069561, HEX2EHEX2E__stdZenumutils_u105(addInt(segIdx_1275069598, 1), 1)), NTI1275069035);
@@ -20407,27 +20444,27 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
         var Temporary18 = val_1275069521;
-        if (ConstSet656[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+        if (ConstSet659[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
         var dialect_1275069634 = findDialect__evalZevaluator_u247(eval_p0, Temporary18.wordName);
         if (((!((dialect_1275069634 == null)) && (pos_p2[pos_p2_Idx] < (vals_p1).length)) && (vals_p1[chckIndx(pos_p2[pos_p2_Idx], 0, (vals_p1).length - 1)].kind == 13))) {
         var blk_1275069646 = vals_p1[chckIndx(pos_p2[pos_p2_Idx], 0, (vals_p1).length - 1)];
         pos_p2[pos_p2_Idx] = addInt(pos_p2[pos_p2_Idx], 1);
         var Temporary19 = blk_1275069646;
-        if (ConstSet657[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+        if (ConstSet660[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
         result_1275069517 = interpret__evalZdialect_u40(dialect_1275069634, Temporary19.blockVals, eval_p0, ctx_p3, []);
         break BeforeRet;
         }
         
         var Temporary20 = val_1275069521;
-        if (ConstSet658[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+        if (ConstSet661[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
         var bound_1275069651 = get__coreZtypes_u563(ctx_p3, Temporary20.wordName);
         if (isCallable__evalZdialect_u42(bound_1275069651)) {
         var callResult_1275069652 = callCallable__evalZevaluator_u75(eval_p0, bound_1275069651, vals_p1, pos_p2, pos_p2_Idx, ctx_p3, null);
           var Temporary22 = val_1275069521;
-          if (ConstSet659[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+          if (ConstSet662[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
           if (!contains__coreZequality_u1527(eval_p0.macros, Temporary22.wordName)) Temporary21 = false; else {            Temporary21 = (callResult_1275069652.kind == 13);          }        if (Temporary21) {
         var Temporary23 = callResult_1275069652;
-        if (ConstSet660[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
+        if (ConstSet663[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
         callResult_1275069652 = evalBlock__evalZevaluator_u66(eval_p0, Temporary23.blockVals, ctx_p3);
         }
         
@@ -20442,16 +20479,16 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         var rhs_1275069710 = [evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3)];
         applyInfix__evalZevaluator_u603(eval_p0, rhs_1275069710, 0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3);
           var Temporary25 = val_1275069521;
-          if (ConstSet661[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+          if (ConstSet664[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
           if (!eqStrings(Temporary25.wordName, [115,101,108,102])) Temporary24 = false; else {            Temporary24 = contains__coreZtypes_u621(ctx_p3.entries, [115,101,108,102]);          }        if (Temporary24) {
         raiseException({kind: [115,101,108,102], message: [99,97,110,110,111,116,32,114,101,98,105,110,100,32,115,101,108,102], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
         }
         
           var Temporary26 = val_1275069521;
-          if (ConstSet662[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
+          if (ConstSet665[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
         if (contains__evalZevaluator_u1123(Temporary26.wordName, 47)) {
         var Temporary27 = val_1275069521;
-        if (ConstSet663[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
+        if (ConstSet666[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
         var tmpTuple_1275069769 = parsePath__evalZevaluator_u1037(Temporary27.wordName);
         var head_1275069770 = nimCopy(null, tmpTuple_1275069769["Field0"], NTI33554449);
         var segments_1275069771 = nimCopy(null, tmpTuple_1275069769["Field1"], NTI1275069017);
@@ -20482,13 +20519,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 if ((current_1275069776.kind == 13)) {
                 if ((idx_1275069805.kind == 0)) {
                 var Temporary32 = idx_1275069805;
-                if (ConstSet664[Temporary32.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary32.kind, NTI704643076)); }
+                if (ConstSet667[Temporary32.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary32.kind, NTI704643076)); }
                 var j_1275069814 = chckRange(Number(Temporary32.intVal), (-2147483648), 2147483647);
                   if (!(1 <= j_1275069814)) Temporary33 = false; else {                    var Temporary34 = current_1275069776;
-                    if (ConstSet665[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
+                    if (ConstSet668[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
                     Temporary33 = (j_1275069814 <= (Temporary34.blockVals).length);                  }                if (Temporary33) {
                 var Temporary35 = current_1275069776;
-                if (ConstSet666[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+                if (ConstSet669[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
                 current_1275069776 = (Temporary36 = Temporary35.blockVals, Temporary36)[chckIndx(subInt(j_1275069814, 1), 0, (Temporary36).length - 1)];
                 }
                 else {
@@ -20504,17 +20541,17 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 else {
                 if ((current_1275069776.kind == 17)) {
                 var Temporary37 = current_1275069776;
-                if (ConstSet667[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
+                if (ConstSet670[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
                 current_1275069776 = get__coreZtypes_u563(Temporary37.ctx, HEX24__coreZtypes_u3190(idx_1275069805));
                 }
                 else {
                 if ((current_1275069776.kind == 15)) {
                 var key_1275069826 = HEX24__coreZtypes_u3190(idx_1275069805);
                   var Temporary38 = current_1275069776;
-                  if (ConstSet668[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
+                  if (ConstSet671[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
                 if (contains__coreZtypes_u621(Temporary38.mapEntries, key_1275069826)) {
                 var Temporary39 = current_1275069776;
-                if (ConstSet669[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
+                if (ConstSet672[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
                 current_1275069776 = (Temporary40 = HEX5BHEX5D__coreZtypes_u981(Temporary39.mapEntries, key_1275069826), Temporary40)[0][Temporary40[1]];
                 }
                 else {
@@ -20530,16 +20567,16 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 else {
                 if ((current_1275069776.kind == 17)) {
                 var Temporary41 = current_1275069776;
-                if (ConstSet670[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
+                if (ConstSet673[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
                 current_1275069776 = get__coreZtypes_u563(Temporary41.ctx, seg_1275069785);
                 }
                 else {
                 if ((current_1275069776.kind == 15)) {
                   var Temporary42 = current_1275069776;
-                  if (ConstSet671[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
+                  if (ConstSet674[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
                 if (contains__coreZtypes_u621(Temporary42.mapEntries, seg_1275069785)) {
                 var Temporary43 = current_1275069776;
-                if (ConstSet672[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
+                if (ConstSet675[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
                 current_1275069776 = (Temporary44 = HEX5BHEX5D__coreZtypes_u981(Temporary43.mapEntries, seg_1275069785), Temporary44)[0][Temporary44[1]];
                 }
                 else {
@@ -20550,7 +20587,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 else {
                 if ((current_1275069776.kind == 18)) {
                 var Temporary45 = current_1275069776;
-                if (ConstSet673[Temporary45.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary45.kind, NTI704643076)); }
+                if (ConstSet676[Temporary45.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary45.kind, NTI704643076)); }
                 current_1275069776 = get__coreZtypes_u3010(Temporary45.obj, seg_1275069785);
                 }
                 else {
@@ -20566,7 +20603,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 var e_1275070063 = getCurrentException();
                 if (((e_1275070063.path).length == 0)) {
                 var Temporary46 = val_1275069521;
-                if (ConstSet674[Temporary46.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary46.kind, NTI704643076)); }
+                if (ConstSet677[Temporary46.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary46.kind, NTI704643076)); }
                 e_1275070063.path = nimCopy(null, Temporary46.wordName, NTI33554449);
                 e_1275070063.pathSeg = nimCopy(null, seg_1275069785, NTI33554449);
                 }
@@ -20592,13 +20629,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         if ((current_1275069776.kind == 13)) {
         if ((idx_1275070092.kind == 0)) {
         var Temporary48 = idx_1275070092;
-        if (ConstSet675[Temporary48.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary48.kind, NTI704643076)); }
+        if (ConstSet678[Temporary48.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary48.kind, NTI704643076)); }
         var j_1275070101 = chckRange(Number(Temporary48.intVal), (-2147483648), 2147483647);
           if (!(1 <= j_1275070101)) Temporary49 = false; else {            var Temporary50 = current_1275069776;
-            if (ConstSet676[Temporary50.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary50.kind, NTI704643076)); }
+            if (ConstSet679[Temporary50.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary50.kind, NTI704643076)); }
             Temporary49 = (j_1275070101 <= (Temporary50.blockVals).length);          }        if (Temporary49) {
         var Temporary51 = current_1275069776;
-        if (ConstSet677[Temporary51.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary51.kind, NTI704643076)); }
+        if (ConstSet680[Temporary51.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary51.kind, NTI704643076)); }
         (Temporary52 = Temporary51.blockVals, Temporary52)[chckIndx(subInt(j_1275070101, 1), 0, (Temporary52).length - 1)] = rhs_1275069710[0];
         }
         else {
@@ -20615,13 +20652,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         if ((current_1275069776.kind == 17)) {
         var dynKey_1275070109 = HEX24__coreZtypes_u3190(idx_1275070092);
           var Temporary53 = current_1275069776;
-          if (ConstSet678[Temporary53.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary53.kind, NTI704643076)); }
+          if (ConstSet681[Temporary53.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary53.kind, NTI704643076)); }
         if ((0 < (Temporary53.ctx.fieldSpecs).length)) {
         Label54: {
           var fs_1275070135 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
           var colontmp__570425809 = [];
           var Temporary55 = current_1275069776;
-          if (ConstSet679[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
+          if (ConstSet682[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
           colontmp__570425809 = Temporary55.ctx.fieldSpecs;
           var i_570425810 = 0;
           var L_570425811 = (colontmp__570425809).length;
@@ -20649,13 +20686,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
         var Temporary58 = current_1275069776;
-        if (ConstSet680[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
+        if (ConstSet683[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
         set__coreZtypes_u1354(Temporary58.ctx, dynKey_1275070109, rhs_1275069710[0]);
         }
         else {
         if ((current_1275069776.kind == 15)) {
         var Temporary59 = current_1275069776;
-        if (ConstSet681[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
+        if (ConstSet684[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
         HEX5BHEX5DHEX3D__coreZtypes_u1394(Temporary59.mapEntries, HEX24__coreZtypes_u3190(idx_1275070092), rhs_1275069710[0]);
         }
         else {
@@ -20670,13 +20707,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         else {
         if ((current_1275069776.kind == 17)) {
           var Temporary60 = current_1275069776;
-          if (ConstSet682[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
+          if (ConstSet685[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
         if ((0 < (Temporary60.ctx.fieldSpecs).length)) {
         Label61: {
           var fs_1275070197 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
           var colontmp__570425814 = [];
           var Temporary62 = current_1275069776;
-          if (ConstSet683[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
+          if (ConstSet686[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
           colontmp__570425814 = Temporary62.ctx.fieldSpecs;
           var i_570425815 = 0;
           var L_570425816 = (colontmp__570425814).length;
@@ -20704,13 +20741,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
         var Temporary65 = current_1275069776;
-        if (ConstSet684[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
+        if (ConstSet687[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
         set__coreZtypes_u1354(Temporary65.ctx, lastSeg_1275070072, rhs_1275069710[0]);
         }
         else {
         if ((current_1275069776.kind == 15)) {
         var Temporary66 = current_1275069776;
-        if (ConstSet685[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
+        if (ConstSet688[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
         HEX5BHEX5DHEX3D__coreZtypes_u1394(Temporary66.mapEntries, lastSeg_1275070072, rhs_1275069710[0]);
         }
         else {
@@ -20718,7 +20755,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         raiseException({kind: [102,114,111,122,101,110], message: makeNimstrLit("cannot mutate object! directly; use `make Type [field: value]` to stamp a mutable context from the template"), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
         }
         else {
-        if ((ConstSet686[current_1275069776.kind] != undefined)) {
+        if ((ConstSet689[current_1275069776.kind] != undefined)) {
         var newVal_1275070253 = buildValueTypeRebind__evalZevaluator_u24(current_1275069776, lastSeg_1275070072, rhs_1275069710[0], val_1275069521.line);
         if (((segments_1275069771).length == 1)) {
         set__coreZtypes_u1354(ctx_p3, head_1275069770, newVal_1275070253);
@@ -20737,19 +20774,19 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                   var seg_1275070266 = nimCopy(null, segments_1275069771[chckIndx(i_1275070265, 0, (segments_1275069771).length - 1)], NTI33554449);
                   if ((holder_1275070257.kind == 17)) {
                   var Temporary70 = holder_1275070257;
-                  if (ConstSet700[Temporary70.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary70.kind, NTI704643076)); }
+                  if (ConstSet703[Temporary70.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary70.kind, NTI704643076)); }
                   holder_1275070257 = get__coreZtypes_u563(Temporary70.ctx, seg_1275070266);
                   }
                   else {
                   if ((holder_1275070257.kind == 15)) {
                   var Temporary71 = holder_1275070257;
-                  if (ConstSet701[Temporary71.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary71.kind, NTI704643076)); }
+                  if (ConstSet704[Temporary71.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary71.kind, NTI704643076)); }
                   holder_1275070257 = (Temporary72 = HEX5BHEX5D__coreZtypes_u981(Temporary71.mapEntries, seg_1275070266), Temporary72)[0][Temporary72[1]];
                   }
                   else {
                   if ((holder_1275070257.kind == 18)) {
                   var Temporary73 = holder_1275070257;
-                  if (ConstSet702[Temporary73.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary73.kind, NTI704643076)); }
+                  if (ConstSet705[Temporary73.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary73.kind, NTI704643076)); }
                   holder_1275070257 = get__coreZtypes_u3010(Temporary73.obj, seg_1275070266);
                   }
                   else {
@@ -20763,13 +20800,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
           var pKey_1275070341 = HEX5BHEX5D__evalZevaluator_u1648(segments_1275069771, 2);
           if ((holder_1275070257.kind == 17)) {
           var Temporary74 = holder_1275070257;
-          if (ConstSet703[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
+          if (ConstSet706[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
           set__coreZtypes_u1354(Temporary74.ctx, pKey_1275070341, newVal_1275070253);
           }
           else {
           if ((holder_1275070257.kind == 15)) {
           var Temporary75 = holder_1275070257;
-          if (ConstSet704[Temporary75.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary75.kind, NTI704643076)); }
+          if (ConstSet707[Temporary75.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary75.kind, NTI704643076)); }
           HEX5BHEX5DHEX3D__coreZtypes_u1394(Temporary75.mapEntries, pKey_1275070341, newVal_1275070253);
           }
           else {
@@ -20796,7 +20833,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         var e_1275070396 = getCurrentException();
         if (((e_1275070396.path).length == 0)) {
         var Temporary76 = val_1275069521;
-        if (ConstSet705[Temporary76.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary76.kind, NTI704643076)); }
+        if (ConstSet708[Temporary76.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary76.kind, NTI704643076)); }
         e_1275070396.path = nimCopy(null, Temporary76.wordName, NTI33554449);
         e_1275070396.pathSeg = nimCopy(null, lastSeg_1275070072, NTI33554449);
         }
@@ -20815,12 +20852,12 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         
         if ((rhs_1275069710[0].kind == 18)) {
         var Temporary77 = val_1275069521;
-        if (ConstSet706[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
+        if (ConstSet709[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
         var name_1275070401 = nimCopy(null, Temporary77.wordName, NTI33554449);
         var lowerName_1275070402 = toKebabCase__evalZevaluator_u61(name_1275070401);
         var customType_1275070403 = (lowerName_1275070402).concat([33]);
         var Temporary78 = rhs_1275069710[0];
-        if (ConstSet708[Temporary78.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary78.kind, NTI704643076)); }
+        if (ConstSet711[Temporary78.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary78.kind, NTI704643076)); }
         Temporary78.obj.name = nimCopy(null, name_1275070401, NTI33554449);
         if (!(has__coreZtypes_u2880(ctx_p3, customType_1275070403))) {
         set__coreZtypes_u1354(ctx_p3, customType_1275070403, ktgType__coreZtypes_u420(customType_1275070403, 0));
@@ -20829,7 +20866,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         var predicateName_1275070404 = (lowerName_1275070402).concat([63]);
         if (!(has__coreZtypes_u2880(ctx_p3, predicateName_1275070404))) {
         var Temporary79 = rhs_1275069710[0];
-        if (ConstSet709[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
+        if (ConstSet712[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
         HEX3Aenv_570425765.specs0 = nimCopy(null, Temporary79.obj.fieldSpecs, NTI704643138);
         Temporary80 = HEX3Aanonymous__evalZevaluator_u1990.bind(HEX3Aenv_570425765); Temporary80.ClP_0 = HEX3Aanonymous__evalZevaluator_u1990; Temporary80.ClE_0 = HEX3Aenv_570425765;
         set__coreZtypes_u1354(ctx_p3, predicateName_1275070404, {kind: 20, nativeFn: {name: nimCopy(null, predicateName_1275070404, NTI33554449), arity: 1, fn: Temporary80, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
@@ -20838,14 +20875,14 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
         var Temporary81 = val_1275069521;
-        if (ConstSet711[Temporary81.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary81.kind, NTI704643076)); }
+        if (ConstSet714[Temporary81.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary81.kind, NTI704643076)); }
         setThrough__coreZtypes_u2733(ctx_p3, Temporary81.wordName, rhs_1275069710[0]);
         result_1275069517 = rhs_1275069710[0];
         break BeforeRet;
         break;
       case 2:
         var Temporary82 = val_1275069521;
-        if (ConstSet712[Temporary82.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary82.kind, NTI704643076)); }
+        if (ConstSet715[Temporary82.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary82.kind, NTI704643076)); }
         result_1275069517 = get__coreZtypes_u563(ctx_p3, Temporary82.wordName);
         break BeforeRet;
         break;
@@ -20855,9 +20892,9 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         break;
       case 4:
           var Temporary84 = val_1275069521;
-          if (ConstSet713[Temporary84.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary84.kind, NTI704643076)); }
+          if (ConstSet716[Temporary84.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary84.kind, NTI704643076)); }
           if (eqStrings(Temporary84.wordName, [116,121,112,101])) Temporary83 = true; else {            var Temporary85 = val_1275069521;
-            if (ConstSet714[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
+            if (ConstSet717[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
             Temporary83 = nsuStartsWith(Temporary85.wordName, [116,121,112,101,47]);          }        if (Temporary83) {
         var ruleBlock_1275070489 = evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3);
         if (!((ruleBlock_1275070489.kind == 13))) {
@@ -20867,7 +20904,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         var guardBlock_1275070498 = [];
         var isEnum_1275070499 = false;
           var Temporary86 = val_1275069521;
-          if (ConstSet715[Temporary86.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary86.kind, NTI704643076)); }
+          if (ConstSet718[Temporary86.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary86.kind, NTI704643076)); }
         if (eqStrings(Temporary86.wordName, [116,121,112,101,47,119,104,101,114,101])) {
         var guardArg_1275070500 = evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3);
         if (!((guardArg_1275070500.kind == 13))) {
@@ -20875,23 +20912,23 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
         var Temporary87 = guardArg_1275070500;
-        if (ConstSet716[Temporary87.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary87.kind, NTI704643076)); }
+        if (ConstSet719[Temporary87.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary87.kind, NTI704643076)); }
         guardBlock_1275070498 = nimCopy(null, Temporary87.blockVals, NTI704643097);
         }
         else {
           var Temporary88 = val_1275069521;
-          if (ConstSet717[Temporary88.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary88.kind, NTI704643076)); }
+          if (ConstSet720[Temporary88.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary88.kind, NTI704643076)); }
         if (eqStrings(Temporary88.wordName, [116,121,112,101,47,101,110,117,109])) {
         isEnum_1275070499 = true;
         }
         }
         var isStruct_1275070505 = false;
         var Temporary89 = ruleBlock_1275070489;
-        if (ConstSet718[Temporary89.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary89.kind, NTI704643076)); }
+        if (ConstSet721[Temporary89.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary89.kind, NTI704643076)); }
         var ruleVals_1275070506 = nimCopy(null, Temporary89.blockVals, NTI704643097);
         if (((2 <= (ruleVals_1275070506).length) && !(isEnum_1275070499))) {
           if (!(ruleVals_1275070506[chckIndx(0, 0, (ruleVals_1275070506).length - 1)].kind == 23)) Temporary92 = false; else {            var Temporary93 = ruleVals_1275070506[chckIndx(0, 0, (ruleVals_1275070506).length - 1)];
-            if (ConstSet719[Temporary93.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary93.kind, NTI704643076)); }
+            if (ConstSet722[Temporary93.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary93.kind, NTI704643076)); }
             Temporary92 = (Temporary93.wordKind == 3);          }          if (!Temporary92) Temporary91 = false; else {            Temporary91 = (2 <= (ruleVals_1275070506).length);          }          if (!Temporary91) Temporary90 = false; else {            Temporary90 = (ruleVals_1275070506[chckIndx(1, 0, (ruleVals_1275070506).length - 1)].kind == 13);          }        if (Temporary90) {
         var hasBar_1275070525 = false;
         Label94: {
@@ -20903,16 +20940,16 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
               if (!(i_570425823 < L_570425824)) break Label96;
                 rv_1275070529 = ruleVals_1275070506[chckIndx(i_570425823, 0, (ruleVals_1275070506).length - 1)];
                   if (!(rv_1275070529.kind == 23)) Temporary98 = false; else {                    var Temporary99 = rv_1275070529;
-                    if (ConstSet720[Temporary99.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary99.kind, NTI704643076)); }
+                    if (ConstSet723[Temporary99.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary99.kind, NTI704643076)); }
                     Temporary98 = (Temporary99.wordKind == 0);                  }                  if (!Temporary98) Temporary97 = false; else {                    var Temporary100 = rv_1275070529;
-                    if (ConstSet721[Temporary100.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary100.kind, NTI704643076)); }
+                    if (ConstSet724[Temporary100.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary100.kind, NTI704643076)); }
                     Temporary97 = eqStrings(Temporary100.wordName, [124]);                  }                if (Temporary97) {
                 hasBar_1275070525 = true;
                 break Label94;
                 }
                 
                   if (!(rv_1275070529.kind == 21)) Temporary101 = false; else {                    var Temporary102 = rv_1275070529;
-                    if (ConstSet722[Temporary102.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'opSymbol\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary102.kind, NTI704643076)); }
+                    if (ConstSet725[Temporary102.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'opSymbol\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary102.kind, NTI704643076)); }
                     Temporary101 = eqStrings(Temporary102.opSymbol, [124]);                  }                if (Temporary101) {
                 hasBar_1275070525 = true;
                 break Label94;
@@ -20942,17 +20979,17 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
           var Temporary103 = val_1275069521;
-          if (ConstSet723[Temporary103.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary103.kind, NTI704643076)); }
+          if (ConstSet726[Temporary103.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary103.kind, NTI704643076)); }
         if (eqStrings(Temporary103.wordName, [99,111,110,115,116])) {
           if (!((pos_p2[pos_p2_Idx] < (vals_p1).length) && (vals_p1[chckIndx(pos_p2[pos_p2_Idx], 0, (vals_p1).length - 1)].kind == 23))) Temporary104 = false; else {            var Temporary105 = vals_p1[chckIndx(pos_p2[pos_p2_Idx], 0, (vals_p1).length - 1)];
-            if (ConstSet724[Temporary105.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary105.kind, NTI704643076)); }
+            if (ConstSet727[Temporary105.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary105.kind, NTI704643076)); }
             Temporary104 = (Temporary105.wordKind == 1);          }        if (Temporary104) {
         var setWord_1275070555 = vals_p1[chckIndx(pos_p2[pos_p2_Idx], 0, (vals_p1).length - 1)];
         pos_p2[pos_p2_Idx] = addInt(pos_p2[pos_p2_Idx], 1);
         var rhs_1275070560 = [evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3)];
         applyInfix__evalZevaluator_u603(eval_p0, rhs_1275070560, 0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3);
         var Temporary106 = setWord_1275070555;
-        if (ConstSet725[Temporary106.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary106.kind, NTI704643076)); }
+        if (ConstSet728[Temporary106.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary106.kind, NTI704643076)); }
         set__coreZtypes_u1354(ctx_p3, Temporary106.wordName, rhs_1275070560[0]);
         result_1275069517 = rhs_1275070560[0];
         break BeforeRet;
@@ -20963,12 +21000,12 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
           var Temporary108 = val_1275069521;
-          if (ConstSet726[Temporary108.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary108.kind, NTI704643076)); }
+          if (ConstSet729[Temporary108.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary108.kind, NTI704643076)); }
           if (eqStrings(Temporary108.wordName, [99,111,109,112,111,115,101])) Temporary107 = true; else {            var Temporary109 = val_1275069521;
-            if (ConstSet727[Temporary109.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary109.kind, NTI704643076)); }
+            if (ConstSet730[Temporary109.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary109.kind, NTI704643076)); }
             Temporary107 = nsuStartsWith(Temporary109.wordName, [99,111,109,112,111,115,101,47]);          }        if (Temporary107) {
         var Temporary110 = val_1275069521;
-        if (ConstSet728[Temporary110.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary110.kind, NTI704643076)); }
+        if (ConstSet731[Temporary110.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary110.kind, NTI704643076)); }
         var parts_1275070561 = nsuSplitChar(Temporary110.wordName, 47, (-1));
         var deep_1275070566 = contains__stdZenumutils_u50(parts_1275070561, [100,101,101,112]);
         var only_1275070571 = contains__stdZenumutils_u50(parts_1275070561, [111,110,108,121]);
@@ -20978,20 +21015,20 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         }
         
         var Temporary111 = arg_1275070572;
-        if (ConstSet732[Temporary111.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary111.kind, NTI704643076)); }
+        if (ConstSet735[Temporary111.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary111.kind, NTI704643076)); }
         result_1275069517 = ktgBlock__coreZtypes_u367(composeBlock__evalZevaluator_u2161(eval_p0, Temporary111.blockVals, ctx_p3, deep_1275070566, only_1275070571), 0);
         break BeforeRet;
         }
         
           var Temporary113 = val_1275069521;
-          if (ConstSet733[Temporary113.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary113.kind, NTI704643076)); }
+          if (ConstSet736[Temporary113.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary113.kind, NTI704643076)); }
           if (eqStrings(Temporary113.wordName, [112,97,114,115,101])) Temporary112 = true; else {            var Temporary114 = val_1275069521;
-            if (ConstSet734[Temporary114.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary114.kind, NTI704643076)); }
+            if (ConstSet737[Temporary114.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary114.kind, NTI704643076)); }
             Temporary112 = nsuStartsWith(Temporary114.wordName, [112,97,114,115,101,47]);          }        if (Temporary112) {
         var input_1275070626 = evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3);
         var rules_1275070627 = evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_p3);
         var Temporary115 = val_1275069521;
-        if (ConstSet735[Temporary115.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary115.kind, NTI704643076)); }
+        if (ConstSet738[Temporary115.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary115.kind, NTI704643076)); }
         result_1275069517 = eval_p0.parseFn(eval_p0, input_1275070626, rules_1275070627, eqStrings(Temporary115.wordName, [112,97,114,115,101,47,111,107,63]));
         break BeforeRet;
         }
@@ -21218,7 +21255,7 @@ function HEX3Aanonymous__evalZnatives_u217(args_p0, ep_p1, ep_p1_Idx) {
     if (isTruthy__coreZtypes_u3184(args_p0[chckIndx(0, 0, (args_p0).length - 1)])) {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 13)) {
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet736[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet739[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459618012 = evalBlock__evalZevaluator_u66(eval_1459618013, Temporary1.blockVals, eval_1459618013.currentCtx);
     break BeforeRet;
     }
@@ -21243,7 +21280,7 @@ function HEX3Aanonymous__evalZnatives_u226(args_p0, ep_p1, ep_p1_Idx) {
     if (isTruthy__coreZtypes_u3184(args_p0[chckIndx(0, 0, (args_p0).length - 1)])) {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 13)) {
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet737[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet740[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459618021 = evalBlock__evalZevaluator_u66(eval_1459618022, Temporary1.blockVals, eval_1459618022.currentCtx);
     break BeforeRet;
     }
@@ -21254,7 +21291,7 @@ function HEX3Aanonymous__evalZnatives_u226(args_p0, ep_p1, ep_p1_Idx) {
     else {
       if ((args_p0[chckIndx(2, 0, (args_p0).length - 1)].kind == 13)) {
       var Temporary2 = args_p0[chckIndx(2, 0, (args_p0).length - 1)];
-      if (ConstSet738[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet741[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       result_1459618021 = evalBlock__evalZevaluator_u66(eval_1459618022, Temporary2.blockVals, eval_1459618022.currentCtx);
       break BeforeRet;
       }
@@ -21279,7 +21316,7 @@ function HEX3Aanonymous__evalZnatives_u239(args_p0, ep_p1, ep_p1_Idx) {
     if (!(isTruthy__coreZtypes_u3184(args_p0[chckIndx(0, 0, (args_p0).length - 1)]))) {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 13)) {
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet739[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet742[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459618034 = evalBlock__evalZevaluator_u66(eval_1459618035, Temporary1.blockVals, eval_1459618035.currentCtx);
     break BeforeRet;
     }
@@ -21329,10 +21366,10 @@ function HEX3Aanonymous__evalZnatives_u317(args_p0, ep_p1, ep_p1_Idx) {
 
   BeforeRet: {
       if (!(args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 17)) Temporary1 = false; else {        var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet740[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet743[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = (0 < (Temporary2.ctx.instanceOf).length);      }    if (Temporary1) {
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet741[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet744[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     result_1459618112 = ktgType__coreZtypes_u420((toKebabCase__evalZevaluator_u61(Temporary3.ctx.instanceOf)).concat([33]), 0);
     break BeforeRet;
     }
@@ -21374,7 +21411,7 @@ function makeTypePredicate__evalZnatives_u325(expected_p0) {
 function HEX3Aanonymous__evalZnatives_u422(args_p0, ep_p1, ep_p1_Idx) {
   var result_1459618217 = null;
 
-    result_1459618217 = ktgLogic__coreZtypes_u328((ConstSet742[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined), 0);
+    result_1459618217 = ktgLogic__coreZtypes_u328((ConstSet745[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined), 0);
 
   return result_1459618217;
 
@@ -21383,7 +21420,7 @@ function HEX3Aanonymous__evalZnatives_u422(args_p0, ep_p1, ep_p1_Idx) {
 function HEX3Aanonymous__evalZnatives_u430(args_p0, ep_p1, ep_p1_Idx) {
   var result_1459618225 = null;
 
-    result_1459618225 = ktgLogic__coreZtypes_u328((ConstSet743[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined), 0);
+    result_1459618225 = ktgLogic__coreZtypes_u328((ConstSet746[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined), 0);
 
   return result_1459618225;
 
@@ -21409,7 +21446,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = typeArg_1459618236;
-    if (ConstSet744[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet747[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var tn_1459618246 = nimCopy(null, Temporary1.typeName, NTI33554449);
     if (contains__stdZenumutils_u50(builtinTypes_1459618230, tn_1459618246)) {
     result_1459618234 = ktgLogic__coreZtypes_u328(eqStrings(typeName__coreZtypes_u3187(value_1459618237), tn_1459618246), 0);
@@ -21417,7 +21454,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     if (eqStrings(tn_1459618246, [110,117,109,98,101,114,33])) {
-    result_1459618234 = ktgLogic__coreZtypes_u328((ConstSet745[value_1459618237.kind] != undefined), 0);
+    result_1459618234 = ktgLogic__coreZtypes_u328((ConstSet748[value_1459618237.kind] != undefined), 0);
     break BeforeRet;
     }
     
@@ -21427,7 +21464,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     if (eqStrings(tn_1459618246, [115,99,97,108,97,114,33])) {
-    result_1459618234 = ktgLogic__coreZtypes_u328((ConstSet746[value_1459618237.kind] != undefined), 0);
+    result_1459618234 = ktgLogic__coreZtypes_u328((ConstSet749[value_1459618237.kind] != undefined), 0);
     break BeforeRet;
     }
     
@@ -21447,7 +21484,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
     if (isCallable__evalZdialect_u42(predFn_1459618337)) {
     var predArgs_1459618342 = [value_1459618237];
     var Temporary2 = predFn_1459618337;
-    if (ConstSet747[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'nativeFn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet750[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'nativeFn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     result_1459618234 = Temporary2.nativeFn.fn(predArgs_1459618342, ep_p1, ep_p1_Idx);
     break BeforeRet;
     }
@@ -21460,7 +21497,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
     
     if ((typeArg_1459618236.kind == 13)) {
     var Temporary3 = typeArg_1459618236;
-    if (ConstSet748[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet751[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var ct_1459618351 = {rule: nimCopy(null, Temporary3.blockVals, NTI704643097), guard: [], isEnum: false, isStruct: true};
     result_1459618234 = ktgLogic__coreZtypes_u328(matchesCustomType__evalZevaluator_u2513(eval_1459618235, value_1459618237, ct_1459618351, eval_1459618235.currentCtx), 0);
     break BeforeRet;
@@ -21476,7 +21513,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
       var fs_1459618363 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
       var colontmp__570425446 = [];
       var Temporary5 = typeArg_1459618236;
-      if (ConstSet749[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet752[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       colontmp__570425446 = Temporary5.obj.fieldSpecs;
       var i_570425448 = 0;
       var L_570425449 = (colontmp__570425446).length;
@@ -21485,7 +21522,7 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570425448 < L_570425449)) break Label7;
             fs_1459618363 = colontmp__570425446[chckIndx(i_570425448, 0, (colontmp__570425446).length - 1)];
               var Temporary8 = value_1459618237;
-              if (ConstSet750[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet753[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             if (!(contains__coreZtypes_u621(Temporary8.ctx.entries, fs_1459618363.name))) {
             result_1459618234 = ktgLogic__coreZtypes_u328(false, 0);
             break BeforeRet;
@@ -21525,37 +21562,37 @@ function HEX3Aanonymous__evalZnatives_u644(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 13:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet751[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet754[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt((Temporary2.blockVals).length), 0);
       break;
     case 2:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet752[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet755[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt((Temporary3.strVal).length), 0);
       break;
     case 15:
       var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet753[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet756[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt(len__coreZequality_u172(Temporary4.mapEntries)), 0);
       break;
     case 16:
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet754[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet757[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt(len__coreZequality_u1268(Temporary5.setMembers)), 0);
       break;
     case 17:
       var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet755[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet758[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt(len__coreZequality_u172(Temporary6.ctx.entries)), 0);
       break;
     case 18:
       var Temporary7 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet756[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+      if (ConstSet759[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt(len__coreZequality_u172(Temporary7.obj.entries)), 0);
       break;
     case 14:
       var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet757[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet760[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(BigInt((Temporary8.parenVals).length), 0);
       break;
     default: 
@@ -21581,27 +21618,27 @@ function HEX3Aanonymous__evalZnatives_u874(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 13:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet758[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet761[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = ktgLogic__coreZtypes_u328(((Temporary2.blockVals).length == 0), 0);
       break;
     case 2:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet759[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet762[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = ktgLogic__coreZtypes_u328(((Temporary3.strVal).length == 0), 0);
       break;
     case 15:
       var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet760[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet763[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       Temporary1 = ktgLogic__coreZtypes_u328((len__coreZequality_u172(Temporary4.mapEntries) == 0), 0);
       break;
     case 17:
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet761[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet764[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary1 = ktgLogic__coreZtypes_u328((len__coreZequality_u172(Temporary5.ctx.entries) == 0), 0);
       break;
     case 18:
       var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet762[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet765[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       Temporary1 = ktgLogic__coreZtypes_u328((len__coreZequality_u172(Temporary6.obj.entries) == 0), 0);
       break;
     default: 
@@ -21632,29 +21669,29 @@ function seriesAt__evalZnatives_u170(val_p0, idx_p1, funcName_p2) {
     switch (val_p0.kind) {
     case 13:
         if ((idx_p1 < 0)) Temporary1 = true; else {          var Temporary2 = val_p0;
-          if (ConstSet763[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+          if (ConstSet766[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
           Temporary1 = ((Temporary2.blockVals).length <= idx_p1);        }      if (Temporary1) {
       var Temporary3 = val_p0;
-      if (ConstSet764[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet767[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       raiseException({kind: [114,97,110,103,101], message: (funcName_p2).concat([58,32,105,110,100,101,120,32,111,117,116,32,111,102,32,114,97,110,103,101,32,102,111,114,32,98,108,111,99,107,32,111,102,32,108,101,110,103,116,104,32],HEX24__systemZdollars_u14((Temporary3.blockVals).length)), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
       }
       
       var Temporary4 = val_p0;
-      if (ConstSet765[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet768[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       result_1459617966 = (Temporary5 = Temporary4.blockVals, Temporary5)[chckIndx(idx_p1, 0, (Temporary5).length - 1)];
       break BeforeRet;
       break;
     case 2:
         if ((idx_p1 < 0)) Temporary6 = true; else {          var Temporary7 = val_p0;
-          if (ConstSet766[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+          if (ConstSet769[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
           Temporary6 = ((Temporary7.strVal).length <= idx_p1);        }      if (Temporary6) {
       var Temporary8 = val_p0;
-      if (ConstSet767[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet770[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
       raiseException({kind: [114,97,110,103,101], message: (funcName_p2).concat([58,32,105,110,100,101,120,32,111,117,116,32,111,102,32,114,97,110,103,101,32,102,111,114,32,115,116,114,105,110,103,32,111,102,32,108,101,110,103,116,104,32],HEX24__systemZdollars_u14((Temporary8.strVal).length)), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
       }
       
       var Temporary9 = val_p0;
-      if (ConstSet768[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+      if (ConstSet771[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
       result_1459617966 = ktgString__coreZtypes_u324(nimCharToStr((Temporary10 = Temporary9.strVal, Temporary10)[chckIndx(idx_p1, 0, (Temporary10).length - 1)]), 0);
       break BeforeRet;
       break;
@@ -21696,12 +21733,12 @@ function HEX3Aanonymous__evalZnatives_u1054(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 13:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet769[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet772[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = subInt((Temporary2.blockVals).length, 1);
       break;
     case 2:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet770[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet773[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = subInt((Temporary3.strVal).length, 1);
       break;
     default: 
@@ -21725,7 +21762,7 @@ function HEX3Aanonymous__evalZnatives_u1062(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet771[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet774[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var idx_1459618862 = subInt(chckRange(Number(Temporary1.intVal), (-2147483648), 2147483647), 1);
     result_1459618857 = seriesAt__evalZnatives_u170(args_p0[chckIndx(0, 0, (args_p0).length - 1)], idx_1459618862, [112,105,99,107]);
 
@@ -21749,7 +21786,7 @@ function HEX3Aanonymous__evalZnatives_u1071(args_p0, ep_p1, ep_p1_Idx) {
       var v_1459618884 = null;
       var colontmp__570425452 = [];
       var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet772[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet775[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       colontmp__570425452 = Temporary2.blockVals;
       var i_570425453 = 0;
       var L_570425454 = (colontmp__570425452).length;
@@ -21758,7 +21795,7 @@ function HEX3Aanonymous__evalZnatives_u1071(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570425453 < L_570425454)) break Label4;
             v_1459618884 = colontmp__570425452[chckIndx(i_570425453, 0, (colontmp__570425452).length - 1)];
             var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-            if (ConstSet773[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+            if (ConstSet776[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
             Temporary5.blockVals.push(v_1459618884);;
             i_570425453 += 1;
             if (!(((colontmp__570425452).length == L_570425454))) {
@@ -21771,7 +21808,7 @@ function HEX3Aanonymous__evalZnatives_u1071(args_p0, ep_p1, ep_p1_Idx) {
     }
     else {
       var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet774[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet777[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     Temporary6.blockVals.push(args_p0[chckIndx(1, 0, (args_p0).length - 1)]);;
     }
     
@@ -21820,7 +21857,7 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
         var v_1459617820 = null;
         var colontmp__570425944 = [];
         var Temporary3 = val_p0;
-        if (ConstSet775[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+        if (ConstSet778[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         colontmp__570425944 = Temporary3.blockVals;
         var i_570425945 = 0;
         var L_570425946 = (colontmp__570425944).length;
@@ -21841,14 +21878,14 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       break;
     case 17:
       var Temporary6 = val_p0;
-      if (ConstSet776[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet779[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       var newCtx_1459617825 = newContext__coreZtypes_u456(Temporary6.ctx.parent);
       Label7: {
         var key_1459617830 = [];
         var v_1459617831 = null;
         var colontmp__570425949 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary8 = val_p0;
-        if (ConstSet777[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+        if (ConstSet780[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
         colontmp__570425949 = nimCopy(colontmp__570425949, Temporary8.ctx.entries, NTI704643106);
         var L_570425950 = len__coreZequality_u172(colontmp__570425949);
         if ((0 < colontmp__570425949.counter)) {
@@ -21877,7 +21914,7 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       break;
     case 2:
       var Temporary11 = val_p0;
-      if (ConstSet778[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+      if (ConstSet781[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
       Temporary1 = ktgString__coreZtypes_u324(Temporary11.strVal, 0);
       break;
     case 15:
@@ -21887,7 +21924,7 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
         var v_1459617854 = null;
         var colontmp__570425955 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary13 = val_p0;
-        if (ConstSet779[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+        if (ConstSet782[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
         colontmp__570425955 = nimCopy(colontmp__570425955, Temporary13.mapEntries, NTI704643106);
         var L_570425956 = len__coreZequality_u172(colontmp__570425955);
         if ((0 < colontmp__570425955.counter)) {
@@ -21916,7 +21953,7 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       break;
     case 16:
       var Temporary16 = val_p0;
-      if (ConstSet780[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+      if (ConstSet783[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
       Temporary1 = {kind: 16, setMembers: nimCopy(null, Temporary16.setMembers, NTI704643118), line: val_p0.line, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), ctx: null, obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
       break;
     case 18:
@@ -21926,7 +21963,7 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
         var v_1459617919 = null;
         var colontmp__570425961 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary18 = val_p0;
-        if (ConstSet781[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+        if (ConstSet784[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
         colontmp__570425961 = nimCopy(colontmp__570425961, Temporary18.obj.entries, NTI704643106);
         var L_570425962 = len__coreZequality_u172(colontmp__570425961);
         if ((0 < colontmp__570425961.counter)) {
@@ -21952,9 +21989,9 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
         
       };
       var Temporary21 = val_p0;
-      if (ConstSet782[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
+      if (ConstSet785[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
       var Temporary22 = val_p0;
-      if (ConstSet783[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+      if (ConstSet786[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
       Temporary1 = {kind: 18, obj: newObject__coreZtypes_u2946(newEntries_1459617913[0], Temporary21.obj.fieldSpecs, Temporary22.obj.name), line: val_p0.line, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
       break;
     default: 
@@ -21987,12 +22024,12 @@ function HEX3Aanonymous__evalZnatives_u1114(args_p0, ep_p1, ep_p1_Idx) {
       }
       
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet784[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet787[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = ktgBlock__coreZtypes_u367(HEX5BHEX5D__evalZnatives_u1133(Temporary2.blockVals, HEX2EHEX2E__stdZenumutils_u105(0, 1)), 0);
       break;
     case 2:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet785[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet788[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = ktgString__coreZtypes_u324(Temporary3.strVal, 0);
       break;
     case 17:
@@ -22002,14 +22039,14 @@ function HEX3Aanonymous__evalZnatives_u1114(args_p0, ep_p1, ep_p1_Idx) {
       }
       
       var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet786[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet789[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       var newCtx_1459618949 = newContext__coreZtypes_u456(Temporary4.ctx.parent);
       Label5: {
         var key_1459618954 = [];
         var v_1459618955 = null;
         var colontmp__570425457 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet787[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+        if (ConstSet790[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
         colontmp__570425457 = nimCopy(colontmp__570425457, Temporary6.ctx.entries, NTI704643106);
         var L_570425458 = len__coreZequality_u172(colontmp__570425457);
         if ((0 < colontmp__570425457.counter)) {
@@ -22069,16 +22106,16 @@ function HEX3Aanonymous__evalZnatives_u1188(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 13) && (args_p0[chckIndx(2, 0, (args_p0).length - 1)].kind == 0))) {
     var Temporary1 = args_p0[chckIndx(2, 0, (args_p0).length - 1)];
-    if (ConstSet788[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet791[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var idx_1459618992 = subInt(chckRange(Number(Temporary1.intVal), (-2147483648), 2147483647), 1);
       if ((idx_1459618992 < 0)) Temporary2 = true; else {        var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet789[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+        if (ConstSet792[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         Temporary2 = ((Temporary3.blockVals).length < idx_1459618992);      }    if (Temporary2) {
     raiseException({kind: [114,97,110,103,101], message: [105,110,115,101,114,116,32,105,110,100,101,120,32,111,117,116,32,111,102,32,114,97,110,103,101], data: args_p0[chckIndx(2, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet790[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet793[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     insert__evalZnatives_u1204(Temporary4, "blockVals", args_p0[chckIndx(1, 0, (args_p0).length - 1)], chckRange(idx_1459618992, 0, 2147483647));
     result_1459618983 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     break BeforeRet;
@@ -22086,13 +22123,13 @@ function HEX3Aanonymous__evalZnatives_u1188(args_p0, ep_p1, ep_p1_Idx) {
     
     if ((((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2)) && (args_p0[chckIndx(2, 0, (args_p0).length - 1)].kind == 0))) {
     var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet791[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+    if (ConstSet794[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     var s_1459619034 = nimCopy(null, Temporary5.strVal, NTI33554449);
     var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet792[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet795[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     var ins_1459619035 = nimCopy(null, Temporary6.strVal, NTI33554449);
     var Temporary7 = args_p0[chckIndx(2, 0, (args_p0).length - 1)];
-    if (ConstSet793[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet796[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     var idx_1459619036 = subInt(chckRange(Number(Temporary7.intVal), (-2147483648), 2147483647), 1);
     if (((idx_1459619036 < 0) || ((s_1459619034).length < idx_1459619036))) {
     raiseException({kind: [114,97,110,103,101], message: [105,110,115,101,114,116,32,105,110,100,101,120,32,111,117,116,32,111,102,32,114,97,110,103,101], data: args_p0[chckIndx(2, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -22132,16 +22169,16 @@ function HEX3Aanonymous__evalZnatives_u1287(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 13) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0))) {
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet794[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet797[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var idx_1459619091 = subInt(chckRange(Number(Temporary1.intVal), (-2147483648), 2147483647), 1);
       if ((idx_1459619091 < 0)) Temporary2 = true; else {        var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet795[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+        if (ConstSet798[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         Temporary2 = ((Temporary3.blockVals).length <= idx_1459619091);      }    if (Temporary2) {
     raiseException({kind: [114,97,110,103,101], message: [114,101,109,111,118,101,32,105,110,100,101,120,32,111,117,116,32,111,102,32,114,97,110,103,101], data: args_p0[chckIndx(1, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet796[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet799[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     delete__evalZnatives_u1303(Temporary4, "blockVals", chckRange(idx_1459619091, 0, 2147483647));
     result_1459619082 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     break BeforeRet;
@@ -22149,10 +22186,10 @@ function HEX3Aanonymous__evalZnatives_u1287(args_p0, ep_p1, ep_p1_Idx) {
     
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0))) {
     var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet797[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+    if (ConstSet800[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     var s_1459619131 = nimCopy(null, Temporary5.strVal, NTI33554449);
     var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet798[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet801[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     var idx_1459619132 = subInt(chckRange(Number(Temporary6.intVal), (-2147483648), 2147483647), 1);
     if (((idx_1459619132 < 0) || ((s_1459619131).length <= idx_1459619132))) {
     raiseException({kind: [114,97,110,103,101], message: [114,101,109,111,118,101,32,105,110,100,101,120,32,111,117,116,32,111,102,32,114,97,110,103,101], data: args_p0[chckIndx(1, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -22191,10 +22228,10 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 13) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 23))) {
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet799[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet802[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var name_1459619187 = nimCopy(null, Temporary1.wordName, NTI33554449);
     var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet800[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet803[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var blk_1459619188 = nimCopy(null, Temporary2.blockVals, NTI704643097);
     Label3: {
       var i_1459619196 = 0;
@@ -22206,7 +22243,7 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570425464 < colontmp__570425463)) break Label5;
             i_1459619196 = i_570425464;
               if (!(blk_1459619188[chckIndx(i_1459619196, 0, (blk_1459619188).length - 1)].kind == 23)) Temporary6 = false; else {                var Temporary7 = blk_1459619188[chckIndx(i_1459619196, 0, (blk_1459619188).length - 1)];
-                if (ConstSet801[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet804[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary6 = eqStrings(nsuToLowerAsciiStr(Temporary7.wordName), nsuToLowerAsciiStr(name_1459619187));              }            if (Temporary6) {
             result_1459619178 = blk_1459619188[chckIndx(addInt(i_1459619196, 1), 0, (blk_1459619188).length - 1)];
             break BeforeRet;
@@ -22223,13 +22260,13 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 15)) {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 23)) {
     var Temporary9 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet802[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet805[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     Temporary8 = Temporary9.wordName;
     }
     else {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2)) {
     var Temporary10 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet803[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+    if (ConstSet806[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     Temporary8 = Temporary10.strVal;
     }
     else {
@@ -22238,10 +22275,10 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
     }
     var name_1459619213 = nimCopy(null, Temporary8, NTI33554449);
       var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet804[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+      if (ConstSet807[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
     if (contains__coreZtypes_u621(Temporary11.mapEntries, name_1459619213)) {
     var Temporary12 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet805[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+    if (ConstSet808[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
     result_1459619178 = (Temporary13 = HEX5BHEX5D__coreZtypes_u981(Temporary12.mapEntries, name_1459619213), Temporary13)[0][Temporary13[1]];
     break BeforeRet;
     }
@@ -22253,7 +22290,7 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 17)) {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 23)) {
     var Temporary15 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet806[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+    if (ConstSet809[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
     Temporary14 = Temporary15.wordName;
     }
     else {
@@ -22262,10 +22299,10 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
     
     var name_1459619334 = nimCopy(null, Temporary14, NTI33554449);
       var Temporary16 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet807[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+      if (ConstSet810[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
     if (contains__coreZtypes_u621(Temporary16.ctx.entries, name_1459619334)) {
     var Temporary17 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet808[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+    if (ConstSet811[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
     result_1459619178 = (Temporary18 = HEX5BHEX5D__coreZtypes_u981(Temporary17.ctx.entries, name_1459619334), Temporary18)[0][Temporary18[1]];
     break BeforeRet;
     }
@@ -22302,7 +22339,7 @@ function HEX3Aanonymous__evalZnatives_u1655(args_p0, ep_p1, ep_p1_Idx) {
         var v_1459619454 = null;
         var colontmp__570425467 = [];
         var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet809[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet812[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         colontmp__570425467 = Temporary2.blockVals;
         var i_570425468 = 0;
         var L_570425469 = (colontmp__570425467).length;
@@ -22329,9 +22366,9 @@ function HEX3Aanonymous__evalZnatives_u1655(args_p0, ep_p1, ep_p1_Idx) {
     case 2:
       if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2)) {
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet810[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet813[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet811[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet814[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       result_1459619450 = ktgLogic__coreZtypes_u328(contains__pureZstrutils_u1879(Temporary5.strVal, Temporary6.strVal), 0);
       break BeforeRet;
       }
@@ -22340,18 +22377,18 @@ function HEX3Aanonymous__evalZnatives_u1655(args_p0, ep_p1, ep_p1_Idx) {
     case 15:
       if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 23)) {
       var Temporary7 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet812[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+      if (ConstSet815[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
       var Temporary8 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet813[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet816[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
       result_1459619450 = ktgLogic__coreZtypes_u328(contains__coreZtypes_u621(Temporary7.mapEntries, Temporary8.wordName), 0);
       break BeforeRet;
       }
       
       if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2)) {
       var Temporary9 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet814[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+      if (ConstSet817[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
       var Temporary10 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet815[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+      if (ConstSet818[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
       result_1459619450 = ktgLogic__coreZtypes_u328(contains__coreZtypes_u621(Temporary9.mapEntries, Temporary10.strVal), 0);
       break BeforeRet;
       }
@@ -22360,9 +22397,9 @@ function HEX3Aanonymous__evalZnatives_u1655(args_p0, ep_p1, ep_p1_Idx) {
     case 17:
       if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 23)) {
       var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet816[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+      if (ConstSet819[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
       var Temporary12 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet817[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+      if (ConstSet820[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
       result_1459619450 = ktgLogic__coreZtypes_u328(contains__coreZtypes_u621(Temporary11.ctx.entries, Temporary12.wordName), 0);
       break BeforeRet;
       }
@@ -22370,7 +22407,7 @@ function HEX3Aanonymous__evalZnatives_u1655(args_p0, ep_p1, ep_p1_Idx) {
       break;
     case 16:
       var Temporary13 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet818[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+      if (ConstSet821[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
       result_1459619450 = ktgLogic__coreZtypes_u328(contains__coreZequality_u1527(Temporary13.setMembers, HEX24__coreZtypes_u3190(args_p0[chckIndx(1, 0, (args_p0).length - 1)])), 0);
       break BeforeRet;
       break;
@@ -22406,7 +22443,7 @@ function HEX3Aanonymous__evalZnatives_u1894(args_p0, ep_p1, ep_p1_Idx) {
       var item_1459619702 = null;
       var colontmp__570425472 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet819[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet822[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       colontmp__570425472 = Temporary2.blockVals;
       var i_570425473 = 0;
       var L_570425474 = (colontmp__570425472).length;
@@ -22441,7 +22478,7 @@ function HEX3Aanonymous__evalZnatives_u1894(args_p0, ep_p1, ep_p1_Idx) {
         var v_1459619716 = null;
         var colontmp__570425477 = [];
         var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet820[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+        if (ConstSet823[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
         colontmp__570425477 = Temporary6.blockVals;
         var i_570425478 = 0;
         var L_570425479 = (colontmp__570425477).length;
@@ -22469,7 +22506,7 @@ function HEX3Aanonymous__evalZnatives_u1894(args_p0, ep_p1, ep_p1_Idx) {
     case 2:
       var needle_1459619717 = HEX24__coreZtypes_u3190(args_p0[chckIndx(1, 0, (args_p0).length - 1)]);
       var Temporary9 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet821[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+      if (ConstSet824[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
       var idx_1459619718 = nsuFindStr(Temporary9.strVal, needle_1459619717, 0, (-1));
       if ((0 <= idx_1459619718)) {
       result_1459619689 = ktgInt__coreZtypes_u163(BigInt(addInt(idx_1459619718, 1)), 0);
@@ -22507,7 +22544,7 @@ function HEX3Aanonymous__evalZnatives_u1936(args_p0, ep_p1, ep_p1_Idx) {
         var i_1459619745 = 0;
         var colontmp__570425482 = 0;
         var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet822[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet825[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         colontmp__570425482 = subInt((Temporary2.blockVals).length, 1);
         var res_570425483 = colontmp__570425482;
         Label3: {
@@ -22515,7 +22552,7 @@ function HEX3Aanonymous__evalZnatives_u1936(args_p0, ep_p1, ep_p1_Idx) {
             if (!(0 <= res_570425483)) break Label4;
               i_1459619745 = res_570425483;
               var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-              if (ConstSet823[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+              if (ConstSet826[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               reversed_1459619736.push((Temporary6 = Temporary5.blockVals, Temporary6)[chckIndx(i_1459619745, 0, (Temporary6).length - 1)]);;
               res_570425483 = subInt(res_570425483, 1);
             }
@@ -22530,7 +22567,7 @@ function HEX3Aanonymous__evalZnatives_u1936(args_p0, ep_p1, ep_p1_Idx) {
         var i_1459619756 = 0;
         var colontmp__570425486 = 0;
         var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet824[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+        if (ConstSet827[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
         colontmp__570425486 = subInt((Temporary8.strVal).length, 1);
         var res_570425487 = colontmp__570425486;
         Label9: {
@@ -22538,7 +22575,7 @@ function HEX3Aanonymous__evalZnatives_u1936(args_p0, ep_p1, ep_p1_Idx) {
             if (!(0 <= res_570425487)) break Label10;
               i_1459619756 = res_570425487;
               var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-              if (ConstSet825[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet828[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               addChar(s_1459619750, (Temporary12 = Temporary11.strVal, Temporary12)[chckIndx(i_1459619756, 0, (Temporary12).length - 1)]);;
               res_570425487 = subInt(res_570425487, 1);
             }
@@ -22594,7 +22631,7 @@ function HEX3Aanonymous__evalZnatives_u1969(args_p0, ep_p1, ep_p1_Idx) {
       var v_1459619786 = null;
       var colontmp__570425490 = [];
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet826[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet829[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       colontmp__570425490 = Temporary3.blockVals;
       var i_570425491 = 0;
       var L_570425492 = (colontmp__570425490).length;
@@ -22604,18 +22641,18 @@ function HEX3Aanonymous__evalZnatives_u1969(args_p0, ep_p1, ep_p1_Idx) {
             v_1459619786 = colontmp__570425490[chckIndx(i_570425491, 0, (colontmp__570425490).length - 1)];
             if ((v_1459619786.kind == 14)) {
             var Temporary6 = v_1459619786;
-            if (ConstSet827[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+            if (ConstSet830[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
             parts_1459619782.push(HEX24__coreZtypes_u3190(evalBlock__evalZevaluator_u66(eval_1459619765, Temporary6.parenVals, eval_1459619765.currentCtx)));;
             }
             else {
               if (!(v_1459619786.kind == 23)) Temporary7 = false; else {                var Temporary8 = v_1459619786;
-                if (ConstSet828[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+                if (ConstSet831[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
                 Temporary7 = (Temporary8.wordKind == 0);              }            if (Temporary7) {
               var Temporary9 = v_1459619786;
-              if (ConstSet829[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+              if (ConstSet832[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             if (contains__evalZevaluator_u1123(Temporary9.wordName, 47)) {
             var Temporary10 = v_1459619786;
-            if (ConstSet830[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+            if (ConstSet833[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
             var tmpTuple_1459619807 = parsePath__evalZevaluator_u1037(Temporary10.wordName);
             var head_1459619808 = nimCopy(null, tmpTuple_1459619807["Field0"], NTI33554449);
             var segments_1459619809 = nimCopy(null, tmpTuple_1459619807["Field1"], NTI1275069017);
@@ -22624,7 +22661,7 @@ function HEX3Aanonymous__evalZnatives_u1969(args_p0, ep_p1, ep_p1_Idx) {
             }
             else {
               var Temporary11 = v_1459619786;
-              if (ConstSet831[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet834[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
             parts_1459619782.push(HEX24__coreZtypes_u3190(get__coreZtypes_u563(eval_1459619765.currentCtx, Temporary11.wordName)));;
             }
             
@@ -22660,8 +22697,8 @@ function HEX3Aanonymous__evalZnatives_u2040(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2)) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet832[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
-    result_1459619835 = ktgString__coreZtypes_u324(nsuStrip(Temporary1.strVal, true, true, ConstSet833), 0);
+    if (ConstSet835[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    result_1459619835 = ktgString__coreZtypes_u324(nsuStrip(Temporary1.strVal, true, true, ConstSet836), 0);
     break BeforeRet;
     }
     
@@ -22675,7 +22712,7 @@ function HEX3Aanonymous__evalZnatives_u2040(args_p0, ep_p1, ep_p1_Idx) {
 function nsuToUpperAsciiChar(c_p0) {
   var result_1023410282 = 0;
 
-    if ((ConstSet834[c_p0] != undefined)) {
+    if ((ConstSet837[c_p0] != undefined)) {
     result_1023410282 = (c_p0 ^ 32);
     }
     else {
@@ -22718,7 +22755,7 @@ function HEX3Aanonymous__evalZnatives_u2048(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2)) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet835[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet838[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459619843 = ktgString__coreZtypes_u324(nsuToUpperAsciiStr(Temporary1.strVal), 0);
     break BeforeRet;
     }
@@ -22738,7 +22775,7 @@ function HEX3Aanonymous__evalZnatives_u2056(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2)) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet836[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet839[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459619851 = ktgString__coreZtypes_u324(nsuToLowerAsciiStr(Temporary1.strVal), 0);
     break BeforeRet;
     }
@@ -22759,9 +22796,9 @@ function HEX3Aanonymous__evalZnatives_u2064(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2))) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet837[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet840[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet838[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet841[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     result_1459619859 = ktgLogic__coreZtypes_u328(nsuStartsWith(Temporary1.strVal, Temporary2.strVal), 0);
     break BeforeRet;
     }
@@ -22782,9 +22819,9 @@ function HEX3Aanonymous__evalZnatives_u2076(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2))) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet839[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet842[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet840[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet843[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     result_1459619871 = ktgLogic__coreZtypes_u328(nsuEndsWith(Temporary1.strVal, Temporary2.strVal), 0);
     break BeforeRet;
     }
@@ -22816,7 +22853,7 @@ function HEX3Aanonymous__evalZnatives_u2088(args_p0, ep_p1, ep_p1_Idx) {
     var fill_1459619894 = HEX24__coreZtypes_u3190(args_p0[chckIndx(2, 0, (args_p0).length - 1)]);
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet841[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet844[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     Temporary1 = chckRange(Number(Temporary2.intVal), (-2147483648), 2147483647);
     }
     else {
@@ -22825,7 +22862,7 @@ function HEX3Aanonymous__evalZnatives_u2088(args_p0, ep_p1, ep_p1_Idx) {
     
     var width_1459619899 = Temporary1;
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet842[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet845[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var s_1459619900 = nimCopy(null, Temporary3.strVal, NTI33554449);
     Label4: {
         Label5: while (true) {
@@ -22846,7 +22883,7 @@ function HEX3Aanonymous__evalZnatives_u2088(args_p0, ep_p1, ep_p1_Idx) {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 13)) {
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary7 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet843[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet846[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     Temporary6 = chckRange(Number(Temporary7.intVal), (-2147483648), 2147483647);
     }
     else {
@@ -22855,21 +22892,21 @@ function HEX3Aanonymous__evalZnatives_u2088(args_p0, ep_p1, ep_p1_Idx) {
     
     var width_1459619909 = Temporary6;
     var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet844[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+    if (ConstSet847[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
     var blk_1459619925 = ktgBlock__coreZtypes_u367(HEX5BHEX5D__evalZnatives_u1133(Temporary8.blockVals, HEX2EHEX2E__stdZenumutils_u105(0, 1)), 0);
     Label9: {
         Label10: while (true) {
           var Temporary11 = blk_1459619925;
-          if (ConstSet845[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+          if (ConstSet848[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
         if (!((Temporary11.blockVals).length < width_1459619909)) break Label10;
           if (isRight_1459619889) {
           var Temporary12 = blk_1459619925;
-          if (ConstSet846[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+          if (ConstSet849[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
           Temporary12.blockVals.push(args_p0[chckIndx(2, 0, (args_p0).length - 1)]);;
           }
           else {
             var Temporary13 = blk_1459619925;
-            if (ConstSet847[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+            if (ConstSet850[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
           insert__evalZnatives_u1204(Temporary13, "blockVals", args_p0[chckIndx(2, 0, (args_p0).length - 1)], 0);
           }
           
@@ -22895,9 +22932,9 @@ function HEX3Aanonymous__evalZnatives_u2156(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2))) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet848[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet851[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet849[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet852[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var parts_1459619960 = nsuSplitString(Temporary1.strVal, Temporary2.strVal, (-1));
     var vals_1459619965 = [];
     Label3: {
@@ -22949,35 +22986,35 @@ function HEX3Aanonymous__evalZnatives_u2182(args_p0, ep_p1, ep_p1_Idx) {
     if ((((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2)) && (args_p0[chckIndx(2, 0, (args_p0).length - 1)].kind == 2))) {
     if (firstOnly_1459619983) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet850[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet853[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet851[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet854[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var idx_1459619996 = nsuFindStr(Temporary1.strVal, Temporary2.strVal, 0, (-1));
     if ((idx_1459619996 < 0)) {
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet852[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet855[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     result_1459619977 = ktgString__coreZtypes_u324(Temporary3.strVal, 0);
     break BeforeRet;
     }
     
     var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet853[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet856[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     var Temporary5 = args_p0[chckIndx(2, 0, (args_p0).length - 1)];
-    if (ConstSet854[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+    if (ConstSet857[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet855[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet858[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     var Temporary7 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet856[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet859[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     result_1459619977 = ktgString__coreZtypes_u324((HEX5BHEX5D__pureZstrutils_u1280(Temporary4.strVal, HEX2EHEX2E__stdZstrbasics_u48(0, subInt(idx_1459619996, 1)))).concat(Temporary5.strVal,HEX5BHEX5D__pureZstrutils_u1308(Temporary6.strVal, HEX2EHEX2E__stdZenumutils_u105(addInt(idx_1459619996, (Temporary7.strVal).length), 1))), 0);
     break BeforeRet;
     }
     
     var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet857[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+    if (ConstSet860[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
     var Temporary9 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet858[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet861[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     var Temporary10 = args_p0[chckIndx(2, 0, (args_p0).length - 1)];
-    if (ConstSet859[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+    if (ConstSet862[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     result_1459619977 = ktgString__coreZtypes_u324(nsuReplaceStr(Temporary8.strVal, Temporary9.strVal, Temporary10.strVal), 0);
     break BeforeRet;
     }
@@ -22989,7 +23026,7 @@ function HEX3Aanonymous__evalZnatives_u2182(args_p0, ep_p1, ep_p1_Idx) {
       var v_1459620052 = null;
       var colontmp__570425501 = [];
       var Temporary12 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet860[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+      if (ConstSet863[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
       colontmp__570425501 = Temporary12.blockVals;
       var i_570425502 = 0;
       var L_570425503 = (colontmp__570425501).length;
@@ -23033,7 +23070,7 @@ function HEX3Aanonymous__evalZnatives_u2278(args_p0, ep_p1, ep_p1_Idx) {
 
   var result_1459620073 = null;
 
-    if (!((ConstSet861[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined))) {
+    if (!((ConstSet864[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined))) {
     raiseException({kind: [116,121,112,101], message: ([115,117,98,115,101,116,32,101,120,112,101,99,116,115,32,115,116,114,105,110,103,33,32,111,114,32,98,108,111,99,107,33,44,32,103,111,116,32]).concat(typeName__coreZtypes_u3187(args_p0[chckIndx(0, 0, (args_p0).length - 1)])), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
@@ -23042,10 +23079,10 @@ function HEX3Aanonymous__evalZnatives_u2278(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet862[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet865[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var start_1459620086 = subInt(chckRange(Number(Temporary1.intVal), (-2147483648), 2147483647), 1);
     var Temporary2 = args_p0[chckIndx(2, 0, (args_p0).length - 1)];
-    if (ConstSet863[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet866[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var length_1459620087 = chckRange(Number(Temporary2.intVal), (-2147483648), 2147483647);
     if ((length_1459620087 < 0)) {
     raiseException({kind: [114,97,110,103,101], message: [115,117,98,115,101,116,32,108,101,110,103,116,104,32,109,117,115,116,32,98,101,32,110,111,110,45,110,101,103,97,116,105,118,101], data: args_p0[chckIndx(2, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -23054,7 +23091,7 @@ function HEX3Aanonymous__evalZnatives_u2278(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 2:
       var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet864[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet867[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       var s_1459620088 = nimCopy(null, Temporary4.strVal, NTI33554449);
       if (((start_1459620086 < 0) || ((s_1459620088).length <= start_1459620086))) {
       raiseException({kind: [114,97,110,103,101], message: [115,117,98,115,101,116,32,115,116,97,114,116,32,111,117,116,32,111,102,32,114,97,110,103,101], data: args_p0[chckIndx(1, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -23065,7 +23102,7 @@ function HEX3Aanonymous__evalZnatives_u2278(args_p0, ep_p1, ep_p1_Idx) {
       break;
     case 13:
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet865[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet868[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       var b_1459620114 = nimCopy(null, Temporary5.blockVals, NTI704643097);
       if (((start_1459620086 < 0) || ((b_1459620114).length <= start_1459620086))) {
       raiseException({kind: [114,97,110,103,101], message: [115,117,98,115,101,116,32,115,116,97,114,116,32,111,117,116,32,111,102,32,114,97,110,103,101], data: args_p0[chckIndx(1, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -23097,7 +23134,7 @@ function HEX3Aanonymous__evalZnatives_u2365(args_p0, ep_p1, ep_p1_Idx) {
     var childCtx_1459620166 = child__coreZtypes_u2943(eval_1459620161.currentCtx);
     childCtx_1459620166.localOnly = true;
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet866[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet869[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459620160 = evalBlock__evalZevaluator_u66(eval_1459620161, Temporary1.blockVals, childCtx_1459620166);
 
   return result_1459620160;
@@ -23119,13 +23156,13 @@ function HEX3Aanonymous__evalZnatives_u2375(args_p0, ep_p1, ep_p1_Idx) {
     Label1: {
         Label2: while (true) {
           var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet867[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+          if (ConstSet870[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         if (!(pos_1459620181[0] < (Temporary3.blockVals).length)) break Label2;
           var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet868[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+          if (ConstSet871[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
           var r_1459620185 = [evalNext__evalZevaluator_u70(eval_1459620171, Temporary4.blockVals, pos_1459620181, 0, eval_1459620171.currentCtx)];
           var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet869[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet872[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           applyInfix__evalZevaluator_u603(eval_1459620171, r_1459620185, 0, Temporary5.blockVals, pos_1459620181, 0, eval_1459620171.currentCtx);
           results_1459620180.push(r_1459620185[0]);;
         }
@@ -23155,13 +23192,13 @@ function HEX3Aanonymous__evalZnatives_u2398(args_p0, ep_p1, ep_p1_Idx) {
     Label1: {
         Label2: while (true) {
           var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet870[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+          if (ConstSet873[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         if (!(pos_1459620199[0] < (Temporary3.blockVals).length)) break Label2;
           var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet871[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+          if (ConstSet874[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
           var r_1459620203 = [evalNext__evalZevaluator_u70(eval_1459620194, Temporary4.blockVals, pos_1459620199, 0, eval_1459620194.currentCtx)];
           var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet872[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet875[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           applyInfix__evalZevaluator_u603(eval_1459620194, r_1459620203, 0, Temporary5.blockVals, pos_1459620199, 0, eval_1459620194.currentCtx);
           if (!(isTruthy__coreZtypes_u3184(r_1459620203[0]))) {
           result_1459620193 = ktgLogic__coreZtypes_u328(false, 0);
@@ -23195,13 +23232,13 @@ function HEX3Aanonymous__evalZnatives_u2412(args_p0, ep_p1, ep_p1_Idx) {
     Label1: {
         Label2: while (true) {
           var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet873[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+          if (ConstSet876[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         if (!(pos_1459620213[0] < (Temporary3.blockVals).length)) break Label2;
           var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet874[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+          if (ConstSet877[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
           var r_1459620217 = [evalNext__evalZevaluator_u70(eval_1459620208, Temporary4.blockVals, pos_1459620213, 0, eval_1459620208.currentCtx)];
           var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-          if (ConstSet875[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet878[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           applyInfix__evalZevaluator_u603(eval_1459620208, r_1459620217, 0, Temporary5.blockVals, pos_1459620213, 0, eval_1459620208.currentCtx);
           if (isTruthy__coreZtypes_u3184(r_1459620217[0])) {
           result_1459620207 = ktgLogic__coreZtypes_u328(true, 0);
@@ -23234,7 +23271,7 @@ function HEX3Aanonymous__evalZnatives_u2426(args_p0, ep_p1, ep_p1_Idx) {
         var key_1459620508 = [];
         var colontmp__570425509 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet876[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet879[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         colontmp__570425509 = nimCopy(colontmp__570425509, Temporary2.ctx.entries, NTI704643106);
         var L_570425511 = len__coreZequality_u172(colontmp__570425509);
         if ((0 < colontmp__570425509.counter)) {
@@ -23264,7 +23301,7 @@ function HEX3Aanonymous__evalZnatives_u2426(args_p0, ep_p1, ep_p1_Idx) {
         var key_1459620517 = [];
         var colontmp__570425516 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet877[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+        if (ConstSet880[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
         colontmp__570425516 = nimCopy(colontmp__570425516, Temporary6.obj.entries, NTI704643106);
         var L_570425517 = len__coreZequality_u172(colontmp__570425516);
         if ((0 < colontmp__570425516.counter)) {
@@ -23309,12 +23346,12 @@ function getEntries__evalZnatives_u2745(val_p0) {
     switch (val_p0.kind) {
     case 17:
       var Temporary2 = val_p0;
-      if (ConstSet878[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet881[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Temporary2.ctx.entries;
       break;
     case 18:
       var Temporary3 = val_p0;
-      if (ConstSet879[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet882[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.obj.entries;
       break;
     default: 
@@ -23429,7 +23466,7 @@ function HEX3Aanonymous__evalZnatives_u2798(args_p0, ep_p1, ep_p1_Idx) {
     var ctxInner_1459620599 = newContext__coreZtypes_u456(eval_1459620594.currentCtx);
     ctxInner_1459620599.localOnly = true;
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet880[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet883[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     (evalBlock__evalZevaluator_u66(eval_1459620594, Temporary1.blockVals, ctxInner_1459620599));
     result_1459620593 = {kind: 17, ctx: ctxInner_1459620599, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
     break BeforeRet;
@@ -23460,7 +23497,7 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
         var v_1459620626 = null;
         var colontmp__570425532 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary3 = val_p0;
-        if (ConstSet881[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+        if (ConstSet884[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         colontmp__570425532 = nimCopy(colontmp__570425532, Temporary3.ctx.entries, NTI704643106);
         var L_570425533 = len__coreZequality_u172(colontmp__570425532);
         if ((0 < colontmp__570425532.counter)) {
@@ -23501,7 +23538,7 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
         var v_1459620737 = null;
         var colontmp__570425538 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary8 = val_p0;
-        if (ConstSet882[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+        if (ConstSet885[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
         colontmp__570425538 = nimCopy(colontmp__570425538, Temporary8.obj.entries, NTI704643106);
         var L_570425539 = len__coreZequality_u172(colontmp__570425538);
         if ((0 < colontmp__570425538.counter)) {
@@ -23533,9 +23570,9 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
         
       };
       var Temporary11 = val_p0;
-      if (ConstSet883[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+      if (ConstSet886[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
       var Temporary12 = val_p0;
-      if (ConstSet884[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+      if (ConstSet887[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
       Temporary6 = {kind: 18, obj: newObject__coreZtypes_u2946(entries_1459620731[0], Temporary11.obj.fieldSpecs, Temporary12.obj.name), line: val_p0.line, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
       }
       else {
@@ -23586,10 +23623,10 @@ function HEX3Aanonymous__evalZnatives_u3061(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet885[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet888[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var spec_1459620866 = parseFuncSpec__coreZtypes_u3312(Temporary1.blockVals);
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet886[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet889[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var fn_1459620867 = {params: nimCopy(null, spec_1459620866.params, NTI704643140), refinements: nimCopy(null, spec_1459620866.refinements, NTI704643141), returnType: nimCopy(null, spec_1459620866.returnType, NTI33554449), body: nimCopy(null, Temporary2.blockVals, NTI704643097), closure: eval_1459620857.currentCtx};
     result_1459620856 = {kind: 19, fn: fn_1459620867, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
 
@@ -23608,7 +23645,7 @@ function HEX3Aanonymous__evalZnatives_u3096(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet887[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet890[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var fn_1459620905 = {params: [], refinements: [], returnType: [], body: nimCopy(null, Temporary1.blockVals, NTI704643097), closure: eval_1459620892.currentCtx};
     result_1459620891 = {kind: 19, fn: fn_1459620905, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
 
@@ -23626,7 +23663,7 @@ function HEX3Aanonymous__evalZnatives_u3114(args_p0, ep_p1, ep_p1_Idx) {
 
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 23)) {
     var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet888[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet891[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     Temporary1 = Temporary2.wordName;
     }
     else {
@@ -23636,7 +23673,7 @@ function HEX3Aanonymous__evalZnatives_u3114(args_p0, ep_p1, ep_p1_Idx) {
     var kind_1459620914 = nimCopy(null, Temporary1, NTI33554449);
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 2)) {
     var Temporary4 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet889[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet892[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     Temporary3 = Temporary4.strVal;
     }
     else {
@@ -23672,7 +23709,7 @@ function HEX3Aanonymous__evalZnatives_u3128(args_p0, ep_p1, ep_p1_Idx) {
 ++excHandler;
     try {
     var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet890[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet893[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var value_1459620939 = evalBlock__evalZevaluator_u66(eval_1459620924, Temporary2.blockVals, eval_1459620924.currentCtx);
     set__coreZtypes_u1354(resultCtx_1459620938, [111,107], ktgLogic__coreZtypes_u328(true, 0));
     set__coreZtypes_u1354(resultCtx_1459620938, [118,97,108,117,101], value_1459620939);
@@ -23775,16 +23812,16 @@ function HEX3Aanonymous__evalZnatives_u3182(args_p0, ep_p1, ep_p1_Idx) {
     var val_1459620978 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     if ((val_1459620978.kind == 17)) {
     var Temporary1 = val_1459620978;
-    if (ConstSet891[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet894[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var kind_1459620983 = get__coreZtypes_u563(Temporary1.ctx, [107,105,110,100]);
     var Temporary2 = val_1459620978;
-    if (ConstSet892[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet895[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var msg_1459620984 = get__coreZtypes_u563(Temporary2.ctx, [109,101,115,115,97,103,101]);
       var Temporary4 = val_1459620978;
-      if (ConstSet893[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet896[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     if (has__coreZtypes_u2880(Temporary4.ctx, [100,97,116,97])) {
     var Temporary5 = val_1459620978;
-    if (ConstSet894[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+    if (ConstSet897[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     Temporary3 = get__coreZtypes_u563(Temporary5.ctx, [100,97,116,97]);
     }
     else {
@@ -23794,7 +23831,7 @@ function HEX3Aanonymous__evalZnatives_u3182(args_p0, ep_p1, ep_p1_Idx) {
     var data_1459620985 = Temporary3;
     if ((kind_1459620983.kind == 23)) {
     var Temporary7 = kind_1459620983;
-    if (ConstSet895[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet898[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     Temporary6 = Temporary7.wordName;
     }
     else {
@@ -23803,7 +23840,7 @@ function HEX3Aanonymous__evalZnatives_u3182(args_p0, ep_p1, ep_p1_Idx) {
     
     if ((msg_1459620984.kind == 2)) {
     var Temporary9 = msg_1459620984;
-    if (ConstSet896[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet899[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     Temporary8 = Temporary9.strVal;
     }
     else {
@@ -23855,7 +23892,7 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet897[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet900[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var names_1459621003 = nimCopy(null, Temporary1.blockVals, NTI704643097);
     var source_1459621004 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
     if ((source_1459621004.kind == 13)) {
@@ -23871,14 +23908,14 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
             i_1459621015 = i_570425548;
             name_1459621016 = names_1459621003[chckIndx(i_570425548, 0, (names_1459621003).length - 1)];
               if (!(name_1459621016.kind == 23)) Temporary5 = false; else {                var Temporary6 = name_1459621016;
-                if (ConstSet898[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                if (ConstSet901[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 4);              }            if (Temporary5) {
             var remaining_1459621029 = [];
             Label7: {
               var j_1459621037 = 0;
               var colontmp__570425545 = 0;
               var Temporary8 = source_1459621004;
-              if (ConstSet899[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet902[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               colontmp__570425545 = (Temporary8.blockVals).length;
               var i_570425546 = srcIdx_1459621009;
               Label9: {
@@ -23886,25 +23923,25 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
                   if (!(i_570425546 < colontmp__570425545)) break Label10;
                     j_1459621037 = i_570425546;
                     var Temporary11 = source_1459621004;
-                    if (ConstSet900[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+                    if (ConstSet903[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
                     remaining_1459621029.push((Temporary12 = Temporary11.blockVals, Temporary12)[chckIndx(j_1459621037, 0, (Temporary12).length - 1)]);;
                     i_570425546 = addInt(i_570425546, 1);
                   }
               };
             };
             var Temporary13 = name_1459621016;
-            if (ConstSet901[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+            if (ConstSet904[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
             set__coreZtypes_u1354(eval_1459620998.currentCtx, Temporary13.wordName, ktgBlock__coreZtypes_u367(remaining_1459621029, 0));
             break Label2;
             }
             else {
               if (!(name_1459621016.kind == 23)) Temporary14 = false; else {                var Temporary15 = source_1459621004;
-                if (ConstSet902[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+                if (ConstSet905[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
                 Temporary14 = (srcIdx_1459621009 < (Temporary15.blockVals).length);              }            if (Temporary14) {
             var Temporary16 = name_1459621016;
-            if (ConstSet903[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+            if (ConstSet906[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
             var Temporary17 = source_1459621004;
-            if (ConstSet904[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+            if (ConstSet907[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
             set__coreZtypes_u1354(eval_1459620998.currentCtx, Temporary16.wordName, (Temporary18 = Temporary17.blockVals, Temporary18)[chckIndx(srcIdx_1459621009, 0, (Temporary18).length - 1)]);
             srcIdx_1459621009 = addInt(srcIdx_1459621009, 1);
             }
@@ -23929,16 +23966,16 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570425552 < L_570425553)) break Label21;
             name_1459621060 = names_1459621003[chckIndx(i_570425552, 0, (names_1459621003).length - 1)];
               if (!(name_1459621060.kind == 23)) Temporary22 = false; else {                var Temporary23 = source_1459621004;
-                if (ConstSet905[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
+                if (ConstSet908[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
                 var Temporary24 = name_1459621060;
-                if (ConstSet906[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+                if (ConstSet909[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
                 Temporary22 = contains__coreZtypes_u621(Temporary23.ctx.entries, Temporary24.wordName);              }            if (Temporary22) {
             var Temporary25 = name_1459621060;
-            if (ConstSet907[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+            if (ConstSet910[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
             var Temporary26 = source_1459621004;
-            if (ConstSet908[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
+            if (ConstSet911[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
             var Temporary27 = name_1459621060;
-            if (ConstSet909[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
+            if (ConstSet912[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
             set__coreZtypes_u1354(eval_1459620998.currentCtx, Temporary25.wordName, (Temporary28 = HEX5BHEX5D__coreZtypes_u981(Temporary26.ctx.entries, Temporary27.wordName), Temporary28)[0][Temporary28[1]]);
             }
             
@@ -23962,16 +23999,16 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570425556 < L_570425557)) break Label31;
             name_1459621184 = names_1459621003[chckIndx(i_570425556, 0, (names_1459621003).length - 1)];
               if (!(name_1459621184.kind == 23)) Temporary32 = false; else {                var Temporary33 = source_1459621004;
-                if (ConstSet910[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
+                if (ConstSet913[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
                 var Temporary34 = name_1459621184;
-                if (ConstSet911[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
+                if (ConstSet914[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
                 Temporary32 = contains__coreZtypes_u621(Temporary33.obj.entries, Temporary34.wordName);              }            if (Temporary32) {
             var Temporary35 = name_1459621184;
-            if (ConstSet912[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+            if (ConstSet915[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
             var Temporary36 = source_1459621004;
-            if (ConstSet913[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
+            if (ConstSet916[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
             var Temporary37 = name_1459621184;
-            if (ConstSet914[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
+            if (ConstSet917[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
             set__coreZtypes_u1354(eval_1459620998.currentCtx, Temporary35.wordName, (Temporary38 = HEX5BHEX5D__coreZtypes_u981(Temporary36.obj.entries, Temporary37.wordName), Temporary38)[0][Temporary38[1]]);
             }
             
@@ -24004,7 +24041,7 @@ function HEX3Aanonymous__evalZnatives_u3509(args_p0, ep_p1, ep_p1_Idx) {
     
     var pos_1459621311 = [0];
     var Temporary1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet915[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet918[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1459621304 = callCallable__evalZevaluator_u75(eval_1459621305, fn_1459621306, Temporary1.blockVals, pos_1459621311, 0, eval_1459621305.currentCtx, null);
 
   return result_1459621304;
@@ -24251,34 +24288,34 @@ function HEX3Aanonymous__evalZnatives_u3782(a_p0, b_p1) {
     var bKeyVal_1459621588 = Temporary2(b_p1);
     if (((aKeyVal_1459621587.kind == 0) && (bKeyVal_1459621588.kind == 0))) {
     var Temporary3 = aKeyVal_1459621587;
-    if (ConstSet919[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet922[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var Temporary4 = bKeyVal_1459621588;
-    if (ConstSet920[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet923[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     result_1459621577 = cmp__evalZevaluator_u337(Temporary3.intVal, Temporary4.intVal);
     break BeforeRet;
     }
     
-    if (((ConstSet921[aKeyVal_1459621587.kind] != undefined) && (ConstSet922[bKeyVal_1459621588.kind] != undefined))) {
+    if (((ConstSet924[aKeyVal_1459621587.kind] != undefined) && (ConstSet925[bKeyVal_1459621588.kind] != undefined))) {
     if ((aKeyVal_1459621587.kind == 0)) {
     var Temporary6 = aKeyVal_1459621587;
-    if (ConstSet923[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet926[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     Temporary5 = Number(Temporary6.intVal);
     }
     else {
       var Temporary7 = aKeyVal_1459621587;
-      if (ConstSet924[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+      if (ConstSet927[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     Temporary5 = Temporary7.floatVal;
     }
     
     var af_1459621613 = Temporary5;
     if ((bKeyVal_1459621588.kind == 0)) {
     var Temporary9 = bKeyVal_1459621588;
-    if (ConstSet925[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet928[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     Temporary8 = Number(Temporary9.intVal);
     }
     else {
       var Temporary10 = bKeyVal_1459621588;
-      if (ConstSet926[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+      if (ConstSet929[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     Temporary8 = Temporary10.floatVal;
     }
     
@@ -24289,18 +24326,18 @@ function HEX3Aanonymous__evalZnatives_u3782(a_p0, b_p1) {
     
     if (((aKeyVal_1459621587.kind == 2) && (bKeyVal_1459621588.kind == 2))) {
     var Temporary11 = aKeyVal_1459621587;
-    if (ConstSet927[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+    if (ConstSet930[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
     var Temporary12 = bKeyVal_1459621588;
-    if (ConstSet928[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+    if (ConstSet931[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
     result_1459621577 = cmp__system_u1456(Temporary11.strVal, Temporary12.strVal);
     break BeforeRet;
     }
     
     if (((aKeyVal_1459621587.kind == 5) && (bKeyVal_1459621588.kind == 5))) {
     var Temporary13 = aKeyVal_1459621587;
-    if (ConstSet929[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+    if (ConstSet932[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
     var Temporary14 = bKeyVal_1459621588;
-    if (ConstSet930[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+    if (ConstSet933[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
     result_1459621577 = cmp__evalZevaluator_u337(Temporary13.cents, Temporary14.cents);
     break BeforeRet;
     }
@@ -24329,34 +24366,34 @@ function HEX3Aanonymous__evalZnatives_u3946(a_p0, b_p1) {
   BeforeRet: {
     if (((a_p0.kind == 0) && (b_p1.kind == 0))) {
     var Temporary1 = a_p0;
-    if (ConstSet932[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet935[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = b_p1;
-    if (ConstSet933[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet936[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     result_1459621741 = cmp__evalZevaluator_u337(Temporary1.intVal, Temporary2.intVal);
     break BeforeRet;
     }
     
-    if (((ConstSet934[a_p0.kind] != undefined) && (ConstSet935[b_p1.kind] != undefined))) {
+    if (((ConstSet937[a_p0.kind] != undefined) && (ConstSet938[b_p1.kind] != undefined))) {
     if ((a_p0.kind == 0)) {
     var Temporary4 = a_p0;
-    if (ConstSet936[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet939[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     Temporary3 = Number(Temporary4.intVal);
     }
     else {
       var Temporary5 = a_p0;
-      if (ConstSet937[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet940[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     Temporary3 = Temporary5.floatVal;
     }
     
     var af_1459621766 = Temporary3;
     if ((b_p1.kind == 0)) {
     var Temporary7 = b_p1;
-    if (ConstSet938[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet941[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     Temporary6 = Number(Temporary7.intVal);
     }
     else {
       var Temporary8 = b_p1;
-      if (ConstSet939[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet942[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
     Temporary6 = Temporary8.floatVal;
     }
     
@@ -24367,9 +24404,9 @@ function HEX3Aanonymous__evalZnatives_u3946(a_p0, b_p1) {
     
     if (((a_p0.kind == 2) && (b_p1.kind == 2))) {
     var Temporary9 = a_p0;
-    if (ConstSet940[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet943[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     var Temporary10 = b_p1;
-    if (ConstSet941[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+    if (ConstSet944[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     result_1459621741 = cmp__system_u1456(Temporary9.strVal, Temporary10.strVal);
     break BeforeRet;
     }
@@ -24394,7 +24431,7 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
     var HEX3Aenv_570425630 = null;
     HEX3Aenv_570425630 = {m_type: NTI570425416, eval0: null, keyFn1: null};
     HEX3Aenv_570425630.eval0 = getEvaluator__evalZdialect_u131(ep_p1, ep_p1_Idx);
-    if (!((ConstSet916[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined))) {
+    if (!((ConstSet919[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined))) {
     raiseException({kind: [116,121,112,101], message: [115,111,114,116,32,101,120,112,101,99,116,115,32,98,108,111,99,107,33,32,111,114,32,115,116,114,105,110,103,33], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
@@ -24404,7 +24441,7 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
       var c_1459621330 = 0;
       var colontmp__570425560 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet917[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet920[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       colontmp__570425560 = Temporary2.strVal;
       var i_570425561 = 0;
       var L_570425562 = (colontmp__570425560).length;
@@ -24449,7 +24486,7 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
     if ((contains__stdZenumutils_u50(HEX3Aenv_570425630.eval0.currentRefinements, [98,121]) && (1 < (args_p0).length))) {
     HEX3Aenv_570425630.keyFn1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
     var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet918[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+    if (ConstSet921[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
     Temporary9 = HEX3Aanonymous__evalZnatives_u3782.bind(HEX3Aenv_570425630); Temporary9.ClP_0 = HEX3Aanonymous__evalZnatives_u3782; Temporary9.ClE_0 = HEX3Aenv_570425630;
     sort__evalZnatives_u3851(Temporary8.blockVals, Temporary9, 1);
     result_1459621315 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
@@ -24457,7 +24494,7 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary10 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet931[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+    if (ConstSet934[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     Temporary11 = HEX3Aanonymous__evalZnatives_u3946.bind(null); Temporary11.ClP_0 = HEX3Aanonymous__evalZnatives_u3946; Temporary11.ClE_0 = null;
     sort__evalZnatives_u3851(Temporary10.blockVals, Temporary11, 1);
     result_1459621315 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
@@ -24481,7 +24518,7 @@ function HEX3Aanonymous__evalZnatives_u4059(args_p0, ep_p1, ep_p1_Idx) {
       var c_1459621872 = 0;
       var colontmp__570425577 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet942[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet945[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       colontmp__570425577 = Temporary2.strVal;
       var i_570425578 = 0;
       var L_570425579 = (colontmp__570425577).length;
@@ -24513,13 +24550,13 @@ function HEX3Aanonymous__evalZnatives_u4104(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 16) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 16))) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet943[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet946[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var combined_1459621908 = [nimCopy(null, Temporary1.setMembers, NTI704643118)];
     Label2: {
       var m_1459621912 = [];
       var colontmp__570425582 = ({data: [], counter: 0});
       var Temporary3 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet944[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet947[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       colontmp__570425582 = nimCopy(colontmp__570425582, Temporary3.setMembers, NTI704643118);
       var length_570425583 = len__coreZequality_u1268(colontmp__570425582);
       Label4: {
@@ -24569,7 +24606,7 @@ function HEX3Aanonymous__evalZnatives_u4144(args_p0, ep_p1, ep_p1_Idx) {
       var m_1459621964 = [];
       var colontmp__570425590 = ({data: [], counter: 0});
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet945[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet948[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       colontmp__570425590 = nimCopy(colontmp__570425590, Temporary2.setMembers, NTI704643118);
       var length_570425591 = len__coreZequality_u1268(colontmp__570425590);
       Label3: {
@@ -24584,7 +24621,7 @@ function HEX3Aanonymous__evalZnatives_u4144(args_p0, ep_p1, ep_p1_Idx) {
               if (isFilled__pureZcollectionsZsets_u39(colontmp__570425590.data[chckIndx(h_570425593, 0, (colontmp__570425590.data).length - 1)].Field0)) {
               m_1459621964 = colontmp__570425590.data[chckIndx(h_570425593, 0, (colontmp__570425590.data).length - 1)].Field1;
                 var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-                if (ConstSet946[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                if (ConstSet949[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               if (contains__coreZequality_u1527(Temporary6.setMembers, m_1459621964)) {
               incl__evalZstdlib95registry_u1530(res_1459621960[0], m_1459621964);
               }
@@ -24899,19 +24936,19 @@ function HEX3Aanonymous__evalZnatives95math_u16(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet947[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet950[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(absInt64(Temporary2.intVal), 0);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet948[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet951[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = ktgFloat__coreZtypes_u320(abs__pureZmath_u189(Temporary3.floatVal), 0);
       break;
     case 6:
       var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet949[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet952[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet950[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet953[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary1 = ktgPair__coreZtypes_u339(abs__pureZmath_u189(Temporary4.px), abs__pureZmath_u189(Temporary5.py), 0);
       break;
     default: 
@@ -24937,19 +24974,19 @@ function HEX3Aanonymous__evalZnatives95math_u29(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet951[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet954[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = ktgInt__coreZtypes_u163(negInt64(Temporary2.intVal), 0);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet952[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet955[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = ktgFloat__coreZtypes_u320(-(Temporary3.floatVal), 0);
       break;
     case 6:
       var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet953[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet956[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet954[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet957[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary1 = ktgPair__coreZtypes_u339(-(Temporary4.px), -(Temporary5.py), 0);
       break;
     default: 
@@ -24982,34 +25019,34 @@ function HEX3Aanonymous__evalZnatives95math_u33(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 0) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0))) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet955[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet958[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet956[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet959[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     result_1476395044 = ktgInt__coreZtypes_u163(nimMin(Temporary1.intVal, Temporary2.intVal), 0);
     break BeforeRet;
     }
     
-    if (((ConstSet957[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined) && (ConstSet958[args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind] != undefined))) {
+    if (((ConstSet960[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined) && (ConstSet961[args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind] != undefined))) {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet959[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet962[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     Temporary3 = Number(Temporary4.intVal);
     }
     else {
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet960[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet963[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     Temporary3 = Temporary5.floatVal;
     }
     
     var a_1476395065 = Temporary3;
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary7 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet961[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet964[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     Temporary6 = Number(Temporary7.intVal);
     }
     else {
       var Temporary8 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet962[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet965[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
     Temporary6 = Temporary8.floatVal;
     }
     
@@ -25020,13 +25057,13 @@ function HEX3Aanonymous__evalZnatives95math_u33(args_p0, ep_p1, ep_p1_Idx) {
     
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 6) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 6))) {
     var Temporary9 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet963[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet966[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     var Temporary10 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet964[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+    if (ConstSet967[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet965[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+    if (ConstSet968[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
     var Temporary12 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet966[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+    if (ConstSet969[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
     result_1476395044 = ktgPair__coreZtypes_u339(min__system_u1173(Temporary9.px, Temporary10.px), min__system_u1173(Temporary11.py, Temporary12.py), 0);
     break BeforeRet;
     }
@@ -25058,34 +25095,34 @@ function HEX3Aanonymous__evalZnatives95math_u71(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 0) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0))) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet967[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet970[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet968[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet971[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     result_1476395082 = ktgInt__coreZtypes_u163(nimMax(Temporary1.intVal, Temporary2.intVal), 0);
     break BeforeRet;
     }
     
-    if (((ConstSet969[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined) && (ConstSet970[args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind] != undefined))) {
+    if (((ConstSet972[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined) && (ConstSet973[args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind] != undefined))) {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary4 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet971[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+    if (ConstSet974[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
     Temporary3 = Number(Temporary4.intVal);
     }
     else {
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet972[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet975[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     Temporary3 = Temporary5.floatVal;
     }
     
     var a_1476395103 = Temporary3;
     if ((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary7 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet973[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+    if (ConstSet976[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
     Temporary6 = Number(Temporary7.intVal);
     }
     else {
       var Temporary8 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet974[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet977[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
     Temporary6 = Temporary8.floatVal;
     }
     
@@ -25096,13 +25133,13 @@ function HEX3Aanonymous__evalZnatives95math_u71(args_p0, ep_p1, ep_p1_Idx) {
     
     if (((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 6) && (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 6))) {
     var Temporary9 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet975[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet978[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     var Temporary10 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet976[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+    if (ConstSet979[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
     var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet977[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+    if (ConstSet980[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
     var Temporary12 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet978[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+    if (ConstSet981[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
     result_1476395082 = ktgPair__coreZtypes_u339(max__system_u1206(Temporary9.px, Temporary10.px), max__system_u1206(Temporary11.py, Temporary12.py), 0);
     break BeforeRet;
     }
@@ -25127,12 +25164,12 @@ function HEX3Aanonymous__evalZnatives95math_u109(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 1:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet979[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet982[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Temporary2.floatVal;
       break;
     case 0:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet980[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet983[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Number(Temporary3.intVal);
       break;
     default: 
@@ -25176,7 +25213,7 @@ function HEX3Aanonymous__evalZnatives95math_u126(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet981[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet984[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1476395137 = ktgLogic__coreZtypes_u328(!((modInt64(Temporary1.intVal, 2n) == 0n)), 0);
     break BeforeRet;
     }
@@ -25197,7 +25234,7 @@ function HEX3Aanonymous__evalZnatives95math_u134(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 0)) {
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet982[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet985[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1476395145 = ktgLogic__coreZtypes_u328((modInt64(Temporary1.intVal, 2n) == 0n), 0);
     break BeforeRet;
     }
@@ -25220,12 +25257,12 @@ function HEX3Aanonymous__evalZnatives95math_u142(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet983[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet986[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet984[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet987[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25250,12 +25287,12 @@ function HEX3Aanonymous__evalZnatives95math_u147(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet985[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet988[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet986[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet989[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25279,12 +25316,12 @@ function HEX3Aanonymous__evalZnatives95math_u154(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet987[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet990[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet988[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet991[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25308,12 +25345,12 @@ function HEX3Aanonymous__evalZnatives95math_u161(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet989[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet992[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet990[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet993[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25337,12 +25374,12 @@ function HEX3Aanonymous__evalZnatives95math_u168(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet991[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet994[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet992[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet995[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25366,12 +25403,12 @@ function HEX3Aanonymous__evalZnatives95math_u175(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet993[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet996[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet994[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet997[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25398,12 +25435,12 @@ function HEX3Aanonymous__evalZnatives95math_u182(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet995[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet998[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet996[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet999[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25413,12 +25450,12 @@ function HEX3Aanonymous__evalZnatives95math_u182(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary5 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet997[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet1000[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary4 = Number(Temporary5.intVal);
       break;
     case 1:
       var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet998[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet1001[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       Temporary4 = Temporary6.floatVal;
       break;
     default: 
@@ -25446,12 +25483,12 @@ function HEX3Aanonymous__evalZnatives95math_u190(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet999[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1002[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1000[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1003[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25462,12 +25499,12 @@ function HEX3Aanonymous__evalZnatives95math_u190(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary5 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet1001[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet1004[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary4 = Number(Temporary5.intVal);
       break;
     case 1:
       var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet1002[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet1005[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       Temporary4 = Temporary6.floatVal;
       break;
     default: 
@@ -25500,12 +25537,12 @@ function HEX3Aanonymous__evalZnatives95math_u209(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1003[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1006[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1004[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1007[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25529,12 +25566,12 @@ function HEX3Aanonymous__evalZnatives95math_u213(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1005[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1008[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1006[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1009[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25558,12 +25595,12 @@ function HEX3Aanonymous__evalZnatives95math_u217(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1007[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1010[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1008[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1011[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25587,12 +25624,12 @@ function HEX3Aanonymous__evalZnatives95math_u221(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1009[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1012[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1010[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1013[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25616,12 +25653,12 @@ function HEX3Aanonymous__evalZnatives95math_u229(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1011[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1014[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1012[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1015[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25645,12 +25682,12 @@ function HEX3Aanonymous__evalZnatives95math_u237(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1013[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1016[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1014[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1017[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25674,12 +25711,12 @@ function HEX3Aanonymous__evalZnatives95math_u241(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1015[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1018[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1016[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1019[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -25717,7 +25754,7 @@ function HEX3Aanonymous__evalZnatives95math_u245(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1017[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1020[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = chckRange(Number(Temporary2.intVal), (-2147483648), 2147483647);
       break;
     default: 
@@ -25736,7 +25773,7 @@ function HEX3Aanonymous__evalZnatives95math_u245(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1018[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1021[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var blk_1476395271 = nimCopy(null, Temporary3.blockVals, NTI704643097);
     if (((blk_1476395271).length == 0)) {
     result_1476395256 = ktgNone__coreZtypes_u332(0);
@@ -25751,12 +25788,12 @@ function HEX3Aanonymous__evalZnatives95math_u245(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1019[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet1022[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       Temporary4 = Number(Temporary5.intVal);
       break;
     case 1:
       var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1020[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+      if (ConstSet1023[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
       Temporary4 = Temporary6.floatVal;
       break;
     default: 
@@ -25767,12 +25804,12 @@ function HEX3Aanonymous__evalZnatives95math_u245(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary8 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet1021[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+      if (ConstSet1024[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
       Temporary7 = Number(Temporary8.intVal);
       break;
     case 1:
       var Temporary9 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-      if (ConstSet1022[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+      if (ConstSet1025[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
       Temporary7 = Temporary9.floatVal;
       break;
     default: 
@@ -25793,7 +25830,7 @@ function HEX3Aanonymous__evalZnatives95math_u245(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1023[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+      if (ConstSet1026[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
       Temporary10 = chckRange(Number(Temporary11.intVal), (-2147483648), 2147483647);
       break;
     default: 
@@ -25808,12 +25845,12 @@ function HEX3Aanonymous__evalZnatives95math_u245(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary13 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1024[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+      if (ConstSet1027[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
       Temporary12 = Number(Temporary13.intVal);
       break;
     case 1:
       var Temporary14 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1025[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+      if (ConstSet1028[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
       Temporary12 = Temporary14.floatVal;
       break;
     default: 
@@ -25899,13 +25936,13 @@ function HEX3Aanonymous__evalZnatives95io_u138(args_p0, ep_p1, ep_p1_Idx) {
   var result_1577058445 = null;
 
       if (!((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 2))) Temporary1 = true; else {        var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet1026[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1029[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = ((Temporary2.strVal).length == 0);      }    if (Temporary1) {
     raiseException({kind: [116,121,112,101], message: [98,121,116,101,32,101,120,112,101,99,116,115,32,110,111,110,45,101,109,112,116,121,32,115,116,114,105,110,103,33], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1027[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1030[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     result_1577058445 = ktgInt__coreZtypes_u163(BigInt((Temporary4 = Temporary3.strVal, Temporary4)[chckIndx(0, 0, (Temporary4).length - 1)]), 0);
 
   return result_1577058445;
@@ -25922,7 +25959,7 @@ function HEX3Aanonymous__evalZnatives95io_u149(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1028[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1031[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var code_1577058461 = chckRange(Number(Temporary1.intVal), (-2147483648), 2147483647);
     if (((code_1577058461 < 0) || (255 < code_1577058461))) {
     raiseException({kind: [114,97,110,103,101], message: [99,104,97,114,32,99,111,100,101,32,109,117,115,116,32,98,101,32,48,45,50,53,53], data: args_p0[chckIndx(0, 0, (args_p0).length - 1)], m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -25943,7 +25980,7 @@ function HEX3Aanonymous__evalZnatives95io_u158(args_p0, ep_p1, ep_p1_Idx) {
     switch (args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind) {
     case 0:
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1029[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1032[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = chckRange(Number(Temporary2.intVal), (-2147483648), 2147483647);
       break;
     default: 
@@ -26498,7 +26535,7 @@ function HEX3Aanonymous__evalZnatives95io_u210(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1030[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1033[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var dt_1577058522 = local__pureZtimes_u1830(fromUnix__pureZtimes_u1169(Temporary1.intVal));
     result_1577058517 = {kind: 9, hour: (hour__pureZtimes_u1452(dt_1577058522) & 0xff), minute: (minute__pureZtimes_u1428(dt_1577058522) & 0xff), second: (second__pureZtimes_u1404(dt_1577058522) & 0xff), line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
 
@@ -26542,7 +26579,7 @@ function HEX3Aanonymous__evalZnatives95io_u234(v_p0) {
   var result_1577058540 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1031[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1034[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1577058540 = BigInt(Temporary1.hour);
 
   return result_1577058540;
@@ -26555,7 +26592,7 @@ function HEX3Aanonymous__evalZnatives95io_u237(v_p0) {
   var result_1577058543 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1032[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1035[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1577058543 = BigInt(Temporary1.minute);
 
   return result_1577058543;
@@ -26568,7 +26605,7 @@ function HEX3Aanonymous__evalZnatives95io_u240(v_p0) {
   var result_1577058546 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1033[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1036[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1577058546 = BigInt(Temporary1.second);
 
   return result_1577058546;
@@ -26583,11 +26620,11 @@ function HEX3Aanonymous__evalZnatives95io_u243(v_p0) {
   var result_1577058549 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1034[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1037[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = v_p0;
-    if (ConstSet1035[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet1038[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var Temporary3 = v_p0;
-    if (ConstSet1036[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1039[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     result_1577058549 = addInt64(addInt64(mulInt64(BigInt(Temporary1.hour), 3600n), mulInt64(BigInt(Temporary2.minute), 60n)), BigInt(Temporary3.second));
 
   return result_1577058549;
@@ -26653,7 +26690,7 @@ function HEX3Aanonymous__evalZnatives95io_u255(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1037[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1040[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var dt_1577058567 = local__pureZtimes_u1830(fromUnix__pureZtimes_u1169(Temporary1.intVal));
     result_1577058562 = {kind: 8, year: chckRange(year__pureZtimes_u1476(dt_1577058567), (-32768), 32767), month: Number(BigInt.asUintN(8, BigInt(month__pureZtimes_u1468(dt_1577058567)))), day: (monthday__pureZtimes_u1460(dt_1577058567) & 0xff), line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
 
@@ -26697,7 +26734,7 @@ function HEX3Aanonymous__evalZnatives95io_u282(v_p0) {
   var result_1577058588 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1038[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1041[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1577058588 = BigInt(Temporary1.year);
 
   return result_1577058588;
@@ -26710,7 +26747,7 @@ function HEX3Aanonymous__evalZnatives95io_u285(v_p0) {
   var result_1577058591 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1039[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1042[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1577058591 = BigInt(Temporary1.month);
 
   return result_1577058591;
@@ -26723,7 +26760,7 @@ function HEX3Aanonymous__evalZnatives95io_u288(v_p0) {
   var result_1577058594 = 0n;
 
     var Temporary1 = v_p0;
-    if (ConstSet1040[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1043[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     result_1577058594 = BigInt(Temporary1.day);
 
   return result_1577058594;
@@ -26789,11 +26826,11 @@ function HEX3Aanonymous__evalZnatives95io_u291(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1041[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1044[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'year\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1042[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet1045[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'month\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1043[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1046[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'day\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var dt_1577058603 = dateTime__pureZtimes_u1835(((Temporary1.year) | 0), chckRange(Temporary2.month, 1, 12), chckRange(Temporary3.day, 1, 31), 0, 0, 0, 0, local__pureZtimes_u1816());
     var names_1577058604 = [[77,111,110,100,97,121], [84,117,101,115,100,97,121], [87,101,100,110,101,115,100,97,121], [84,104,117,114,115,100,97,121], [70,114,105,100,97,121], [83,97,116,117,114,100,97,121], [83,117,110,100,97,121]];
     result_1577058598 = ktgString__coreZtypes_u324(names_1577058604[chckIndx(weekday__pureZtimes_u1484(dt_1577058603), 0, (names_1577058604).length - 1)], 0);
@@ -26806,7 +26843,7 @@ function stripModuleHeader__evalZstdlib95registry_u1455(source_p0) {
   var result_1342178737 = [];
 
   BeforeRet: {
-    var trimmed_1342178738 = nsuStrip(source_p0, true, true, ConstSet1046);
+    var trimmed_1342178738 = nsuStrip(source_p0, true, true, ConstSet1049);
     if (!(nsuStartsWith(trimmed_1342178738, [75,105,110,116,115,117,103,105]))) {
     result_1342178737 = nimCopy(null, source_p0, NTI33554449);
     break BeforeRet;
@@ -26855,7 +26892,7 @@ function stripModuleHeader__evalZstdlib95registry_u1455(source_p0) {
 function resolveStdlibModule__evalZnatives95io_u11(eval_p0, moduleName_p1) {
   var result_1577058318 = null;
 
-    if (!(contains__evalZevaluator_u4212(stdlibModules_1342178734, moduleName_p1))) {
+    if (!(contains__evalZevaluator_u4229(stdlibModules_1342178734, moduleName_p1))) {
     raiseException({kind: [105,109,112,111,114,116], message: ([117,110,107,110,111,119,110,32,109,111,100,117,108,101,58,32]).concat(moduleName_p1), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
@@ -26886,10 +26923,10 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     var eval_1577058622 = getEvaluator__evalZdialect_u131(ep_p1, ep_p1_Idx);
       if (!(args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 23)) Temporary1 = false; else {        var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-        if (ConstSet1044[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1047[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = (Temporary2.wordKind == 3);      }    if (Temporary1) {
     var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1045[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1048[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var moduleName_1577058631 = nimCopy(null, Temporary3.wordName, NTI33554449);
     var moduleCtx_1577058632 = resolveStdlibModule__evalZnatives95io_u11(eval_1577058622, moduleName_1577058631);
     if (contains__stdZenumutils_u50(eval_1577058622.currentRefinements, [117,115,105,110,103])) {
@@ -26902,7 +26939,7 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
       var sym_1577058645 = null;
       var colontmp__570426005 = [];
       var Temporary5 = symbols_1577058637;
-      if (ConstSet1047[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet1050[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       colontmp__570426005 = Temporary5.blockVals;
       var i_570426006 = 0;
       var L_570426007 = (colontmp__570426005).length;
@@ -26915,7 +26952,7 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
             }
             
             var Temporary8 = sym_1577058645;
-            if (ConstSet1048[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+            if (ConstSet1051[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             var name_1577058650 = nimCopy(null, Temporary8.wordName, NTI33554449);
             if (!(has__coreZtypes_u2880(moduleCtx_1577058632, name_1577058650))) {
             raiseException({kind: [105,109,112,111,114,116], message: ([109,111,100,117,108,101,32,39]).concat(moduleName_1577058631,[39,32,104,97,115,32,110,111,32,101,120,112,111,114,116,58,32],name_1577058650), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -26946,7 +26983,7 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
       var item_1577058660 = null;
       var colontmp__570426010 = [];
       var Temporary10 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1049[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+      if (ConstSet1052[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
       colontmp__570426010 = Temporary10.blockVals;
       var i_570426011 = 0;
       var L_570426012 = (colontmp__570426010).length;
@@ -26955,13 +26992,13 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
           if (!(i_570426011 < L_570426012)) break Label12;
             item_1577058660 = colontmp__570426010[chckIndx(i_570426011, 0, (colontmp__570426010).length - 1)];
               if (!((item_1577058660.kind == 23))) Temporary13 = true; else {                var Temporary14 = item_1577058660;
-                if (ConstSet1050[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+                if (ConstSet1053[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
                 Temporary13 = !((Temporary14.wordKind == 3));              }            if (Temporary13) {
             raiseException({kind: [116,121,112,101], message: ([105,109,112,111,114,116,32,98,108,111,99,107,32,101,120,112,101,99,116,115,32,108,105,116,45,119,111,114,100,115,44,32,103,111,116,32]).concat(HEX24__coreZtypes_u3190(item_1577058660)), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
             }
             
             var Temporary15 = item_1577058660;
-            if (ConstSet1051[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+            if (ConstSet1054[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
             var moduleName_1577058669 = nimCopy(null, Temporary15.wordName, NTI33554449);
             var moduleCtx_1577058670 = resolveStdlibModule__evalZnatives95io_u11(eval_1577058622, moduleName_1577058669);
             var moduleVal_1577058671 = {kind: 17, ctx: moduleCtx_1577058670, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
@@ -27039,7 +27076,7 @@ function HEX3Aanonymous__evalZnatives95io_u378(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1052[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1055[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var blk_1577058691 = nimCopy(null, Temporary1.blockVals, NTI704643097);
     var pos_1577058692 = 0;
     Label2: {
@@ -27052,14 +27089,14 @@ function HEX3Aanonymous__evalZnatives95io_u378(args_p0, ep_p1, ep_p1_Idx) {
             
             var nameVal_1577058699 = blk_1577058691[chckIndx(pos_1577058692, 0, (blk_1577058691).length - 1)];
               if (!((nameVal_1577058699.kind == 23))) Temporary5 = true; else {                var Temporary6 = nameVal_1577058699;
-                if (ConstSet1053[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                if (ConstSet1056[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = !((Temporary6.wordKind == 0));              }            if (Temporary5) {
             pos_1577058692 = addInt(pos_1577058692, 1);
             break Label4;
             }
             
             var Temporary7 = nameVal_1577058699;
-            if (ConstSet1054[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+            if (ConstSet1057[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
             var name_1577058712 = nimCopy(null, Temporary7.wordName, NTI33554449);
             pos_1577058692 = addInt(pos_1577058692, 1);
             if (((blk_1577058691).length <= pos_1577058692)) {
@@ -27079,14 +27116,14 @@ function HEX3Aanonymous__evalZnatives95io_u378(args_p0, ep_p1, ep_p1_Idx) {
             
             var kindVal_1577058736 = blk_1577058691[chckIndx(pos_1577058692, 0, (blk_1577058691).length - 1)];
               if (!((kindVal_1577058736.kind == 23))) Temporary8 = true; else {                var Temporary9 = kindVal_1577058736;
-                if (ConstSet1055[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+                if (ConstSet1058[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
                 Temporary8 = !((Temporary9.wordKind == 3));              }            if (Temporary8) {
             pos_1577058692 = addInt(pos_1577058692, 1);
             break Label4;
             }
             
             var Temporary10 = kindVal_1577058736;
-            if (ConstSet1056[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+            if (ConstSet1059[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
             var kindName_1577058749 = nimCopy(null, Temporary10.wordName, NTI33554449);
             pos_1577058692 = addInt(pos_1577058692, 1);
             switch (toJSStr(kindName_1577058749)) {
@@ -27094,7 +27131,7 @@ function HEX3Aanonymous__evalZnatives95io_u378(args_p0, ep_p1, ep_p1_Idx) {
               var arity_1577058754 = 0;
               if (((pos_1577058692 < (blk_1577058691).length) && (blk_1577058691[chckIndx(pos_1577058692, 0, (blk_1577058691).length - 1)].kind == 0))) {
               var Temporary11 = blk_1577058691[chckIndx(pos_1577058692, 0, (blk_1577058691).length - 1)];
-              if (ConstSet1057[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet1060[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               arity_1577058754 = chckRange(Number(Temporary11.intVal), (-2147483648), 2147483647);
               pos_1577058692 = addInt(pos_1577058692, 1);
               }
@@ -27178,10 +27215,10 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
     }
     
     var Temporary1 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1058[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1061[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var data_1577058799 = nimCopy(null, Temporary1.blockVals, NTI704643097);
     var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
-    if (ConstSet1059[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet1062[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var schema_1577058800 = nimCopy(null, Temporary2.blockVals, NTI704643097);
     var specs_1577058809 = [];
     var allKeywords_1577058814 = [];
@@ -27195,13 +27232,13 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
             s_1577058818 = schema_1577058800[chckIndx(i_570426023, 0, (schema_1577058800).length - 1)];
             Label6: {
                 if (!((s_1577058818.kind == 23))) Temporary7 = true; else {                  var Temporary8 = s_1577058818;
-                  if (ConstSet1060[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+                  if (ConstSet1063[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
                   Temporary7 = !((Temporary8.wordKind == 4));                }              if (Temporary7) {
               break Label6;
               }
               
               var Temporary9 = s_1577058818;
-              if (ConstSet1061[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+              if (ConstSet1064[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
               var fullName_1577058827 = nimCopy(null, Temporary9.wordName, NTI33554449);
               var parts_1577058828 = nsuSplitChar(fullName_1577058827, 47, (-1));
               var keyword_1577058829 = nimCopy(null, fullName_1577058827, NTI33554449);
@@ -27218,7 +27255,7 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                     Label12: while (true) {
                     if (!(i_570426020 < L_570426021)) break Label12;
                       c_1577058839 = colontmp__570426019[chckIndx(i_570426020, 0, (colontmp__570426019).length - 1)];
-                      if (!((ConstSet1062[c_1577058839] != undefined))) {
+                      if (!((ConstSet1065[c_1577058839] != undefined))) {
                       allDigits_1577058834 = false;
                       break Label10;
                       }
@@ -27283,9 +27320,9 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                 if (!(i_570426047 < L_570426048)) break Label21;
                   spec_1577058908 = specs_1577058809[chckIndx(i_570426047, 0, (specs_1577058809).length - 1)];
                     if (!(val_1577058903.kind == 23)) Temporary23 = false; else {                      var Temporary24 = val_1577058903;
-                      if (ConstSet1063[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+                      if (ConstSet1066[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
                       Temporary23 = (Temporary24.wordKind == 0);                    }                    if (!Temporary23) Temporary22 = false; else {                      var Temporary25 = val_1577058903;
-                      if (ConstSet1064[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+                      if (ConstSet1067[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
                       Temporary22 = eqStrings(Temporary25.wordName, spec_1577058908.keyword);                    }                  if (Temporary22) {
                   pos_1577058899 = addInt(pos_1577058899, 1);
                   matched_1577058904 = true;
@@ -27324,7 +27361,7 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                       var v_1577058962 = null;
                       var colontmp__570426037 = [];
                       var Temporary30 = existing_1577058942;
-                      if (ConstSet1065[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
+                      if (ConstSet1068[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
                       colontmp__570426037 = Temporary30.blockVals;
                       var i_570426038 = 0;
                       var L_570426039 = (colontmp__570426037).length;
@@ -27375,19 +27412,19 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                           Label38: {
                             var cur_1577058987 = data_1577058799[chckIndx(pos_1577058899, 0, (data_1577058799).length - 1)];
                               if (!(cur_1577058987.kind == 23)) Temporary41 = false; else {                                var Temporary42 = cur_1577058987;
-                                if (ConstSet1066[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
+                                if (ConstSet1069[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
                                 Temporary41 = (Temporary42.wordKind == 0);                              }                              if (!Temporary41) Temporary40 = false; else {                                var Temporary43 = cur_1577058987;
-                                if (ConstSet1067[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
+                                if (ConstSet1070[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
                                 Temporary40 = contains__stdZenumutils_u50(allKeywords_1577058814, Temporary43.wordName);                              }                              if (!Temporary40) Temporary39 = false; else {                                var Temporary44 = cur_1577058987;
-                                if (ConstSet1068[Temporary44.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary44.kind, NTI704643076)); }
+                                if (ConstSet1071[Temporary44.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary44.kind, NTI704643076)); }
                                 Temporary39 = !(eqStrings(Temporary44.wordName, spec_1577058908.keyword));                              }                            if (Temporary39) {
                             break Label36;
                             }
                             
                               if (!(cur_1577058987.kind == 23)) Temporary46 = false; else {                                var Temporary47 = cur_1577058987;
-                                if (ConstSet1069[Temporary47.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary47.kind, NTI704643076)); }
+                                if (ConstSet1072[Temporary47.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary47.kind, NTI704643076)); }
                                 Temporary46 = (Temporary47.wordKind == 0);                              }                              if (!Temporary46) Temporary45 = false; else {                                var Temporary48 = cur_1577058987;
-                                if (ConstSet1070[Temporary48.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary48.kind, NTI704643076)); }
+                                if (ConstSet1073[Temporary48.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary48.kind, NTI704643076)); }
                                 Temporary45 = eqStrings(Temporary48.wordName, spec_1577058908.keyword);                              }                            if (Temporary45) {
                             pos_1577058899 = addInt(pos_1577058899, 1);
                             break Label38;
@@ -27542,12 +27579,12 @@ function toF__evalZnatives95convert_u73(v_p0) {
     switch (v_p0.kind) {
     case 0:
       var Temporary2 = v_p0;
-      if (ConstSet1092[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1095[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       Temporary1 = Number(Temporary2.intVal);
       break;
     case 1:
       var Temporary3 = v_p0;
-      if (ConstSet1093[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1096[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       Temporary1 = Temporary3.floatVal;
       break;
     default: 
@@ -27641,7 +27678,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
   BeforeRet: {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 22)) {
     var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-    if (ConstSet1071[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet1074[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     Temporary1 = Temporary2.typeName;
     }
     else {
@@ -27659,7 +27696,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 1:
         var Temporary3 = val_1593835542;
-        if (ConstSet1072[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+        if (ConstSet1075[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
         result_1593835536 = ktgInt__coreZtypes_u163(chckRange(BigInt(Math.trunc(Temporary3.floatVal)), (-9223372036854775808n), 9223372036854775807n), 0);
         break BeforeRet;
         break;
@@ -27667,7 +27704,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
 ++excHandler;
         try {
         var Temporary5 = val_1593835542;
-        if (ConstSet1073[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+        if (ConstSet1076[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
         result_1593835536 = ktgInt__coreZtypes_u163(BigInt(nsuParseInt(Temporary5.strVal)), 0);
         break BeforeRet;
 --excHandler;
@@ -27679,7 +27716,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
 ++excHandler;
         try {
         var Temporary7 = val_1593835542;
-        if (ConstSet1074[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+        if (ConstSet1077[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
         result_1593835536 = ktgInt__coreZtypes_u163(chckRange(BigInt(Math.trunc(nsuParseFloat(Temporary7.strVal))), (-9223372036854775808n), 9223372036854775807n), 0);
         break BeforeRet;
 --excHandler;
@@ -27689,7 +27726,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
  --excHandler;
         raiseDefect();
         var Temporary8 = val_1593835542;
-        if (ConstSet1075[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+        if (ConstSet1078[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
         raiseException({kind: [116,121,112,101], message: ([99,97,110,110,111,116,32,99,111,110,118,101,114,116,32,34]).concat(Temporary8.strVal,[34,32,116,111,32,105,110,116,101,103,101,114,33]), data: val_1593835542, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
         lastJSError = prevJSError;
         } finally {
@@ -27700,17 +27737,17 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 5:
         var Temporary9 = val_1593835542;
-        if (ConstSet1076[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+        if (ConstSet1079[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
         result_1593835536 = ktgInt__coreZtypes_u163(Temporary9.cents, 0);
         break BeforeRet;
         break;
       case 9:
         var Temporary10 = val_1593835542;
-        if (ConstSet1077[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+        if (ConstSet1080[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'hour\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
         var Temporary11 = val_1593835542;
-        if (ConstSet1078[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+        if (ConstSet1081[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'minute\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
         var Temporary12 = val_1593835542;
-        if (ConstSet1079[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+        if (ConstSet1082[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'second\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
         result_1593835536 = ktgInt__coreZtypes_u163(addInt64(addInt64(mulInt64(BigInt(Temporary10.hour), 3600n), mulInt64(BigInt(Temporary11.minute), 60n)), BigInt(Temporary12.second)), 0);
         break BeforeRet;
         break;
@@ -27727,7 +27764,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 0:
         var Temporary13 = val_1593835542;
-        if (ConstSet1080[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+        if (ConstSet1083[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
         result_1593835536 = ktgFloat__coreZtypes_u320(Number(Temporary13.intVal), 0);
         break BeforeRet;
         break;
@@ -27735,7 +27772,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
 ++excHandler;
         try {
         var Temporary15 = val_1593835542;
-        if (ConstSet1081[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+        if (ConstSet1084[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
         result_1593835536 = ktgFloat__coreZtypes_u320(nsuParseFloat(Temporary15.strVal), 0);
         break BeforeRet;
 --excHandler;
@@ -27745,7 +27782,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
  --excHandler;
         raiseDefect();
         var Temporary16 = val_1593835542;
-        if (ConstSet1082[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+        if (ConstSet1085[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
         raiseException({kind: [116,121,112,101], message: ([99,97,110,110,111,116,32,99,111,110,118,101,114,116,32,34]).concat(Temporary16.strVal,[34,32,116,111,32,102,108,111,97,116,33]), data: val_1593835542, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
         lastJSError = prevJSError;
         } finally {
@@ -27753,7 +27790,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 5:
         var Temporary17 = val_1593835542;
-        if (ConstSet1083[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+        if (ConstSet1086[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'cents\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
         result_1593835536 = ktgFloat__coreZtypes_u320((Number(Temporary17.cents) / 100.0), 0);
         break BeforeRet;
         break;
@@ -27765,7 +27802,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
     case "string!":
       if ((val_1593835542.kind == 23)) {
       var Temporary18 = val_1593835542;
-      if (ConstSet1084[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+      if (ConstSet1087[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
       result_1593835536 = ktgString__coreZtypes_u324(Temporary18.wordName, 0);
       break BeforeRet;
       }
@@ -27781,9 +27818,9 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 6:
         var Temporary19 = val_1593835542;
-        if (ConstSet1085[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+        if (ConstSet1088[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
         var Temporary20 = val_1593835542;
-        if (ConstSet1086[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+        if (ConstSet1089[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
         result_1593835536 = ktgBlock__coreZtypes_u367([numFromFloat__coreZtypes_u355(Temporary19.px, 0), numFromFloat__coreZtypes_u355(Temporary20.py, 0)], 0);
         break BeforeRet;
         break;
@@ -27793,7 +27830,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
           var v_1593835577 = 0;
           var colontmp__570426134 = [];
           var Temporary22 = val_1593835542;
-          if (ConstSet1087[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+          if (ConstSet1090[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
           colontmp__570426134 = Temporary22.tupleVals;
           var i_570426135 = 0;
           var L_570426136 = (colontmp__570426134).length;
@@ -27827,13 +27864,13 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 0:
         var Temporary25 = val_1593835542;
-        if (ConstSet1088[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+        if (ConstSet1091[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
         result_1593835536 = ktgMoney__coreZtypes_u335(mulInt64(Temporary25.intVal, 100n), 0);
         break BeforeRet;
         break;
       case 1:
         var Temporary26 = val_1593835542;
-        if (ConstSet1089[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
+        if (ConstSet1092[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'floatVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
         result_1593835536 = ktgMoney__coreZtypes_u335(chckRange(BigInt(Math.trunc(round__parseZlexer_u216((Temporary26.floatVal * 100.0)))), (-9223372036854775808n), 9223372036854775807n), 0);
         break BeforeRet;
         break;
@@ -27841,7 +27878,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
 ++excHandler;
         try {
         var Temporary28 = val_1593835542;
-        if (ConstSet1090[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
+        if (ConstSet1093[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
         var f_1593835589 = nsuParseFloat(Temporary28.strVal);
         result_1593835536 = ktgMoney__coreZtypes_u335(chckRange(BigInt(Math.trunc(round__parseZlexer_u216((f_1593835589 * 100.0)))), (-9223372036854775808n), 9223372036854775807n), 0);
         break BeforeRet;
@@ -27863,19 +27900,19 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
       break;
     case "pair!":
         if (!(val_1593835542.kind == 13)) Temporary29 = false; else {          var Temporary30 = val_1593835542;
-          if (ConstSet1091[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
+          if (ConstSet1094[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
           Temporary29 = ((Temporary30.blockVals).length == 2);        }      if (Temporary29) {
       var Temporary31 = val_1593835542;
-      if (ConstSet1094[Temporary31.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary31.kind, NTI704643076)); }
+      if (ConstSet1097[Temporary31.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary31.kind, NTI704643076)); }
       var Temporary33 = val_1593835542;
-      if (ConstSet1095[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
+      if (ConstSet1098[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
       result_1593835536 = ktgPair__coreZtypes_u339(toF__evalZnatives95convert_u73((Temporary32 = Temporary31.blockVals, Temporary32)[chckIndx(0, 0, (Temporary32).length - 1)]), toF__evalZnatives95convert_u73((Temporary34 = Temporary33.blockVals, Temporary34)[chckIndx(1, 0, (Temporary34).length - 1)]), 0);
       break BeforeRet;
       }
       
       if ((val_1593835542.kind == 2)) {
       var Temporary35 = val_1593835542;
-      if (ConstSet1096[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+      if (ConstSet1099[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
       var parts_1593835607 = nsuSplitChar(Temporary35.strVal, 120, (-1));
       if (((parts_1593835607).length == 2)) {
       result_1593835536 = ktgPair__coreZtypes_u339(nsuParseFloat(parts_1593835607[chckIndx(0, 0, (parts_1593835607).length - 1)]), nsuParseFloat(parts_1593835607[chckIndx(1, 0, (parts_1593835607).length - 1)]), 0);
@@ -27889,14 +27926,14 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
     case "word!":
       if ((val_1593835542.kind == 2)) {
       var Temporary36 = val_1593835542;
-      if (ConstSet1097[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
+      if (ConstSet1100[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary36.strVal, 0, 0);
       break BeforeRet;
       }
       
       if ((val_1593835542.kind == 23)) {
       var Temporary37 = val_1593835542;
-      if (ConstSet1098[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
+      if (ConstSet1101[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary37.wordName, 0, 0);
       break BeforeRet;
       }
@@ -27906,14 +27943,14 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
     case "set-word!":
       if ((val_1593835542.kind == 2)) {
       var Temporary38 = val_1593835542;
-      if (ConstSet1099[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
+      if (ConstSet1102[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary38.strVal, 1, 0);
       break BeforeRet;
       }
       
       if ((val_1593835542.kind == 23)) {
       var Temporary39 = val_1593835542;
-      if (ConstSet1100[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
+      if (ConstSet1103[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary39.wordName, 1, 0);
       break BeforeRet;
       }
@@ -27923,14 +27960,14 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
     case "lit-word!":
       if ((val_1593835542.kind == 2)) {
       var Temporary40 = val_1593835542;
-      if (ConstSet1101[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
+      if (ConstSet1104[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary40.strVal, 3, 0);
       break BeforeRet;
       }
       
       if ((val_1593835542.kind == 23)) {
       var Temporary41 = val_1593835542;
-      if (ConstSet1102[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
+      if (ConstSet1105[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary41.wordName, 3, 0);
       break BeforeRet;
       }
@@ -27940,14 +27977,14 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
     case "get-word!":
       if ((val_1593835542.kind == 2)) {
       var Temporary42 = val_1593835542;
-      if (ConstSet1103[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
+      if (ConstSet1106[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary42.strVal, 2, 0);
       break BeforeRet;
       }
       
       if ((val_1593835542.kind == 23)) {
       var Temporary43 = val_1593835542;
-      if (ConstSet1104[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
+      if (ConstSet1107[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary43.wordName, 2, 0);
       break BeforeRet;
       }
@@ -27957,14 +27994,14 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
     case "meta-word!":
       if ((val_1593835542.kind == 2)) {
       var Temporary44 = val_1593835542;
-      if (ConstSet1105[Temporary44.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary44.kind, NTI704643076)); }
+      if (ConstSet1108[Temporary44.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary44.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary44.strVal, 4, 0);
       break BeforeRet;
       }
       
       if ((val_1593835542.kind == 23)) {
       var Temporary45 = val_1593835542;
-      if (ConstSet1106[Temporary45.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary45.kind, NTI704643076)); }
+      if (ConstSet1109[Temporary45.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary45.kind, NTI704643076)); }
       result_1593835536 = ktgWord__coreZtypes_u399(Temporary45.wordName, 4, 0);
       break BeforeRet;
       }
@@ -27984,14 +28021,14 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
       
       if ((val_1593835542.kind == 2)) {
         var Temporary46 = val_1593835542;
-        if (ConstSet1107[Temporary46.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary46.kind, NTI704643076)); }
+        if (ConstSet1110[Temporary46.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary46.kind, NTI704643076)); }
       if (eqStrings(Temporary46.strVal, [116,114,117,101])) {
       result_1593835536 = ktgLogic__coreZtypes_u328(true, 0);
       break BeforeRet;
       }
       
         var Temporary47 = val_1593835542;
-        if (ConstSet1108[Temporary47.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary47.kind, NTI704643076)); }
+        if (ConstSet1111[Temporary47.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary47.kind, NTI704643076)); }
       if (eqStrings(Temporary47.strVal, [102,97,108,115,101])) {
       result_1593835536 = ktgLogic__coreZtypes_u328(false, 0);
       break BeforeRet;
@@ -28009,7 +28046,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 0:
         var Temporary48 = val_1593835542;
-        if (ConstSet1109[Temporary48.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary48.kind, NTI704643076)); }
+        if (ConstSet1112[Temporary48.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary48.kind, NTI704643076)); }
         var total_1593835663 = Temporary48.intVal;
         var h_1593835664 = Number(BigInt.asUintN(8, modInt64(divInt64(total_1593835663, 3600n), 24n)));
         var m_1593835665 = Number(BigInt.asUintN(8, divInt64(modInt64(total_1593835663, 3600n), 60n)));
@@ -28019,7 +28056,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 2:
         var Temporary49 = val_1593835542;
-        if (ConstSet1110[Temporary49.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary49.kind, NTI704643076)); }
+        if (ConstSet1113[Temporary49.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary49.kind, NTI704643076)); }
         var parts_1593835667 = nsuSplitChar(Temporary49.strVal, 58, (-1));
         if ((2 <= (parts_1593835667).length)) {
         var h_1593835671 = Number(BigInt.asUintN(8, BigInt(nsuParseInt(parts_1593835667[chckIndx(0, 0, (parts_1593835667).length - 1)]))));
@@ -28037,7 +28074,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         }
         
         var Temporary51 = val_1593835542;
-        if (ConstSet1111[Temporary51.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary51.kind, NTI704643076)); }
+        if (ConstSet1114[Temporary51.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary51.kind, NTI704643076)); }
         raiseException({kind: [116,121,112,101], message: ([99,97,110,110,111,116,32,99,111,110,118,101,114,116,32,34]).concat(Temporary51.strVal,[34,32,116,111,32,116,105,109,101,33]), data: val_1593835542, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
         break;
       default: 
@@ -28053,7 +28090,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 2:
         var Temporary52 = val_1593835542;
-        if (ConstSet1112[Temporary52.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary52.kind, NTI704643076)); }
+        if (ConstSet1115[Temporary52.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary52.kind, NTI704643076)); }
         var parts_1593835677 = nsuSplitChar(Temporary52.strVal, 45, (-1));
         if (((parts_1593835677).length == 3)) {
         result_1593835536 = {kind: 8, year: chckRange(nsuParseInt(parts_1593835677[chckIndx(0, 0, (parts_1593835677).length - 1)]), (-32768), 32767), month: Number(BigInt.asUintN(8, BigInt(nsuParseInt(parts_1593835677[chckIndx(1, 0, (parts_1593835677).length - 1)])))), day: Number(BigInt.asUintN(8, BigInt(nsuParseInt(parts_1593835677[chckIndx(2, 0, (parts_1593835677).length - 1)])))), line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
@@ -28061,20 +28098,20 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         }
         
         var Temporary53 = val_1593835542;
-        if (ConstSet1113[Temporary53.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary53.kind, NTI704643076)); }
+        if (ConstSet1116[Temporary53.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary53.kind, NTI704643076)); }
         raiseException({kind: [116,121,112,101], message: ([99,97,110,110,111,116,32,99,111,110,118,101,114,116,32,34]).concat(Temporary53.strVal,[34,32,116,111,32,100,97,116,101,33]), data: val_1593835542, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
         break;
       case 13:
           var Temporary54 = val_1593835542;
-          if (ConstSet1114[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
+          if (ConstSet1117[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
         if (((Temporary54.blockVals).length == 3)) {
           var Temporary56 = val_1593835542;
-          if (ConstSet1115[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
+          if (ConstSet1118[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
         if (((Temporary57 = Temporary56.blockVals, Temporary57)[chckIndx(0, 0, (Temporary57).length - 1)].kind == 0)) {
         var Temporary58 = val_1593835542;
-        if (ConstSet1117[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
+        if (ConstSet1120[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
         var Temporary60 = (Temporary59 = Temporary58.blockVals, Temporary59)[chckIndx(0, 0, (Temporary59).length - 1)];
-        if (ConstSet1116[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
+        if (ConstSet1119[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
         Temporary55 = chckRange(Number(Temporary60.intVal), (-32768), 32767);
         }
         else {
@@ -28083,12 +28120,12 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         
         var y_1593835688 = Temporary55;
           var Temporary62 = val_1593835542;
-          if (ConstSet1118[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
+          if (ConstSet1121[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
         if (((Temporary63 = Temporary62.blockVals, Temporary63)[chckIndx(1, 0, (Temporary63).length - 1)].kind == 0)) {
         var Temporary64 = val_1593835542;
-        if (ConstSet1120[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
+        if (ConstSet1123[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
         var Temporary66 = (Temporary65 = Temporary64.blockVals, Temporary65)[chckIndx(1, 0, (Temporary65).length - 1)];
-        if (ConstSet1119[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
+        if (ConstSet1122[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
         Temporary61 = Number(BigInt.asUintN(8, Temporary66.intVal));
         }
         else {
@@ -28097,12 +28134,12 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         
         var m_1593835693 = Temporary61;
           var Temporary68 = val_1593835542;
-          if (ConstSet1121[Temporary68.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary68.kind, NTI704643076)); }
+          if (ConstSet1124[Temporary68.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary68.kind, NTI704643076)); }
         if (((Temporary69 = Temporary68.blockVals, Temporary69)[chckIndx(2, 0, (Temporary69).length - 1)].kind == 0)) {
         var Temporary70 = val_1593835542;
-        if (ConstSet1123[Temporary70.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary70.kind, NTI704643076)); }
+        if (ConstSet1126[Temporary70.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary70.kind, NTI704643076)); }
         var Temporary72 = (Temporary71 = Temporary70.blockVals, Temporary71)[chckIndx(2, 0, (Temporary71).length - 1)];
-        if (ConstSet1122[Temporary72.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary72.kind, NTI704643076)); }
+        if (ConstSet1125[Temporary72.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary72.kind, NTI704643076)); }
         Temporary67 = Number(BigInt.asUintN(8, Temporary72.intVal));
         }
         else {
@@ -28133,7 +28170,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
           var v_1593835707 = null;
           var colontmp__570426139 = [];
           var Temporary74 = val_1593835542;
-          if (ConstSet1124[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
+          if (ConstSet1127[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
           colontmp__570426139 = Temporary74.blockVals;
           var i_570426140 = 0;
           var L_570426141 = (colontmp__570426139).length;
@@ -28143,7 +28180,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
                 v_1593835707 = colontmp__570426139[chckIndx(i_570426140, 0, (colontmp__570426139).length - 1)];
                 if ((v_1593835707.kind == 0)) {
                 var Temporary77 = v_1593835707;
-                if (ConstSet1125[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
+                if (ConstSet1128[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
                 vals_1593835703.push(Number(BigInt.asUintN(8, Temporary77.intVal)));;
                 }
                 else {
@@ -28167,7 +28204,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
           var part_1593835721 = [];
           var colontmp__570426144 = [];
           var Temporary79 = val_1593835542;
-          if (ConstSet1126[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
+          if (ConstSet1129[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
           colontmp__570426144 = Temporary79.strVal;
           var lastHEX60gensym34_570426145 = 0;
           var splitsHEX60gensym34_570426146 = (-1);
@@ -28212,7 +28249,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 2:
         var Temporary84 = val_1593835542;
-        if (ConstSet1127[Temporary84.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary84.kind, NTI704643076)); }
+        if (ConstSet1130[Temporary84.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary84.kind, NTI704643076)); }
         result_1593835536 = ktgFile__coreZtypes_u424(Temporary84.strVal, 0);
         break BeforeRet;
         break;
@@ -28229,7 +28266,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 2:
         var Temporary85 = val_1593835542;
-        if (ConstSet1128[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
+        if (ConstSet1131[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
         result_1593835536 = ktgUrl__coreZtypes_u428(Temporary85.strVal, 0);
         break BeforeRet;
         break;
@@ -28246,7 +28283,7 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         break;
       case 2:
         var Temporary86 = val_1593835542;
-        if (ConstSet1129[Temporary86.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary86.kind, NTI704643076)); }
+        if (ConstSet1132[Temporary86.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary86.kind, NTI704643076)); }
         result_1593835536 = ktgEmail__coreZtypes_u432(Temporary86.strVal, 0);
         break BeforeRet;
         break;
@@ -28545,29 +28582,29 @@ function matchSingleValue__dialectsZmatch95dialect_u12(pattern_p0, value_p1, bin
     switch (pattern_p0.kind) {
     case 23:
         var Temporary1 = pattern_p0;
-        if (ConstSet1138[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+        if (ConstSet1141[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
       if ((Temporary1.wordKind == 0)) {
         var Temporary2 = pattern_p0;
-        if (ConstSet1139[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1142[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       if (eqStrings(Temporary2.wordName, [95])) {
       result_1677721618 = true;
       break BeforeRet;
       }
       
       var Temporary3 = pattern_p0;
-      if (ConstSet1140[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+      if (ConstSet1143[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
       bindings_p2[bindings_p2_Idx].push({Field0: nimCopy(null, Temporary3.wordName, NTI33554449), Field1: value_p1});;
       result_1677721618 = true;
       break BeforeRet;
       }
       
         var Temporary4 = pattern_p0;
-        if (ConstSet1141[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+        if (ConstSet1144[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       if ((Temporary4.wordKind == 3)) {
         if (!(value_p1.kind == 23)) Temporary5 = false; else {          var Temporary6 = value_p1;
-          if (ConstSet1142[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+          if (ConstSet1145[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
           var Temporary7 = pattern_p0;
-          if (ConstSet1143[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+          if (ConstSet1146[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
           Temporary5 = eqStrings(nsuToLowerAsciiStr(Temporary6.wordName), nsuToLowerAsciiStr(Temporary7.wordName));        }      if (Temporary5) {
       result_1677721618 = true;
       break BeforeRet;
@@ -28585,10 +28622,10 @@ function matchSingleValue__dialectsZmatch95dialect_u12(pattern_p0, value_p1, bin
       }
       
         var Temporary8 = pattern_p0;
-        if (ConstSet1144[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+        if (ConstSet1147[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
       if (has__coreZtypes_u2880(ctx_p4, Temporary8.typeName)) {
       var Temporary9 = pattern_p0;
-      if (ConstSet1145[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+      if (ConstSet1148[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
       var typeVal_1677721639 = get__coreZtypes_u563(ctx_p4, Temporary9.typeName);
       if (!((typeVal_1677721639.customType == null))) {
       result_1677721618 = matchesCustomType__evalZevaluator_u2513(eval_p3, value_p1, typeVal_1677721639.customType, ctx_p4);
@@ -28599,20 +28636,20 @@ function matchSingleValue__dialectsZmatch95dialect_u12(pattern_p0, value_p1, bin
       
       var actual_1677721644 = typeName__coreZtypes_u3187(value_p1);
         var Temporary10 = pattern_p0;
-        if (ConstSet1146[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+        if (ConstSet1149[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
       if (eqStrings(actual_1677721644, Temporary10.typeName)) {
       result_1677721618 = true;
       break BeforeRet;
       }
       
       var Temporary11 = pattern_p0;
-      if (ConstSet1147[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+      if (ConstSet1150[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
       result_1677721618 = typeMatchesBuiltin__evalZevaluator_u2510(actual_1677721644, Temporary11.typeName);
       break BeforeRet;
       break;
     case 14:
       var Temporary12 = pattern_p0;
-      if (ConstSet1148[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+      if (ConstSet1151[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
       var evaluated_1677721645 = evalBlock__evalZevaluator_u66(eval_p3, Temporary12.parenVals, ctx_p4);
       result_1677721618 = valuesEqual__coreZequality_u5(evaluated_1677721645, value_p1);
       break BeforeRet;
@@ -28636,9 +28673,9 @@ function matchSingleValue__dialectsZmatch95dialect_u12(pattern_p0, value_p1, bin
     case 13:
       if ((value_p1.kind == 13)) {
       var Temporary13 = pattern_p0;
-      if (ConstSet1149[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+      if (ConstSet1152[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
       var Temporary14 = value_p1;
-      if (ConstSet1150[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+      if (ConstSet1153[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
       result_1677721618 = matchBlock__dialectsZmatch95dialect_u6(Temporary13.blockVals, Temporary14.blockVals, bindings_p2, bindings_p2_Idx, eval_p3, ctx_p4);
       break BeforeRet;
       }
@@ -28701,11 +28738,11 @@ function matchValue__dialectsZmatch95dialect_u71(pattern_p0, value_p1, bindings_
   BeforeRet: {
     if ((pattern_p0.kind == 13)) {
     var Temporary1 = pattern_p0;
-    if (ConstSet1137[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1140[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var elems_1677721682 = nimCopy(null, Temporary1.blockVals, NTI704643097);
     if ((value_p1.kind == 13)) {
       var Temporary2 = value_p1;
-      if (ConstSet1151[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1154[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     if (matchBlock__dialectsZmatch95dialect_u6(elems_1677721682, Temporary2.blockVals, bindings_p2, bindings_p2_Idx, eval_p3, ctx_p4)) {
     result_1677721677 = true;
     break BeforeRet;
@@ -28767,7 +28804,7 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
     }
     
     var Temporary1 = rules_1677721702;
-    if (ConstSet1130[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1133[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var rulesData_1677721707 = nimCopy(null, Temporary1.blockVals, NTI704643097);
     var pos_1677721708 = 0;
     Label2: {
@@ -28776,9 +28813,9 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
           Label4: {
             var current_1677721712 = rulesData_1677721707[chckIndx(pos_1677721708, 0, (rulesData_1677721707).length - 1)];
               if (!(current_1677721712.kind == 23)) Temporary6 = false; else {                var Temporary7 = current_1677721712;
-                if (ConstSet1131[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1134[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary6 = (Temporary7.wordKind == 0);              }              if (!Temporary6) Temporary5 = false; else {                var Temporary8 = current_1677721712;
-                if (ConstSet1132[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+                if (ConstSet1135[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
                 Temporary5 = eqStrings(Temporary8.wordName, [100,101,102,97,117,108,116]);              }            if (Temporary5) {
             pos_1677721708 = addInt(pos_1677721708, 1);
             if (((rulesData_1677721707).length <= pos_1677721708)) {
@@ -28791,7 +28828,7 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
             }
             
             var Temporary9 = handler_1677721728;
-            if (ConstSet1133[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+            if (ConstSet1136[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             result_1677721699 = evalBlock__evalZevaluator_u66(eval_1677721700, Temporary9.blockVals, eval_1677721700.currentCtx);
             break BeforeRet;
             }
@@ -28804,9 +28841,9 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
             pos_1677721708 = addInt(pos_1677721708, 1);
             var guardBlock_1677721746 = [];
               if (!((pos_1677721708 < (rulesData_1677721707).length) && (rulesData_1677721707[chckIndx(pos_1677721708, 0, (rulesData_1677721707).length - 1)].kind == 23))) Temporary11 = false; else {                var Temporary12 = rulesData_1677721707[chckIndx(pos_1677721708, 0, (rulesData_1677721707).length - 1)];
-                if (ConstSet1134[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+                if (ConstSet1137[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
                 Temporary11 = (Temporary12.wordKind == 0);              }              if (!Temporary11) Temporary10 = false; else {                var Temporary13 = rulesData_1677721707[chckIndx(pos_1677721708, 0, (rulesData_1677721707).length - 1)];
-                if (ConstSet1135[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+                if (ConstSet1138[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
                 Temporary10 = eqStrings(Temporary13.wordName, [119,104,101,110]);              }            if (Temporary10) {
             pos_1677721708 = addInt(pos_1677721708, 1);
             if ((((rulesData_1677721707).length <= pos_1677721708) || !((rulesData_1677721707[chckIndx(pos_1677721708, 0, (rulesData_1677721707).length - 1)].kind == 13)))) {
@@ -28814,7 +28851,7 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
             }
             
             var Temporary14 = rulesData_1677721707[chckIndx(pos_1677721708, 0, (rulesData_1677721707).length - 1)];
-            if (ConstSet1136[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+            if (ConstSet1139[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
             guardBlock_1677721746 = nimCopy(null, Temporary14.blockVals, NTI704643097);
             pos_1677721708 = addInt(pos_1677721708, 1);
             }
@@ -28860,7 +28897,7 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
             }
             
             var Temporary18 = handler_1677721776;
-            if (ConstSet1152[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+            if (ConstSet1155[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
             result_1677721699 = evalBlock__evalZevaluator_u66(eval_1677721700, Temporary18.blockVals, handlerCtx_1677721790);
             break BeforeRet;
             }
@@ -28918,23 +28955,23 @@ function parseRequiredField__dialectsZobject95dialect_u6(blk_p0, pos_p1, pos_p1_
   var result_1694498825 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
 
       if ((((blk_p0).length <= pos_p1[pos_p1_Idx]) || !((blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)].kind == 23)))) Temporary1 = true; else {        var Temporary2 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-        if (ConstSet1159[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1162[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = !((Temporary2.wordKind == 0));      }    if (Temporary1) {
     raiseException({kind: [111,98,106,101,99,116], message: [101,120,112,101,99,116,101,100,32,102,105,101,108,100,32,110,97,109,101], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary3 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-    if (ConstSet1160[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1163[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var name_1694498837 = nimCopy(null, Temporary3.wordName, NTI33554449);
     pos_p1[pos_p1_Idx] = addInt(pos_p1[pos_p1_Idx], 1);
       if ((((blk_p0).length <= pos_p1[pos_p1_Idx]) || !((blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)].kind == 13)))) Temporary4 = true; else {        var Temporary5 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-        if (ConstSet1161[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+        if (ConstSet1164[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
         Temporary4 = ((Temporary5.blockVals).length == 0);      }    if (Temporary4) {
     raiseException({kind: [111,98,106,101,99,116], message: ([101,120,112,101,99,116,101,100,32,116,121,112,101,32,98,108,111,99,107,32,91,116,121,112,101,33,93,32,102,111,114,32,102,105,101,108,100,32,39]).concat(name_1694498837,[39]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary6 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-    if (ConstSet1162[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet1165[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     var typeName_1694498852 = HEX24__coreZtypes_u3190((Temporary7 = Temporary6.blockVals, Temporary7)[chckIndx(0, 0, (Temporary7).length - 1)]);
     pos_p1[pos_p1_Idx] = addInt(pos_p1[pos_p1_Idx], 1);
     result_1694498825 = nimCopy(result_1694498825, {name: nimCopy(null, name_1694498837, NTI33554449), typeName: nimCopy(null, typeName_1694498852, NTI33554449), hasDefault: false, defaultVal: null}, NTI704643080);
@@ -28955,23 +28992,23 @@ function parseOptionalField__dialectsZobject95dialect_u60(blk_p0, pos_p1, pos_p1
   var result_1694498881 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
 
       if ((((blk_p0).length <= pos_p1[pos_p1_Idx]) || !((blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)].kind == 23)))) Temporary1 = true; else {        var Temporary2 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-        if (ConstSet1164[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1167[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = !((Temporary2.wordKind == 0));      }    if (Temporary1) {
     raiseException({kind: [111,98,106,101,99,116], message: [101,120,112,101,99,116,101,100,32,102,105,101,108,100,32,110,97,109,101], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary3 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-    if (ConstSet1165[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1168[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var name_1694498893 = nimCopy(null, Temporary3.wordName, NTI33554449);
     pos_p1[pos_p1_Idx] = addInt(pos_p1[pos_p1_Idx], 1);
       if ((((blk_p0).length <= pos_p1[pos_p1_Idx]) || !((blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)].kind == 13)))) Temporary4 = true; else {        var Temporary5 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-        if (ConstSet1166[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+        if (ConstSet1169[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
         Temporary4 = ((Temporary5.blockVals).length == 0);      }    if (Temporary4) {
     raiseException({kind: [111,98,106,101,99,116], message: ([101,120,112,101,99,116,101,100,32,116,121,112,101,32,98,108,111,99,107,32,91,116,121,112,101,33,93,32,102,111,114,32,102,105,101,108,100,32,39]).concat(name_1694498893,[39]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
     
     var Temporary6 = blk_p0[chckIndx(pos_p1[pos_p1_Idx], 0, (blk_p0).length - 1)];
-    if (ConstSet1167[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet1170[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     var typeName_1694498908 = HEX24__coreZtypes_u3190((Temporary7 = Temporary6.blockVals, Temporary7)[chckIndx(0, 0, (Temporary7).length - 1)]);
     pos_p1[pos_p1_Idx] = addInt(pos_p1[pos_p1_Idx], 1);
     if (((blk_p0).length <= pos_p1[pos_p1_Idx])) {
@@ -29001,10 +29038,10 @@ function parseFieldsBlock__dialectsZobject95dialect_u101(blk_p0, eval_p1, ctx_p2
         if (!(pos_1694498927 < (blk_p0).length)) break Label2;
           var current_1694498931 = blk_p0[chckIndx(pos_1694498927, 0, (blk_p0).length - 1)];
             if (!(current_1694498931.kind == 23)) Temporary3 = false; else {              var Temporary4 = current_1694498931;
-              if (ConstSet1156[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if (ConstSet1159[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               Temporary3 = (Temporary4.wordKind == 0);            }          if (Temporary3) {
           var Temporary5 = current_1694498931;
-          if (ConstSet1157[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet1160[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           switch (toJSStr(Temporary5.wordName)) {
           case "required":
             pos_1694498927 = addInt(pos_1694498927, 1);
@@ -29013,7 +29050,7 @@ function parseFieldsBlock__dialectsZobject95dialect_u101(blk_p0, eval_p1, ctx_p2
             }
             
             var Temporary6 = blk_p0[chckIndx(pos_1694498927, 0, (blk_p0).length - 1)];
-            if (ConstSet1158[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+            if (ConstSet1161[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
             var reqBlock_1694498951 = nimCopy(null, Temporary6.blockVals, NTI704643097);
             pos_1694498927 = addInt(pos_1694498927, 1);
             var rpos_1694498956 = [0];
@@ -29031,7 +29068,7 @@ function parseFieldsBlock__dialectsZobject95dialect_u101(blk_p0, eval_p1, ctx_p2
             }
             
             var Temporary9 = blk_p0[chckIndx(pos_1694498927, 0, (blk_p0).length - 1)];
-            if (ConstSet1163[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+            if (ConstSet1166[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             var optBlock_1694498975 = nimCopy(null, Temporary9.blockVals, NTI704643097);
             pos_1694498927 = addInt(pos_1694498927, 1);
             var opos_1694498980 = [0];
@@ -29085,23 +29122,23 @@ function parseObjectBlock__dialectsZobject95dialect_u180(blk_p0, bodyStart_p1, b
           Label3: {
             var current_1694499011 = blk_p0[chckIndx(pos_1694499007, 0, (blk_p0).length - 1)];
               if (!(current_1694499011.kind == 23)) Temporary4 = false; else {                var Temporary5 = current_1694499011;
-                if (ConstSet1154[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1157[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 Temporary4 = (Temporary5.wordKind == 0);              }            if (Temporary4) {
               var Temporary8 = current_1694499011;
-              if (ConstSet1155[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1158[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               if (!eqStrings(Temporary8.wordName, [102,105,101,108,100,115])) Temporary7 = false; else {                Temporary7 = (addInt(pos_1694499007, 1) < (blk_p0).length);              }              if (!Temporary7) Temporary6 = false; else {                Temporary6 = (blk_p0[chckIndx(addInt(pos_1694499007, 1), 0, (blk_p0).length - 1)].kind == 13);              }            if (Temporary6) {
             var Temporary9 = blk_p0[chckIndx(addInt(pos_1694499007, 1), 0, (blk_p0).length - 1)];
-            if (ConstSet1168[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+            if (ConstSet1171[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             add__dialectsZobject95dialect_u211(specs_1694499006, 0, parseFieldsBlock__dialectsZobject95dialect_u101(Temporary9.blockVals, eval_p2, ctx_p3));
             pos_1694499007 = addInt(pos_1694499007, 2);
             break Label3;
             }
             
               var Temporary12 = current_1694499011;
-              if (ConstSet1169[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+              if (ConstSet1172[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
               if (!eqStrings(Temporary12.wordName, [102,105,101,108,100,47,114,101,113,117,105,114,101,100])) Temporary11 = false; else {                Temporary11 = (addInt(pos_1694499007, 1) < (blk_p0).length);              }              if (!Temporary11) Temporary10 = false; else {                Temporary10 = (blk_p0[chckIndx(addInt(pos_1694499007, 1), 0, (blk_p0).length - 1)].kind == 13);              }            if (Temporary10) {
             var Temporary13 = blk_p0[chckIndx(addInt(pos_1694499007, 1), 0, (blk_p0).length - 1)];
-            if (ConstSet1170[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+            if (ConstSet1173[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
             var fieldBlock_1694499062 = nimCopy(null, Temporary13.blockVals, NTI704643097);
             var fpos_1694499063 = [0];
             specs_1694499006[0].push(parseRequiredField__dialectsZobject95dialect_u6(fieldBlock_1694499062, fpos_1694499063, 0));;
@@ -29110,10 +29147,10 @@ function parseObjectBlock__dialectsZobject95dialect_u180(blk_p0, bodyStart_p1, b
             }
             
               var Temporary16 = current_1694499011;
-              if (ConstSet1171[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+              if (ConstSet1174[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
               if (!eqStrings(Temporary16.wordName, [102,105,101,108,100,47,111,112,116,105,111,110,97,108])) Temporary15 = false; else {                Temporary15 = (addInt(pos_1694499007, 1) < (blk_p0).length);              }              if (!Temporary15) Temporary14 = false; else {                Temporary14 = (blk_p0[chckIndx(addInt(pos_1694499007, 1), 0, (blk_p0).length - 1)].kind == 13);              }            if (Temporary14) {
             var Temporary17 = blk_p0[chckIndx(addInt(pos_1694499007, 1), 0, (blk_p0).length - 1)];
-            if (ConstSet1172[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+            if (ConstSet1175[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
             var fieldBlock_1694499079 = nimCopy(null, Temporary17.blockVals, NTI704643097);
             var fpos_1694499080 = [0];
             specs_1694499006[0].push(parseOptionalField__dialectsZobject95dialect_u60(fieldBlock_1694499079, fpos_1694499080, 0, eval_p2, ctx_p3));;
@@ -29161,7 +29198,7 @@ function HEX3Aanonymous__dialectsZobject95dialect_u296(args_p0, ep_p1, ep_p1_Idx
     }
     
     var Temporary1 = spec_1694499117;
-    if (ConstSet1153[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1156[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var blk_1694499122 = nimCopy(null, Temporary1.blockVals, NTI704643097);
     var bodyStart_1694499123 = [0];
     var fieldSpecs_1694499124 = parseObjectBlock__dialectsZobject95dialect_u180(blk_1694499122, bodyStart_1694499123, 0, eval_1694499116, eval_1694499116.currentCtx);
@@ -29281,7 +29318,7 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     var source_1694499308 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     var overrides_1694499309 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
       if (!(source_1694499308.kind == 22)) Temporary1 = false; else {        var Temporary2 = source_1694499308;
-        if (ConstSet1173[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1176[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = eqStrings(Temporary2.typeName, [109,97,112,33]);      }    if (Temporary1) {
     if (!((overrides_1694499309.kind == 13))) {
     raiseException({kind: [116,121,112,101], message: [109,97,107,101,32,109,97,112,33,32,101,120,112,101,99,116,115,32,98,108,111,99,107,33], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -29290,7 +29327,7 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     var ctxInner_1694499318 = newContext__coreZtypes_u456(eval_1694499307.currentCtx);
     ctxInner_1694499318.localOnly = true;
     var Temporary3 = overrides_1694499309;
-    if (ConstSet1174[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1177[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     (evalBlock__evalZevaluator_u66(eval_1694499307, Temporary3.blockVals, ctxInner_1694499318));
     var entries_1694499335 = [initOrderedTable__coreZtypes_u471(32)];
     Label4: {
@@ -29324,7 +29361,7 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     }
     
       if (!(source_1694499308.kind == 22)) Temporary7 = false; else {        var Temporary8 = source_1694499308;
-        if (ConstSet1175[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+        if (ConstSet1178[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
         Temporary7 = eqStrings(Temporary8.typeName, [115,101,116,33]);      }    if (Temporary7) {
     if (!((overrides_1694499309.kind == 13))) {
     raiseException({kind: [116,121,112,101], message: [109,97,107,101,32,115,101,116,33,32,101,120,112,101,99,116,115,32,98,108,111,99,107,33], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
@@ -29335,13 +29372,13 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     Label9: {
         Label10: while (true) {
           var Temporary11 = overrides_1694499309;
-          if (ConstSet1176[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+          if (ConstSet1179[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
         if (!(pos_1694499405[0] < (Temporary11.blockVals).length)) break Label10;
           var Temporary12 = overrides_1694499309;
-          if (ConstSet1177[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+          if (ConstSet1180[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
           var v_1694499409 = [evalNext__evalZevaluator_u70(eval_1694499307, Temporary12.blockVals, pos_1694499405, 0, eval_1694499307.currentCtx)];
           var Temporary13 = overrides_1694499309;
-          if (ConstSet1178[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+          if (ConstSet1181[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
           applyInfix__evalZevaluator_u603(eval_1694499307, v_1694499409, 0, Temporary13.blockVals, pos_1694499405, 0, eval_1694499307.currentCtx);
           incl__evalZstdlib95registry_u1530(members_1694499404[0], HEX24__coreZtypes_u3190(v_1694499409[0]));
         }
@@ -29359,15 +29396,15 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     switch (source_1694499308.kind) {
     case 18:
       var Temporary14 = source_1694499308;
-      if (ConstSet1179[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+      if (ConstSet1182[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
       sourceEntries_1694499439 = nimCopy(sourceEntries_1694499439, Temporary14.obj.entries, NTI704643106);
       var Temporary15 = source_1694499308;
-      if (ConstSet1180[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+      if (ConstSet1183[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
       fieldSpecs_1694499444 = nimCopy(null, Temporary15.obj.fieldSpecs, NTI704643138);
       break;
     case 17:
       var Temporary16 = source_1694499308;
-      if (ConstSet1181[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+      if (ConstSet1184[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
       sourceEntries_1694499439 = nimCopy(sourceEntries_1694499439, Temporary16.ctx.entries, NTI704643106);
       break;
     default: 
@@ -29376,13 +29413,13 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     }
     var instance_1694499445 = newContext__coreZtypes_u456(eval_1694499307.global);
       if (!(source_1694499308.kind == 18)) Temporary17 = false; else {        var Temporary18 = source_1694499308;
-        if (ConstSet1182[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+        if (ConstSet1185[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
         Temporary17 = (0 < (Temporary18.obj.name).length);      }    if (Temporary17) {
     var Temporary19 = source_1694499308;
-    if (ConstSet1183[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+    if (ConstSet1186[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
     instance_1694499445.instanceOf = nimCopy(null, Temporary19.obj.name, NTI33554449);
     var Temporary20 = source_1694499308;
-    if (ConstSet1184[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+    if (ConstSet1187[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
     instance_1694499445.fieldSpecs = nimCopy(null, Temporary20.obj.fieldSpecs, NTI704643138);
     }
     
@@ -29415,10 +29452,10 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     var overrideCtx_1694499456 = newContext__coreZtypes_u456(eval_1694499307.currentCtx);
     overrideCtx_1694499456.localOnly = true;
       var Temporary24 = overrides_1694499309;
-      if (ConstSet1185[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+      if (ConstSet1188[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
     if ((0 < (Temporary24.blockVals).length)) {
     var Temporary25 = overrides_1694499309;
-    if (ConstSet1186[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+    if (ConstSet1189[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
     (evalBlock__evalZevaluator_u66(eval_1694499307, Temporary25.blockVals, overrideCtx_1694499456));
     Label26: {
       var key_1694499464 = [];
@@ -29518,7 +29555,7 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
             val_1694499598 = instance_1694499445.entries.data[chckIndx(h_570426200, 0, (instance_1694499445.entries.data).length - 1)].Field3;
             if ((val_1694499598.kind == 19)) {
             var Temporary39 = val_1694499598;
-            if (ConstSet1187[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
+            if (ConstSet1190[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
             var boundFn_1694499603 = cloneFuncWithSelf__dialectsZobject95dialect_u288(Temporary39.fn, instance_1694499445);
             set__coreZtypes_u1354(instance_1694499445, key_1694499597, {kind: 19, fn: boundFn_1694499603, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
             }
@@ -29575,16 +29612,16 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
         if (!(pos_1711276063 < (blk_p0).length)) break Label2;
           var current_1711276067 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
             if (!(current_1711276067.kind == 23)) Temporary3 = false; else {              var Temporary4 = current_1711276067;
-              if (ConstSet1188[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if (ConstSet1191[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               Temporary3 = (Temporary4.wordKind == 0);            }          if (Temporary3) {
           var Temporary5 = current_1711276067;
-          if (ConstSet1189[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet1192[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           switch (toJSStr(Temporary5.wordName)) {
           case "source":
             pos_1711276063 = addInt(pos_1711276063, 1);
             if (((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 13))) {
             var Temporary6 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1190[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+            if (ConstSet1193[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
             steps_1711276062.push({kind: 0, sourceBody: nimCopy(null, Temporary6.blockVals, NTI704643097), thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});;
             pos_1711276063 = addInt(pos_1711276063, 1);
             }
@@ -29597,7 +29634,7 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
             pos_1711276063 = addInt(pos_1711276063, 1);
             if (((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 13))) {
             var Temporary7 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1191[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+            if (ConstSet1194[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
             steps_1711276062.push({kind: 1, thenBody: nimCopy(null, Temporary7.blockVals, NTI704643097), sourceBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});;
             pos_1711276063 = addInt(pos_1711276063, 1);
             }
@@ -29610,7 +29647,7 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
             pos_1711276063 = addInt(pos_1711276063, 1);
             if (((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 13))) {
             var Temporary8 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1192[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+            if (ConstSet1195[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             steps_1711276062.push({kind: 2, whenBody: nimCopy(null, Temporary8.blockVals, NTI704643097), sourceBody: [], thenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});;
             pos_1711276063 = addInt(pos_1711276063, 1);
             }
@@ -29622,15 +29659,15 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
           case "catch":
             pos_1711276063 = addInt(pos_1711276063, 1);
               if (!((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 23))) Temporary9 = false; else {                var Temporary10 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-                if (ConstSet1193[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+                if (ConstSet1196[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
                 Temporary9 = (Temporary10.wordKind == 3);              }            if (Temporary9) {
             var Temporary11 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1194[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+            if (ConstSet1197[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
             var errorKind_1711276148 = nimCopy(null, Temporary11.wordName, NTI33554449);
             pos_1711276063 = addInt(pos_1711276063, 1);
             if (((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 13))) {
             var Temporary12 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1195[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+            if (ConstSet1198[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
             steps_1711276062.push({kind: 3, onKind: nimCopy(null, errorKind_1711276148, NTI33554449), onBody: nimCopy(null, Temporary12.blockVals, NTI704643097), sourceBody: [], thenBody: [], whenBody: [], fallbackBody: [], retryCount: 0n});;
             pos_1711276063 = addInt(pos_1711276063, 1);
             }
@@ -29648,7 +29685,7 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
             pos_1711276063 = addInt(pos_1711276063, 1);
             if (((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 13))) {
             var Temporary13 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1196[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+            if (ConstSet1199[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
             steps_1711276062.push({kind: 4, fallbackBody: nimCopy(null, Temporary13.blockVals, NTI704643097), sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], retryCount: 0n});;
             pos_1711276063 = addInt(pos_1711276063, 1);
             }
@@ -29661,7 +29698,7 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
             pos_1711276063 = addInt(pos_1711276063, 1);
             if (((pos_1711276063 < (blk_p0).length) && (blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)].kind == 0))) {
             var Temporary14 = blk_p0[chckIndx(pos_1711276063, 0, (blk_p0).length - 1)];
-            if (ConstSet1197[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+            if (ConstSet1200[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
             steps_1711276062.push({kind: 5, retryCount: Temporary14.intVal, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: []});;
             pos_1711276063 = addInt(pos_1711276063, 1);
             }
@@ -29672,7 +29709,7 @@ function parsePipeline__dialectsZattempt95dialect_u23(blk_p0) {
             break;
           default: 
             var Temporary15 = current_1711276067;
-            if (ConstSet1198[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+            if (ConstSet1201[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
             raiseException({kind: [97,116,116,101,109,112,116], message: ([117,110,107,110,111,119,110,32,112,105,112,101,108,105,110,101,32,107,101,121,119,111,114,100,58,32]).concat(Temporary15.wordName), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
             break;
           }
@@ -29712,15 +29749,15 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
             step_1711276334 = steps_p1[chckIndx(i_570426274, 0, (steps_p1).length - 1)];
             if ((step_1711276334.kind == 3)) {
             var Temporary4 = step_1711276334;
-            if (ConstSet1202[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onKind\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI1711276035)); }
+            if (ConstSet1205[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onKind\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI1711276035)); }
             var Temporary5 = step_1711276334;
-            if (ConstSet1203[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI1711276035)); }
+            if (ConstSet1206[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI1711276035)); }
             errorHandlers_1711276306.push({Field0: nimCopy(null, Temporary4.onKind, NTI33554449), Field1: nimCopy(null, Temporary5.onBody, NTI1711276186)});;
             }
             else {
             if ((step_1711276334.kind == 4)) {
             var Temporary6 = step_1711276334;
-            if (ConstSet1204[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fallbackBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI1711276035)); }
+            if (ConstSet1207[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fallbackBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI1711276035)); }
             fallbackBody_1711276311 = nimCopy(null, Temporary6.fallbackBody, NTI1711276042);
             }
             }
@@ -29749,7 +29786,7 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
 ++excHandler;
               try {
               var Temporary11 = step_1711276351;
-              if (ConstSet1205[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'thenBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI1711276035)); }
+              if (ConstSet1208[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'thenBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI1711276035)); }
               current_1711276301 = evalBlock__evalZevaluator_u66(eval_p0, Temporary11.thenBody, stepCtx_1711276352);
 --excHandler;
 } catch (EXCEPTION) {
@@ -29818,7 +29855,7 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
               var stepCtx_1711276373 = child__coreZtypes_u2943(ctx_p3);
               set__coreZtypes_u1354(stepCtx_1711276373, [105,116], current_1711276301);
               var Temporary15 = step_1711276351;
-              if (ConstSet1206[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'whenBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI1711276035)); }
+              if (ConstSet1209[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'whenBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI1711276035)); }
               var guardResult_1711276374 = evalBlock__evalZevaluator_u66(eval_p0, Temporary15.whenBody, stepCtx_1711276373);
               if (!(isTruthy__coreZtypes_u3184(guardResult_1711276374))) {
               result_1711276300 = ktgNone__coreZtypes_u332(0);
@@ -29879,7 +29916,7 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
     }
     
     var Temporary1 = pipeline_1711276419;
-    if (ConstSet1199[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1202[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var steps_1711276424 = parsePipeline__dialectsZattempt95dialect_u23(Temporary1.blockVals);
     var retryCount_1711276425 = 0n;
     Label2: {
@@ -29892,7 +29929,7 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
             step_1711276429 = steps_1711276424[chckIndx(i_570426214, 0, (steps_1711276424).length - 1)];
             if ((step_1711276429.kind == 5)) {
             var Temporary5 = step_1711276429;
-            if (ConstSet1200[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'retryCount\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI1711276035)); }
+            if (ConstSet1203[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'retryCount\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI1711276035)); }
             retryCount_1711276425 = Temporary5.retryCount;
             }
             
@@ -29921,7 +29958,7 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
             if ((step_1711276443.kind == 0)) {
             hasSource_1711276434 = true;
             var Temporary9 = step_1711276443;
-            if (ConstSet1201[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'sourceBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI1711276035)); }
+            if (ConstSet1204[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'sourceBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI1711276035)); }
             sourceBody_1711276439 = nimCopy(null, Temporary9.sourceBody, NTI1711276038);
             break Label6;
             }
@@ -29971,12 +30008,12 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
                     if (!(i_570426224 < L_570426225)) break Label17;
                       step_1711276462 = steps_1711276424[chckIndx(i_570426224, 0, (steps_1711276424).length - 1)];
                         if (!(step_1711276462.kind == 3)) Temporary18 = false; else {                          var Temporary19 = step_1711276462;
-                          if (ConstSet1207[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onKind\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI1711276035)); }
+                          if (ConstSet1210[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onKind\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI1711276035)); }
                           Temporary18 = eqStrings(Temporary19.onKind, e_1711276458.kind);                        }                      if (Temporary18) {
                       var handlerCtx_1711276467 = child__coreZtypes_u2943(eval_1711276418.currentCtx);
                       set__coreZtypes_u1354(handlerCtx_1711276467, [101,114,114,111,114], ktgString__coreZtypes_u324(e_1711276458.message, 0));
                       var Temporary20 = step_1711276462;
-                      if (ConstSet1208[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI1711276035)); }
+                      if (ConstSet1211[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI1711276035)); }
                       result_1711276417 = evalBlock__evalZevaluator_u66(eval_1711276418, Temporary20.onBody, handlerCtx_1711276467);
                       break BeforeRet;
                       }
@@ -30000,7 +30037,7 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
                       step_1711276476 = steps_1711276424[chckIndx(i_570426228, 0, (steps_1711276424).length - 1)];
                       if ((step_1711276476.kind == 4)) {
                       var Temporary24 = step_1711276476;
-                      if (ConstSet1209[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fallbackBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI1711276035)); }
+                      if (ConstSet1212[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fallbackBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI1711276035)); }
                       fallbackBody_1711276472 = nimCopy(null, Temporary24.fallbackBody, NTI1711276042);
                       break Label21;
                       }
@@ -30107,10 +30144,10 @@ function skipRuleTokens__dialectsZparse95dialect_u130(rules_p0, rpos_p1, rpos_p1
     var rule_1728053384 = rules_p0[chckIndx(rpos_p1[rpos_p1_Idx], 0, (rules_p0).length - 1)];
     rpos_p1[rpos_p1_Idx] = addInt(rpos_p1[rpos_p1_Idx], 1);
       if (!(rule_1728053384.kind == 23)) Temporary1 = false; else {        var Temporary2 = rule_1728053384;
-        if (ConstSet1219[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1222[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = (Temporary2.wordKind == 0);      }    if (Temporary1) {
     var Temporary3 = rule_1728053384;
-    if (ConstSet1220[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1223[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     switch (toJSStr(Temporary3.wordName)) {
     case "some":
     case "any":
@@ -30141,7 +30178,7 @@ function skipRuleTokens__dialectsZparse95dialect_u130(rules_p0, rpos_p1, rpos_p1
     }
     else {
       if (!(rule_1728053384.kind == 23)) Temporary4 = false; else {        var Temporary5 = rule_1728053384;
-        if (ConstSet1221[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+        if (ConstSet1224[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
         Temporary4 = (Temporary5.wordKind == 1);      }    if (Temporary4) {
     skipRuleTokens__dialectsZparse95dialect_u130(rules_p0, rpos_p1, rpos_p1_Idx);
     }
@@ -30285,22 +30322,22 @@ function matchCharClass__dialectsZparse95dialect_u92(name_p0, ch_p1) {
 
     switch (toJSStr(name_p0)) {
     case "alpha":
-      Temporary1 = (ConstSet1231[ch_p1] != undefined);
-      break;
-    case "digit":
-      Temporary1 = (ConstSet1232[ch_p1] != undefined);
-      break;
-    case "alnum":
-      Temporary1 = (ConstSet1233[ch_p1] != undefined);
-      break;
-    case "space":
       Temporary1 = (ConstSet1234[ch_p1] != undefined);
       break;
-    case "upper":
+    case "digit":
       Temporary1 = (ConstSet1235[ch_p1] != undefined);
       break;
-    case "lower":
+    case "alnum":
       Temporary1 = (ConstSet1236[ch_p1] != undefined);
+      break;
+    case "space":
+      Temporary1 = (ConstSet1237[ch_p1] != undefined);
+      break;
+    case "upper":
+      Temporary1 = (ConstSet1238[ch_p1] != undefined);
+      break;
+    case "lower":
+      Temporary1 = (ConstSet1239[ch_p1] != undefined);
       break;
     case "newline":
       Temporary1 = (ch_p1 == 10);
@@ -30405,7 +30442,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     if ((rule_1728053449.kind == 2)) {
     if ((s_p0.mode == 0)) {
     var Temporary1 = rule_1728053449;
-    if (ConstSet1214[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1217[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var lit_1728053463 = nimCopy(null, Temporary1.strVal, NTI33554449);
     if (((addInt(s_p0.pos, (lit_1728053463).length) <= (s_p0.str).length) && eqStrings(HEX5BHEX5D__pureZstrutils_u1280(s_p0.str, HEX2EHEX2E__stdZstrbasics_u48(s_p0.pos, subInt(addInt(s_p0.pos, (lit_1728053463).length), 1))), lit_1728053463))) {
     s_p0.pos = addInt(s_p0.pos, (lit_1728053463).length);
@@ -30418,9 +30455,9 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     }
     else {
         if (!(!(atEnd__dialectsZparse95dialect_u44(s_p0)) && (s_p0.blk[chckIndx(s_p0.pos, 0, (s_p0.blk).length - 1)].kind == 2))) Temporary2 = false; else {          var Temporary3 = s_p0.blk[chckIndx(s_p0.pos, 0, (s_p0.blk).length - 1)];
-          if (ConstSet1215[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+          if (ConstSet1218[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
           var Temporary4 = rule_1728053449;
-          if (ConstSet1216[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+          if (ConstSet1219[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
           Temporary2 = eqStrings(Temporary3.strVal, Temporary4.strVal);        }      if (Temporary2) {
       s_p0.pos = addInt(s_p0.pos, 1);
       result_1728053445 = true;
@@ -30435,11 +30472,11 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     
     if ((rule_1728053449.kind == 0)) {
     var Temporary5 = rule_1728053449;
-    if (ConstSet1217[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+    if (ConstSet1220[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
     var n_1728053504 = chckRange(Number(Temporary5.intVal), (-2147483648), 2147483647);
     if (((rpos_p2[rpos_p2_Idx] < (rules_p1).length) && (rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)].kind == 0))) {
     var Temporary6 = rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)];
-    if (ConstSet1218[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+    if (ConstSet1221[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
     var m_1728053512 = chckRange(Number(Temporary6.intVal), (-2147483648), 2147483647);
     rpos_p2[rpos_p2_Idx] = addInt(rpos_p2[rpos_p2_Idx], 1);
     if ((rpos_p2[rpos_p2_Idx] < (rules_p1).length)) {
@@ -30531,7 +30568,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     if ((rule_1728053449.kind == 13)) {
     var savedPos_1728053578 = s_p0.pos;
       var Temporary13 = rule_1728053449;
-      if (ConstSet1222[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+      if (ConstSet1225[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
     if (parseSequence__dialectsZparse95dialect_u127(s_p0, Temporary13.blockVals)) {
     result_1728053445 = true;
     break BeforeRet;
@@ -30544,7 +30581,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     
     if ((rule_1728053449.kind == 14)) {
     var Temporary14 = rule_1728053449;
-    if (ConstSet1223[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+    if (ConstSet1226[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
     (evalBlock__evalZevaluator_u66(s_p0.eval, Temporary14.parenVals, s_p0.eval.currentCtx));
     result_1728053445 = true;
     break BeforeRet;
@@ -30554,7 +30591,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     if ((s_p0.mode == 1)) {
     if (!(atEnd__dialectsZparse95dialect_u44(s_p0))) {
     var Temporary15 = rule_1728053449;
-    if (ConstSet1224[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+    if (ConstSet1227[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
     var expected_1728053591 = typeNameToKind__dialectsZparse95dialect_u120(Temporary15.typeName);
     if ((s_p0.blk[chckIndx(s_p0.pos, 0, (s_p0.blk).length - 1)].kind == expected_1728053591)) {
     s_p0.pos = addInt(s_p0.pos, 1);
@@ -30582,11 +30619,11 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     
     if ((rule_1728053449.kind == 23)) {
     var Temporary16 = rule_1728053449;
-    if (ConstSet1225[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+    if (ConstSet1228[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
     switch (Temporary16.wordKind) {
     case 0:
       var Temporary17 = rule_1728053449;
-      if (ConstSet1226[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+      if (ConstSet1229[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
       var name_1728053616 = nimCopy(null, Temporary17.wordName, NTI33554449);
       switch (toJSStr(name_1728053616)) {
       case "skip":
@@ -30787,7 +30824,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
         else {
           if ((quoted_1728053706.kind == 2)) {
           var Temporary28 = quoted_1728053706;
-          if (ConstSet1227[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
+          if (ConstSet1230[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
           var lit_1728053723 = nimCopy(null, Temporary28.strVal, NTI33554449);
           if (((addInt(s_p0.pos, (lit_1728053723).length) <= (s_p0.str).length) && eqStrings(HEX5BHEX5D__pureZstrutils_u1280(s_p0.str, HEX2EHEX2E__stdZstrbasics_u48(s_p0.pos, subInt(addInt(s_p0.pos, (lit_1728053723).length), 1))), lit_1728053723))) {
           s_p0.pos = addInt(s_p0.pos, (lit_1728053723).length);
@@ -30809,7 +30846,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
         }
         
         var Temporary29 = rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)];
-        if (ConstSet1228[Temporary29.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary29.kind, NTI704643076)); }
+        if (ConstSet1231[Temporary29.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary29.kind, NTI704643076)); }
         var subRules_1728053759 = nimCopy(null, Temporary29.blockVals, NTI704643097);
         rpos_p2[rpos_p2_Idx] = addInt(rpos_p2[rpos_p2_Idx], 1);
         var frame_1728053768 = {values: []};
@@ -30886,11 +30923,11 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
         }
         
         var Temporary34 = rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)];
-        if (ConstSet1229[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
+        if (ConstSet1232[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
         var subRules_1728053935 = nimCopy(null, Temporary34.blockVals, NTI704643097);
         rpos_p2[rpos_p2_Idx] = addInt(rpos_p2[rpos_p2_Idx], 1);
         var Temporary35 = current_1728053923;
-        if (ConstSet1230[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+        if (ConstSet1233[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
         var innerState_1728053940 = {mode: 1, blk: nimCopy(null, Temporary35.blockVals, NTI704643097), pos: 0, captures: nimCopy(null, s_p0.captures, NTI704643106), collectStack: nimCopy(null, s_p0.collectStack, NTI1728053272), eval: s_p0.eval, str: [], breakFlag: false, backtrackStack: []};
         var matched_1728053941 = parseSequence__dialectsZparse95dialect_u127(innerState_1728053940, subRules_1728053935);
         if ((matched_1728053941 && atEnd__dialectsZparse95dialect_u44(innerState_1728053940))) {
@@ -30960,13 +30997,13 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
       break;
     case 1:
       var Temporary39 = rule_1728053449;
-      if (ConstSet1237[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
+      if (ConstSet1240[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
       var captureName_1728054002 = nimCopy(null, Temporary39.wordName, NTI33554449);
       var beforePos_1728054003 = s_p0.pos;
         if (!((rpos_p2[rpos_p2_Idx] < (rules_p1).length) && (rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)].kind == 23))) Temporary41 = false; else {          var Temporary42 = rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)];
-          if (ConstSet1238[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
+          if (ConstSet1241[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
           Temporary41 = (Temporary42.wordKind == 0);        }        if (!Temporary41) Temporary40 = false; else {          var Temporary43 = rules_p1[chckIndx(rpos_p2[rpos_p2_Idx], 0, (rules_p1).length - 1)];
-          if (ConstSet1239[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
+          if (ConstSet1242[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
           Temporary40 = eqStrings(Temporary43.wordName, [99,111,108,108,101,99,116]);        }      if (Temporary40) {
       var subRpos_1728054015 = [rpos_p2[rpos_p2_Idx]];
       if (!(parseRule__dialectsZparse95dialect_u123(s_p0, rules_p1, subRpos_1728054015, 0))) {
@@ -31029,9 +31066,9 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     case 3:
       if ((s_p0.mode == 1)) {
         if (!(!(atEnd__dialectsZparse95dialect_u44(s_p0)) && (s_p0.blk[chckIndx(s_p0.pos, 0, (s_p0.blk).length - 1)].kind == 23))) Temporary48 = false; else {          var Temporary49 = s_p0.blk[chckIndx(s_p0.pos, 0, (s_p0.blk).length - 1)];
-          if (ConstSet1240[Temporary49.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary49.kind, NTI704643076)); }
+          if (ConstSet1243[Temporary49.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary49.kind, NTI704643076)); }
           var Temporary50 = rule_1728053449;
-          if (ConstSet1241[Temporary50.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary50.kind, NTI704643076)); }
+          if (ConstSet1244[Temporary50.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary50.kind, NTI704643076)); }
           Temporary48 = eqStrings(nsuToLowerAsciiStr(Temporary49.wordName), nsuToLowerAsciiStr(Temporary50.wordName));        }      if (Temporary48) {
       s_p0.pos = addInt(s_p0.pos, 1);
       result_1728053445 = true;
@@ -31052,7 +31089,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     }
     }
     
-    if (((s_p0.mode == 1) && (ConstSet1242[rule_1728053449.kind] != undefined))) {
+    if (((s_p0.mode == 1) && (ConstSet1245[rule_1728053449.kind] != undefined))) {
     if ((!(atEnd__dialectsZparse95dialect_u44(s_p0)) && valuesEqual__coreZequality_u5(s_p0.blk[chckIndx(s_p0.pos, 0, (s_p0.blk).length - 1)], rule_1728053449))) {
     s_p0.pos = addInt(s_p0.pos, 1);
     result_1728053445 = true;
@@ -31112,9 +31149,9 @@ function parseSequence__dialectsZparse95dialect_u127(s_p0, rules_p1) {
           if (!(i_570426291 < L_570426292)) break Label3;
             r_1728055179 = rules_p1[chckIndx(i_570426291, 0, (rules_p1).length - 1)];
               if (!(r_1728055179.kind == 23)) Temporary5 = false; else {                var Temporary6 = r_1728055179;
-                if (ConstSet1212[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                if (ConstSet1215[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 0);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = r_1728055179;
-                if (ConstSet1213[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1216[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary4 = eqStrings(Temporary7.wordName, [124]);              }            if (Temporary4) {
             var Temporary8 = nimCopy(null, current_1728055175, NTI1728054361);
             alternatives_1728055170.push(Temporary8);;
@@ -31227,14 +31264,14 @@ function executeParse__dialectsZparse95dialect_u2002(eval_p0, input_p1, rules_p2
     case 2:
       state_1728055280.mode = 0;
       var Temporary1 = input_p1;
-      if (ConstSet1210[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+      if (ConstSet1213[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
       state_1728055280.str = nimCopy(null, Temporary1.strVal, NTI33554449);
       state_1728055280.pos = 0;
       break;
     case 13:
       state_1728055280.mode = 1;
       var Temporary2 = input_p1;
-      if (ConstSet1211[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1214[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       state_1728055280.blk = nimCopy(null, Temporary2.blockVals, NTI704643097);
       state_1728055280.pos = 0;
       break;
@@ -31243,7 +31280,7 @@ function executeParse__dialectsZparse95dialect_u2002(eval_p0, input_p1, rules_p2
       break;
     }
     var Temporary3 = rules_p2;
-    if (ConstSet1243[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
+    if (ConstSet1246[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
     var matched_1728055281 = parseSequence__dialectsZparse95dialect_u127(state_1728055280, Temporary3.blockVals);
     var ok_1728055282 = (matched_1728055281 && atEnd__dialectsZparse95dialect_u44(state_1728055280));
     if (okOnly_p3) {
@@ -31314,25 +31351,25 @@ function setupEval__kintsugi95js_u12() {
 
 }
 
-function HEX3Aanonymous__evalZevaluator_u3832(args_p0, ep_p1, ep_p1_Idx) {
+function HEX3Aanonymous__evalZevaluator_u3849(args_p0, ep_p1, ep_p1_Idx) {
       var Temporary2;
 
-  var result_1275072251 = null;
+  var result_1275072268 = null;
 
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 13)) {
     Label1: {
-      var v_1275072259 = null;
+      var v_1275072276 = null;
       var colontmp__570426327 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
-      if (ConstSet1257[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+      if (ConstSet1260[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
       colontmp__570426327 = Temporary2.blockVals;
       var i_570426328 = 0;
       var L_570426329 = (colontmp__570426327).length;
       Label3: {
           Label4: while (true) {
           if (!(i_570426328 < L_570426329)) break Label4;
-            v_1275072259 = colontmp__570426327[chckIndx(i_570426328, 0, (colontmp__570426327).length - 1)];
-            this.emitted0.push(v_1275072259);;
+            v_1275072276 = colontmp__570426327[chckIndx(i_570426328, 0, (colontmp__570426327).length - 1)];
+            this.emitted0.push(v_1275072276);;
             i_570426328 += 1;
             if (!(((colontmp__570426327).length == L_570426329))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
@@ -31346,13 +31383,13 @@ function HEX3Aanonymous__evalZevaluator_u3832(args_p0, ep_p1, ep_p1_Idx) {
     this.emitted0.push(args_p0[chckIndx(0, 0, (args_p0).length - 1)]);;
     }
     
-    result_1275072251 = ktgNone__coreZtypes_u332(0);
+    result_1275072268 = ktgNone__coreZtypes_u332(0);
 
-  return result_1275072251;
+  return result_1275072268;
 
 }
 
-function HEX3Aanonymous__evalZevaluator_u4030(body_p0) {
+function HEX3Aanonymous__evalZevaluator_u4047(body_p0) {
             var Temporary3;
             var Temporary4;
               var Temporary5;
@@ -31360,36 +31397,36 @@ function HEX3Aanonymous__evalZevaluator_u4030(body_p0) {
           var Temporary7;
             var Temporary9;
 
-  var result_1275072448 = [];
+  var result_1275072465 = [];
 
-    var i2_1275072449 = 0;
+    var i2_1275072466 = 0;
     Label1: {
         Label2: while (true) {
-        if (!(i2_1275072449 < (body_p0).length)) break Label2;
-            if (!(body_p0[chckIndx(i2_1275072449, 0, (body_p0).length - 1)].kind == 23)) Temporary4 = false; else {              var Temporary5 = body_p0[chckIndx(i2_1275072449, 0, (body_p0).length - 1)];
-              if (ConstSet1272[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
-              Temporary4 = (Temporary5.wordKind == 0);            }            if (!Temporary4) Temporary3 = false; else {              var Temporary6 = body_p0[chckIndx(i2_1275072449, 0, (body_p0).length - 1)];
-              if (ConstSet1273[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+        if (!(i2_1275072466 < (body_p0).length)) break Label2;
+            if (!(body_p0[chckIndx(i2_1275072466, 0, (body_p0).length - 1)].kind == 23)) Temporary4 = false; else {              var Temporary5 = body_p0[chckIndx(i2_1275072466, 0, (body_p0).length - 1)];
+              if (ConstSet1275[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+              Temporary4 = (Temporary5.wordKind == 0);            }            if (!Temporary4) Temporary3 = false; else {              var Temporary6 = body_p0[chckIndx(i2_1275072466, 0, (body_p0).length - 1)];
+              if (ConstSet1276[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               Temporary3 = contains__coreZequality_u1527(this.eval1.macros, Temporary6.wordName);            }          if (Temporary3) {
-          var Temporary7 = body_p0[chckIndx(i2_1275072449, 0, (body_p0).length - 1)];
-          if (ConstSet1274[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
-          var mFn_1275072514 = get__coreZtypes_u563(this.eval1.global, Temporary7.wordName);
-          var cp_1275072515 = [addInt(i2_1275072449, 1)];
-          var mExpanded_1275072516 = callCallable__evalZevaluator_u75(this.eval1, mFn_1275072514, body_p0, cp_1275072515, 0, this.eval1.global, null);
-          if ((mExpanded_1275072516.kind == 13)) {
+          var Temporary7 = body_p0[chckIndx(i2_1275072466, 0, (body_p0).length - 1)];
+          if (ConstSet1277[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+          var mFn_1275072531 = get__coreZtypes_u563(this.eval1.global, Temporary7.wordName);
+          var cp_1275072532 = [addInt(i2_1275072466, 1)];
+          var mExpanded_1275072533 = callCallable__evalZevaluator_u75(this.eval1, mFn_1275072531, body_p0, cp_1275072532, 0, this.eval1.global, null);
+          if ((mExpanded_1275072533.kind == 13)) {
           Label8: {
-            var v_1275072524 = null;
+            var v_1275072541 = null;
             var colontmp__570426335 = [];
-            var Temporary9 = mExpanded_1275072516;
-            if (ConstSet1275[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+            var Temporary9 = mExpanded_1275072533;
+            if (ConstSet1278[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             colontmp__570426335 = Temporary9.blockVals;
             var i_570426336 = 0;
             var L_570426337 = (colontmp__570426335).length;
             Label10: {
                 Label11: while (true) {
                 if (!(i_570426336 < L_570426337)) break Label11;
-                  v_1275072524 = colontmp__570426335[chckIndx(i_570426336, 0, (colontmp__570426335).length - 1)];
-                  result_1275072448.push(v_1275072524);;
+                  v_1275072541 = colontmp__570426335[chckIndx(i_570426336, 0, (colontmp__570426335).length - 1)];
+                  result_1275072465.push(v_1275072541);;
                   i_570426336 += 1;
                   if (!(((colontmp__570426335).length == L_570426337))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
@@ -31400,20 +31437,20 @@ function HEX3Aanonymous__evalZevaluator_u4030(body_p0) {
           };
           }
           else {
-          result_1275072448.push(mExpanded_1275072516);;
+          result_1275072465.push(mExpanded_1275072533);;
           }
           
-          i2_1275072449 = cp_1275072515[0];
+          i2_1275072466 = cp_1275072532[0];
           }
           else {
-            result_1275072448.push(body_p0[chckIndx(i2_1275072449, 0, (body_p0).length - 1)]);;
-            i2_1275072449 = addInt(i2_1275072449, 1);
+            result_1275072465.push(body_p0[chckIndx(i2_1275072466, 0, (body_p0).length - 1)]);;
+            i2_1275072466 = addInt(i2_1275072466, 1);
           }
           
         }
     };
 
-  return result_1275072448;
+  return result_1275072465;
 
 }
 
@@ -31603,10 +31640,10 @@ function collectConstants__dialectsZgame95dialect_u1535(constantsBlock_p0) {
         Label2: while (true) {
         if (!(i_1409287684 < subInt((constantsBlock_p0).length, 1))) break Label2;
             if (!(constantsBlock_p0[chckIndx(i_1409287684, 0, (constantsBlock_p0).length - 1)].kind == 23)) Temporary3 = false; else {              var Temporary4 = constantsBlock_p0[chckIndx(i_1409287684, 0, (constantsBlock_p0).length - 1)];
-              if (ConstSet1280[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if (ConstSet1283[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               Temporary3 = (Temporary4.wordKind == 1);            }          if (Temporary3) {
           var Temporary5 = constantsBlock_p0[chckIndx(i_1409287684, 0, (constantsBlock_p0).length - 1)];
-          if (ConstSet1281[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet1284[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           HEX5BHEX5DHEX3D__dialectsZgame95dialect_u1588(result_1409287683[0], Temporary5.wordName, constantsBlock_p0[chckIndx(addInt(i_1409287684, 1), 0, (constantsBlock_p0).length - 1)]);
           i_1409287684 = addInt(i_1409287684, 2);
           }
@@ -31666,10 +31703,10 @@ function takeTwoNums__dialectsZgame95dialect_u3213(body_p0, i_p1) {
     if (((addInt(i_p1, 1) < (body_p0).length) && (body_p0[chckIndx(addInt(i_p1, 1), 0, (body_p0).length - 1)].kind == 6))) {
     var p_1409289368 = body_p0[chckIndx(addInt(i_p1, 1), 0, (body_p0).length - 1)];
     var Temporary1 = p_1409289368;
-    if (ConstSet1298[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
+    if (ConstSet1301[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
     var colontmp__570426561 = numFromFloat__coreZtypes_u355(Temporary1.px, 0);
     var Temporary2 = p_1409289368;
-    if (ConstSet1299[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+    if (ConstSet1302[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
     var colontmp__570426562 = numFromFloat__coreZtypes_u355(Temporary2.py, 0);
     var colontmp__570426563 = 2;
     result_1409289360 = nimCopy(result_1409289360, {Field0: colontmp__570426561, Field1: colontmp__570426562, Field2: colontmp__570426563}, NTI1409288086);
@@ -31721,27 +31758,27 @@ function substituteSelf__dialectsZgame95dialect_u2999(vals_p0, entityName_p1) {
             switch (v_1409289176.kind) {
             case 23:
                 var Temporary4 = v_1409289176;
-                if (ConstSet1303[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+                if (ConstSet1306[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               if (eqStrings(Temporary4.wordName, [115,101,108,102])) {
                 var Temporary5 = v_1409289176;
-                if (ConstSet1304[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1307[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               if ((Temporary5.wordKind == 1)) {
               raiseException({message: makeNimstrLit("cannot reassign `self` (the entity itself); use self/<field> for fields"), parent: null, m_type: NTI134217746, name: null, trace: [], up: null}, "ValueError");
               }
               
               var Temporary6 = v_1409289176;
-              if (ConstSet1305[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+              if (ConstSet1308[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               result_1409289146[chckIndx(idx_1409289175, 0, (result_1409289146).length - 1)] = ktgWord__coreZtypes_u399(entityName_p1, Temporary6.wordKind, 0);
               }
               else {
                 var Temporary7 = v_1409289176;
-                if (ConstSet1306[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1309[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               if (nsuStartsWith(Temporary7.wordName, [115,101,108,102,47])) {
               var Temporary8 = v_1409289176;
-              if (ConstSet1307[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1310[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               var suffix_1409289200 = HEX5BHEX5D__pureZstrutils_u1308(Temporary8.wordName, HEX2EHEX2E__stdZenumutils_u105(5, 1));
               var Temporary9 = v_1409289176;
-              if (ConstSet1308[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+              if (ConstSet1311[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
               result_1409289146[chckIndx(idx_1409289175, 0, (result_1409289146).length - 1)] = ktgWord__coreZtypes_u399((entityName_p1).concat([47],suffix_1409289200), Temporary9.wordKind, 0);
               }
               else {
@@ -31751,12 +31788,12 @@ function substituteSelf__dialectsZgame95dialect_u2999(vals_p0, entityName_p1) {
               break;
             case 13:
               var Temporary10 = v_1409289176;
-              if (ConstSet1309[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+              if (ConstSet1312[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
               result_1409289146[chckIndx(idx_1409289175, 0, (result_1409289146).length - 1)] = ktgBlock__coreZtypes_u367(substituteSelf__dialectsZgame95dialect_u2999(Temporary10.blockVals, entityName_p1), 0);
               break;
             case 14:
               var Temporary11 = v_1409289176;
-              if (ConstSet1310[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet1313[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               result_1409289146[chckIndx(idx_1409289175, 0, (result_1409289146).length - 1)] = ktgParen__coreZtypes_u391(substituteSelf__dialectsZgame95dialect_u2999(Temporary11.parenVals, entityName_p1), 0);
               break;
             default: 
@@ -31797,14 +31834,14 @@ function rewriteDestroy__dialectsZgame95dialect_u3065(vals_p0) {
         if (!(i_1409289212 < (vals_p0).length)) break Label2;
           var v_1409289216 = vals_p0[chckIndx(i_1409289212, 0, (vals_p0).length - 1)];
             if (!(v_1409289216.kind == 23)) Temporary7 = false; else {              var Temporary8 = v_1409289216;
-              if (ConstSet1311[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1314[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               Temporary7 = (Temporary8.wordKind == 0);            }            if (!Temporary7) Temporary6 = false; else {              var Temporary9 = v_1409289216;
-              if (ConstSet1312[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+              if (ConstSet1315[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
               Temporary6 = eqStrings(Temporary9.wordName, [100,101,115,116,114,111,121]);            }            if (!Temporary6) Temporary5 = false; else {              Temporary5 = (addInt(i_1409289212, 1) < (vals_p0).length);            }            if (!Temporary5) Temporary4 = false; else {              Temporary4 = (vals_p0[chckIndx(addInt(i_1409289212, 1), 0, (vals_p0).length - 1)].kind == 23);            }            if (!Temporary4) Temporary3 = false; else {              var Temporary10 = vals_p0[chckIndx(addInt(i_1409289212, 1), 0, (vals_p0).length - 1)];
-              if (ConstSet1313[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+              if (ConstSet1316[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
               Temporary3 = (Temporary10.wordKind == 0);            }          if (Temporary3) {
           var Temporary11 = vals_p0[chckIndx(addInt(i_1409289212, 1), 0, (vals_p0).length - 1)];
-          if (ConstSet1314[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+          if (ConstSet1317[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
           var target_1409289236 = nimCopy(null, Temporary11.wordName, NTI33554449);
           result_1409289211.push(ktgWord__coreZtypes_u399((target_1409289236).concat([47,97,108,105,118,101,63]), 1, 0));;
           result_1409289211.push(ktgLogic__coreZtypes_u328(false, 0));;
@@ -31813,14 +31850,14 @@ function rewriteDestroy__dialectsZgame95dialect_u3065(vals_p0) {
           else {
           if ((v_1409289216.kind == 13)) {
           var Temporary12 = v_1409289216;
-          if (ConstSet1315[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+          if (ConstSet1318[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
           result_1409289211.push(ktgBlock__coreZtypes_u367(rewriteDestroy__dialectsZgame95dialect_u3065(Temporary12.blockVals), 0));;
           i_1409289212 = addInt(i_1409289212, 1);
           }
           else {
           if ((v_1409289216.kind == 14)) {
           var Temporary13 = v_1409289216;
-          if (ConstSet1316[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+          if (ConstSet1319[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
           result_1409289211.push(ktgParen__coreZtypes_u391(rewriteDestroy__dialectsZgame95dialect_u3065(Temporary13.parenVals), 0));;
           i_1409289212 = addInt(i_1409289212, 1);
           }
@@ -31861,10 +31898,10 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
           Label3: {
             var head_1409289399 = body_p1[chckIndx(i_1409289395, 0, (body_p1).length - 1)];
               if (!(head_1409289399.kind == 23)) Temporary4 = false; else {                var Temporary5 = head_1409289399;
-                if (ConstSet1296[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1299[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 Temporary4 = (Temporary5.wordKind == 0);              }            if (Temporary4) {
             var Temporary6 = head_1409289399;
-            if (ConstSet1297[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+            if (ConstSet1300[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
             switch (toJSStr(Temporary6.wordName)) {
             case "pos":
               var tmpTuple_1409289408 = takeTwoNums__dialectsZgame95dialect_u3213(body_p1, i_1409289395);
@@ -31914,16 +31951,16 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
               break;
             case "field":
                 if (!((addInt(i_1409289395, 2) < (body_p1).length) && (body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)].kind == 23))) Temporary7 = false; else {                  var Temporary8 = body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)];
-                  if (ConstSet1300[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+                  if (ConstSet1303[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
                   Temporary7 = (Temporary8.wordKind == 0);                }              if (Temporary7) {
                 var Temporary9 = body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)];
-                if (ConstSet1301[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+                if (ConstSet1304[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
               if (eqStrings(Temporary9.wordName, [97,108,105,118,101,63])) {
               raiseException({message: ([64,103,97,109,101,32,101,110,116,105,116,121,32,96]).concat(name_p0,makeNimstrLit("`: `alive?` is a reserved field name (used by destroy / alive tracking)")), parent: null, m_type: NTI134217746, name: null, trace: [], up: null}, "ValueError");
               }
               
               var Temporary10 = body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)];
-              if (ConstSet1302[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+              if (ConstSet1305[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
               result_1409289394.ctxBlock.push(ktgWord__coreZtypes_u399(Temporary10.wordName, 1, 0));;
               result_1409289394.ctxBlock.push(body_p1[chckIndx(addInt(i_1409289395, 2), 0, (body_p1).length - 1)]);;
               i_1409289395 = addInt(i_1409289395, 3);
@@ -31937,7 +31974,7 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
                 var v_1409289521 = null;
                 var colontmp__570426547 = [];
                 var Temporary12 = body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)];
-                if (ConstSet1317[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+                if (ConstSet1320[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
                 colontmp__570426547 = substituteSelf__dialectsZgame95dialect_u2999(rewriteDestroy__dialectsZgame95dialect_u3065(Temporary12.blockVals), name_p0);
                 var i_570426548 = 0;
                 var L_570426549 = (colontmp__570426547).length;
@@ -31965,7 +32002,7 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
                 var v_1409289540 = null;
                 var colontmp__570426552 = [];
                 var Temporary16 = body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)];
-                if (ConstSet1318[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+                if (ConstSet1321[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
                 colontmp__570426552 = substituteSelf__dialectsZgame95dialect_u2999(Temporary16.blockVals, name_p0);
                 var i_570426553 = 0;
                 var L_570426554 = (colontmp__570426552).length;
@@ -31994,7 +32031,7 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
                 var t_1409289559 = null;
                 var colontmp__570426557 = [];
                 var Temporary20 = body_p1[chckIndx(addInt(i_1409289395, 1), 0, (body_p1).length - 1)];
-                if (ConstSet1319[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+                if (ConstSet1322[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
                 colontmp__570426557 = Temporary20.blockVals;
                 var i_570426558 = 0;
                 var L_570426559 = (colontmp__570426557).length;
@@ -32003,10 +32040,10 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
                     if (!(i_570426558 < L_570426559)) break Label22;
                       t_1409289559 = colontmp__570426557[chckIndx(i_570426558, 0, (colontmp__570426557).length - 1)];
                         if (!(t_1409289559.kind == 23)) Temporary23 = false; else {                          var Temporary24 = t_1409289559;
-                          if (ConstSet1320[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+                          if (ConstSet1323[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
                           Temporary23 = (Temporary24.wordKind == 0);                        }                      if (Temporary23) {
                       var Temporary25 = t_1409289559;
-                      if (ConstSet1321[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+                      if (ConstSet1324[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
                       var Temporary26 = nimCopy(null, Temporary25.wordName, NTI33554449);
                       result_1409289394.tags.push(Temporary26);;
                       }
@@ -32058,9 +32095,9 @@ function assertNoSelf__dialectsZgame95dialect_u3057(vals_p0, contextLabel_p1) {
             switch (v_1409289207.kind) {
             case 23:
                 var Temporary5 = v_1409289207;
-                if (ConstSet1345[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1348[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 if (eqStrings(Temporary5.wordName, [115,101,108,102])) Temporary4 = true; else {                  var Temporary6 = v_1409289207;
-                  if (ConstSet1346[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                  if (ConstSet1349[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                   Temporary4 = nsuStartsWith(Temporary6.wordName, [115,101,108,102,47]);                }              if (Temporary4) {
               raiseException({message: ([96,115,101,108,102,96,32,104,97,115,32,110,111,32,98,105,110,100,105,110,103,32,105,110,115,105,100,101,32]).concat(contextLabel_p1), parent: null, m_type: NTI134217746, name: null, trace: [], up: null}, "ValueError");
               }
@@ -32068,12 +32105,12 @@ function assertNoSelf__dialectsZgame95dialect_u3057(vals_p0, contextLabel_p1) {
               break;
             case 13:
               var Temporary7 = v_1409289207;
-              if (ConstSet1347[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+              if (ConstSet1350[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               assertNoSelf__dialectsZgame95dialect_u3057(Temporary7.blockVals, contextLabel_p1);
               break;
             case 14:
               var Temporary8 = v_1409289207;
-              if (ConstSet1348[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1351[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               assertNoSelf__dialectsZgame95dialect_u3057(Temporary8.parenVals, contextLabel_p1);
               break;
             default: 
@@ -32301,20 +32338,20 @@ function substituteIt__dialectsZgame95dialect_u3137(vals_p0, otherName_p1) {
             switch (v_1409289314.kind) {
             case 23:
                 var Temporary4 = v_1409289314;
-                if (ConstSet1355[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+                if (ConstSet1358[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               if (eqStrings(Temporary4.wordName, [105,116])) {
               raiseException({message: [98,97,114,101,32,96,105,116,96,32,105,115,32,110,111,116,32,118,97,108,105,100,59,32,117,115,101,32,96,105,116,47,60,102,105,101,108,100,62,96], parent: null, m_type: NTI134217746, name: null, trace: [], up: null}, "ValueError");
               }
               else {
                 var Temporary5 = v_1409289314;
-                if (ConstSet1356[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1359[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               if (nsuStartsWith(Temporary5.wordName, [105,116,47])) {
               var Temporary6 = v_1409289314;
-              if (ConstSet1357[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+              if (ConstSet1360[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               var suffix_1409289334 = HEX5BHEX5D__pureZstrutils_u1308(Temporary6.wordName, HEX2EHEX2E__stdZenumutils_u105(3, 1));
               var newName_1409289335 = (otherName_p1).concat([47],suffix_1409289334);
               var Temporary7 = v_1409289314;
-              if (ConstSet1358[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+              if (ConstSet1361[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               result_1409289284[chckIndx(idx_1409289313, 0, (result_1409289284).length - 1)] = ktgWord__coreZtypes_u399(newName_1409289335, Temporary7.wordKind, 0);
               }
               else {
@@ -32324,12 +32361,12 @@ function substituteIt__dialectsZgame95dialect_u3137(vals_p0, otherName_p1) {
               break;
             case 13:
               var Temporary8 = v_1409289314;
-              if (ConstSet1359[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1362[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               result_1409289284[chckIndx(idx_1409289313, 0, (result_1409289284).length - 1)] = ktgBlock__coreZtypes_u367(substituteIt__dialectsZgame95dialect_u3137(Temporary8.blockVals, otherName_p1), 0);
               break;
             case 14:
               var Temporary9 = v_1409289314;
-              if (ConstSet1360[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+              if (ConstSet1363[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
               result_1409289284[chckIndx(idx_1409289313, 0, (result_1409289284).length - 1)] = ktgParen__coreZtypes_u391(substituteIt__dialectsZgame95dialect_u3137(Temporary9.parenVals, otherName_p1), 0);
               break;
             default: 
@@ -32444,15 +32481,15 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
         if (!(i_1409291221 < (groupBody_p1).length)) break Label2;
           var head_1409291225 = groupBody_p1[chckIndx(i_1409291221, 0, (groupBody_p1).length - 1)];
             if (!(head_1409291225.kind == 23)) Temporary6 = false; else {              var Temporary7 = head_1409291225;
-              if (ConstSet1289[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+              if (ConstSet1292[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               Temporary6 = (Temporary7.wordKind == 0);            }            if (!Temporary6) Temporary5 = false; else {              var Temporary8 = head_1409291225;
-              if (ConstSet1290[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1293[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               Temporary5 = eqStrings(Temporary8.wordName, [115,116,97,116,101]);            }            if (!Temporary5) Temporary4 = false; else {              Temporary4 = (addInt(i_1409291221, 1) < (groupBody_p1).length);            }            if (!Temporary4) Temporary3 = false; else {              Temporary3 = (groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary3) {
           Label9: {
             var v_1409291244 = null;
             var colontmp__570426474 = [];
             var Temporary10 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-            if (ConstSet1291[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+            if (ConstSet1294[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
             colontmp__570426474 = Temporary10.blockVals;
             var i_570426475 = 0;
             var L_570426476 = (colontmp__570426474).length;
@@ -32473,14 +32510,14 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
           }
           else {
             if (!(head_1409291225.kind == 23)) Temporary18 = false; else {              var Temporary19 = head_1409291225;
-              if (ConstSet1292[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+              if (ConstSet1295[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
               Temporary18 = (Temporary19.wordKind == 0);            }            if (!Temporary18) Temporary17 = false; else {              var Temporary20 = head_1409291225;
-              if (ConstSet1293[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+              if (ConstSet1296[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
               Temporary17 = eqStrings(Temporary20.wordName, [101,110,116,105,116,121]);            }            if (!Temporary17) Temporary16 = false; else {              Temporary16 = (addInt(i_1409291221, 2) < (groupBody_p1).length);            }            if (!Temporary16) Temporary15 = false; else {              Temporary15 = (groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)].kind == 23);            }            if (!Temporary15) Temporary14 = false; else {              var Temporary21 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-              if (ConstSet1294[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
+              if (ConstSet1297[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
               Temporary14 = (Temporary21.wordKind == 0);            }            if (!Temporary14) Temporary13 = false; else {              Temporary13 = (groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary13) {
           var Temporary22 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1295[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+          if (ConstSet1298[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
           var rawBody_1409291276 = nimCopy(null, Temporary22.blockVals, NTI704643097);
           if (!(cmpClosures(macroExpand_p3, null))) {
           Temporary23 = macroExpand_p3(rawBody_1409291276);
@@ -32492,7 +32529,7 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
           var expanded_1409291281 = nimCopy(null, Temporary23, NTI1409286152);
           var taggedBody_1409291282 = injectGroupTag__dialectsZgame95dialect_u3444(expanded_1409291281, groupName_p0);
           var Temporary24 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1322[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+          if (ConstSet1325[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
           var ent_1409291283 = parseEntity__dialectsZgame95dialect_u3246(Temporary24.wordName, taggedBody_1409291282, backend_p2.storesColor);
           var Temporary25 = nimCopy(null, ent_1409291283, NTI1409288077);
           entities_1409291205.push(Temporary25);;
@@ -32500,68 +32537,68 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
           }
           else {
             if (!(head_1409291225.kind == 23)) Temporary33 = false; else {              var Temporary34 = head_1409291225;
-              if (ConstSet1323[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
+              if (ConstSet1326[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
               Temporary33 = (Temporary34.wordKind == 0);            }            if (!Temporary33) Temporary32 = false; else {              var Temporary35 = head_1409291225;
-              if (ConstSet1324[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+              if (ConstSet1327[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
               Temporary32 = eqStrings(Temporary35.wordName, [99,111,108,108,105,100,101]);            }            if (!Temporary32) Temporary31 = false; else {              Temporary31 = (addInt(i_1409291221, 3) < (groupBody_p1).length);            }            if (!Temporary31) Temporary30 = false; else {              Temporary30 = (groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)].kind == 23);            }            if (!Temporary30) Temporary29 = false; else {              var Temporary36 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-              if (ConstSet1325[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
+              if (ConstSet1328[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
               Temporary29 = (Temporary36.wordKind == 0);            }            if (!Temporary29) Temporary28 = false; else {              Temporary28 = (groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)].kind == 23);            }            if (!Temporary28) Temporary27 = false; else {              var Temporary38 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-              if (ConstSet1326[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
+              if (ConstSet1329[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
               if ((Temporary38.wordKind == 3)) Temporary37 = true; else {                var Temporary39 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-                if (ConstSet1327[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
+                if (ConstSet1330[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
                 Temporary37 = (Temporary39.wordKind == 0);              }              Temporary27 = Temporary37;            }            if (!Temporary27) Temporary26 = false; else {              Temporary26 = (groupBody_p1[chckIndx(addInt(i_1409291221, 3), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary26) {
           var Temporary40 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1328[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
+          if (ConstSet1331[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
           var Temporary41 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1329[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
+          if (ConstSet1332[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
           var Temporary42 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1330[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
+          if (ConstSet1333[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
           var Temporary43 = groupBody_p1[chckIndx(addInt(i_1409291221, 3), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1331[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
+          if (ConstSet1334[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
           collides_1409291210.push({selfEntity: nimCopy(null, Temporary40.wordName, NTI33554449), tagOrEntity: nimCopy(null, Temporary41.wordName, NTI33554449), isTag: (Temporary42.wordKind == 3), body: rewriteDestroy__dialectsZgame95dialect_u3065(Temporary43.blockVals), pred: []});;
           i_1409291221 = addInt(i_1409291221, 4);
           }
           else {
             if (!(head_1409291225.kind == 23)) Temporary53 = false; else {              var Temporary54 = head_1409291225;
-              if (ConstSet1332[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
+              if (ConstSet1335[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
               Temporary53 = (Temporary54.wordKind == 0);            }            if (!Temporary53) Temporary52 = false; else {              var Temporary55 = head_1409291225;
-              if (ConstSet1333[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
+              if (ConstSet1336[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
               Temporary52 = eqStrings(Temporary55.wordName, [99,111,108,108,105,100,101,47,117,115,105,110,103]);            }            if (!Temporary52) Temporary51 = false; else {              Temporary51 = (addInt(i_1409291221, 4) < (groupBody_p1).length);            }            if (!Temporary51) Temporary50 = false; else {              Temporary50 = (groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)].kind == 23);            }            if (!Temporary50) Temporary49 = false; else {              var Temporary56 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-              if (ConstSet1334[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
+              if (ConstSet1337[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
               Temporary49 = (Temporary56.wordKind == 0);            }            if (!Temporary49) Temporary48 = false; else {              Temporary48 = (groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)].kind == 23);            }            if (!Temporary48) Temporary47 = false; else {              var Temporary58 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-              if (ConstSet1335[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
+              if (ConstSet1338[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
               if ((Temporary58.wordKind == 3)) Temporary57 = true; else {                var Temporary59 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-                if (ConstSet1336[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
+                if (ConstSet1339[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
                 Temporary57 = (Temporary59.wordKind == 0);              }              Temporary47 = Temporary57;            }            if (!Temporary47) Temporary46 = false; else {              Temporary46 = (groupBody_p1[chckIndx(addInt(i_1409291221, 3), 0, (groupBody_p1).length - 1)].kind == 23);            }            if (!Temporary46) Temporary45 = false; else {              var Temporary60 = groupBody_p1[chckIndx(addInt(i_1409291221, 3), 0, (groupBody_p1).length - 1)];
-              if (ConstSet1337[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
+              if (ConstSet1340[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
               Temporary45 = (Temporary60.wordKind == 0);            }            if (!Temporary45) Temporary44 = false; else {              Temporary44 = (groupBody_p1[chckIndx(addInt(i_1409291221, 4), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary44) {
           var Temporary61 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1338[Temporary61.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary61.kind, NTI704643076)); }
+          if (ConstSet1341[Temporary61.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary61.kind, NTI704643076)); }
           var Temporary62 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1339[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
+          if (ConstSet1342[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
           var Temporary63 = groupBody_p1[chckIndx(addInt(i_1409291221, 2), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1340[Temporary63.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary63.kind, NTI704643076)); }
+          if (ConstSet1343[Temporary63.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary63.kind, NTI704643076)); }
           var Temporary64 = groupBody_p1[chckIndx(addInt(i_1409291221, 3), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1341[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
+          if (ConstSet1344[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
           var Temporary65 = groupBody_p1[chckIndx(addInt(i_1409291221, 4), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1342[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
+          if (ConstSet1345[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
           collides_1409291210.push({selfEntity: nimCopy(null, Temporary61.wordName, NTI33554449), tagOrEntity: nimCopy(null, Temporary62.wordName, NTI33554449), isTag: (Temporary63.wordKind == 3), pred: nimCopy(null, Temporary64.wordName, NTI33554449), body: rewriteDestroy__dialectsZgame95dialect_u3065(Temporary65.blockVals)});;
           i_1409291221 = addInt(i_1409291221, 5);
           }
           else {
             if (!(head_1409291225.kind == 23)) Temporary69 = false; else {              var Temporary70 = head_1409291225;
-              if (ConstSet1343[Temporary70.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary70.kind, NTI704643076)); }
+              if (ConstSet1346[Temporary70.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary70.kind, NTI704643076)); }
               Temporary69 = (Temporary70.wordKind == 0);            }            if (!Temporary69) Temporary68 = false; else {              var Temporary71 = head_1409291225;
-              if (ConstSet1344[Temporary71.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary71.kind, NTI704643076)); }
+              if (ConstSet1347[Temporary71.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary71.kind, NTI704643076)); }
               Temporary68 = eqStrings(Temporary71.wordName, [100,114,97,119]);            }            if (!Temporary68) Temporary67 = false; else {              Temporary67 = (addInt(i_1409291221, 1) < (groupBody_p1).length);            }            if (!Temporary67) Temporary66 = false; else {              Temporary66 = (groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary66) {
           var Temporary72 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1349[Temporary72.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary72.kind, NTI704643076)); }
+          if (ConstSet1352[Temporary72.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary72.kind, NTI704643076)); }
           assertNoSelf__dialectsZgame95dialect_u3057(Temporary72.blockVals, [103,114,111,117,112,32,100,114,97,119,32,98,108,111,99,107]);
           Label73: {
             var v_1409291412 = null;
             var colontmp__570426479 = [];
             var Temporary74 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-            if (ConstSet1350[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
+            if (ConstSet1353[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
             colontmp__570426479 = Temporary74.blockVals;
             var i_570426480 = 0;
             var L_570426481 = (colontmp__570426479).length;
@@ -32582,18 +32619,18 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
           }
           else {
             if (!(head_1409291225.kind == 23)) Temporary80 = false; else {              var Temporary81 = head_1409291225;
-              if (ConstSet1351[Temporary81.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary81.kind, NTI704643076)); }
+              if (ConstSet1354[Temporary81.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary81.kind, NTI704643076)); }
               Temporary80 = (Temporary81.wordKind == 0);            }            if (!Temporary80) Temporary79 = false; else {              var Temporary82 = head_1409291225;
-              if (ConstSet1352[Temporary82.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary82.kind, NTI704643076)); }
+              if (ConstSet1355[Temporary82.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary82.kind, NTI704643076)); }
               Temporary79 = eqStrings(Temporary82.wordName, [111,110,45,117,112,100,97,116,101]);            }            if (!Temporary79) Temporary78 = false; else {              Temporary78 = (addInt(i_1409291221, 1) < (groupBody_p1).length);            }            if (!Temporary78) Temporary77 = false; else {              Temporary77 = (groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary77) {
           var Temporary83 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-          if (ConstSet1353[Temporary83.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary83.kind, NTI704643076)); }
+          if (ConstSet1356[Temporary83.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary83.kind, NTI704643076)); }
           assertNoSelf__dialectsZgame95dialect_u3057(Temporary83.blockVals, [103,114,111,117,112,32,111,110,45,117,112,100,97,116,101,32,98,108,111,99,107]);
           Label84: {
             var v_1409291439 = null;
             var colontmp__570426484 = [];
             var Temporary85 = groupBody_p1[chckIndx(addInt(i_1409291221, 1), 0, (groupBody_p1).length - 1)];
-            if (ConstSet1354[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
+            if (ConstSet1357[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
             colontmp__570426484 = rewriteDestroy__dialectsZgame95dialect_u3065(Temporary85.blockVals);
             var i_570426485 = 0;
             var L_570426486 = (colontmp__570426484).length;
@@ -32954,12 +32991,12 @@ function inlineConstants__dialectsZgame95dialect_u2790(vals_p0, consts_p1) {
             switch (v_1409288974.kind) {
             case 23:
                 var Temporary5 = v_1409288974;
-                if (ConstSet1364[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1367[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 if (!(Temporary5.wordKind == 0)) Temporary4 = false; else {                  var Temporary6 = v_1409288974;
-                  if (ConstSet1365[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                  if (ConstSet1368[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                   Temporary4 = hasKey__dialectsZgame95dialect_u2871(consts_p1, Temporary6.wordName);                }              if (Temporary4) {
               var Temporary7 = v_1409288974;
-              if (ConstSet1366[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+              if (ConstSet1369[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               result_1409288939[chckIndx(idx_1409288973, 0, (result_1409288939).length - 1)] = HEX5BHEX5D__dialectsZgame95dialect_u2933(consts_p1, Temporary7.wordName);
               }
               else {
@@ -32969,12 +33006,12 @@ function inlineConstants__dialectsZgame95dialect_u2790(vals_p0, consts_p1) {
               break;
             case 13:
               var Temporary8 = v_1409288974;
-              if (ConstSet1367[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+              if (ConstSet1370[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
               result_1409288939[chckIndx(idx_1409288973, 0, (result_1409288939).length - 1)] = ktgBlock__coreZtypes_u367(inlineConstants__dialectsZgame95dialect_u2790(Temporary8.blockVals, consts_p1), 0);
               break;
             case 14:
               var Temporary9 = v_1409288974;
-              if (ConstSet1368[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+              if (ConstSet1371[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
               result_1409288939[chckIndx(idx_1409288973, 0, (result_1409288939).length - 1)] = ktgParen__coreZtypes_u391(inlineConstants__dialectsZgame95dialect_u2790(Temporary9.parenVals, consts_p1), 0);
               break;
             default: 
@@ -33046,24 +33083,24 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
         if (!(i_1409292373 < (blk_p0).length)) break Label2;
           var v_1409292377 = blk_p0[chckIndx(i_1409292373, 0, (blk_p0).length - 1)];
             if (!(v_1409292377.kind == 23)) Temporary4 = false; else {              var Temporary5 = v_1409292377;
-              if (ConstSet1276[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+              if (ConstSet1279[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               Temporary4 = (Temporary5.wordKind == 1);            }            if (!Temporary4) Temporary3 = false; else {              var Temporary6 = v_1409292377;
-              if (ConstSet1277[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+              if (ConstSet1280[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               Temporary3 = eqStrings(Temporary6.wordName, [116,97,114,103,101,116]);            }          if (Temporary3) {
           i_1409292373 = addInt(i_1409292373, 2);
           }
           else {
             if (!(v_1409292377.kind == 23)) Temporary10 = false; else {              var Temporary11 = v_1409292377;
-              if (ConstSet1278[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet1281[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               Temporary10 = (Temporary11.wordKind == 0);            }            if (!Temporary10) Temporary9 = false; else {              var Temporary12 = v_1409292377;
-              if (ConstSet1279[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+              if (ConstSet1282[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
               Temporary9 = eqStrings(Temporary12.wordName, [99,111,110,115,116,97,110,116,115]);            }            if (!Temporary9) Temporary8 = false; else {              Temporary8 = (addInt(i_1409292373, 1) < (blk_p0).length);            }            if (!Temporary8) Temporary7 = false; else {              Temporary7 = (blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)].kind == 13);            }          if (Temporary7) {
           Label13: {
             var k_1409292659 = [];
             var val_1409292660 = null;
             var colontmp__570426416 = ({data: [], counter: 0});
             var Temporary14 = blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)];
-            if (ConstSet1282[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+            if (ConstSet1285[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
             colontmp__570426416 = nimCopy(colontmp__570426416, collectConstants__dialectsZgame95dialect_u1535(Temporary14.blockVals), NTI704643365);
             var L_570426421 = len__dialectsZgame95dialect_u6305(colontmp__570426416);
             Label15: {
@@ -33094,15 +33131,15 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
           }
           else {
             if (!(v_1409292377.kind == 23)) Temporary21 = false; else {              var Temporary22 = v_1409292377;
-              if (ConstSet1283[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+              if (ConstSet1286[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
               Temporary21 = (Temporary22.wordKind == 0);            }            if (!Temporary21) Temporary20 = false; else {              var Temporary23 = v_1409292377;
-              if (ConstSet1284[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
+              if (ConstSet1287[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
               Temporary20 = eqStrings(Temporary23.wordName, [98,105,110,100,105,110,103,115]);            }            if (!Temporary20) Temporary19 = false; else {              Temporary19 = (addInt(i_1409292373, 1) < (blk_p0).length);            }            if (!Temporary19) Temporary18 = false; else {              Temporary18 = (blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)].kind == 13);            }          if (Temporary18) {
           Label24: {
             var entry_1409292725 = null;
             var colontmp__570426428 = [];
             var Temporary25 = blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)];
-            if (ConstSet1285[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+            if (ConstSet1288[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
             colontmp__570426428 = Temporary25.blockVals;
             var i_570426429 = 0;
             var L_570426430 = (colontmp__570426428).length;
@@ -33123,19 +33160,19 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
           }
           else {
             if (!(v_1409292377.kind == 23)) Temporary33 = false; else {              var Temporary34 = v_1409292377;
-              if (ConstSet1286[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
+              if (ConstSet1289[Temporary34.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary34.kind, NTI704643076)); }
               Temporary33 = (Temporary34.wordKind == 0);            }            if (!Temporary33) Temporary32 = false; else {              var Temporary35 = v_1409292377;
-              if (ConstSet1287[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+              if (ConstSet1290[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
               Temporary32 = eqStrings(Temporary35.wordName, [103,114,111,117,112]);            }            if (!Temporary32) Temporary31 = false; else {              Temporary31 = (addInt(i_1409292373, 2) < (blk_p0).length);            }            if (!Temporary31) Temporary30 = false; else {              Temporary30 = (blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)].kind == 23);            }            if (!Temporary30) Temporary29 = false; else {              var Temporary36 = blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)];
-              if (ConstSet1288[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
+              if (ConstSet1291[Temporary36.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary36.kind, NTI704643076)); }
               Temporary29 = (Temporary36.wordKind == 3);            }            if (!Temporary29) Temporary28 = false; else {              Temporary28 = (blk_p0[chckIndx(addInt(i_1409292373, 2), 0, (blk_p0).length - 1)].kind == 13);            }          if (Temporary28) {
           Label37: {
             var s_1409292760 = null;
             var colontmp__570426433 = [];
             var Temporary38 = blk_p0[chckIndx(addInt(i_1409292373, 1), 0, (blk_p0).length - 1)];
-            if (ConstSet1361[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
+            if (ConstSet1364[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
             var Temporary39 = blk_p0[chckIndx(addInt(i_1409292373, 2), 0, (blk_p0).length - 1)];
-            if (ConstSet1362[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
+            if (ConstSet1365[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
             colontmp__570426433 = expandGroup__dialectsZgame95dialect_u5046(Temporary38.wordName, Temporary39.blockVals, backend_1409292312, macroExpand_p2);
             var i_570426434 = 0;
             var L_570426435 = (colontmp__570426433).length;
@@ -33167,7 +33204,7 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
       var e_1409292791 = null;
       var colontmp__570426438 = [];
       var Temporary43 = backend_1409292312.bindings[chckIndx(1, 0, (backend_1409292312.bindings).length - 1)];
-      if (ConstSet1363[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
+      if (ConstSet1366[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
       colontmp__570426438 = Temporary43.blockVals;
       var i_570426439 = 0;
       var L_570426440 = (colontmp__570426438).length;
@@ -33357,22 +33394,22 @@ function collectRefs__evalZstdlib95registry_u1498(vals_p0) {
             switch (v_1342178785.kind) {
             case 23:
                 var Temporary4 = v_1342178785;
-                if (ConstSet1381[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
-              if ((ConstSet1380[Temporary4.wordKind] != undefined)) {
+                if (ConstSet1384[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if ((ConstSet1383[Temporary4.wordKind] != undefined)) {
               var Temporary5 = v_1342178785;
-              if (ConstSet1382[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+              if (ConstSet1385[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               incl__evalZstdlib95registry_u1530(result_1342178781[0], Temporary5.wordName);
               }
               
               break;
             case 13:
               var Temporary6 = v_1342178785;
-              if (ConstSet1383[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+              if (ConstSet1386[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               result_1342178781[0] = nimCopy(result_1342178781[0], HEX2B__evalZstdlib95registry_u2590(result_1342178781[0], collectRefs__evalZstdlib95registry_u1498(Temporary6.blockVals)), NTI704643118);
               break;
             case 14:
               var Temporary7 = v_1342178785;
-              if (ConstSet1384[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+              if (ConstSet1387[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               result_1342178781[0] = nimCopy(result_1342178781[0], HEX2B__evalZstdlib95registry_u2590(result_1342178781[0], collectRefs__evalZstdlib95registry_u1498(Temporary7.parenVals)), NTI704643118);
               break;
             default: 
@@ -33422,20 +33459,20 @@ function selectiveModuleAst__evalZstdlib95registry_u2669(moduleName_p0) {
         if (!(i_1342180078 < (ast_1342180076).length)) break Label2;
           Label3: {
               if (!(ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)].kind == 23)) Temporary4 = false; else {                var Temporary5 = ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)];
-                if (ConstSet1376[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1379[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 Temporary4 = (Temporary5.wordKind == 1);              }            if (Temporary4) {
             var Temporary6 = ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)];
-            if (ConstSet1377[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+            if (ConstSet1380[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
             var name_1342180090 = nimCopy(null, Temporary6.wordName, NTI33554449);
             var startIdx_1342180091 = i_1342180078;
             i_1342180078 = addInt(i_1342180078, 1);
               if (!((i_1342180078 < (ast_1342180076).length) && (ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)].kind == 23))) Temporary11 = false; else {                var Temporary12 = ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)];
-                if (ConstSet1378[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+                if (ConstSet1381[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
                 Temporary11 = (Temporary12.wordKind == 0);              }              if (!Temporary11) Temporary10 = false; else {                var Temporary13 = ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)];
-                if (ConstSet1379[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+                if (ConstSet1382[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
                 Temporary10 = eqStrings(Temporary13.wordName, [102,117,110,99,116,105,111,110]);              }              if (!Temporary10) Temporary9 = false; else {                Temporary9 = (addInt(i_1342180078, 2) < (ast_1342180076).length);              }              if (!Temporary9) Temporary8 = false; else {                Temporary8 = (ast_1342180076[chckIndx(addInt(i_1342180078, 1), 0, (ast_1342180076).length - 1)].kind == 13);              }              if (!Temporary8) Temporary7 = false; else {                Temporary7 = (ast_1342180076[chckIndx(addInt(i_1342180078, 2), 0, (ast_1342180076).length - 1)].kind == 13);              }            if (Temporary7) {
             var Temporary14 = ast_1342180076[chckIndx(addInt(i_1342180078, 2), 0, (ast_1342180076).length - 1)];
-            if (ConstSet1385[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+            if (ConstSet1388[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
             var bodyRefs_1342180118 = collectRefs__evalZstdlib95registry_u1498(Temporary14.blockVals);
             defs_1342180077.push({name: nimCopy(null, name_1342180090, NTI33554449), startIdx: startIdx_1342180091, endIdx: addInt(i_1342180078, 3), bodyRefs: nimCopy(null, bodyRefs_1342180118, NTI704643118)});;
             i_1342180078 = addInt(i_1342180078, 3);
@@ -33443,12 +33480,12 @@ function selectiveModuleAst__evalZstdlib95registry_u2669(moduleName_p0) {
             }
             else {
               if (!((i_1342180078 < (ast_1342180076).length) && (ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)].kind == 23))) Temporary18 = false; else {                var Temporary19 = ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)];
-                if (ConstSet1386[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+                if (ConstSet1389[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
                 Temporary18 = (Temporary19.wordKind == 0);              }              if (!Temporary18) Temporary17 = false; else {                var Temporary20 = ast_1342180076[chckIndx(i_1342180078, 0, (ast_1342180076).length - 1)];
-                if (ConstSet1387[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+                if (ConstSet1390[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
                 Temporary17 = eqStrings(Temporary20.wordName, [100,111,101,115]);              }              if (!Temporary17) Temporary16 = false; else {                Temporary16 = (addInt(i_1342180078, 1) < (ast_1342180076).length);              }              if (!Temporary16) Temporary15 = false; else {                Temporary15 = (ast_1342180076[chckIndx(addInt(i_1342180078, 1), 0, (ast_1342180076).length - 1)].kind == 13);              }            if (Temporary15) {
             var Temporary21 = ast_1342180076[chckIndx(addInt(i_1342180078, 1), 0, (ast_1342180076).length - 1)];
-            if (ConstSet1388[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
+            if (ConstSet1391[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
             var bodyRefs_1342180145 = collectRefs__evalZstdlib95registry_u1498(Temporary21.blockVals);
             defs_1342180077.push({name: nimCopy(null, name_1342180090, NTI33554449), startIdx: startIdx_1342180091, endIdx: addInt(i_1342180078, 2), bodyRefs: nimCopy(null, bodyRefs_1342180145, NTI704643118)});;
             i_1342180078 = addInt(i_1342180078, 2);
@@ -33610,7 +33647,7 @@ function spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_p0, sym
 
 }
 
-function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, target_p3) {
+function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, target_p3) {
               var Temporary4;
               var Temporary5;
                 var Temporary6;
@@ -33694,36 +33731,36 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
           var Temporary108;
     var Temporary112;
 
-  var result_1275071923 = [];
+  var result_1275071940 = [];
 
   BeforeRet: {
     var HEX3Aenv_570426340 = null;
     HEX3Aenv_570426340 = {m_type: NTI570425755, emitted0: [], eval1: null};
     HEX3Aenv_570426340.eval1 = eval_p0;
-    var hasWork_1275071924 = false;
+    var hasWork_1275071941 = false;
     Label1: {
-      var v_1275071928 = null;
+      var v_1275071945 = null;
       var i_570426375 = 0;
       var L_570426376 = (ast_p1).length;
       Label2: {
           Label3: while (true) {
           if (!(i_570426375 < L_570426376)) break Label3;
-            v_1275071928 = ast_p1[chckIndx(i_570426375, 0, (ast_p1).length - 1)];
-              if (!(v_1275071928.kind == 23)) Temporary5 = false; else {                var Temporary6 = v_1275071928;
-                if (ConstSet1244[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
-                Temporary5 = (Temporary6.wordKind == 4);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = v_1275071928;
-                if (ConstSet1245[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+            v_1275071945 = ast_p1[chckIndx(i_570426375, 0, (ast_p1).length - 1)];
+              if (!(v_1275071945.kind == 23)) Temporary5 = false; else {                var Temporary6 = v_1275071945;
+                if (ConstSet1247[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                Temporary5 = (Temporary6.wordKind == 4);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = v_1275071945;
+                if (ConstSet1248[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary4 = contains__stdZenumutils_u50([[112,114,101,112,114,111,99,101,115,115], [105,110,108,105,110,101], [103,97,109,101], [116,101,109,112,108,97,116,101], [116,101,109,112,108,97,116,101,47,100,101,101,112], [116,101,109,112,108,97,116,101,47,111,110,108,121]], Temporary7.wordName);              }            if (Temporary4) {
-            hasWork_1275071924 = true;
+            hasWork_1275071941 = true;
             break Label1;
             }
             
-              if (!(forCompilation_p2 && (v_1275071928.kind == 23))) Temporary9 = false; else {                var Temporary10 = v_1275071928;
-                if (ConstSet1246[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
-                Temporary9 = (Temporary10.wordKind == 0);              }              if (!Temporary9) Temporary8 = false; else {                var Temporary11 = v_1275071928;
-                if (ConstSet1247[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (!(forCompilation_p2 && (v_1275071945.kind == 23))) Temporary9 = false; else {                var Temporary10 = v_1275071945;
+                if (ConstSet1249[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+                Temporary9 = (Temporary10.wordKind == 0);              }              if (!Temporary9) Temporary8 = false; else {                var Temporary11 = v_1275071945;
+                if (ConstSet1250[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
                 Temporary8 = contains__stdZenumutils_u50([[105,109,112,111,114,116], [105,109,112,111,114,116,47,117,115,105,110,103]], Temporary11.wordName);              }            if (Temporary8) {
-            hasWork_1275071924 = true;
+            hasWork_1275071941 = true;
             break Label1;
             }
             
@@ -33735,21 +33772,21 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
           }
       };
     };
-    if ((!(hasWork_1275071924) && (0 < len__coreZequality_u1268(HEX3Aenv_570426340.eval1.macros)))) {
+    if ((!(hasWork_1275071941) && (0 < len__coreZequality_u1268(HEX3Aenv_570426340.eval1.macros)))) {
     Label12: {
-      var v_1275072108 = null;
+      var v_1275072125 = null;
       var i_570426379 = 0;
       var L_570426380 = (ast_p1).length;
       Label13: {
           Label14: while (true) {
           if (!(i_570426379 < L_570426380)) break Label14;
-            v_1275072108 = ast_p1[chckIndx(i_570426379, 0, (ast_p1).length - 1)];
-              if (!(v_1275072108.kind == 23)) Temporary16 = false; else {                var Temporary17 = v_1275072108;
-                if (ConstSet1248[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
-                Temporary16 = (Temporary17.wordKind == 0);              }              if (!Temporary16) Temporary15 = false; else {                var Temporary18 = v_1275072108;
-                if (ConstSet1249[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+            v_1275072125 = ast_p1[chckIndx(i_570426379, 0, (ast_p1).length - 1)];
+              if (!(v_1275072125.kind == 23)) Temporary16 = false; else {                var Temporary17 = v_1275072125;
+                if (ConstSet1251[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+                Temporary16 = (Temporary17.wordKind == 0);              }              if (!Temporary16) Temporary15 = false; else {                var Temporary18 = v_1275072125;
+                if (ConstSet1252[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
                 Temporary15 = contains__coreZequality_u1527(HEX3Aenv_570426340.eval1.macros, Temporary18.wordName);              }            if (Temporary15) {
-            hasWork_1275071924 = true;
+            hasWork_1275071941 = true;
             break Label12;
             }
             
@@ -33763,49 +33800,49 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
     };
     }
     
-    if (!(hasWork_1275071924)) {
-    result_1275071923 = nimCopy(null, ast_p1, NTI1275070603);
+    if (!(hasWork_1275071941)) {
+    result_1275071940 = nimCopy(null, ast_p1, NTI1275070611);
     break BeforeRet;
     }
     
     if (forCompilation_p2) {
-    var sys_1275072170 = get__coreZtypes_u563(HEX3Aenv_570426340.eval1.global, [115,121,115,116,101,109]);
-    if ((sys_1275072170.kind == 17)) {
-    var Temporary19 = sys_1275072170;
-    if (ConstSet1250[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+    var sys_1275072187 = get__coreZtypes_u563(HEX3Aenv_570426340.eval1.global, [115,121,115,116,101,109]);
+    if ((sys_1275072187.kind == 17)) {
+    var Temporary19 = sys_1275072187;
+    if (ConstSet1253[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
     set__coreZtypes_u1354(Temporary19.ctx, [112,108,97,116,102,111,114,109], ktgWord__coreZtypes_u399([108,117,97], 3, 0));
     }
     
     }
     
-    result_1275071923 = nimCopy(null, [], NTI704643218);
-    var i_1275072179 = 0;
+    result_1275071940 = nimCopy(null, [], NTI704643218);
+    var i_1275072196 = 0;
     Label20: {
         Label21: while (true) {
-        if (!(i_1275072179 < (ast_p1).length)) break Label21;
-            if (!(ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23)) Temporary25 = false; else {              var Temporary26 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1251[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
-              Temporary25 = (Temporary26.wordKind == 4);            }            if (!Temporary25) Temporary24 = false; else {              var Temporary27 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1252[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
-              Temporary24 = eqStrings(Temporary27.wordName, [105,110,108,105,110,101]);            }            if (!Temporary24) Temporary23 = false; else {              Temporary23 = (addInt(i_1275072179, 1) < (ast_p1).length);            }            if (!Temporary23) Temporary22 = false; else {              Temporary22 = (ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary22) {
-          var Temporary28 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-          if (ConstSet1253[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
-          var value_1275072198 = evalBlock__evalZevaluator_u66(HEX3Aenv_570426340.eval1, Temporary28.blockVals, HEX3Aenv_570426340.eval1.global);
-          if ((!((value_1275072198 == null)) && !((value_1275072198.kind == 4)))) {
-          if ((value_1275072198.kind == 13)) {
+        if (!(i_1275072196 < (ast_p1).length)) break Label21;
+            if (!(ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23)) Temporary25 = false; else {              var Temporary26 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1254[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
+              Temporary25 = (Temporary26.wordKind == 4);            }            if (!Temporary25) Temporary24 = false; else {              var Temporary27 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1255[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
+              Temporary24 = eqStrings(Temporary27.wordName, [105,110,108,105,110,101]);            }            if (!Temporary24) Temporary23 = false; else {              Temporary23 = (addInt(i_1275072196, 1) < (ast_p1).length);            }            if (!Temporary23) Temporary22 = false; else {              Temporary22 = (ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary22) {
+          var Temporary28 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+          if (ConstSet1256[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
+          var value_1275072215 = evalBlock__evalZevaluator_u66(HEX3Aenv_570426340.eval1, Temporary28.blockVals, HEX3Aenv_570426340.eval1.global);
+          if ((!((value_1275072215 == null)) && !((value_1275072215.kind == 4)))) {
+          if ((value_1275072215.kind == 13)) {
           Label29: {
-            var v_1275072214 = null;
+            var v_1275072231 = null;
             var colontmp__570426384 = [];
-            var Temporary30 = value_1275072198;
-            if (ConstSet1254[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
+            var Temporary30 = value_1275072215;
+            if (ConstSet1257[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
             colontmp__570426384 = Temporary30.blockVals;
             var i_570426385 = 0;
             var L_570426386 = (colontmp__570426384).length;
             Label31: {
                 Label32: while (true) {
                 if (!(i_570426385 < L_570426386)) break Label32;
-                  v_1275072214 = colontmp__570426384[chckIndx(i_570426385, 0, (colontmp__570426384).length - 1)];
-                  result_1275071923.push(v_1275072214);;
+                  v_1275072231 = colontmp__570426384[chckIndx(i_570426385, 0, (colontmp__570426384).length - 1)];
+                  result_1275071940.push(v_1275072231);;
                   i_570426385 += 1;
                   if (!(((colontmp__570426384).length == L_570426386))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
@@ -33816,35 +33853,35 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
           };
           }
           else {
-          result_1275071923.push(value_1275072198);;
+          result_1275071940.push(value_1275072215);;
           }
           
           }
           
-          i_1275072179 = addInt(i_1275072179, 2);
+          i_1275072196 = addInt(i_1275072196, 2);
           }
           else {
-            if (!(ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23)) Temporary36 = false; else {              var Temporary37 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1255[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
-              Temporary36 = (Temporary37.wordKind == 4);            }            if (!Temporary36) Temporary35 = false; else {              var Temporary38 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1256[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
-              Temporary35 = eqStrings(Temporary38.wordName, [112,114,101,112,114,111,99,101,115,115]);            }            if (!Temporary35) Temporary34 = false; else {              Temporary34 = (addInt(i_1275072179, 1) < (ast_p1).length);            }            if (!Temporary34) Temporary33 = false; else {              Temporary33 = (ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary33) {
-          var ppCtx_1275072242 = child__coreZtypes_u2943(HEX3Aenv_570426340.eval1.global);
+            if (!(ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23)) Temporary36 = false; else {              var Temporary37 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1258[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
+              Temporary36 = (Temporary37.wordKind == 4);            }            if (!Temporary36) Temporary35 = false; else {              var Temporary38 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1259[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
+              Temporary35 = eqStrings(Temporary38.wordName, [112,114,101,112,114,111,99,101,115,115]);            }            if (!Temporary35) Temporary34 = false; else {              Temporary34 = (addInt(i_1275072196, 1) < (ast_p1).length);            }            if (!Temporary34) Temporary33 = false; else {              Temporary33 = (ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary33) {
+          var ppCtx_1275072259 = child__coreZtypes_u2943(HEX3Aenv_570426340.eval1.global);
           HEX3Aenv_570426340.emitted0 = nimCopy(null, [], NTI704643218);
-          Temporary39 = HEX3Aanonymous__evalZevaluator_u3832.bind(HEX3Aenv_570426340); Temporary39.ClP_0 = HEX3Aanonymous__evalZevaluator_u3832; Temporary39.ClE_0 = HEX3Aenv_570426340;
-          set__coreZtypes_u1354(ppCtx_1275072242, [101,109,105,116], {kind: 20, nativeFn: {name: [101,109,105,116], arity: 1, fn: Temporary39, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
-          var Temporary40 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-          if (ConstSet1258[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
-          (evalBlock__evalZevaluator_u66(HEX3Aenv_570426340.eval1, Temporary40.blockVals, ppCtx_1275072242));
+          Temporary39 = HEX3Aanonymous__evalZevaluator_u3849.bind(HEX3Aenv_570426340); Temporary39.ClP_0 = HEX3Aanonymous__evalZevaluator_u3849; Temporary39.ClE_0 = HEX3Aenv_570426340;
+          set__coreZtypes_u1354(ppCtx_1275072259, [101,109,105,116], {kind: 20, nativeFn: {name: [101,109,105,116], arity: 1, fn: Temporary39, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
+          var Temporary40 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+          if (ConstSet1261[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
+          (evalBlock__evalZevaluator_u66(HEX3Aenv_570426340.eval1, Temporary40.blockVals, ppCtx_1275072259));
           Label41: {
-            var v_1275072271 = null;
+            var v_1275072288 = null;
             var i_570426389 = 0;
             var L_570426390 = (HEX3Aenv_570426340.emitted0).length;
             Label42: {
                 Label43: while (true) {
                 if (!(i_570426389 < L_570426390)) break Label43;
-                  v_1275072271 = HEX3Aenv_570426340.emitted0[chckIndx(i_570426389, 0, (HEX3Aenv_570426340.emitted0).length - 1)];
-                  result_1275071923.push(v_1275072271);;
+                  v_1275072288 = HEX3Aenv_570426340.emitted0[chckIndx(i_570426389, 0, (HEX3Aenv_570426340.emitted0).length - 1)];
+                  result_1275071940.push(v_1275072288);;
                   i_570426389 += 1;
                   if (!(((HEX3Aenv_570426340.emitted0).length == L_570426390))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
@@ -33853,27 +33890,27 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
                 }
             };
           };
-          i_1275072179 = addInt(i_1275072179, 2);
+          i_1275072196 = addInt(i_1275072196, 2);
           }
           else {
-            if (!(ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23)) Temporary50 = false; else {              var Temporary51 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1259[Temporary51.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary51.kind, NTI704643076)); }
-              Temporary50 = (Temporary51.wordKind == 4);            }            if (!Temporary50) Temporary49 = false; else {              var Temporary54 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1260[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
-              if (eqStrings(Temporary54.wordName, [116,101,109,112,108,97,116,101])) Temporary53 = true; else {                var Temporary55 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-                if (ConstSet1261[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
-                Temporary53 = eqStrings(Temporary55.wordName, [116,101,109,112,108,97,116,101,47,100,101,101,112]);              }              if (Temporary53) Temporary52 = true; else {                var Temporary56 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-                if (ConstSet1262[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
-                Temporary52 = eqStrings(Temporary56.wordName, [116,101,109,112,108,97,116,101,47,111,110,108,121]);              }              Temporary49 = Temporary52;            }            if (!Temporary49) Temporary48 = false; else {              Temporary48 = (addInt(i_1275072179, 3) < (ast_p1).length);            }            if (!Temporary48) Temporary47 = false; else {              Temporary47 = (ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)].kind == 23);            }            if (!Temporary47) Temporary46 = false; else {              var Temporary57 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-              if (ConstSet1263[Temporary57.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary57.kind, NTI704643076)); }
-              Temporary46 = (Temporary57.wordKind == 1);            }            if (!Temporary46) Temporary45 = false; else {              Temporary45 = (ast_p1[chckIndx(addInt(i_1275072179, 2), 0, (ast_p1).length - 1)].kind == 13);            }            if (!Temporary45) Temporary44 = false; else {              Temporary44 = (ast_p1[chckIndx(addInt(i_1275072179, 3), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary44) {
-          var Temporary58 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-          if (ConstSet1264[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
-          var compName_1275072307 = nimCopy(null, Temporary58.wordName, NTI33554449);
-          var specBlock_1275072308 = ast_p1[chckIndx(addInt(i_1275072179, 2), 0, (ast_p1).length - 1)];
-          var userBody_1275072309 = ast_p1[chckIndx(addInt(i_1275072179, 3), 0, (ast_p1).length - 1)];
-          var Temporary59 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-          if (ConstSet1265[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
+            if (!(ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23)) Temporary50 = false; else {              var Temporary51 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1262[Temporary51.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary51.kind, NTI704643076)); }
+              Temporary50 = (Temporary51.wordKind == 4);            }            if (!Temporary50) Temporary49 = false; else {              var Temporary54 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1263[Temporary54.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary54.kind, NTI704643076)); }
+              if (eqStrings(Temporary54.wordName, [116,101,109,112,108,97,116,101])) Temporary53 = true; else {                var Temporary55 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+                if (ConstSet1264[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
+                Temporary53 = eqStrings(Temporary55.wordName, [116,101,109,112,108,97,116,101,47,100,101,101,112]);              }              if (Temporary53) Temporary52 = true; else {                var Temporary56 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+                if (ConstSet1265[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
+                Temporary52 = eqStrings(Temporary56.wordName, [116,101,109,112,108,97,116,101,47,111,110,108,121]);              }              Temporary49 = Temporary52;            }            if (!Temporary49) Temporary48 = false; else {              Temporary48 = (addInt(i_1275072196, 3) < (ast_p1).length);            }            if (!Temporary48) Temporary47 = false; else {              Temporary47 = (ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)].kind == 23);            }            if (!Temporary47) Temporary46 = false; else {              var Temporary57 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+              if (ConstSet1266[Temporary57.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary57.kind, NTI704643076)); }
+              Temporary46 = (Temporary57.wordKind == 1);            }            if (!Temporary46) Temporary45 = false; else {              Temporary45 = (ast_p1[chckIndx(addInt(i_1275072196, 2), 0, (ast_p1).length - 1)].kind == 13);            }            if (!Temporary45) Temporary44 = false; else {              Temporary44 = (ast_p1[chckIndx(addInt(i_1275072196, 3), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary44) {
+          var Temporary58 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+          if (ConstSet1267[Temporary58.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary58.kind, NTI704643076)); }
+          var compName_1275072324 = nimCopy(null, Temporary58.wordName, NTI33554449);
+          var specBlock_1275072325 = ast_p1[chckIndx(addInt(i_1275072196, 2), 0, (ast_p1).length - 1)];
+          var userBody_1275072326 = ast_p1[chckIndx(addInt(i_1275072196, 3), 0, (ast_p1).length - 1)];
+          var Temporary59 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+          if (ConstSet1268[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
           switch (toJSStr(Temporary59.wordName)) {
           case "template/deep":
             Temporary60 = [99,111,109,112,111,115,101,47,100,101,101,112];
@@ -33885,41 +33922,41 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
             Temporary60 = [99,111,109,112,111,115,101];
             break;
           }
-          var composeName_1275072310 = nimCopy(null, Temporary60, NTI33554449);
-          var composedBody_1275072315 = ktgBlock__coreZtypes_u367([ktgWord__coreZtypes_u399(composeName_1275072310, 4, 0), userBody_1275072309], 0);
-          var fnAst_1275072320 = [ktgWord__coreZtypes_u399([102,117,110,99,116,105,111,110], 0, 0), specBlock_1275072308, composedBody_1275072315];
-          var defPos_1275072321 = [0];
-          var fnVal_1275072322 = evalNext__evalZevaluator_u70(HEX3Aenv_570426340.eval1, fnAst_1275072320, defPos_1275072321, 0, HEX3Aenv_570426340.eval1.global);
-          incl__evalZstdlib95registry_u1530(HEX3Aenv_570426340.eval1.macros, compName_1275072307);
-          set__coreZtypes_u1354(HEX3Aenv_570426340.eval1.global, compName_1275072307, fnVal_1275072322);
-          i_1275072179 = addInt(i_1275072179, 4);
+          var composeName_1275072327 = nimCopy(null, Temporary60, NTI33554449);
+          var composedBody_1275072332 = ktgBlock__coreZtypes_u367([ktgWord__coreZtypes_u399(composeName_1275072327, 4, 0), userBody_1275072326], 0);
+          var fnAst_1275072337 = [ktgWord__coreZtypes_u399([102,117,110,99,116,105,111,110], 0, 0), specBlock_1275072325, composedBody_1275072332];
+          var defPos_1275072338 = [0];
+          var fnVal_1275072339 = evalNext__evalZevaluator_u70(HEX3Aenv_570426340.eval1, fnAst_1275072337, defPos_1275072338, 0, HEX3Aenv_570426340.eval1.global);
+          incl__evalZstdlib95registry_u1530(HEX3Aenv_570426340.eval1.macros, compName_1275072324);
+          set__coreZtypes_u1354(HEX3Aenv_570426340.eval1.global, compName_1275072324, fnVal_1275072339);
+          i_1275072196 = addInt(i_1275072196, 4);
           }
           else {
-            if (!(ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23)) Temporary62 = false; else {              var Temporary63 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1266[Temporary63.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary63.kind, NTI704643076)); }
-              Temporary62 = (Temporary63.wordKind == 0);            }            if (!Temporary62) Temporary61 = false; else {              var Temporary64 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1267[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
+            if (!(ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23)) Temporary62 = false; else {              var Temporary63 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1269[Temporary63.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary63.kind, NTI704643076)); }
+              Temporary62 = (Temporary63.wordKind == 0);            }            if (!Temporary62) Temporary61 = false; else {              var Temporary64 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1270[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
               Temporary61 = contains__coreZequality_u1527(HEX3Aenv_570426340.eval1.macros, Temporary64.wordName);            }          if (Temporary61) {
-          var Temporary65 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-          if (ConstSet1268[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
-          var macroName_1275072411 = nimCopy(null, Temporary65.wordName, NTI33554449);
-          var macroFn_1275072412 = get__coreZtypes_u563(HEX3Aenv_570426340.eval1.global, macroName_1275072411);
-          var callPos_1275072413 = [addInt(i_1275072179, 1)];
-          var expanded_1275072414 = callCallable__evalZevaluator_u75(HEX3Aenv_570426340.eval1, macroFn_1275072412, ast_p1, callPos_1275072413, 0, HEX3Aenv_570426340.eval1.global, null);
-          if ((expanded_1275072414.kind == 13)) {
+          var Temporary65 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+          if (ConstSet1271[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
+          var macroName_1275072428 = nimCopy(null, Temporary65.wordName, NTI33554449);
+          var macroFn_1275072429 = get__coreZtypes_u563(HEX3Aenv_570426340.eval1.global, macroName_1275072428);
+          var callPos_1275072430 = [addInt(i_1275072196, 1)];
+          var expanded_1275072431 = callCallable__evalZevaluator_u75(HEX3Aenv_570426340.eval1, macroFn_1275072429, ast_p1, callPos_1275072430, 0, HEX3Aenv_570426340.eval1.global, null);
+          if ((expanded_1275072431.kind == 13)) {
           Label66: {
-            var v_1275072422 = null;
+            var v_1275072439 = null;
             var colontmp__570426393 = [];
-            var Temporary67 = expanded_1275072414;
-            if (ConstSet1269[Temporary67.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary67.kind, NTI704643076)); }
+            var Temporary67 = expanded_1275072431;
+            if (ConstSet1272[Temporary67.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary67.kind, NTI704643076)); }
             colontmp__570426393 = Temporary67.blockVals;
             var i_570426394 = 0;
             var L_570426395 = (colontmp__570426393).length;
             Label68: {
                 Label69: while (true) {
                 if (!(i_570426394 < L_570426395)) break Label69;
-                  v_1275072422 = colontmp__570426393[chckIndx(i_570426394, 0, (colontmp__570426393).length - 1)];
-                  result_1275071923.push(v_1275072422);;
+                  v_1275072439 = colontmp__570426393[chckIndx(i_570426394, 0, (colontmp__570426393).length - 1)];
+                  result_1275071940.push(v_1275072439);;
                   i_570426394 += 1;
                   if (!(((colontmp__570426393).length == L_570426395))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
@@ -33930,71 +33967,71 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
           };
           }
           else {
-          result_1275071923.push(expanded_1275072414);;
+          result_1275071940.push(expanded_1275072431);;
           }
           
-          i_1275072179 = callPos_1275072413[0];
+          i_1275072196 = callPos_1275072430[0];
           }
           else {
-            if (!(ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23)) Temporary73 = false; else {              var Temporary74 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1270[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
-              Temporary73 = (Temporary74.wordKind == 4);            }            if (!Temporary73) Temporary72 = false; else {              var Temporary75 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1271[Temporary75.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary75.kind, NTI704643076)); }
-              Temporary72 = eqStrings(Temporary75.wordName, [103,97,109,101]);            }            if (!Temporary72) Temporary71 = false; else {              Temporary71 = (addInt(i_1275072179, 1) < (ast_p1).length);            }            if (!Temporary71) Temporary70 = false; else {              Temporary70 = (ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary70) {
-          Temporary76 = HEX3Aanonymous__evalZevaluator_u4030.bind(HEX3Aenv_570426340); Temporary76.ClP_0 = HEX3Aanonymous__evalZevaluator_u4030; Temporary76.ClE_0 = HEX3Aenv_570426340;
-          var expander_1275072541 = Temporary76;
-          var Temporary77 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-          if (ConstSet1369[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
-          var expanded_1275072542 = expand__dialectsZgame95dialect_u5981(Temporary77.blockVals, target_p3, expander_1275072541);
+            if (!(ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23)) Temporary73 = false; else {              var Temporary74 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1273[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
+              Temporary73 = (Temporary74.wordKind == 4);            }            if (!Temporary73) Temporary72 = false; else {              var Temporary75 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1274[Temporary75.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary75.kind, NTI704643076)); }
+              Temporary72 = eqStrings(Temporary75.wordName, [103,97,109,101]);            }            if (!Temporary72) Temporary71 = false; else {              Temporary71 = (addInt(i_1275072196, 1) < (ast_p1).length);            }            if (!Temporary71) Temporary70 = false; else {              Temporary70 = (ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary70) {
+          Temporary76 = HEX3Aanonymous__evalZevaluator_u4047.bind(HEX3Aenv_570426340); Temporary76.ClP_0 = HEX3Aanonymous__evalZevaluator_u4047; Temporary76.ClE_0 = HEX3Aenv_570426340;
+          var expander_1275072558 = Temporary76;
+          var Temporary77 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+          if (ConstSet1372[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
+          var expanded_1275072559 = expand__dialectsZgame95dialect_u5981(Temporary77.blockVals, target_p3, expander_1275072558);
           Label78: {
-            var v_1275072546 = null;
+            var v_1275072563 = null;
             var i_570426398 = 0;
-            var L_570426399 = (expanded_1275072542).length;
+            var L_570426399 = (expanded_1275072559).length;
             Label79: {
                 Label80: while (true) {
                 if (!(i_570426398 < L_570426399)) break Label80;
-                  v_1275072546 = expanded_1275072542[chckIndx(i_570426398, 0, (expanded_1275072542).length - 1)];
-                  result_1275071923.push(v_1275072546);;
+                  v_1275072563 = expanded_1275072559[chckIndx(i_570426398, 0, (expanded_1275072559).length - 1)];
+                  result_1275071940.push(v_1275072563);;
                   i_570426398 += 1;
-                  if (!(((expanded_1275072542).length == L_570426399))) {
+                  if (!(((expanded_1275072559).length == L_570426399))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
                 }
             };
           };
-          i_1275072179 = addInt(i_1275072179, 2);
+          i_1275072196 = addInt(i_1275072196, 2);
           }
           else {
-            if (!(forCompilation_p2 && (ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23))) Temporary86 = false; else {              var Temporary87 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1370[Temporary87.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary87.kind, NTI704643076)); }
-              Temporary86 = (Temporary87.wordKind == 0);            }            if (!Temporary86) Temporary85 = false; else {              var Temporary88 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1371[Temporary88.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary88.kind, NTI704643076)); }
-              Temporary85 = eqStrings(Temporary88.wordName, [105,109,112,111,114,116,47,117,115,105,110,103]);            }            if (!Temporary85) Temporary84 = false; else {              Temporary84 = (addInt(i_1275072179, 2) < (ast_p1).length);            }            if (!Temporary84) Temporary83 = false; else {              Temporary83 = (ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)].kind == 23);            }            if (!Temporary83) Temporary82 = false; else {              var Temporary89 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-              if (ConstSet1372[Temporary89.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary89.kind, NTI704643076)); }
-              Temporary82 = (Temporary89.wordKind == 3);            }            if (!Temporary82) Temporary81 = false; else {              Temporary81 = (ast_p1[chckIndx(addInt(i_1275072179, 2), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary81) {
-          var Temporary90 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-          if (ConstSet1373[Temporary90.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary90.kind, NTI704643076)); }
-          var moduleName_1275072578 = nimCopy(null, Temporary90.wordName, NTI33554449);
-          if (contains__evalZevaluator_u4212(stdlibModules_1342178734, moduleName_1275072578)) {
-          var symbols_1275072662 = [];
+            if (!(forCompilation_p2 && (ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23))) Temporary86 = false; else {              var Temporary87 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1373[Temporary87.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary87.kind, NTI704643076)); }
+              Temporary86 = (Temporary87.wordKind == 0);            }            if (!Temporary86) Temporary85 = false; else {              var Temporary88 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1374[Temporary88.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary88.kind, NTI704643076)); }
+              Temporary85 = eqStrings(Temporary88.wordName, [105,109,112,111,114,116,47,117,115,105,110,103]);            }            if (!Temporary85) Temporary84 = false; else {              Temporary84 = (addInt(i_1275072196, 2) < (ast_p1).length);            }            if (!Temporary84) Temporary83 = false; else {              Temporary83 = (ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)].kind == 23);            }            if (!Temporary83) Temporary82 = false; else {              var Temporary89 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+              if (ConstSet1375[Temporary89.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary89.kind, NTI704643076)); }
+              Temporary82 = (Temporary89.wordKind == 3);            }            if (!Temporary82) Temporary81 = false; else {              Temporary81 = (ast_p1[chckIndx(addInt(i_1275072196, 2), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary81) {
+          var Temporary90 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+          if (ConstSet1376[Temporary90.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary90.kind, NTI704643076)); }
+          var moduleName_1275072595 = nimCopy(null, Temporary90.wordName, NTI33554449);
+          if (contains__evalZevaluator_u4229(stdlibModules_1342178734, moduleName_1275072595)) {
+          var symbols_1275072679 = [];
           Label91: {
-            var v_1275072666 = null;
+            var v_1275072683 = null;
             var colontmp__570426402 = [];
-            var Temporary92 = ast_p1[chckIndx(addInt(i_1275072179, 2), 0, (ast_p1).length - 1)];
-            if (ConstSet1374[Temporary92.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary92.kind, NTI704643076)); }
+            var Temporary92 = ast_p1[chckIndx(addInt(i_1275072196, 2), 0, (ast_p1).length - 1)];
+            if (ConstSet1377[Temporary92.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary92.kind, NTI704643076)); }
             colontmp__570426402 = Temporary92.blockVals;
             var i_570426403 = 0;
             var L_570426404 = (colontmp__570426402).length;
             Label93: {
                 Label94: while (true) {
                 if (!(i_570426403 < L_570426404)) break Label94;
-                  v_1275072666 = colontmp__570426402[chckIndx(i_570426403, 0, (colontmp__570426402).length - 1)];
-                  if ((v_1275072666.kind == 23)) {
-                  var Temporary95 = v_1275072666;
-                  if (ConstSet1375[Temporary95.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary95.kind, NTI704643076)); }
+                  v_1275072683 = colontmp__570426402[chckIndx(i_570426403, 0, (colontmp__570426402).length - 1)];
+                  if ((v_1275072683.kind == 23)) {
+                  var Temporary95 = v_1275072683;
+                  if (ConstSet1378[Temporary95.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary95.kind, NTI704643076)); }
                   var Temporary96 = nimCopy(null, Temporary95.wordName, NTI33554449);
-                  symbols_1275072662.push(Temporary96);;
+                  symbols_1275072679.push(Temporary96);;
                   }
                   
                   i_570426403 += 1;
@@ -34005,18 +34042,18 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
                 }
             };
           };
-          var selected_1275072675 = spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_1275072578, symbols_1275072662);
+          var selected_1275072692 = spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_1275072595, symbols_1275072679);
           Label97: {
-            var v_1275072679 = null;
+            var v_1275072696 = null;
             var i_570426407 = 0;
-            var L_570426408 = (selected_1275072675).length;
+            var L_570426408 = (selected_1275072692).length;
             Label98: {
                 Label99: while (true) {
                 if (!(i_570426407 < L_570426408)) break Label99;
-                  v_1275072679 = selected_1275072675[chckIndx(i_570426407, 0, (selected_1275072675).length - 1)];
-                  result_1275071923.push(v_1275072679);;
+                  v_1275072696 = selected_1275072692[chckIndx(i_570426407, 0, (selected_1275072692).length - 1)];
+                  result_1275071940.push(v_1275072696);;
                   i_570426407 += 1;
-                  if (!(((selected_1275072675).length == L_570426408))) {
+                  if (!(((selected_1275072692).length == L_570426408))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -34025,36 +34062,36 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
           };
           }
           else {
-            raiseException({kind: [105,109,112,111,114,116], message: ([117,110,107,110,111,119,110,32,109,111,100,117,108,101,58,32]).concat(moduleName_1275072578), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+            raiseException({kind: [105,109,112,111,114,116], message: ([117,110,107,110,111,119,110,32,109,111,100,117,108,101,58,32]).concat(moduleName_1275072595), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
           }
           
-          i_1275072179 = addInt(i_1275072179, 3);
+          i_1275072196 = addInt(i_1275072196, 3);
           }
           else {
-            if (!(forCompilation_p2 && (ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)].kind == 23))) Temporary104 = false; else {              var Temporary105 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1389[Temporary105.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary105.kind, NTI704643076)); }
-              Temporary104 = (Temporary105.wordKind == 0);            }            if (!Temporary104) Temporary103 = false; else {              var Temporary106 = ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)];
-              if (ConstSet1390[Temporary106.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary106.kind, NTI704643076)); }
-              Temporary103 = eqStrings(Temporary106.wordName, [105,109,112,111,114,116]);            }            if (!Temporary103) Temporary102 = false; else {              Temporary102 = (addInt(i_1275072179, 1) < (ast_p1).length);            }            if (!Temporary102) Temporary101 = false; else {              Temporary101 = (ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)].kind == 23);            }            if (!Temporary101) Temporary100 = false; else {              var Temporary107 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-              if (ConstSet1391[Temporary107.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary107.kind, NTI704643076)); }
+            if (!(forCompilation_p2 && (ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)].kind == 23))) Temporary104 = false; else {              var Temporary105 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1392[Temporary105.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary105.kind, NTI704643076)); }
+              Temporary104 = (Temporary105.wordKind == 0);            }            if (!Temporary104) Temporary103 = false; else {              var Temporary106 = ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)];
+              if (ConstSet1393[Temporary106.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary106.kind, NTI704643076)); }
+              Temporary103 = eqStrings(Temporary106.wordName, [105,109,112,111,114,116]);            }            if (!Temporary103) Temporary102 = false; else {              Temporary102 = (addInt(i_1275072196, 1) < (ast_p1).length);            }            if (!Temporary102) Temporary101 = false; else {              Temporary101 = (ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)].kind == 23);            }            if (!Temporary101) Temporary100 = false; else {              var Temporary107 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+              if (ConstSet1394[Temporary107.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary107.kind, NTI704643076)); }
               Temporary100 = (Temporary107.wordKind == 3);            }          if (Temporary100) {
-          var Temporary108 = ast_p1[chckIndx(addInt(i_1275072179, 1), 0, (ast_p1).length - 1)];
-          if (ConstSet1392[Temporary108.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary108.kind, NTI704643076)); }
-          var moduleName_1275072707 = nimCopy(null, Temporary108.wordName, NTI33554449);
-          if (contains__evalZevaluator_u4212(stdlibModules_1342178734, moduleName_1275072707)) {
-          var source_1275072820 = stripModuleHeader__evalZstdlib95registry_u1455(HEX5BHEX5D__evalZstdlib95registry_u2725(stdlibModules_1342178734, moduleName_1275072707));
-          var moduleAst_1275072821 = parseSource__parseZparser_u263(source_1275072820);
+          var Temporary108 = ast_p1[chckIndx(addInt(i_1275072196, 1), 0, (ast_p1).length - 1)];
+          if (ConstSet1395[Temporary108.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary108.kind, NTI704643076)); }
+          var moduleName_1275072724 = nimCopy(null, Temporary108.wordName, NTI33554449);
+          if (contains__evalZevaluator_u4229(stdlibModules_1342178734, moduleName_1275072724)) {
+          var source_1275072837 = stripModuleHeader__evalZstdlib95registry_u1455(HEX5BHEX5D__evalZstdlib95registry_u2725(stdlibModules_1342178734, moduleName_1275072724));
+          var moduleAst_1275072838 = parseSource__parseZparser_u263(source_1275072837);
           Label109: {
-            var v_1275072825 = null;
+            var v_1275072842 = null;
             var i_570426411 = 0;
-            var L_570426412 = (moduleAst_1275072821).length;
+            var L_570426412 = (moduleAst_1275072838).length;
             Label110: {
                 Label111: while (true) {
                 if (!(i_570426411 < L_570426412)) break Label111;
-                  v_1275072825 = moduleAst_1275072821[chckIndx(i_570426411, 0, (moduleAst_1275072821).length - 1)];
-                  result_1275071923.push(v_1275072825);;
+                  v_1275072842 = moduleAst_1275072838[chckIndx(i_570426411, 0, (moduleAst_1275072838).length - 1)];
+                  result_1275071940.push(v_1275072842);;
                   i_570426411 += 1;
-                  if (!(((moduleAst_1275072821).length == L_570426412))) {
+                  if (!(((moduleAst_1275072838).length == L_570426412))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -34063,23 +34100,23 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
           };
           }
           else {
-            raiseException({kind: [105,109,112,111,114,116], message: ([117,110,107,110,111,119,110,32,109,111,100,117,108,101,58,32]).concat(moduleName_1275072707), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
+            raiseException({kind: [105,109,112,111,114,116], message: ([117,110,107,110,111,119,110,32,109,111,100,117,108,101,58,32]).concat(moduleName_1275072724), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
           }
           
-          i_1275072179 = addInt(i_1275072179, 2);
+          i_1275072196 = addInt(i_1275072196, 2);
           }
           else {
-            result_1275071923.push(ast_p1[chckIndx(i_1275072179, 0, (ast_p1).length - 1)]);;
-            i_1275072179 = addInt(i_1275072179, 1);
+            result_1275071940.push(ast_p1[chckIndx(i_1275072196, 0, (ast_p1).length - 1)]);;
+            i_1275072196 = addInt(i_1275072196, 1);
           }
           }}}}}}
         }
     };
     if (forCompilation_p2) {
-    var sys_1275072842 = get__coreZtypes_u563(HEX3Aenv_570426340.eval1.global, [115,121,115,116,101,109]);
-    if ((sys_1275072842.kind == 17)) {
-    var Temporary112 = sys_1275072842;
-    if (ConstSet1393[Temporary112.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary112.kind, NTI704643076)); }
+    var sys_1275072859 = get__coreZtypes_u563(HEX3Aenv_570426340.eval1.global, [115,121,115,116,101,109]);
+    if ((sys_1275072859.kind == 17)) {
+    var Temporary112 = sys_1275072859;
+    if (ConstSet1396[Temporary112.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary112.kind, NTI704643076)); }
     set__coreZtypes_u1354(Temporary112.ctx, [112,108,97,116,102,111,114,109], ktgWord__coreZtypes_u399([115,99,114,105,112,116], 3, 0));
     }
     
@@ -34087,7 +34124,7 @@ function preprocess__evalZevaluator_u3502(eval_p0, ast_p1, forCompilation_p2, ta
     
   };
 
-  return result_1275071923;
+  return result_1275071940;
 
 }
 
@@ -34186,12 +34223,12 @@ function collectModuleNames__emitZlua_u28852(vals_p0) {
           if (!(i_570426643 < L_570426644)) break Label3;
             v_1627418823 = vals_p0[chckIndx(i_570426643, 0, (vals_p0).length - 1)];
               if (!(v_1627418823.kind == 23)) Temporary5 = false; else {                var Temporary6 = v_1627418823;
-                if (ConstSet1394[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                if (ConstSet1397[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 1);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = v_1627418823;
-                if (ConstSet1395[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1398[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary4 = !(contains__evalZevaluator_u1123(Temporary7.wordName, 47));              }            if (Temporary4) {
             var Temporary8 = v_1627418823;
-            if (ConstSet1396[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+            if (ConstSet1399[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             incl__evalZstdlib95registry_u1530(result_1627418807[0], luaName__emitZlua_u2929(Temporary8.wordName));
             }
             
@@ -34353,14 +34390,14 @@ function prescanBindings__emitZlua_u24456(e_p0, blk_p1) {
             
             var nameVal_1627414418 = blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)];
               if (!((nameVal_1627414418.kind == 23))) Temporary4 = true; else {                var Temporary5 = nameVal_1627414418;
-                if (ConstSet1399[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+                if (ConstSet1402[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 Temporary4 = !((Temporary5.wordKind == 0));              }            if (Temporary4) {
             pos_1627414411 = addInt(pos_1627414411, 1);
             break Label3;
             }
             
             var Temporary6 = nameVal_1627414418;
-            if (ConstSet1400[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+            if (ConstSet1403[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
             var name_1627414431 = nimCopy(null, Temporary6.wordName, NTI33554449);
             pos_1627414411 = addInt(pos_1627414411, 1);
             if (((blk_p1).length <= pos_1627414411)) {
@@ -34374,7 +34411,7 @@ function prescanBindings__emitZlua_u24456(e_p0, blk_p1) {
             }
             
             var Temporary7 = pathVal_1627414439;
-            if (ConstSet1401[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+            if (ConstSet1404[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
             var luaPath_1627414448 = nimCopy(null, Temporary7.strVal, NTI33554449);
             pos_1627414411 = addInt(pos_1627414411, 1);
             if (((blk_p1).length <= pos_1627414411)) {
@@ -34383,14 +34420,14 @@ function prescanBindings__emitZlua_u24456(e_p0, blk_p1) {
             
             var kindVal_1627414456 = blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)];
               if (!((kindVal_1627414456.kind == 23))) Temporary8 = true; else {                var Temporary9 = kindVal_1627414456;
-                if (ConstSet1402[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+                if (ConstSet1405[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
                 Temporary8 = !((Temporary9.wordKind == 3));              }            if (Temporary8) {
             pos_1627414411 = addInt(pos_1627414411, 1);
             break Label3;
             }
             
             var Temporary10 = kindVal_1627414456;
-            if (ConstSet1403[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+            if (ConstSet1406[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
             var kindName_1627414469 = nimCopy(null, Temporary10.wordName, NTI33554449);
             pos_1627414411 = addInt(pos_1627414411, 1);
             switch (toJSStr(kindName_1627414469)) {
@@ -34399,7 +34436,7 @@ function prescanBindings__emitZlua_u24456(e_p0, blk_p1) {
               HEX5BHEX5DHEX3D__emitZlua_u24600(e_p0.bindingKinds, name_1627414431, 0);
               if (((pos_1627414411 < (blk_p1).length) && (blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)].kind == 0))) {
               var Temporary11 = blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)];
-              if (ConstSet1404[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet1407[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               var arity_1627415657 = chckRange(Number(Temporary11.intVal), (-2147483648), 2147483647);
               pos_1627414411 = addInt(pos_1627414411, 1);
               if (((pos_1627414411 < (blk_p1).length) && (blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)].kind == 0))) {
@@ -34435,7 +34472,7 @@ function prescanBindings__emitZlua_u24456(e_p0, blk_p1) {
               HEX5BHEX5DHEX3D__emitZlua_u24600(e_p0.bindingKinds, name_1627414431, 5);
               if (((pos_1627414411 < (blk_p1).length) && (blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)].kind == 0))) {
               var Temporary12 = blk_p1[chckIndx(pos_1627414411, 0, (blk_p1).length - 1)];
-              if (ConstSet1405[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+              if (ConstSet1408[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
               var arity_1627416226 = chckRange(Number(Temporary12.intVal), (-2147483648), 2147483647);
               pos_1627414411 = addInt(pos_1627414411, 1);
               HEX5BHEX5DHEX3D__emitZlua_u1760(e_p0.bindings, name_1627414431, bindingFunc__emitZlua_u1622(arity_1627416226, [], (-1)));
@@ -34663,13 +34700,13 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
         if (!(i_1627416318 < (vals_p1).length)) break Label2;
           Label3: {
               if (!(vals_p1[chckIndx(i_1627416318, 0, (vals_p1).length - 1)].kind == 23)) Temporary5 = false; else {                var Temporary6 = vals_p1[chckIndx(i_1627416318, 0, (vals_p1).length - 1)];
-                if (ConstSet1397[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
+                if (ConstSet1400[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 0);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = vals_p1[chckIndx(i_1627416318, 0, (vals_p1).length - 1)];
-                if (ConstSet1398[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1401[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary4 = eqStrings(Temporary7.wordName, [98,105,110,100,105,110,103,115]);              }            if (Temporary4) {
             if (((addInt(i_1627416318, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)].kind == 13))) {
             var Temporary8 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-            if (ConstSet1406[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+            if (ConstSet1409[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             prescanBindings__emitZlua_u24456(e_p0, Temporary8.blockVals);
             i_1627416318 = addInt(i_1627416318, 2);
             break Label3;
@@ -34678,19 +34715,19 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             }
             
               if (!(vals_p1[chckIndx(i_1627416318, 0, (vals_p1).length - 1)].kind == 23)) Temporary9 = false; else {                var Temporary10 = vals_p1[chckIndx(i_1627416318, 0, (vals_p1).length - 1)];
-                if (ConstSet1407[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
+                if (ConstSet1410[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
                 Temporary9 = (Temporary10.wordKind == 1);              }            if (Temporary9) {
             var Temporary11 = vals_p1[chckIndx(i_1627416318, 0, (vals_p1).length - 1)];
-            if (ConstSet1408[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+            if (ConstSet1411[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
             var name_1627416349 = nimCopy(null, Temporary11.wordName, NTI33554449);
               if (!((addInt(i_1627416318, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary13 = false; else {                var Temporary14 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1409[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
+                if (ConstSet1412[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
                 Temporary13 = (Temporary14.wordKind == 0);              }              if (!Temporary13) Temporary12 = false; else {                var Temporary15 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1410[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+                if (ConstSet1413[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
                 Temporary12 = eqStrings(Temporary15.wordName, [102,117,110,99,116,105,111,110]);              }            if (Temporary12) {
             if (((addInt(i_1627416318, 2) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)].kind == 13))) {
             var Temporary16 = vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)];
-            if (ConstSet1411[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+            if (ConstSet1414[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
             var spec_1627416368 = parseFuncSpec__coreZtypes_u3312(Temporary16.blockVals);
             var refInfos_1627416373 = [];
             Label17: {
@@ -34713,15 +34750,15 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             var retArity_1627416385 = (-1);
             if (((addInt(i_1627416318, 3) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 3), 0, (vals_p1).length - 1)].kind == 13))) {
             var Temporary20 = vals_p1[chckIndx(addInt(i_1627416318, 3), 0, (vals_p1).length - 1)];
-            if (ConstSet1412[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+            if (ConstSet1415[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
             var body_1627416393 = nimCopy(null, Temporary20.blockVals, NTI704643097);
               if (!((3 <= (body_1627416393).length) && (HEX5BHEX5D__emitZlua_u26445(body_1627416393, 3).kind == 23))) Temporary24 = false; else {                var Temporary25 = HEX5BHEX5D__emitZlua_u26445(body_1627416393, 3);
-                if (ConstSet1413[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+                if (ConstSet1416[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
                 Temporary24 = (Temporary25.wordKind == 0);              }              if (!Temporary24) Temporary23 = false; else {                var Temporary26 = HEX5BHEX5D__emitZlua_u26445(body_1627416393, 3);
-                if (ConstSet1414[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
+                if (ConstSet1417[Temporary26.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary26.kind, NTI704643076)); }
                 Temporary23 = eqStrings(Temporary26.wordName, [102,117,110,99,116,105,111,110]);              }              if (!Temporary23) Temporary22 = false; else {                Temporary22 = (HEX5BHEX5D__emitZlua_u26445(body_1627416393, 2).kind == 13);              }              if (!Temporary22) Temporary21 = false; else {                Temporary21 = (HEX5BHEX5D__emitZlua_u26445(body_1627416393, 1).kind == 13);              }            if (Temporary21) {
             var Temporary27 = HEX5BHEX5D__emitZlua_u26445(body_1627416393, 2);
-            if (ConstSet1415[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
+            if (ConstSet1418[Temporary27.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary27.kind, NTI704643076)); }
             var innerSpec_1627416441 = parseFuncSpec__coreZtypes_u3312(Temporary27.blockVals);
             retArity_1627416385 = (innerSpec_1627416441.params).length;
             }
@@ -34735,7 +34772,7 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             else {
               if (((addInt(i_1627416318, 3) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 3), 0, (vals_p1).length - 1)].kind == 13))) {
               var Temporary28 = vals_p1[chckIndx(addInt(i_1627416318, 3), 0, (vals_p1).length - 1)];
-              if (ConstSet1416[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
+              if (ConstSet1419[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
               var body_1627416539 = nimCopy(null, Temporary28.blockVals, NTI704643097);
               var paramNames_1627416541 = [({data: [], counter: 0})];
               Label29: {
@@ -34771,7 +34808,7 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                         break;
                       case 21:
                           var Temporary35 = v_1627416577;
-                          if (ConstSet1417[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'opSymbol\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
+                          if (ConstSet1420[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'opSymbol\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
                         if (contains__stdZenumutils_u50([[43], [45], [42], [47]], Temporary35.opSymbol)) {
                         hasArithOp_1627416573 = true;
                         }
@@ -34782,16 +34819,16 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                         break;
                       case 23:
                           var Temporary37 = v_1627416577;
-                          if (ConstSet1418[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
+                          if (ConstSet1421[Temporary37.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary37.kind, NTI704643076)); }
                           if (!(Temporary37.wordKind == 0)) Temporary36 = false; else {                            var Temporary38 = v_1627416577;
-                            if (ConstSet1419[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
+                            if (ConstSet1422[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
                             Temporary36 = contains__coreZequality_u1527(paramNames_1627416541[0], Temporary38.wordName);                          }                        if (Temporary36) {
                         }
                         else {
                           var Temporary40 = v_1627416577;
-                          if (ConstSet1420[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
+                          if (ConstSet1423[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
                           if (!(Temporary40.wordKind == 0)) Temporary39 = false; else {                            var Temporary41 = v_1627416577;
-                            if (ConstSet1421[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
+                            if (ConstSet1424[Temporary41.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary41.kind, NTI704643076)); }
                             Temporary39 = contains__stdZenumutils_u50([[43], [45], [42], [47]], Temporary41.wordName);                          }                        if (Temporary39) {
                         hasArithOp_1627416573 = true;
                         }
@@ -34826,7 +34863,7 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             
             if (((addInt(i_1627416318, 3) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 3), 0, (vals_p1).length - 1)].kind == 13))) {
             var Temporary42 = vals_p1[chckIndx(addInt(i_1627416318, 3), 0, (vals_p1).length - 1)];
-            if (ConstSet1422[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
+            if (ConstSet1425[Temporary42.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary42.kind, NTI704643076)); }
             prescanBlock__emitZlua_u26363(e_p0, Temporary42.blockVals);
             }
             
@@ -34837,9 +34874,9 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             }
             else {
               if (!((addInt(i_1627416318, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary44 = false; else {                var Temporary45 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1423[Temporary45.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary45.kind, NTI704643076)); }
+                if (ConstSet1426[Temporary45.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary45.kind, NTI704643076)); }
                 Temporary44 = (Temporary45.wordKind == 0);              }              if (!Temporary44) Temporary43 = false; else {                var Temporary46 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1424[Temporary46.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary46.kind, NTI704643076)); }
+                if (ConstSet1427[Temporary46.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary46.kind, NTI704643076)); }
                 Temporary43 = eqStrings(Temporary46.wordName, [111,98,106,101,99,116]);              }            if (Temporary43) {
             var typeName_1627416809 = nsuReplaceStr(toLower__pureZunicode_u7364(name_1627416349), [45], [95]);
             var kebabName_1627416810 = toLower__pureZunicode_u7364(name_1627416349);
@@ -34847,7 +34884,7 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             HEX5BHEX5DHEX3D__emitZlua_u1760(e_p0.bindings, name_1627416349, bindingVal__emitZlua_u1647());
             if (((addInt(i_1627416318, 2) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)].kind == 13))) {
             var Temporary47 = vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)];
-            if (ConstSet1425[Temporary47.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary47.kind, NTI704643076)); }
+            if (ConstSet1428[Temporary47.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary47.kind, NTI704643076)); }
             var specBlock_1627416883 = nimCopy(null, Temporary47.blockVals, NTI704643097);
             var fields_1627416891 = [];
             var si_1627416892 = 0;
@@ -34857,28 +34894,28 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                   Label50: {
                     var sv_1627416896 = specBlock_1627416883[chckIndx(si_1627416892, 0, (specBlock_1627416883).length - 1)];
                       if (!(sv_1627416896.kind == 23)) Temporary51 = false; else {                        var Temporary52 = sv_1627416896;
-                        if (ConstSet1426[Temporary52.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary52.kind, NTI704643076)); }
+                        if (ConstSet1429[Temporary52.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary52.kind, NTI704643076)); }
                         Temporary51 = (Temporary52.wordKind == 0);                      }                    if (Temporary51) {
                       var Temporary55 = sv_1627416896;
-                      if (ConstSet1427[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
+                      if (ConstSet1430[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
                       if (!eqStrings(Temporary55.wordName, [102,105,101,108,100,115])) Temporary54 = false; else {                        Temporary54 = (addInt(si_1627416892, 1) < (specBlock_1627416883).length);                      }                      if (!Temporary54) Temporary53 = false; else {                        Temporary53 = (specBlock_1627416883[chckIndx(addInt(si_1627416892, 1), 0, (specBlock_1627416883).length - 1)].kind == 13);                      }                    if (Temporary53) {
                     var Temporary56 = specBlock_1627416883[chckIndx(addInt(si_1627416892, 1), 0, (specBlock_1627416883).length - 1)];
-                    if (ConstSet1428[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
+                    if (ConstSet1431[Temporary56.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary56.kind, NTI704643076)); }
                     var fieldsBlock_1627416912 = nimCopy(null, Temporary56.blockVals, NTI704643097);
                     var fi_1627416913 = 0;
                     Label57: {
                         Label58: while (true) {
                         if (!(fi_1627416913 < (fieldsBlock_1627416912).length)) break Label58;
                             if (!(fieldsBlock_1627416912[chckIndx(fi_1627416913, 0, (fieldsBlock_1627416912).length - 1)].kind == 23)) Temporary59 = false; else {                              var Temporary60 = fieldsBlock_1627416912[chckIndx(fi_1627416913, 0, (fieldsBlock_1627416912).length - 1)];
-                              if (ConstSet1429[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
+                              if (ConstSet1432[Temporary60.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary60.kind, NTI704643076)); }
                               Temporary59 = (Temporary60.wordKind == 0);                            }                          if (Temporary59) {
                           var Temporary61 = fieldsBlock_1627416912[chckIndx(fi_1627416913, 0, (fieldsBlock_1627416912).length - 1)];
-                          if (ConstSet1430[Temporary61.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary61.kind, NTI704643076)); }
+                          if (ConstSet1433[Temporary61.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary61.kind, NTI704643076)); }
                           var section_1627416925 = nimCopy(null, Temporary61.wordName, NTI33554449);
                           fi_1627416913 = addInt(fi_1627416913, 1);
                           if (((fi_1627416913 < (fieldsBlock_1627416912).length) && (fieldsBlock_1627416912[chckIndx(fi_1627416913, 0, (fieldsBlock_1627416912).length - 1)].kind == 13))) {
                           var Temporary62 = fieldsBlock_1627416912[chckIndx(fi_1627416913, 0, (fieldsBlock_1627416912).length - 1)];
-                          if (ConstSet1431[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
+                          if (ConstSet1434[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
                           var sectionBlock_1627416937 = nimCopy(null, Temporary62.blockVals, NTI704643097);
                           fi_1627416913 = addInt(fi_1627416913, 1);
                           var bi_1627416942 = 0;
@@ -34886,20 +34923,20 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                               Label64: while (true) {
                               if (!(bi_1627416942 < (sectionBlock_1627416937).length)) break Label64;
                                   if (!(sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)].kind == 23)) Temporary65 = false; else {                                    var Temporary66 = sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)];
-                                    if (ConstSet1432[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
+                                    if (ConstSet1435[Temporary66.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary66.kind, NTI704643076)); }
                                     Temporary65 = (Temporary66.wordKind == 0);                                  }                                if (Temporary65) {
                                 var Temporary67 = sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)];
-                                if (ConstSet1433[Temporary67.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary67.kind, NTI704643076)); }
+                                if (ConstSet1436[Temporary67.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary67.kind, NTI704643076)); }
                                 var fieldName_1627416954 = luaName__emitZlua_u2929(Temporary67.wordName);
                                 bi_1627416942 = addInt(bi_1627416942, 1);
                                 var fType_1627416959 = [];
                                 if (((bi_1627416942 < (sectionBlock_1627416937).length) && (sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)].kind == 13))) {
                                 var Temporary68 = sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)];
-                                if (ConstSet1434[Temporary68.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary68.kind, NTI704643076)); }
+                                if (ConstSet1437[Temporary68.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary68.kind, NTI704643076)); }
                                 var typeBlock_1627416967 = nimCopy(null, Temporary68.blockVals, NTI704643097);
                                 if (((1 <= (typeBlock_1627416967).length) && (typeBlock_1627416967[chckIndx(0, 0, (typeBlock_1627416967).length - 1)].kind == 22))) {
                                 var Temporary69 = typeBlock_1627416967[chckIndx(0, 0, (typeBlock_1627416967).length - 1)];
-                                if (ConstSet1435[Temporary69.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary69.kind, NTI704643076)); }
+                                if (ConstSet1438[Temporary69.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary69.kind, NTI704643076)); }
                                 fType_1627416959 = nimCopy(null, Temporary69.typeName, NTI33554449);
                                 }
                                 
@@ -34907,7 +34944,7 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                                 }
                                 
                                 if (!((bi_1627416942 < (sectionBlock_1627416937).length) && (sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)].kind == 23))) Temporary72 = false; else {                                  var Temporary73 = sectionBlock_1627416937[chckIndx(bi_1627416942, 0, (sectionBlock_1627416937).length - 1)];
-                                  if (ConstSet1436[Temporary73.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary73.kind, NTI704643076)); }
+                                  if (ConstSet1439[Temporary73.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary73.kind, NTI704643076)); }
                                   Temporary72 = (Temporary73.wordKind == 0);                                }                                if (!Temporary72) Temporary71 = false; else {                                  Temporary71 = (addInt(bi_1627416942, 1) < (sectionBlock_1627416937).length);                                }                                if (!Temporary71) Temporary70 = false; else {                                  Temporary70 = (sectionBlock_1627416937[chckIndx(addInt(bi_1627416942, 1), 0, (sectionBlock_1627416937).length - 1)].kind == 13);                                }                                var isNextField_1627416997 = Temporary70;
                                 if (((eqStrings(section_1627416925, [111,112,116,105,111,110,97,108]) && (bi_1627416942 < (sectionBlock_1627416937).length)) && !(isNextField_1627416997))) {
                                 var dpos_1627417001 = [bi_1627416942];
@@ -34943,30 +34980,30 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                     }
                     
                       var Temporary76 = sv_1627416896;
-                      if (ConstSet1437[Temporary76.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary76.kind, NTI704643076)); }
+                      if (ConstSet1440[Temporary76.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary76.kind, NTI704643076)); }
                       if (!contains__stdZenumutils_u50([[102,105,101,108,100,47,111,112,116,105,111,110,97,108], [102,105,101,108,100,47,114,101,113,117,105,114,101,100]], Temporary76.wordName)) Temporary75 = false; else {                        Temporary75 = (addInt(si_1627416892, 1) < (specBlock_1627416883).length);                      }                      if (!Temporary75) Temporary74 = false; else {                        Temporary74 = (specBlock_1627416883[chckIndx(addInt(si_1627416892, 1), 0, (specBlock_1627416883).length - 1)].kind == 13);                      }                    if (Temporary74) {
                     var Temporary77 = specBlock_1627416883[chckIndx(addInt(si_1627416892, 1), 0, (specBlock_1627416883).length - 1)];
-                    if (ConstSet1438[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
+                    if (ConstSet1441[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
                     var fieldBlock_1627417093 = nimCopy(null, Temporary77.blockVals, NTI704643097);
                     if (((1 <= (fieldBlock_1627417093).length) && (fieldBlock_1627417093[chckIndx(0, 0, (fieldBlock_1627417093).length - 1)].kind == 23))) {
                     var Temporary78 = fieldBlock_1627417093[chckIndx(0, 0, (fieldBlock_1627417093).length - 1)];
-                    if (ConstSet1439[Temporary78.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary78.kind, NTI704643076)); }
+                    if (ConstSet1442[Temporary78.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary78.kind, NTI704643076)); }
                     var fieldName_1627417101 = luaName__emitZlua_u2929(Temporary78.wordName);
                     var fType_1627417102 = [];
                     if (((2 <= (fieldBlock_1627417093).length) && (fieldBlock_1627417093[chckIndx(1, 0, (fieldBlock_1627417093).length - 1)].kind == 13))) {
                     var Temporary79 = fieldBlock_1627417093[chckIndx(1, 0, (fieldBlock_1627417093).length - 1)];
-                    if (ConstSet1440[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
+                    if (ConstSet1443[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
                     var typeBlock_1627417110 = nimCopy(null, Temporary79.blockVals, NTI704643097);
                     if (((1 <= (typeBlock_1627417110).length) && (typeBlock_1627417110[chckIndx(0, 0, (typeBlock_1627417110).length - 1)].kind == 22))) {
                     var Temporary80 = typeBlock_1627417110[chckIndx(0, 0, (typeBlock_1627417110).length - 1)];
-                    if (ConstSet1441[Temporary80.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary80.kind, NTI704643076)); }
+                    if (ConstSet1444[Temporary80.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary80.kind, NTI704643076)); }
                     fType_1627417102 = nimCopy(null, Temporary80.typeName, NTI33554449);
                     }
                     
                     }
                     
                       var Temporary82 = sv_1627416896;
-                      if (ConstSet1442[Temporary82.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary82.kind, NTI704643076)); }
+                      if (ConstSet1445[Temporary82.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary82.kind, NTI704643076)); }
                       if (!eqStrings(Temporary82.wordName, [102,105,101,108,100,47,111,112,116,105,111,110,97,108])) Temporary81 = false; else {                        Temporary81 = (3 <= (fieldBlock_1627417093).length);                      }                    if (Temporary81) {
                     var fpos_1627417121 = [2];
                     var defaultVal_1627417122 = emitExpr__emitZlua_u3102(e_p0, fieldBlock_1627417093, fpos_1627417121, 0, false);
@@ -34985,10 +35022,10 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                     }
                     
                       if (!(specBlock_1627416883[chckIndx(si_1627416892, 0, (specBlock_1627416883).length - 1)].kind == 23)) Temporary83 = false; else {                        var Temporary84 = specBlock_1627416883[chckIndx(si_1627416892, 0, (specBlock_1627416883).length - 1)];
-                        if (ConstSet1443[Temporary84.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary84.kind, NTI704643076)); }
+                        if (ConstSet1446[Temporary84.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary84.kind, NTI704643076)); }
                         Temporary83 = (Temporary84.wordKind == 1);                      }                    if (Temporary83) {
                     var Temporary85 = specBlock_1627416883[chckIndx(si_1627416892, 0, (specBlock_1627416883).length - 1)];
-                    if (ConstSet1444[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
+                    if (ConstSet1447[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
                     var fieldName_1627417149 = luaName__emitZlua_u2929(Temporary85.wordName);
                     si_1627416892 = addInt(si_1627416892, 1);
                     var fpos_1627417154 = [si_1627416892];
@@ -35013,11 +35050,11 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             }
             else {
               if (!((addInt(i_1627416318, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary87 = false; else {                var Temporary88 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1445[Temporary88.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary88.kind, NTI704643076)); }
+                if (ConstSet1448[Temporary88.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary88.kind, NTI704643076)); }
                 Temporary87 = (Temporary88.wordKind == 0);              }              if (!Temporary87) Temporary86 = false; else {                var Temporary89 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1446[Temporary89.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary89.kind, NTI704643076)); }
+                if (ConstSet1449[Temporary89.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary89.kind, NTI704643076)); }
                 Temporary86 = eqStrings(Temporary89.wordName, [105,109,112,111,114,116]);              }            if (Temporary86) {
-            if (((addInt(i_1627416318, 2) < (vals_p1).length) && (ConstSet1447[vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)].kind] != undefined))) {
+            if (((addInt(i_1627416318, 2) < (vals_p1).length) && (ConstSet1450[vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)].kind] != undefined))) {
             HEX5BHEX5DHEX3D__emitZlua_u1760(e_p0.bindings, name_1627416349, bindingVal__emitZlua_u1647());
             i_1627416318 = addInt(i_1627416318, 3);
             break Label3;
@@ -35026,15 +35063,15 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             }
             else {
               if (!((addInt(i_1627416318, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary91 = false; else {                var Temporary92 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1448[Temporary92.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary92.kind, NTI704643076)); }
+                if (ConstSet1451[Temporary92.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary92.kind, NTI704643076)); }
                 Temporary91 = (Temporary92.wordKind == 0);              }              if (!Temporary91) Temporary90 = false; else {                var Temporary93 = vals_p1[chckIndx(addInt(i_1627416318, 1), 0, (vals_p1).length - 1)];
-                if (ConstSet1449[Temporary93.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary93.kind, NTI704643076)); }
+                if (ConstSet1452[Temporary93.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary93.kind, NTI704643076)); }
                 Temporary90 = eqStrings(Temporary93.wordName, [109,97,107,101]);              }            if (Temporary90) {
               if (!((addInt(i_1627416318, 2) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)].kind == 23))) Temporary94 = false; else {                var Temporary95 = vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)];
-                if (ConstSet1450[Temporary95.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary95.kind, NTI704643076)); }
+                if (ConstSet1453[Temporary95.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary95.kind, NTI704643076)); }
                 Temporary94 = (Temporary95.wordKind == 0);              }            if (Temporary94) {
             var Temporary96 = vals_p1[chckIndx(addInt(i_1627416318, 2), 0, (vals_p1).length - 1)];
-            if (ConstSet1451[Temporary96.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary96.kind, NTI704643076)); }
+            if (ConstSet1454[Temporary96.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary96.kind, NTI704643076)); }
             var typeName_1627418379 = nsuReplaceStr(toLower__pureZunicode_u7364(Temporary96.wordName), [95], [45]);
             HEX5BHEX5DHEX3D__evalZstdlib95registry_u124(e_p0.varTypes, name_1627416349, typeName_1627418379);
             }
@@ -35085,16 +35122,16 @@ function inferBindings__emitZlua_u28609(e_p0, vals_p1) {
         Label2: while (true) {
         if (!(i_1627418564 < (vals_p1).length)) break Label2;
             if (!(vals_p1[chckIndx(i_1627418564, 0, (vals_p1).length - 1)].kind == 23)) Temporary3 = false; else {              var Temporary4 = vals_p1[chckIndx(i_1627418564, 0, (vals_p1).length - 1)];
-              if (ConstSet1452[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if (ConstSet1455[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               Temporary3 = (Temporary4.wordKind == 1);            }          if (Temporary3) {
           var Temporary5 = vals_p1[chckIndx(i_1627418564, 0, (vals_p1).length - 1)];
-          if (ConstSet1453[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+          if (ConstSet1456[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
           var name_1627418576 = nimCopy(null, Temporary5.wordName, NTI33554449);
             if (!((addInt(i_1627418564, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary6 = false; else {              var Temporary7 = vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)];
-              if (ConstSet1454[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+              if (ConstSet1457[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
               Temporary6 = (Temporary7.wordKind == 0);            }          if (Temporary6) {
           var Temporary8 = vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)];
-          if (ConstSet1455[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+          if (ConstSet1458[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
           var calledName_1627418588 = nimCopy(null, Temporary8.wordName, NTI33554449);
           var info_1627418589 = getBinding__emitZlua_u1071(e_p0, calledName_1627418588);
           if ((info_1627418589.isFunction && (0 <= info_1627418589.returnArity))) {
@@ -35104,21 +35141,21 @@ function inferBindings__emitZlua_u28609(e_p0, vals_p1) {
           }
           
             if (!((addInt(i_1627418564, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary10 = false; else {              var Temporary11 = vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)];
-              if (ConstSet1456[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+              if (ConstSet1459[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               Temporary10 = (Temporary11.wordKind == 0);            }            if (!Temporary10) Temporary9 = false; else {              var Temporary12 = vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)];
-              if (ConstSet1457[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
+              if (ConstSet1460[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
               Temporary9 = eqStrings(Temporary12.wordName, [100,111,101,115]);            }          if (Temporary9) {
           if (((addInt(i_1627418564, 2) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627418564, 2), 0, (vals_p1).length - 1)].kind == 13))) {
           var Temporary13 = vals_p1[chckIndx(addInt(i_1627418564, 2), 0, (vals_p1).length - 1)];
-          if (ConstSet1458[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+          if (ConstSet1461[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
           var body_1627418650 = nimCopy(null, Temporary13.blockVals, NTI704643097);
             if (!((3 <= (body_1627418650).length) && (HEX5BHEX5D__emitZlua_u26445(body_1627418650, 3).kind == 23))) Temporary17 = false; else {              var Temporary18 = HEX5BHEX5D__emitZlua_u26445(body_1627418650, 3);
-              if (ConstSet1459[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+              if (ConstSet1462[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
               Temporary17 = (Temporary18.wordKind == 0);            }            if (!Temporary17) Temporary16 = false; else {              var Temporary19 = HEX5BHEX5D__emitZlua_u26445(body_1627418650, 3);
-              if (ConstSet1460[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+              if (ConstSet1463[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
               Temporary16 = eqStrings(Temporary19.wordName, [102,117,110,99,116,105,111,110]);            }            if (!Temporary16) Temporary15 = false; else {              Temporary15 = (HEX5BHEX5D__emitZlua_u26445(body_1627418650, 2).kind == 13);            }            if (!Temporary15) Temporary14 = false; else {              Temporary14 = (HEX5BHEX5D__emitZlua_u26445(body_1627418650, 1).kind == 13);            }          if (Temporary14) {
           var Temporary20 = HEX5BHEX5D__emitZlua_u26445(body_1627418650, 2);
-          if (ConstSet1461[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+          if (ConstSet1464[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
           var innerSpec_1627418694 = parseFuncSpec__coreZtypes_u3312(Temporary20.blockVals);
           HEX5BHEX5DHEX3D__emitZlua_u1760(e_p0.bindings, name_1627418576, bindingFunc__emitZlua_u1622(0, [], (innerSpec_1627418694.params).length));
           }
@@ -35128,13 +35165,13 @@ function inferBindings__emitZlua_u28609(e_p0, vals_p1) {
           }
           
             if (!((addInt(i_1627418564, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)].kind == 23))) Temporary22 = false; else {              var Temporary23 = vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)];
-              if (ConstSet1462[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
+              if (ConstSet1465[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
               Temporary22 = (Temporary23.wordKind == 0);            }            if (!Temporary22) Temporary21 = false; else {              var Temporary24 = vals_p1[chckIndx(addInt(i_1627418564, 1), 0, (vals_p1).length - 1)];
-              if (ConstSet1463[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+              if (ConstSet1466[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
               Temporary21 = eqStrings(Temporary24.wordName, [102,117,110,99,116,105,111,110]);            }          if (Temporary21) {
           if (((addInt(i_1627418564, 3) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627418564, 3), 0, (vals_p1).length - 1)].kind == 13))) {
           var Temporary25 = vals_p1[chckIndx(addInt(i_1627418564, 3), 0, (vals_p1).length - 1)];
-          if (ConstSet1464[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+          if (ConstSet1467[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
           inferBindings__emitZlua_u28609(e_p0, Temporary25.blockVals);
           }
           
@@ -35168,18 +35205,18 @@ function scanTypeChecks__emitZlua_u29058(e_p0, vals_p1) {
             i_1627419020 = i_570426683;
             if ((vals_p1[chckIndx(i_1627419020, 0, (vals_p1).length - 1)].kind == 13)) {
             var Temporary4 = vals_p1[chckIndx(i_1627419020, 0, (vals_p1).length - 1)];
-            if (ConstSet1465[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+            if (ConstSet1468[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
             scanTypeChecks__emitZlua_u29058(e_p0, Temporary4.blockVals);
             }
             else {
               if (!(vals_p1[chckIndx(i_1627419020, 0, (vals_p1).length - 1)].kind == 23)) Temporary6 = false; else {                var Temporary7 = vals_p1[chckIndx(i_1627419020, 0, (vals_p1).length - 1)];
-                if (ConstSet1466[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1469[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary6 = (Temporary7.wordKind == 0);              }              if (!Temporary6) Temporary5 = false; else {                var Temporary8 = vals_p1[chckIndx(i_1627419020, 0, (vals_p1).length - 1)];
-                if (ConstSet1467[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+                if (ConstSet1470[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
                 Temporary5 = eqStrings(Temporary8.wordName, [105,115,63]);              }            if (Temporary5) {
             if (((addInt(i_1627419020, 1) < (vals_p1).length) && (vals_p1[chckIndx(addInt(i_1627419020, 1), 0, (vals_p1).length - 1)].kind == 22))) {
             var Temporary9 = vals_p1[chckIndx(addInt(i_1627419020, 1), 0, (vals_p1).length - 1)];
-            if (ConstSet1468[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+            if (ConstSet1471[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
             var raw_1627419040 = toLower__pureZunicode_u7364(Temporary9.typeName);
             if (nsuEndsWith(raw_1627419040, [33])) {
             raw_1627419040 = nimCopy(null, HEX5BHEX5D__pureZstrutils_u1280(raw_1627419040, HEX2EHEX2E__stdZstrbasics_u48(0, subInt(subInt((raw_1627419040).length, 1), 1))), NTI33554449);
@@ -35219,19 +35256,19 @@ function scanNoneUsage__emitZlua_u29137(e_p0, vals_p1) {
             switch (vals_p1[chckIndx(i_1627419099, 0, (vals_p1).length - 1)].kind) {
             case 13:
               var Temporary4 = vals_p1[chckIndx(i_1627419099, 0, (vals_p1).length - 1)];
-              if (ConstSet1469[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+              if (ConstSet1472[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
               scanNoneUsage__emitZlua_u29137(e_p0, Temporary4.blockVals);
               break;
             case 14:
               var Temporary5 = vals_p1[chckIndx(i_1627419099, 0, (vals_p1).length - 1)];
-              if (ConstSet1470[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+              if (ConstSet1473[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               scanNoneUsage__emitZlua_u29137(e_p0, Temporary5.parenVals);
               break;
             case 23:
                 var Temporary7 = vals_p1[chckIndx(i_1627419099, 0, (vals_p1).length - 1)];
-                if (ConstSet1471[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+                if (ConstSet1474[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 if (!(Temporary7.wordKind == 0)) Temporary6 = false; else {                  var Temporary8 = vals_p1[chckIndx(i_1627419099, 0, (vals_p1).length - 1)];
-                  if (ConstSet1472[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
+                  if (ConstSet1475[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
                   Temporary6 = eqStrings(Temporary8.wordName, [110,111,110,101,63]);                }              if (Temporary6) {
               e_p0.programUsesNoneCheck = true;
               break BeforeRet;
@@ -35265,71 +35302,71 @@ function buildPrelude__emitZlua_u23421(e_p0) {
     }
     
     if (e_p0.usedVariadicUnpack) {
-    parts_1627413434.push(nsuStrip([108,111,99,97,108,32,117,110,112,97,99,107,32,61,32,117,110,112,97,99,107,32,111,114,32,116,97,98,108,101,46,117,110,112,97,99,107,10], true, true, ConstSet1473));;
+    parts_1627413434.push(nsuStrip([108,111,99,97,108,32,117,110,112,97,99,107,32,61,32,117,110,112,97,99,107,32,111,114,32,116,97,98,108,101,46,117,110,112,97,99,107,10], true, true, ConstSet1476));;
     }
     
     if ((contains__coreZequality_u1527(e_p0.usedHelpers, [95,78,79,78,69]) || contains__coreZequality_u1527(e_p0.usedHelpers, [95,105,115,95,110,111,110,101]))) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local _NONE = setmetatable({}, {__tostring = function() return \"none\" end})\x0Alocal function _is_none(v) return v == nil or v == _NONE end\x0A"), true, true, ConstSet1474));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local _NONE = setmetatable({}, {__tostring = function() return \"none\" end})\x0Alocal function _is_none(v) return v == nil or v == _NONE end\x0A"), true, true, ConstSet1477));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,100,101,101,112,95,99,111,112,121])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _deep_copy(t)\x0A  if type(t) ~= \"table\" then return t end\x0A  local r = {}; for k, v in pairs(t) do r[k] = _deep_copy(v) end; return r\x0Aend\x0A"), true, true, ConstSet1475));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _deep_copy(t)\x0A  if type(t) ~= \"table\" then return t end\x0A  local r = {}; for k, v in pairs(t) do r[k] = _deep_copy(v) end; return r\x0Aend\x0A"), true, true, ConstSet1478));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,112,97,105,114])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local _pair_mt = {}\x0A_pair_mt.__add = function(a, b) return setmetatable({x=a.x+b.x, y=a.y+b.y}, _pair_mt) end\x0A_pair_mt.__sub = function(a, b) return setmetatable({x=a.x-b.x, y=a.y-b.y}, _pair_mt) end\x0A_pair_mt.__mul = function(a, b)\x0A  if type(a) == \"number\" then return setmetatable({x=a*b.x, y=a*b.y}, _pair_mt) end\x0A  if type(b) == \"number\" then return setmetatable({x=a.x*b, y=a.y*b}, _pair_mt) end\x0A  return setmetatable({x=a.x*b.x, y=a.y*b.y}, _pair_mt)\x0Aend\x0A_pair_mt.__div = function(a, b)\x0A  if type(b) == \"number\" then return setmetatable({x=a.x/b, y=a.y/b}, _pair_mt) end\x0A  return setmetatable({x=a.x/b.x, y=a.y/b.y}, _pair_mt)\x0Aend\x0A_pair_mt.__unm = function(a) return setmetatable({x=-a.x, y=-a.y}, _pair_mt) end\x0A_pair_mt.__eq  = function(a, b) return a.x == b.x and a.y == b.y end\x0Alocal function _pair(x, y) return setmetatable({x=x, y=y}, _pair_mt) end\x0A"), true, true, ConstSet1476));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local _pair_mt = {}\x0A_pair_mt.__add = function(a, b) return setmetatable({x=a.x+b.x, y=a.y+b.y}, _pair_mt) end\x0A_pair_mt.__sub = function(a, b) return setmetatable({x=a.x-b.x, y=a.y-b.y}, _pair_mt) end\x0A_pair_mt.__mul = function(a, b)\x0A  if type(a) == \"number\" then return setmetatable({x=a*b.x, y=a*b.y}, _pair_mt) end\x0A  if type(b) == \"number\" then return setmetatable({x=a.x*b, y=a.y*b}, _pair_mt) end\x0A  return setmetatable({x=a.x*b.x, y=a.y*b.y}, _pair_mt)\x0Aend\x0A_pair_mt.__div = function(a, b)\x0A  if type(b) == \"number\" then return setmetatable({x=a.x/b, y=a.y/b}, _pair_mt) end\x0A  return setmetatable({x=a.x/b.x, y=a.y/b.y}, _pair_mt)\x0Aend\x0A_pair_mt.__unm = function(a) return setmetatable({x=-a.x, y=-a.y}, _pair_mt) end\x0A_pair_mt.__eq  = function(a, b) return a.x == b.x and a.y == b.y end\x0Alocal function _pair(x, y) return setmetatable({x=x, y=y}, _pair_mt) end\x0A"), true, true, ConstSet1479));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,99,97,112,116,117,114,101])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _capture(data, specs)\x0A  local keywords, spec_map = {}, {}\x0A  for _, s in ipairs(specs) do\x0A    local name, exact = s, -1\x0A    if type(s) == \"table\" then name, exact = s[1], s[2] end\x0A    keywords[name] = true\x0A    spec_map[name] = exact\x0A  end\x0A  local result, i = {}, 1\x0A  while i <= #data do\x0A    local val = data[i]\x0A    if type(val) == \"string\" and spec_map[val] ~= nil then\x0A      local name, exact = val, spec_map[val]\x0A      i = i + 1\x0A      if exact >= 0 then\x0A        local cap = {}\x0A        for j = 1, exact do if i <= #data then cap[#cap+1] = data[i]; i = i + 1 end end\x0A        if result[name] == nil then\x0A          if #cap == 1 then result[name] = cap[1] else result[name] = cap end\x0A        else\x0A          if type(result[name]) ~= \"table\" then result[name] = {result[name]} end\x0A          for _, v in ipairs(cap) do result[name][#result[name]+1] = v end\x0A        end\x0A      else\x0A        local cap = {}\x0A        while i <= #data do\x0A          local cur = data[i]\x0A          if type(cur) == \"string\" and keywords[cur] and cur ~= name then break end\x0A          if type(cur) == \"string\" and cur == name then i = i + 1\x0A          else cap[#cap+1] = cur; i = i + 1 end\x0A        end\x0A        if #cap == 1 then result[name] = cap[1] elseif #cap > 1 then result[name] = cap end\x0A      end\x0A    else i = i + 1 end\x0A  end\x0A  return result\x0Aend\x0A"), true, true, ConstSet1477));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _capture(data, specs)\x0A  local keywords, spec_map = {}, {}\x0A  for _, s in ipairs(specs) do\x0A    local name, exact = s, -1\x0A    if type(s) == \"table\" then name, exact = s[1], s[2] end\x0A    keywords[name] = true\x0A    spec_map[name] = exact\x0A  end\x0A  local result, i = {}, 1\x0A  while i <= #data do\x0A    local val = data[i]\x0A    if type(val) == \"string\" and spec_map[val] ~= nil then\x0A      local name, exact = val, spec_map[val]\x0A      i = i + 1\x0A      if exact >= 0 then\x0A        local cap = {}\x0A        for j = 1, exact do if i <= #data then cap[#cap+1] = data[i]; i = i + 1 end end\x0A        if result[name] == nil then\x0A          if #cap == 1 then result[name] = cap[1] else result[name] = cap end\x0A        else\x0A          if type(result[name]) ~= \"table\" then result[name] = {result[name]} end\x0A          for _, v in ipairs(cap) do result[name][#result[name]+1] = v end\x0A        end\x0A      else\x0A        local cap = {}\x0A        while i <= #data do\x0A          local cur = data[i]\x0A          if type(cur) == \"string\" and keywords[cur] and cur ~= name then break end\x0A          if type(cur) == \"string\" and cur == name then i = i + 1\x0A          else cap[#cap+1] = cur; i = i + 1 end\x0A        end\x0A        if #cap == 1 then result[name] = cap[1] elseif #cap > 1 then result[name] = cap end\x0A      end\x0A    else i = i + 1 end\x0A  end\x0A  return result\x0Aend\x0A"), true, true, ConstSet1480));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,101,113,117,97,108,115])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _equals(a, b)\x0A  if a == b then return true end\x0A  if type(a) ~= \"table\" or type(b) ~= \"table\" then return false end\x0A  if #a ~= #b then return false end\x0A  for i = 1, #a do if not _equals(a[i], b[i]) then return false end end\x0A  return true\x0Aend\x0A"), true, true, ConstSet1478));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _equals(a, b)\x0A  if a == b then return true end\x0A  if type(a) ~= \"table\" or type(b) ~= \"table\" then return false end\x0A  if #a ~= #b then return false end\x0A  for i = 1, #a do if not _equals(a[i], b[i]) then return false end end\x0A  return true\x0Aend\x0A"), true, true, ConstSet1481));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,104,97,115])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _has(t, v)\x0A  for _, x in ipairs(t) do if _equals(x, v) then return true end end\x0A  return false\x0Aend\x0A"), true, true, ConstSet1479));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _has(t, v)\x0A  for _, x in ipairs(t) do if _equals(x, v) then return true end end\x0A  return false\x0Aend\x0A"), true, true, ConstSet1482));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,114,101,112,108,97,99,101])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _replace(s, old, new)\x0A  local i, j = s:find(old, 1, true)\x0A  if not i then return s end\x0A  local r = {}\x0A  local p = 1\x0A  while i do\x0A    r[#r+1] = s:sub(p, i - 1)\x0A    r[#r+1] = new\x0A    p = j + 1\x0A    i, j = s:find(old, p, true)\x0A  end\x0A  r[#r+1] = s:sub(p)\x0A  return table.concat(r)\x0Aend\x0A"), true, true, ConstSet1480));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _replace(s, old, new)\x0A  local i, j = s:find(old, 1, true)\x0A  if not i then return s end\x0A  local r = {}\x0A  local p = 1\x0A  while i do\x0A    r[#r+1] = s:sub(p, i - 1)\x0A    r[#r+1] = new\x0A    p = j + 1\x0A    i, j = s:find(old, p, true)\x0A  end\x0A  r[#r+1] = s:sub(p)\x0A  return table.concat(r)\x0Aend\x0A"), true, true, ConstSet1483));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,115,101,108,101,99,116])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _select(t, key)\x0A  if type(t) == \"table\" and t[key] ~= nil then return t[key] end\x0A  if type(t) == \"table\" then\x0A    for i = 1, #t - 1 do if _equals(t[i], key) then return t[i + 1] end end\x0A  end\x0A  return nil\x0Aend\x0A"), true, true, ConstSet1481));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _select(t, key)\x0A  if type(t) == \"table\" and t[key] ~= nil then return t[key] end\x0A  if type(t) == \"table\" then\x0A    for i = 1, #t - 1 do if _equals(t[i], key) then return t[i + 1] end end\x0A  end\x0A  return nil\x0Aend\x0A"), true, true, ConstSet1484));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,99,111,112,121])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _copy(t)\x0A  local r = {}\x0A  for k, v in pairs(t) do r[k] = v end\x0A  return r\x0Aend\x0A"), true, true, ConstSet1482));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _copy(t)\x0A  local r = {}\x0A  for k, v in pairs(t) do r[k] = v end\x0A  return r\x0Aend\x0A"), true, true, ConstSet1485));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,97,112,112,101,110,100])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _append(t, v)\x0A  if type(v) == \"table\" then\x0A    for i = 1, #v do t[#t+1] = v[i] end\x0A  else\x0A    t[#t+1] = v\x0A  end\x0A  return t\x0Aend\x0A"), true, true, ConstSet1483));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _append(t, v)\x0A  if type(v) == \"table\" then\x0A    for i = 1, #v do t[#t+1] = v[i] end\x0A  else\x0A    t[#t+1] = v\x0A  end\x0A  return t\x0Aend\x0A"), true, true, ConstSet1486));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,115,112,108,105,116])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _split(s, d)\x0A  local r = {}\x0A  if d == \"\" then\x0A    for i = 1, #s do r[#r+1] = s:sub(i, i) end\x0A    return r\x0A  end\x0A  local p = 1\x0A  while true do\x0A    local i, j = s:find(d, p, true)\x0A    if not i then r[#r+1] = s:sub(p); break end\x0A    r[#r+1] = s:sub(p, i - 1)\x0A    p = j + 1\x0A  end\x0A  return r\x0Aend\x0A"), true, true, ConstSet1484));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _split(s, d)\x0A  local r = {}\x0A  if d == \"\" then\x0A    for i = 1, #s do r[#r+1] = s:sub(i, i) end\x0A    return r\x0A  end\x0A  local p = 1\x0A  while true do\x0A    local i, j = s:find(d, p, true)\x0A    if not i then r[#r+1] = s:sub(p); break end\x0A    r[#r+1] = s:sub(p, i - 1)\x0A    p = j + 1\x0A  end\x0A  return r\x0Aend\x0A"), true, true, ConstSet1487));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,115,117,98,115,101,116])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _subset(x, s, n)\x0A  if type(x) == \"string\" then\x0A    return string.sub(x, s, s + n - 1)\x0A  end\x0A  local r = {}\x0A  local stop = math.min(s + n - 1, #x)\x0A  for i = s, stop do r[#r+1] = x[i] end\x0A  return r\x0Aend\x0A"), true, true, ConstSet1485));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _subset(x, s, n)\x0A  if type(x) == \"string\" then\x0A    return string.sub(x, s, s + n - 1)\x0A  end\x0A  local r = {}\x0A  local stop = math.min(s + n - 1, #x)\x0A  for i = s, stop do r[#r+1] = x[i] end\x0A  return r\x0Aend\x0A"), true, true, ConstSet1488));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,115,111,114,116])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _sort(x)\x0A  if type(x) == \"string\" then\x0A    local t = {}\x0A    for i = 1, #x do t[i] = x:sub(i, i) end\x0A    table.sort(t)\x0A    return table.concat(t)\x0A  end\x0A  table.sort(x)\x0A  return x\x0Aend\x0A"), true, true, ConstSet1486));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _sort(x)\x0A  if type(x) == \"string\" then\x0A    local t = {}\x0A    for i = 1, #x do t[i] = x:sub(i, i) end\x0A    table.sort(t)\x0A    return table.concat(t)\x0A  end\x0A  table.sort(x)\x0A  return x\x0Aend\x0A"), true, true, ConstSet1489));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,105,110,115,101,114,116])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _insert(x, v, i)\x0A  if type(x) == \"string\" then\x0A    return x:sub(1, i - 1) .. v .. x:sub(i)\x0A  end\x0A  table.insert(x, i, v)\x0A  return x\x0Aend\x0A"), true, true, ConstSet1487));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _insert(x, v, i)\x0A  if type(x) == \"string\" then\x0A    return x:sub(1, i - 1) .. v .. x:sub(i)\x0A  end\x0A  table.insert(x, i, v)\x0A  return x\x0Aend\x0A"), true, true, ConstSet1490));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,114,101,109,111,118,101])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _remove(x, i)\x0A  if type(x) == \"string\" then\x0A    return x:sub(1, i - 1) .. x:sub(i + 1)\x0A  end\x0A  table.remove(x, i)\x0A  return x\x0Aend\x0A"), true, true, ConstSet1488));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _remove(x, i)\x0A  if type(x) == \"string\" then\x0A    return x:sub(1, i - 1) .. x:sub(i + 1)\x0A  end\x0A  table.remove(x, i)\x0A  return x\x0Aend\x0A"), true, true, ConstSet1491));;
     }
     
     if (contains__coreZequality_u1527(e_p0.usedHelpers, [95,109,97,107,101])) {
-    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _make(proto, overrides, typeName)\x0A  local inst = {}\x0A  for k, v in pairs(proto) do inst[k] = v end\x0A  if overrides then for k, v in pairs(overrides) do inst[k] = v end end\x0A  if typeName then inst._type = typeName end\x0A  return inst\x0Aend\x0A"), true, true, ConstSet1489));;
+    parts_1627413434.push(nsuStrip(makeNimstrLit("local function _make(proto, overrides, typeName)\x0A  local inst = {}\x0A  for k, v in pairs(proto) do inst[k] = v end\x0A  if overrides then for k, v in pairs(overrides) do inst[k] = v end end\x0A  if typeName then inst._type = typeName end\x0A  return inst\x0Aend\x0A"), true, true, ConstSet1492));;
     }
     
     result_1627413375 = nimCopy(null, (nsuJoinSep(parts_1627413434, [10])).concat([10,10]), NTI33554449);
@@ -35363,7 +35400,7 @@ function kintsugiCompile(source_p0, target_p1) {
     try {
     var ast_570425363 = parseSource__parseZparser_u263(cstrToNimstr(source_p0));
     var eval_570425364 = setupEval__kintsugi95js_u12();
-    var processed_570425365 = preprocess__evalZevaluator_u3502(eval_570425364, ast_570425363, true, []);
+    var processed_570425365 = preprocess__evalZevaluator_u3519(eval_570425364, ast_570425363, true, []);
     Temporary1 = toJSStr(emitLua__emitZlua_u29152(processed_570425365, cstrToNimstr(target_p1)));
 --excHandler;
 } catch (EXCEPTION) {
@@ -35390,14 +35427,14 @@ function kintsugiCompile(source_p0, target_p1) {
 
 }
 
-function evalString__evalZevaluator_u4462(eval_p0, src_p1) {
-  var result_1275072881 = null;
+function evalString__evalZevaluator_u4479(eval_p0, src_p1) {
+  var result_1275072898 = null;
 
-    var ast_1275072882 = parseSource__parseZparser_u263(src_p1);
-    var processed_1275072883 = preprocess__evalZevaluator_u3502(eval_p0, ast_1275072882, false, []);
-    result_1275072881 = evalBlock__evalZevaluator_u66(eval_p0, processed_1275072883, eval_p0.global);
+    var ast_1275072899 = parseSource__parseZparser_u263(src_p1);
+    var processed_1275072900 = preprocess__evalZevaluator_u3519(eval_p0, ast_1275072899, false, []);
+    result_1275072898 = evalBlock__evalZevaluator_u66(eval_p0, processed_1275072900, eval_p0.global);
 
-  return result_1275072881;
+  return result_1275072898;
 
 }
 
@@ -35409,7 +35446,7 @@ function kintsugiRun(source_p0) {
 ++excHandler;
     try {
     var eval_570425387 = setupEval__kintsugi95js_u12();
-    (evalString__evalZevaluator_u4462(eval_570425387, cstrToNimstr(source_p0)));
+    (evalString__evalZevaluator_u4479(eval_570425387, cstrToNimstr(source_p0)));
     var combinedOut_570425388 = [];
     Label3: {
       var line_570425392 = [];
@@ -35506,7 +35543,7 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     var spec_1660944450 = {mode: 0, vars: [], series: null, fromVal: null, toVal: null, stepVal: null, guardBlock: [], body: []};
     var pos_1660944451 = [0];
       if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary1 = false; else {        var Temporary2 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-        if (ConstSet1490[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
+        if (ConstSet1493[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
         Temporary1 = eqStrings(Temporary2.wordName, [102,111,114]);      }    if (Temporary1) {
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     if (((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 13))) {
@@ -35514,7 +35551,7 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
       var v_1660944473 = null;
       var colontmp__570426707 = [];
       var Temporary4 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-      if (ConstSet1491[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
+      if (ConstSet1494[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
       colontmp__570426707 = Temporary4.blockVals;
       var i_570426708 = 0;
       var L_570426709 = (colontmp__570426707).length;
@@ -35524,7 +35561,7 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
             v_1660944473 = colontmp__570426707[chckIndx(i_570426708, 0, (colontmp__570426707).length - 1)];
             if ((v_1660944473.kind == 23)) {
             var Temporary7 = v_1660944473;
-            if (ConstSet1492[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+            if (ConstSet1495[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
             var Temporary8 = nimCopy(null, Temporary7.wordName, NTI33554449);
             spec_1660944450.vars.push(Temporary8);;
             }
@@ -35542,7 +35579,7 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     
     if (((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) {
     var Temporary9 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-    if (ConstSet1493[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
+    if (ConstSet1496[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
     switch (toJSStr(Temporary9.wordName)) {
     case "in":
       spec_1660944450.mode = 1;
@@ -35554,14 +35591,14 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
       pos_1660944451[0] = addInt(pos_1660944451[0], 1);
       spec_1660944450.fromVal = evalNext__evalZevaluator_u70(eval_p1, blk_p0, pos_1660944451, 0, ctx_p2);
         if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary10 = false; else {          var Temporary11 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-          if (ConstSet1494[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
+          if (ConstSet1497[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
           Temporary10 = eqStrings(Temporary11.wordName, [116,111]);        }      if (Temporary10) {
       pos_1660944451[0] = addInt(pos_1660944451[0], 1);
       spec_1660944450.toVal = evalNext__evalZevaluator_u70(eval_p1, blk_p0, pos_1660944451, 0, ctx_p2);
       }
       
         if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary12 = false; else {          var Temporary13 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-          if (ConstSet1495[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
+          if (ConstSet1498[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
           Temporary12 = eqStrings(Temporary13.wordName, [98,121]);        }      if (Temporary12) {
       pos_1660944451[0] = addInt(pos_1660944451[0], 1);
       spec_1660944450.stepVal = evalNext__evalZevaluator_u70(eval_p1, blk_p0, pos_1660944451, 0, ctx_p2);
@@ -35576,21 +35613,21 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     }
     else {
       if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary14 = false; else {        var Temporary15 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-        if (ConstSet1496[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
+        if (ConstSet1499[Temporary15.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary15.kind, NTI704643076)); }
         Temporary14 = eqStrings(Temporary15.wordName, [102,114,111,109]);      }    if (Temporary14) {
     spec_1660944450.mode = 2;
     spec_1660944450.vars = nimCopy(null, [[105,116]], NTI1241514080);
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     spec_1660944450.fromVal = evalNext__evalZevaluator_u70(eval_p1, blk_p0, pos_1660944451, 0, ctx_p2);
       if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary16 = false; else {        var Temporary17 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-        if (ConstSet1497[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
+        if (ConstSet1500[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
         Temporary16 = eqStrings(Temporary17.wordName, [116,111]);      }    if (Temporary16) {
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     spec_1660944450.toVal = evalNext__evalZevaluator_u70(eval_p1, blk_p0, pos_1660944451, 0, ctx_p2);
     }
     
       if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary18 = false; else {        var Temporary19 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-        if (ConstSet1498[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
+        if (ConstSet1501[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
         Temporary18 = eqStrings(Temporary19.wordName, [98,121]);      }    if (Temporary18) {
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     spec_1660944450.stepVal = evalNext__evalZevaluator_u70(eval_p1, blk_p0, pos_1660944451, 0, ctx_p2);
@@ -35599,12 +35636,12 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     }
     }
       if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary20 = false; else {        var Temporary21 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-        if (ConstSet1499[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
+        if (ConstSet1502[Temporary21.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary21.kind, NTI704643076)); }
         Temporary20 = eqStrings(Temporary21.wordName, [119,104,101,110]);      }    if (Temporary20) {
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     if (((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 13))) {
     var Temporary22 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-    if (ConstSet1500[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
+    if (ConstSet1503[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
     spec_1660944450.guardBlock = nimCopy(null, Temporary22.blockVals, NTI704643097);
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     }
@@ -35612,7 +35649,7 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     }
     
       if (!((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 23))) Temporary23 = false; else {        var Temporary24 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-        if (ConstSet1501[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
+        if (ConstSet1504[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
         Temporary23 = eqStrings(Temporary24.wordName, [100,111]);      }    if (Temporary23) {
     pos_1660944451[0] = addInt(pos_1660944451[0], 1);
     }
@@ -35623,7 +35660,7 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     }
     if (((pos_1660944451[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)].kind == 13))) {
     var Temporary25 = blk_p0[chckIndx(pos_1660944451[0], 0, (blk_p0).length - 1)];
-    if (ConstSet1502[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
+    if (ConstSet1505[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
     spec_1660944450.body = nimCopy(null, Temporary25.blockVals, NTI704643097);
     }
     else {
@@ -35693,14 +35730,14 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
       };
       break;
     case 1:
-      if (((spec_1660944659.series == null) || !((ConstSet1503[spec_1660944659.series.kind] != undefined)))) {
+      if (((spec_1660944659.series == null) || !((ConstSet1506[spec_1660944659.series.kind] != undefined)))) {
       raiseException({kind: [116,121,112,101], message: [108,111,111,112,58,32,39,105,110,39,32,101,120,112,101,99,116,115,32,97,32,98,108,111,99,107,33,32,111,114,32,115,116,114,105,110,103,33], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
       }
       
       var items_1660944698 = [];
       if ((spec_1660944659.series.kind == 13)) {
       var Temporary5 = spec_1660944659.series;
-      if (ConstSet1504[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
+      if (ConstSet1507[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
       items_1660944698 = nimCopy(null, Temporary5.blockVals, NTI704643097);
       }
       else {
@@ -35708,7 +35745,7 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
           var c_1660944703 = 0;
           var colontmp__570426695 = [];
           var Temporary7 = spec_1660944659.series;
-          if (ConstSet1505[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
+          if (ConstSet1508[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
           colontmp__570426695 = Temporary7.strVal;
           var i_570426696 = 0;
           var L_570426697 = (colontmp__570426695).length;
@@ -35840,7 +35877,7 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
       
       if ((spec_1660944659.fromVal.kind == 0)) {
       var Temporary16 = spec_1660944659.fromVal;
-      if (ConstSet1506[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
+      if (ConstSet1509[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
       Temporary15 = Temporary16.intVal;
       }
       else {
@@ -35850,7 +35887,7 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
       var fromI_1660944778 = Temporary15;
       if ((spec_1660944659.toVal.kind == 0)) {
       var Temporary18 = spec_1660944659.toVal;
-      if (ConstSet1507[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
+      if (ConstSet1510[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
       Temporary17 = Temporary18.intVal;
       }
       else {
@@ -35860,7 +35897,7 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
       var toI_1660944783 = Temporary17;
       if ((!((spec_1660944659.stepVal == null)) && (spec_1660944659.stepVal.kind == 0))) {
       var Temporary20 = spec_1660944659.stepVal;
-      if (ConstSet1508[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
+      if (ConstSet1511[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
       Temporary19 = Temporary20.intVal;
       }
       else {
