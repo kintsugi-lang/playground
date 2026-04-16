@@ -303,4 +303,164 @@ love/keypressed: function [key] [
   ]
 ]`,
   },
+  {
+    id: "types",
+    label: "Custom Types",
+    desc: "Subset types with where guards.",
+    target: "",
+    snippet: `positive!: @type/where [integer!] [it > 0]
+
+clamp-positive: function [n [positive!]] [n]
+print clamp-positive 42
+
+score!: @type/where [integer! | string!] [
+  match it [
+    [integer!] [(it >= 0) and (it <= 100)]
+    [string!]  [it = "N/A"]
+    default    [false]
+  ]
+]
+print is? score! 85
+print is? score! "N/A"
+print is? score! -5`,
+    source: `positive!: @type/where [integer!] [it > 0]
+
+clamp-positive: function [n [positive!]] [n]
+print clamp-positive 42
+
+score!: @type/where [integer! | string!] [
+  match it [
+    [integer!] [(it >= 0) and (it <= 100)]
+    [string!]  [it = "N/A"]
+    default    [false]
+  ]
+]
+print is? score! 85
+print is? score! "N/A"
+print is? score! -5`,
+  },
+  {
+    id: "match",
+    label: "Pattern Matching",
+    desc: "The match dialect with guards and destructuring.",
+    target: "",
+    snippet: `classify: function [n [integer!]] [
+  match n [
+    [0]         ["zero"]
+    [negative?] ["negative"]
+    [1]         ["one"]
+    default     ["other"]
+  ]
+]
+
+print classify 0
+print classify -5
+print classify 1
+print classify 42`,
+    source: `classify: function [n [integer!]] [
+  match n [
+    [0]         ["zero"]
+    [negative?] ["negative"]
+    [1]         ["one"]
+    default     ["other"]
+  ]
+]
+
+print classify 0
+print classify -5
+print classify 1
+print classify 42
+
+traffic-light-color!: @type/enum ['red | 'yellow | 'green]
+
+TrafficLight: object [
+  field/optional [state [traffic-light-color!] 'red]
+]
+
+advance: function [light [traffic-light!]] [
+  match light/state [
+    ['red]    [light/state: 'green]
+    ['green]  [light/state: 'yellow]
+    ['yellow] [light/state: 'red]
+  ]
+]
+
+light: make TrafficLight []
+print light/state
+advance light
+print light/state
+advance light
+print light/state`,
+  },
+  {
+    id: "loops",
+    label: "Loops",
+    desc: "Collect, partition, and iterate.",
+    target: "",
+    snippet: `; Collect squares
+squares: loop/collect [
+  for [n] from 1 to 5 do [n * n]
+]
+print squares
+
+; Partition evens and odds
+set [evens odds] loop/partition [
+  for [x] in [1 2 3 4 5 6] do [
+    (modulo x 2) = 0
+  ]
+]
+print evens
+print odds`,
+    source: `; Collect squares
+squares: loop/collect [
+  for [n] from 1 to 5 do [n * n]
+]
+print squares
+
+; Partition evens and odds
+set [evens odds] loop/partition [
+  for [x] in [1 2 3 4 5 6] do [
+    (modulo x 2) = 0
+  ]
+]
+print evens
+print odds
+
+; Basic iteration
+loop [for [n] from 1 to 10 do [print n]]
+
+; Iterate with when filter
+big: loop/collect [
+  for [x] in [3 17 8 42 1 99] when [x > 10] do [x]
+]
+print big`,
+  },
+  {
+    id: "money",
+    label: "Money",
+    desc: "Cent-exact arithmetic. No float drift.",
+    target: "",
+    snippet: `price: $19.99
+tax: $19.99 * 0.08
+total: price + tax
+
+print rejoin ["Price: " price]
+print rejoin ["Tax:   " tax]
+print rejoin ["Total: " total]
+
+; Money is isolated from integers
+; $100 + 42 would be a type error
+; $100 = 100 is false`,
+    source: `price: $19.99
+tax: $19.99 * 0.08
+total: price + tax
+
+print rejoin ["Price: " price]
+print rejoin ["Tax:   " tax]
+print rejoin ["Total: " total]
+
+; Money is isolated from integers
+; $100 + 42 would be a type error
+; $100 = 100 is false`,
+  },
 ];
