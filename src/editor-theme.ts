@@ -2,23 +2,27 @@ import { EditorView } from "@codemirror/view";
 import { HighlightStyle, syntaxHighlighting } from "@codemirror/language";
 import { tags } from "@lezer/highlight";
 
-const bg = "#070e3a";
-const gutterBg = "#0a1548";
-const cursor = "#e8b84b";
-const selection = "rgba(40, 85, 217, 0.35)";
-const cream = "#f4f1e8";
-const slate = "#8899cc";
-const gold = "#e8b84b";
-const blue = "#6eb4ff";
-const green = "#7fdb8a";
-const orange = "#f0a66e";
-const pink = "#e78fbf";
-const dimCream = "#c4c0b4";
+const bg = "#f4f1e8";
+const gutterBg = "#ece8db";
+const gutterText = "#9a9585";
+const cursor = "#1a3eb8";
+const selection = "rgba(26, 62, 184, 0.15)";
+const ink = "#2a2520";
+const comment = "#9a9585";
+const keyword = "#9b2c8a";
+const builtin = "#1a3eb8";
+const setWord = "#b87514";
+const typeName = "#c44b1a";
+const atom = "#2a7d3f";
+const str = "#2a7d3f";
+const number = "#c44b1a";
+const bracket = "#7a7568";
+const operator = "#2a2520";
 
 export const kintsugiTheme = EditorView.theme(
   {
     "&": {
-      color: cream,
+      color: ink,
       backgroundColor: bg,
       fontSize: "0.82rem",
       fontFamily: '"IBM Plex Mono", "SF Mono", Menlo, monospace',
@@ -36,39 +40,39 @@ export const kintsugiTheme = EditorView.theme(
       { backgroundColor: selection },
     ".cm-gutters": {
       backgroundColor: gutterBg,
-      color: slate,
+      color: gutterText,
       border: "none",
-      borderRight: "1px solid rgba(184, 196, 232, 0.06)",
+      borderRight: "1px solid rgba(42, 37, 32, 0.08)",
       minWidth: "3.5em",
     },
     ".cm-activeLineGutter": {
-      backgroundColor: "rgba(40, 85, 217, 0.15)",
-      color: cream,
+      backgroundColor: "rgba(26, 62, 184, 0.08)",
+      color: ink,
     },
     ".cm-activeLine": {
-      backgroundColor: "rgba(40, 85, 217, 0.08)",
+      backgroundColor: "rgba(26, 62, 184, 0.04)",
     },
     ".cm-matchingBracket": {
-      backgroundColor: "rgba(232, 184, 75, 0.2)",
-      outline: "1px solid rgba(232, 184, 75, 0.4)",
+      backgroundColor: "rgba(232, 184, 75, 0.3)",
+      outline: "1px solid rgba(200, 149, 38, 0.5)",
     },
   },
-  { dark: true },
+  { dark: false },
 );
 
 export const kintsugiHighlight = syntaxHighlighting(
   HighlightStyle.define([
-    { tag: tags.keyword, color: pink, fontWeight: "500" },
-    { tag: tags.variableName, color: cream },
-    { tag: [tags.definition(tags.variableName)], color: gold },
-    { tag: [tags.special(tags.variableName)], color: blue },
-    { tag: tags.typeName, color: orange },
-    { tag: tags.atom, color: green },
-    { tag: tags.number, color: orange },
-    { tag: tags.string, color: green },
-    { tag: tags.meta, color: pink, fontStyle: "italic" },
-    { tag: tags.lineComment, color: slate, fontStyle: "italic" },
-    { tag: tags.bracket, color: dimCream },
-    { tag: tags.operator, color: cream },
+    { tag: tags.keyword, color: keyword, fontWeight: "500" },
+    { tag: tags.variableName, color: ink },
+    { tag: [tags.definition(tags.variableName)], color: setWord },
+    { tag: [tags.special(tags.variableName)], color: builtin },
+    { tag: tags.typeName, color: typeName },
+    { tag: tags.atom, color: atom },
+    { tag: tags.number, color: number },
+    { tag: tags.string, color: str },
+    { tag: tags.meta, color: keyword, fontStyle: "italic" },
+    { tag: tags.lineComment, color: comment, fontStyle: "italic" },
+    { tag: tags.bracket, color: bracket },
+    { tag: tags.operator, color: operator },
   ]),
 );
