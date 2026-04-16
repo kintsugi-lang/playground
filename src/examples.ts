@@ -10,10 +10,7 @@ export const examples: Example[] = [
     id: "hello",
     label: "Hello",
     target: "",
-    source: `print "Hello, Kintsugi!"
-
-add: function [a b] [a + b]
-print rejoin ["2 + 3 = " (add 2 3)]`,
+    source: `print "Hello, Kintsugi!"`,
   },
   {
     id: "basics",
