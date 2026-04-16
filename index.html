@@ -3,78 +3,141 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Kintsugi Playground</title>
+    <title>Kintsugi - A language for games</title>
     <link rel="icon" type="image/png" href="/logo.png" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=IBM+Plex+Mono:wght@400;500&family=Outfit:wght@300;400;500;600&display=swap" rel="stylesheet" />
     <script src="/kintsugi_js.js" defer></script>
   </head>
   <body>
     <nav class="topnav">
-      <a href="#hero" class="nav-brand">Kintsugi</a>
-      <div class="nav-links">
-        <a href="#examples">Examples</a>
-        <a href="#try">Try It</a>
+      <div class="nav-inner">
+        <a href="#" class="nav-brand">
+          <img src="/logo.svg" alt="" class="nav-logo" />
+          <span>Kintsugi</span>
+        </a>
+        <div class="nav-links">
+          <a href="#features">Features</a>
+          <a href="#examples">Examples</a>
+          <a href="#try">Playground</a>
+        </div>
       </div>
     </nav>
 
-    <section id="hero" class="hero">
+    <section class="hero">
       <div class="hero-content">
-        <img src="/logo.png" alt="Kintsugi" class="hero-logo" />
-        <h1>Kintsugi</h1>
-        <p class="hero-subtitle">
-          A small homoiconic language that compiles to zero-dependency Lua.
+          <img src="/logo.svg" alt="Kintsugi" class="hero-logo" />
+          <div class="version-section"><span id="version"></span> - "Sorta-Kinda REBOL"</div>
+        <h1>A <em>small-ish</em> language for building <em>games</em></h1>
+        <p class="hero-sub">
+          Homoiconic. Generates zero-dependancy Lua for <strong>LÖVE</strong>, <strong>Playdate</strong>, or standalone <strong>Lua 5.4</strong>.
         </p>
-        <div class="pillars">
-          <span class="pillar">Simple</span>
-          <span class="pillar">Robust</span>
-          <span class="pillar">Explicit</span>
+        <div class="hero-actions">
+          <a href="#try" class="btn btn-primary">Try it out</a>
+          <a href="#examples" class="btn btn-ghost">See examples</a>
         </div>
-        <p class="hero-detail">
-          One evaluation rule. One data structure. Targets
-          <strong>LOVE2D</strong>, <strong>Playdate</strong>, and standalone
-          <strong>Lua 5.4</strong>.
-        </p>
-        <a href="#try" class="cta-button">Try It Out</a>
+      </div>
+      <div class="wave wave-hero">
+        <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+          <path d="M0,40 C240,100 480,0 720,60 C960,120 1200,20 1440,80 L1440,120 L0,120 Z" />
+        </svg>
+      </div>
+    </section>
+
+    <section id="features" class="features">
+      <div class="container">
+        <div class="feature-grid">
+          <div class="feature-card">
+            <div class="feature-icon">1</div>
+            <h3>Simple</h3>
+            <p>One evaluation rule. One data structure. One scoping mechanism. The whole model fits in your head.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">2</div>
+            <h3>Robust</h3>
+            <p>Type mismatches error. Money uses cents, not floats. No silent corruption.</p>
+          </div>
+          <div class="feature-card">
+            <div class="feature-icon">3</div>
+            <h3>Explicit</h3>
+            <p>No implicit coercions. No operator precedence. Assignment by reference; copy when you mean it.</p>
+          </div>
+        </div>
+      </div>
+      <div class="wave wave-features">
+        <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+          <path d="M0,80 C360,20 720,100 1080,40 C1260,10 1380,60 1440,30 L1440,120 L0,120 Z" />
+        </svg>
       </div>
     </section>
 
     <section id="examples" class="examples">
-      <h2>Examples</h2>
-      <div class="tabs" id="example-tabs"></div>
-      <pre class="code-block"><code id="example-code"></code></pre>
-      <button class="load-button" id="load-example">Load into editor</button>
+      <div class="container">
+        <h2>See what Kintsugi looks like</h2>
+        <p class="section-sub">
+          From hello world to a full game dialect. Click an example, then load it into the playground.
+        </p>
+        <div class="example-viewer">
+          <div class="example-tabs" id="example-tabs"></div>
+          <div class="example-body">
+            <pre class="example-code"><code id="example-code"></code></pre>
+            <button class="btn btn-secondary" id="load-example">
+              Load into playground
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="wave wave-examples">
+        <svg viewBox="0 0 1440 120" preserveAspectRatio="none">
+          <path d="M0,60 C180,110 420,10 660,70 C900,130 1140,30 1440,90 L1440,120 L0,120 Z" />
+        </svg>
+      </div>
     </section>
 
-    <section id="try" class="try-section">
-      <h2>Try It Out</h2>
-      <div class="try-toolbar">
-        <label for="target-select">Target:</label>
-        <select id="target-select">
-          <option value="">Plain Lua 5.4</option>
-          <option value="love2d">LOVE2D</option>
-          <option value="playdate">Playdate</option>
-        </select>
-        <button class="compile-button" id="compile-btn">Compile</button>
-      </div>
-      <div class="editor-panes">
-        <div class="pane">
-          <div class="pane-label">Kintsugi</div>
-          <textarea
-            id="source"
-            spellcheck="false"
-            autocomplete="off"
-            autocorrect="off"
-            autocapitalize="off"
-          ></textarea>
+    <section id="try" class="playground">
+      <div class="container-wide">
+        <div class="playground-header">
+          <h2>Playground</h2>
+          <div class="playground-controls">
+            <select id="target-select">
+              <option value="">Lua 5.4</option>
+              <option value="love2d">LÖVE</option>
+              <option value="playdate">Playdate</option>
+            </select>
+            <button class="btn btn-primary btn-compile" id="compile-btn">
+              Compile
+            </button>
+          </div>
         </div>
-        <div class="pane">
-          <div class="pane-label">Lua</div>
-          <textarea id="output" readonly></textarea>
+        <div class="editor-split">
+          <div class="editor-pane">
+            <div class="pane-header">
+              <span class="pane-dot dot-gold"></span>
+              <span class="pane-title">Kintsugi</span>
+            </div>
+            <textarea
+              id="source"
+              spellcheck="false"
+              autocomplete="off"
+              autocorrect="off"
+              autocapitalize="off"
+              placeholder="Write Kintsugi code here..."
+            ></textarea>
+          </div>
+          <div class="editor-pane">
+            <div class="pane-header">
+              <span class="pane-dot dot-blue"></span>
+              <span class="pane-title">Lua</span>
+            </div>
+            <textarea id="output" readonly placeholder="Compiled Lua appears here..."></textarea>
+          </div>
         </div>
       </div>
     </section>
 
     <footer class="site-footer">
-      <span>Kintsugi <span id="version"></span></span>
+        <p class="footer-tagline">Built with care. Broken, then repaired with gold.</p>
     </footer>
 
     <script type="module" src="/src/main.ts"></script>
