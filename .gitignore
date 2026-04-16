@@ -1,0 +1,4 @@
+node_modules/
+dist/
+public/kintsugi_js.js
+public/logo.png

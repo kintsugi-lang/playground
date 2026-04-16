@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Kintsugi Playground</title>
+    <link rel="icon" type="image/png" href="/logo.png" />
+    <script src="/kintsugi_js.js" defer></script>
+  </head>
+  <body>
+    <nav class="topnav">
+      <a href="#hero" class="nav-brand">Kintsugi</a>
+      <div class="nav-links">
+        <a href="#examples">Examples</a>
+        <a href="#try">Try It</a>
+      </div>
+    </nav>
+
+    <section id="hero" class="hero">
+      <div class="hero-content">
+        <img src="/logo.png" alt="Kintsugi" class="hero-logo" />
+        <h1>Kintsugi</h1>
+        <p class="hero-subtitle">
+          A small homoiconic language that compiles to zero-dependency Lua.
+        </p>
+        <div class="pillars">
+          <span class="pillar">Simple</span>
+          <span class="pillar">Robust</span>
+          <span class="pillar">Explicit</span>
+        </div>
+        <p class="hero-detail">
+          One evaluation rule. One data structure. Targets
+          <strong>LOVE2D</strong>, <strong>Playdate</strong>, and standalone
+          <strong>Lua 5.4</strong>.
+        </p>
+        <a href="#try" class="cta-button">Try It Out</a>
+      </div>
+    </section>
+
+    <section id="examples" class="examples">
+      <h2>Examples</h2>
+      <div class="tabs" id="example-tabs"></div>
+      <pre class="code-block"><code id="example-code"></code></pre>
+      <button class="load-button" id="load-example">Load into editor</button>
+    </section>
+
+    <section id="try" class="try-section">
+      <h2>Try It Out</h2>
+      <div class="try-toolbar">
+        <label for="target-select">Target:</label>
+        <select id="target-select">
+          <option value="">Plain Lua 5.4</option>
+          <option value="love2d">LOVE2D</option>
+          <option value="playdate">Playdate</option>
+        </select>
+        <button class="compile-button" id="compile-btn">Compile</button>
+      </div>
+      <div class="editor-panes">
+        <div class="pane">
+          <div class="pane-label">Kintsugi</div>
+          <textarea
+            id="source"
+            spellcheck="false"
+            autocomplete="off"
+            autocorrect="off"
+            autocapitalize="off"
+          ></textarea>
+        </div>
+        <div class="pane">
+          <div class="pane-label">Lua</div>
+          <textarea id="output" readonly></textarea>
+        </div>
+      </div>
+    </section>
+
+    <footer class="site-footer">
+      <span>Kintsugi <span id="version"></span></span>
+    </footer>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
