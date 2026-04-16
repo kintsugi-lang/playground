@@ -35400,7 +35400,7 @@ function kintsugiCompile(source_p0, target_p1) {
     try {
     var ast_570425363 = parseSource__parseZparser_u263(cstrToNimstr(source_p0));
     var eval_570425364 = setupEval__kintsugi95js_u12();
-    var processed_570425365 = preprocess__evalZevaluator_u3519(eval_570425364, ast_570425363, true, []);
+    var processed_570425365 = preprocess__evalZevaluator_u3519(eval_570425364, ast_570425363, true, cstrToNimstr(target_p1));
     Temporary1 = toJSStr(emitLua__emitZlua_u29152(processed_570425365, cstrToNimstr(target_p1)));
 --excHandler;
 } catch (EXCEPTION) {
