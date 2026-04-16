@@ -3,9 +3,11 @@ import { examples } from "./examples";
 import { EditorState } from "@codemirror/state";
 import { EditorView, lineNumbers, keymap } from "@codemirror/view";
 import { defaultKeymap, history, historyKeymap } from "@codemirror/commands";
-import { bracketMatching } from "@codemirror/language";
+import { bracketMatching, StreamLanguage, LanguageSupport } from "@codemirror/language";
 import { kintsugi } from "./lang-kintsugi";
 import { kintsugiTheme, kintsugiHighlight } from "./editor-theme";
+// @ts-ignore - vendored CodeMirror legacy mode
+import { lua as luaMode } from "../vendor/lua.js";
 
 function $(id: string) {
   return document.getElementById(id)!;
@@ -33,6 +35,8 @@ function createSourceEditor(parent: HTMLElement, doc: string): EditorView {
   });
 }
 
+const luaLang = new LanguageSupport(StreamLanguage.define(luaMode));
+
 function createOutputEditor(parent: HTMLElement): EditorView {
   return new EditorView({
     state: EditorState.create({
@@ -40,6 +44,7 @@ function createOutputEditor(parent: HTMLElement): EditorView {
       extensions: [
         lineNumbers(),
         EditorState.readOnly.of(true),
+        luaLang,
         kintsugiTheme,
         kintsugiHighlight,
         EditorView.lineWrapping,
