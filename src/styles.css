@@ -589,7 +589,20 @@ body {
   }
 
   .example-grid {
-    columns: 1;
+    columns: unset;
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 1rem;
+    padding-bottom: 1rem;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .example-card {
+    min-width: 85vw;
+    flex-shrink: 0;
+    scroll-snap-align: center;
+    margin-bottom: 0;
   }
 
   .editor-split {
