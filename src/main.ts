@@ -1,42 +1,58 @@
 import "./styles.css";
 import { examples } from "./examples";
 
-let activeTab = 0;
-
 function $(id: string) {
   return document.getElementById(id)!;
 }
 
-function initTabs() {
-  const tabContainer = $("example-tabs");
-  const codeBlock = $("example-code");
+function initExamples() {
+  const grid = $("example-grid");
 
-  examples.forEach((ex, i) => {
-    const btn = document.createElement("button");
-    btn.className = "tab-btn" + (i === 0 ? " active" : "");
-    btn.textContent = ex.label;
-    btn.addEventListener("click", () => {
-      tabContainer
-        .querySelectorAll(".tab-btn")
-        .forEach((b) => b.classList.remove("active"));
-      btn.classList.add("active");
-      codeBlock.textContent = ex.source;
-      activeTab = i;
+  examples.forEach((ex) => {
+    const card = document.createElement("div");
+    card.className = "example-card";
+
+    const header = document.createElement("div");
+    header.className = "example-card-header";
+
+    const title = document.createElement("h3");
+    title.textContent = ex.label;
+
+    const desc = document.createElement("p");
+    desc.textContent = ex.desc;
+
+    const badge = document.createElement("span");
+    badge.className = "example-badge";
+    badge.textContent = ex.target === "love2d" ? "LOVE2D" : ex.target === "playdate" ? "Playdate" : "Lua 5.4";
+
+    header.appendChild(title);
+    header.appendChild(badge);
+
+    const code = document.createElement("pre");
+    code.className = "example-code";
+    const codeInner = document.createElement("code");
+    codeInner.textContent = ex.source;
+    code.appendChild(codeInner);
+
+    const footer = document.createElement("div");
+    footer.className = "example-card-footer";
+    const tryLink = document.createElement("a");
+    tryLink.href = "#try";
+    tryLink.className = "example-try";
+    tryLink.textContent = "Try in playground";
+    tryLink.addEventListener("click", () => {
+      (document.getElementById("source") as HTMLTextAreaElement).value = ex.source;
+      (document.getElementById("target-select") as HTMLSelectElement).value = ex.target;
+      (document.getElementById("output") as HTMLTextAreaElement).value = "";
     });
-    tabContainer.appendChild(btn);
-  });
+    footer.appendChild(tryLink);
 
-  codeBlock.textContent = examples[0].source;
-}
+    card.appendChild(header);
+    card.appendChild(desc);
+    card.appendChild(code);
+    card.appendChild(footer);
 
-function initLoadButton() {
-  $("load-example").addEventListener("click", () => {
-    const ex = examples[activeTab];
-    (document.getElementById("source") as HTMLTextAreaElement).value = ex.source;
-    (document.getElementById("target-select") as HTMLSelectElement).value =
-      ex.target;
-    (document.getElementById("output") as HTMLTextAreaElement).value = "";
-    document.getElementById("try")?.scrollIntoView({ behavior: "smooth" });
+    grid.appendChild(card);
   });
 }
 
@@ -44,8 +60,9 @@ function initCompile() {
   $("compile-btn").addEventListener("click", () => {
     const source = (document.getElementById("source") as HTMLTextAreaElement)
       .value;
-    const target = (document.getElementById("target-select") as HTMLSelectElement)
-      .value;
+    const target = (
+      document.getElementById("target-select") as HTMLSelectElement
+    ).value;
     const output = document.getElementById("output") as HTMLTextAreaElement;
     output.value = "";
     try {
@@ -75,8 +92,7 @@ function seedEditor() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-  initTabs();
-  initLoadButton();
+  initExamples();
   initCompile();
   initVersion();
   seedEditor();

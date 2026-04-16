@@ -328,64 +328,90 @@ body {
   max-width: 520px;
 }
 
-.example-viewer {
+.example-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5rem;
   margin-bottom: 5rem;
 }
 
-.example-tabs {
+.example-card {
+  background: var(--deep);
+  border: 1px solid rgba(184, 196, 232, 0.08);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.example-card:hover {
+  border-color: rgba(232, 184, 75, 0.2);
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3);
+}
+
+.example-card-header {
   display: flex;
-  gap: 0;
-  margin-bottom: 0;
+  align-items: center;
+  justify-content: space-between;
+  padding: 1.25rem 1.5rem 0;
 }
 
-.tab-btn {
-  padding: 0.7rem 1.4rem;
-  background: transparent;
-  border: none;
-  border-bottom: 2px solid transparent;
-  color: var(--slate);
-  font-family: var(--font-body);
-  font-size: 0.88rem;
-  font-weight: 400;
-  cursor: pointer;
-  transition: all 0.15s;
-}
-
-.tab-btn:hover {
+.example-card-header h3 {
+  font-family: var(--font-display);
+  font-size: 1.15rem;
   color: var(--cream);
 }
 
-.tab-btn.active {
-  color: var(--gold);
-  border-bottom-color: var(--gold);
+.example-badge {
+  font-family: var(--font-code);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.04em;
+  padding: 0.2rem 0.6rem;
+  border-radius: 100px;
+  background: rgba(40, 85, 217, 0.2);
+  color: var(--slate);
+  border: 1px solid rgba(184, 196, 232, 0.1);
 }
 
-.example-body {
-  background: var(--deep);
-  border-radius: 0 12px 12px 12px;
-  border: 1px solid rgba(184, 196, 232, 0.08);
-  overflow: hidden;
+.example-card > p {
+  padding: 0.5rem 1.5rem 0;
+  color: var(--slate);
+  font-size: 0.85rem;
+  font-weight: 300;
+  line-height: 1.6;
 }
 
 .example-code {
-  padding: 1.5rem;
+  padding: 1.25rem 1.5rem;
   overflow-x: auto;
-  min-height: 180px;
-  max-height: 440px;
+  max-height: 320px;
   overflow-y: auto;
   margin: 0;
 }
 
 .example-code code {
   font-family: var(--font-code);
-  font-size: 0.82rem;
-  line-height: 1.75;
+  font-size: 0.78rem;
+  line-height: 1.7;
   color: var(--cream);
   white-space: pre;
 }
 
-.example-body .btn-secondary {
-  margin: 0 1.5rem 1.25rem;
+.example-card-footer {
+  padding: 0 1.5rem 1.25rem;
+}
+
+.example-try {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: var(--gold);
+  text-decoration: none;
+  opacity: 0.7;
+  transition: opacity 0.15s;
+}
+
+.example-try:hover {
+  opacity: 1;
 }
 
 /* --- Playground --- */
@@ -555,6 +581,10 @@ body {
   .feature-grid {
     grid-template-columns: 1fr;
     gap: 2rem;
+  }
+
+  .example-grid {
+    grid-template-columns: 1fr;
   }
 
   .editor-split {

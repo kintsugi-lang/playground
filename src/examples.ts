@@ -1,6 +1,7 @@
 export type Example = {
   id: string;
   label: string;
+  desc: string;
   target: "" | "love2d" | "playdate";
   source: string;
 };
@@ -8,13 +9,15 @@ export type Example = {
 export const examples: Example[] = [
   {
     id: "hello",
-    label: "Hello",
+    label: "Hello World",
+    desc: "Functions, loop/collect, and quicksort in 20 lines.",
     target: "",
     source: `print "Hello, Kintsugi!"`,
   },
   {
     id: "basics",
-    label: "Basics",
+    label: "Language Basics",
+    desc: "Arithmetic, recursion, contexts, closures, and string ops.",
     target: "",
     source: `; Arithmetic, functions, control flow, closures
 
@@ -57,7 +60,8 @@ print join "hello" " world"`,
   },
   {
     id: "combat",
-    label: "Combat",
+    label: "Combat Sim",
+    desc: "Objects, match dialect, and pattern-matched ability dispatch.",
     target: "",
     source: `; Objects, match dialect, constructors
 ; (excerpt from the full combat sim)
@@ -162,7 +166,8 @@ print rejoin ["Lyra HP: " mage/hp]`,
   },
   {
     id: "pong",
-    label: "Pong (@game)",
+    label: "Pong",
+    desc: "The @game dialect: entities, collision, and input in declarative form.",
     target: "love2d",
     source: `Kintsugi [name: 'pong]
 
