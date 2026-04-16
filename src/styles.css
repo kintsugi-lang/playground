@@ -361,6 +361,32 @@ body {
   color: var(--cream);
 }
 
+.example-card-actions {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.example-play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  background: rgba(232, 184, 75, 0.15);
+  color: var(--gold);
+  font-size: 0.65rem;
+  text-decoration: none;
+  transition: background 0.15s, transform 0.15s;
+}
+
+.example-play:hover {
+  background: var(--gold);
+  color: var(--deep);
+  transform: scale(1.1);
+}
+
 .example-badge {
   font-family: var(--font-code);
   font-size: 0.68rem;
@@ -384,7 +410,7 @@ body {
 .example-code {
   padding: 1.25rem 1.5rem;
   overflow-x: auto;
-  max-height: 320px;
+  max-height: 200px;
   overflow-y: auto;
   margin: 0;
 }
@@ -397,22 +423,6 @@ body {
   white-space: pre;
 }
 
-.example-card-footer {
-  padding: 0 1.5rem 1.25rem;
-}
-
-.example-try {
-  font-size: 0.82rem;
-  font-weight: 500;
-  color: var(--gold);
-  text-decoration: none;
-  opacity: 0.7;
-  transition: opacity 0.15s;
-}
-
-.example-try:hover {
-  opacity: 1;
-}
 
 /* --- Playground --- */
 
@@ -516,7 +526,7 @@ body {
 
 .cm-mount .cm-editor {
   height: 100%;
-  min-height: 400px;
+    min-height: 400px;
 }
 
 .cm-mount .cm-scroller {

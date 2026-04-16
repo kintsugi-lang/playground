@@ -93,8 +93,26 @@ function initExamples() {
           ? "Playdate"
           : "Lua 5.4";
 
+    const headerRight = document.createElement("div");
+    headerRight.className = "example-card-actions";
+
+    const playBtn = document.createElement("a");
+    playBtn.href = "#try";
+    playBtn.className = "example-play";
+    playBtn.title = "Try in playground";
+    playBtn.textContent = "\u25B6";
+    playBtn.addEventListener("click", () => {
+      setEditorContent(sourceEditor, ex.source);
+      (document.getElementById("target-select") as HTMLSelectElement).value =
+        ex.target;
+      setEditorContent(outputEditor, "");
+    });
+
+    headerRight.appendChild(badge);
+    headerRight.appendChild(playBtn);
+
     header.appendChild(title);
-    header.appendChild(badge);
+    header.appendChild(headerRight);
 
     const code = document.createElement("pre");
     code.className = "example-code";
@@ -102,24 +120,9 @@ function initExamples() {
     codeInner.textContent = ex.source;
     code.appendChild(codeInner);
 
-    const footer = document.createElement("div");
-    footer.className = "example-card-footer";
-    const tryLink = document.createElement("a");
-    tryLink.href = "#try";
-    tryLink.className = "example-try";
-    tryLink.textContent = "Try in playground";
-    tryLink.addEventListener("click", () => {
-      setEditorContent(sourceEditor, ex.source);
-      (document.getElementById("target-select") as HTMLSelectElement).value =
-        ex.target;
-      setEditorContent(outputEditor, "");
-    });
-    footer.appendChild(tryLink);
-
     card.appendChild(header);
     card.appendChild(desc);
     card.appendChild(code);
-    card.appendChild(footer);
 
     grid.appendChild(card);
   });
