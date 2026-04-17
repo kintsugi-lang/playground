@@ -42,7 +42,7 @@ qsort: function [blk] [
   result
 ]
 
-print rejoin ["Sorted: " qsort [3 1 4 1 5 9 2 6]]`,
+print rejoin ["Sorted: " (qsort [3 1 4 1 5 9 2 6])]`,
   },
   {
     id: "basics",
@@ -406,7 +406,7 @@ print squares
 ; Partition evens and odds
 set [evens odds] loop/partition [
   for [x] in [1 2 3 4 5 6] do [
-    (modulo x 2) = 0
+    (x % 2) = 0
   ]
 ]
 print evens
@@ -420,7 +420,7 @@ print squares
 ; Partition evens and odds
 set [evens odds] loop/partition [
   for [x] in [1 2 3 4 5 6] do [
-    (modulo x 2) = 0
+    (x % 2) = 0
   ]
 ]
 print evens
