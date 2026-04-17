@@ -125,7 +125,7 @@ function initExamples() {
     badge.className = "example-badge";
     badge.textContent =
       ex.target === "love2d"
-        ? "LOVE2D"
+        ? "LÖVE"
         : ex.target === "playdate"
           ? "Playdate"
           : "Lua 5.4";
