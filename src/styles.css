@@ -557,6 +557,65 @@ body {
   overflow: auto;
 }
 
+/* --- Stacked Lua panes (prelude + source) --- */
+.editor-pane-stack {
+  display: flex;
+  flex-direction: column;
+  background: var(--deep);
+}
+
+.editor-pane-stack .editor-pane-source {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.prelude-disclosure {
+  border-bottom: 1px solid rgba(184, 196, 232, 0.12);
+  background: var(--deep);
+}
+
+.prelude-disclosure[open] {
+  flex: 0 0 auto;
+}
+
+.pane-header-summary {
+  cursor: pointer;
+  list-style: none;
+  user-select: none;
+}
+
+.pane-header-summary::-webkit-details-marker {
+  display: none;
+}
+
+.pane-toggle-hint {
+  margin-left: auto;
+  font-size: 0.7rem;
+  color: #6c6c7a;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.prelude-disclosure[open] .pane-toggle-hint::before {
+  content: "click to collapse";
+}
+.prelude-disclosure[open] .pane-toggle-hint {
+  font-size: 0;
+}
+.prelude-disclosure[open] .pane-toggle-hint::before {
+  font-size: 0.7rem;
+}
+
+.cm-mount-prelude {
+  max-height: 320px;
+}
+
+.cm-mount-prelude .cm-editor {
+  min-height: 240px;
+}
+
 .version-section {
     background: rgba(0,0,0,0.2);
     border-radius: 1rem;

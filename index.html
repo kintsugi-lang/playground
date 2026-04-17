@@ -112,12 +112,22 @@
             </div>
             <div id="source-editor" class="cm-mount"></div>
           </div>
-          <div class="editor-pane">
-            <div class="pane-header">
-              <span class="pane-dot dot-blue"></span>
-              <span class="pane-title">Lua</span>
+          <div class="editor-pane editor-pane-stack">
+            <details id="prelude-pane" class="prelude-disclosure">
+              <summary class="pane-header pane-header-summary">
+                <span class="pane-dot dot-blue"></span>
+                <span class="pane-title">Lua (prelude)</span>
+                <span class="pane-toggle-hint">click to expand</span>
+              </summary>
+              <div id="prelude-editor" class="cm-mount cm-mount-prelude"></div>
+            </details>
+            <div class="editor-pane-source">
+              <div class="pane-header">
+                <span class="pane-dot dot-blue"></span>
+                <span class="pane-title">Lua (source)</span>
+              </div>
+              <div id="output-editor" class="cm-mount"></div>
             </div>
-            <div id="output-editor" class="cm-mount"></div>
           </div>
         </div>
       </div>

@@ -15,6 +15,7 @@ function $(id: string) {
 
 let sourceEditor: EditorView;
 let outputEditor: EditorView;
+let preludeEditor: EditorView;
 
 function createSourceEditor(parent: HTMLElement, doc: string): EditorView {
   return new EditorView({
@@ -63,9 +64,11 @@ function setEditorContent(view: EditorView, content: string) {
 function initEditors() {
   const sourceMount = $("source-editor");
   const outputMount = $("output-editor");
+  const preludeMount = $("prelude-editor");
 
   sourceEditor = createSourceEditor(sourceMount, examples[0].source);
   outputEditor = createOutputEditor(outputMount);
+  preludeEditor = createOutputEditor(preludeMount);
 }
 
 function createSnippetEditor(parent: HTMLElement, doc: string): EditorView {
@@ -143,6 +146,7 @@ function initExamples() {
       (document.getElementById("target-select") as HTMLSelectElement).value =
         ex.target;
       setEditorContent(outputEditor, "");
+      setEditorContent(preludeEditor, "");
     });
 
     headerRight.appendChild(badge);
@@ -177,8 +181,19 @@ function initCompile() {
       document.getElementById("target-select") as HTMLSelectElement
     ).value;
     setEditorContent(outputEditor, "");
+    setEditorContent(preludeEditor, "");
     try {
-      setEditorContent(outputEditor, window.kintsugiCompile(source, target));
+      const raw = window.kintsugiCompile(source, target);
+      const result = JSON.parse(raw) as KintsugiCompileResult;
+      if (result.error) {
+        setEditorContent(outputEditor, "-- Error: " + result.error);
+        return;
+      }
+      setEditorContent(
+        preludeEditor,
+        result.prelude || "-- (empty - program uses no helpers)",
+      );
+      setEditorContent(outputEditor, result.source);
     } catch (e) {
       setEditorContent(
         outputEditor,
