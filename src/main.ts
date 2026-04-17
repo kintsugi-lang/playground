@@ -108,11 +108,18 @@ function initExamples() {
     const header = document.createElement("div");
     header.className = "example-card-header";
 
-    const title = document.createElement("h3");
+    const dot = document.createElement("span");
+    dot.className = "pane-dot dot-gold";
+
+    const titleWrap = document.createElement("div");
+    titleWrap.className = "example-card-title";
+
+    const title = document.createElement("span");
+    title.className = "pane-title";
     title.textContent = ex.label;
 
-    const desc = document.createElement("p");
-    desc.textContent = ex.desc;
+    titleWrap.appendChild(dot);
+    titleWrap.appendChild(title);
 
     const badge = document.createElement("span");
     badge.className = "example-badge";
@@ -141,14 +148,13 @@ function initExamples() {
     headerRight.appendChild(badge);
     headerRight.appendChild(playBtn);
 
-    header.appendChild(title);
+    header.appendChild(titleWrap);
     header.appendChild(headerRight);
 
     const codeMount = document.createElement("div");
     codeMount.className = "example-cm";
 
     card.appendChild(header);
-    card.appendChild(desc);
     card.appendChild(codeMount);
 
     grid.appendChild(card);
@@ -184,7 +190,9 @@ function initCompile() {
 
 function initVersion() {
   try {
-    $("version").textContent = "v" + window.kintsugiVersion();
+    const ver = window.kintsugiVersion();
+    const codename = window.kintsugiCodename();
+    $("version").textContent = "v" + ver + (codename ? ' - "' + codename + '"' : "");
   } catch {
     $("version").textContent = "";
   }
