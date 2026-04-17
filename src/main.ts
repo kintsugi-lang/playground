@@ -192,7 +192,14 @@ function initVersion() {
   try {
     const ver = window.kintsugiVersion();
     const codename = window.kintsugiCodename();
-    $("version").textContent = "v" + ver + (codename ? ' - "' + codename + '"' : "");
+    const buildDate = window.kintsugiBuildDate();
+    let s = ver;
+    if (codename) s += ' - "' + codename + '"';
+    if (buildDate) {
+      const [y, m, d] = buildDate.split("-");
+      s += " - released " + m + "/" + d + "/" + y;
+    }
+    $("version").textContent = s;
   } catch {
     $("version").textContent = "";
   }

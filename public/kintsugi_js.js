@@ -38,7 +38,7 @@ var NTI1426065302 = {size: 0, kind: 18, base: null, node: null, finalizer: null}
 var NTI1426063368 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1291847827 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1291848012 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI570425756 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425757 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1744830475 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1744830474 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1744830469 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -62,7 +62,7 @@ var NTI1728053254 = {size: 0, kind: 24, base: null, node: null, finalizer: null}
 var NTI1728053251 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
 var NTI1728053252 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI1728053261 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI570425733 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425734 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1711276148 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1711276092 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1677721606 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
@@ -70,9 +70,9 @@ var NTI1610612908 = {size: 0, kind: 24, base: null, node: null, finalizer: null}
 var NTI1610612888 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1593835683 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1593835650 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI570425656 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425657 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1593835625 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
-var NTI570425646 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425647 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1526726681 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI1526726659 = {size: 0, kind: 14, base: null, node: null, finalizer: null};
 var NTI1526726829 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -97,8 +97,8 @@ var NTI1526726674 = {size: 0, kind: 18, base: null, node: null, finalizer: null}
 var NTI1526726707 = {size: 0,kind: 31,base: null,node: null,finalizer: null};
 var NTI1526726671 = {size: 0, kind: 20, base: null, node: null, finalizer: null};
 var NTI1291845700 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
-var NTI570425416 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI570425419 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425417 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
+var NTI570425420 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1275068437 = {size: 0,kind: 25,base: null,node: null,finalizer: null};
 var NTI1275068439 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1275068438 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
@@ -109,9 +109,9 @@ var NTI1275068423 = {size: 0, kind: 24, base: null, node: null, finalizer: null}
 var NTI1275068422 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1275068421 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI1275068419 = {size: 0, kind: 22, base: null, node: null, finalizer: null};
-var NTI570425417 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425418 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI704644625 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
-var NTI570425390 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425391 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1291845699 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1291846940 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1291846873 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
@@ -120,7 +120,7 @@ var NTI1056964634 = {size: 0, kind: 24, base: null, node: null, finalizer: null}
 var NTI1291845698 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI1291846233 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI1291846232 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
-var NTI570425495 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
+var NTI570425496 = {size: 0, kind: 17, base: null, node: null, finalizer: null};
 var NTI704643371 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
 var NTI704643368 = {size: 0, kind: 24, base: null, node: null, finalizer: null};
 var NTI704643365 = {size: 0, kind: 18, base: null, node: null, finalizer: null};
@@ -606,9 +606,9 @@ NTI704643368.base = NTI704643371;
 var NNI704643365 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "data", len: 0, typ: NTI704643368, name: "data", sons: null}, 
 {kind: 1, offset: "counter", len: 0, typ: NTI33554435, name: "counter", sons: null}]};
 NTI704643365.node = NNI704643365;
-var NNI570425495 = {kind: 1, offset: "specs0", len: 0, typ: NTI704643138, name: "specs0", sons: null};
-NTI570425495.node = NNI570425495;
-NTI570425495.base = NTI33555179;
+var NNI570425496 = {kind: 1, offset: "specs0", len: 0, typ: NTI704643138, name: "specs0", sons: null};
+NTI570425496.node = NNI570425496;
+NTI570425496.base = NTI33555179;
 NTI1291846233.base = NTI33554449;
 var NNI1291846232 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI33554449, name: "Field0", sons: null}, 
 {kind: 1, offset: "Field1", len: 0, typ: NTI1291846233, name: "Field1", sons: null}]};
@@ -623,9 +623,9 @@ NTI1291846940.base = NTI704643078;
 var NNI1291845699 = {kind: 2, len: 0, offset: 0, typ: null, name: null, sons: []};
 NTI1291845699.node = NNI1291845699;
 NTI1291845699.base = NTI33555185;
-var NNI570425390 = {kind: 1, offset: "expected0", len: 0, typ: NTI33554449, name: "expected0", sons: null};
-NTI570425390.node = NNI570425390;
-NTI570425390.base = NTI33555179;
+var NNI570425391 = {kind: 1, offset: "expected0", len: 0, typ: NTI33554449, name: "expected0", sons: null};
+NTI570425391.node = NNI570425391;
+NTI570425391.base = NTI33555179;
 NTI704644625.base = NTI704643080;
 NTI1275068422.base = NTI33554449;
 NTI1275068423.base = NTI33554449;
@@ -649,14 +649,14 @@ var NNI1275068421 = {kind: 2, len: 10, offset: 0, typ: null, name: null, sons: [
 {kind: 1, offset: "parseFn", len: 0, typ: NTI1275068437, name: "parseFn", sons: null}]};
 NTI1275068421.node = NNI1275068421;
 NTI1275068419.base = NTI1275068421;
-var NNI570425417 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "eval0", len: 0, typ: NTI1275068419, name: "eval0", sons: null}, 
+var NNI570425418 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "eval0", len: 0, typ: NTI1275068419, name: "eval0", sons: null}, 
 {kind: 1, offset: "keyFn1", len: 0, typ: NTI704643078, name: "keyFn1", sons: null}]};
-NTI570425417.node = NNI570425417;
-NTI570425417.base = NTI33555179;
-NTI570425416.base = NTI570425417;
-var NNI570425419 = {kind: 1, offset: "HEX3Aup", len: 0, typ: NTI570425416, name: ":up", sons: null};
-NTI570425419.node = NNI570425419;
-NTI570425419.base = NTI33555179;
+NTI570425418.node = NNI570425418;
+NTI570425418.base = NTI33555179;
+NTI570425417.base = NTI570425418;
+var NNI570425420 = {kind: 1, offset: "HEX3Aup", len: 0, typ: NTI570425417, name: ":up", sons: null};
+NTI570425420.node = NNI570425420;
+NTI570425420.base = NTI33555179;
 var NNI1291845700 = {kind: 1, offset: "code", len: 0, typ: NTI33554435, name: "code", sons: null};
 NTI1291845700.node = NNI1291845700;
 NTI1291845700.base = NTI33555185;
@@ -720,16 +720,16 @@ var NNI1526726681 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "utcOffset", len: 0, typ: NTI33554435, name: "utcOffset", sons: null}, 
 {kind: 1, offset: "isDst", len: 0, typ: NTI33554466, name: "isDst", sons: null}]};
 NTI1526726681.node = NNI1526726681;
-var NNI570425646 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ctxName0", len: 0, typ: NTI33554449, name: "ctxName0", sons: null}, 
+var NNI570425647 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ctxName0", len: 0, typ: NTI33554449, name: "ctxName0", sons: null}, 
 {kind: 1, offset: "field1", len: 0, typ: NTI33554449, name: "field1", sons: null}, 
 {kind: 1, offset: "extract2", len: 0, typ: NTI1593835625, name: "extract2", sons: null}]};
-NTI570425646.node = NNI570425646;
-NTI570425646.base = NTI33555179;
-var NNI570425656 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ctxName0", len: 0, typ: NTI33554449, name: "ctxName0", sons: null}, 
+NTI570425647.node = NNI570425647;
+NTI570425647.base = NTI33555179;
+var NNI570425657 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "ctxName0", len: 0, typ: NTI33554449, name: "ctxName0", sons: null}, 
 {kind: 1, offset: "field1", len: 0, typ: NTI33554449, name: "field1", sons: null}, 
 {kind: 1, offset: "extract2", len: 0, typ: NTI1593835650, name: "extract2", sons: null}]};
-NTI570425656.node = NNI570425656;
-NTI570425656.base = NTI33555179;
+NTI570425657.node = NNI570425657;
+NTI570425657.base = NTI33555179;
 NTI1593835683.base = NTI704643083;
 NTI1610612888.base = NTI33554441;
 NTI1610612908.base = NTI33554441;
@@ -759,10 +759,10 @@ var NNI1728053252 = {kind: 3, offset: "kind", len: 6, typ: NTI1728053251, name: 
 [setConstr(5), {kind: 1, offset: "retryCount", len: 0, typ: NTI33554439, name: "retryCount", sons: null}]]};
 NTI1728053252.node = NNI1728053252;
 NTI1728053261.base = NTI1728053252;
-var NNI570425733 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "capturedSteps0", len: 0, typ: NTI1728053261, name: "capturedSteps0", sons: null}, 
+var NNI570425734 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "capturedSteps0", len: 0, typ: NTI1728053261, name: "capturedSteps0", sons: null}, 
 {kind: 1, offset: "capturedCtx1", len: 0, typ: NTI704643079, name: "capturedCtx1", sons: null}]};
-NTI570425733.node = NNI570425733;
-NTI570425733.base = NTI33555179;
+NTI570425734.node = NNI570425734;
+NTI570425734.base = NTI33555179;
 NTI1728053262.base = NTI1728053252;
 NTI1728053402.base = NTI704643078;
 NTI1744831577.base = NTI704643078;
@@ -786,10 +786,10 @@ var NNI1744830469 = {kind: 2, len: 6, offset: 0, typ: null, name: null, sons: [{
 {kind: 1, offset: "rposAfterRule", len: 0, typ: NTI33554435, name: "rposAfterRule", sons: null}]};
 NTI1744830469.node = NNI1744830469;
 NTI1291848012.base = NTI704643078;
-var NNI570425756 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "emitted0", len: 0, typ: NTI1291848012, name: "emitted0", sons: null}, 
+var NNI570425757 = {kind: 2, len: 2, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "emitted0", len: 0, typ: NTI1291848012, name: "emitted0", sons: null}, 
 {kind: 1, offset: "eval1", len: 0, typ: NTI1275068419, name: "eval1", sons: null}]};
-NTI570425756.node = NNI570425756;
-NTI570425756.base = NTI33555179;
+NTI570425757.node = NNI570425757;
+NTI570425757.base = NTI33555179;
 NTI1291847827.base = NTI704643078;
 NTI1426063368.base = NTI704643078;
 var NNI1426065302 = {kind: 2, len: 3, offset: 0, typ: null, name: null, sons: [{kind: 1, offset: "Field0", len: 0, typ: NTI704643078, name: "Field0", sons: null}, 
@@ -15331,12 +15331,12 @@ function parse__parseZparser_u8(tokens_p0) {
     stack_1241513999[0].push({kind: 13, values: [], line: 0});;
     Label1: {
       var tok_1241514029 = null;
-      var i_570425402 = 0;
-      var L_570425403 = (tokens_p0).length;
+      var i_570425404 = 0;
+      var L_570425405 = (tokens_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425402 < L_570425403)) break Label3;
-            tok_1241514029 = tokens_p0[chckIndx(i_570425402, 0, (tokens_p0).length - 1)];
+          if (!(i_570425404 < L_570425405)) break Label3;
+            tok_1241514029 = tokens_p0[chckIndx(i_570425404, 0, (tokens_p0).length - 1)];
             Label4: {
                 if (!(tok_1241514029.kind == 13)) Temporary5 = false; else {                  var Temporary6 = tok_1241514029;
                   if (ConstSet402[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
@@ -15396,8 +15396,8 @@ function parse__parseZparser_u8(tokens_p0) {
               
               HEX5BHEX5D__parseZparser_u126(stack_1241513999[0], 1).values.push(tok_1241514029);;
             };
-            i_570425402 += 1;
-            if (!(((tokens_p0).length == L_570425403))) {
+            i_570425404 += 1;
+            if (!(((tokens_p0).length == L_570425405))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -15602,13 +15602,13 @@ function parseFloatNative__system_u3072(a_p0) {
     var str_33557507 = [];
     Label1: {
       var x_33557521 = 0;
-      var i_570425422 = 0;
+      var i_570425424 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425422 < (a_p0).length)) break Label3;
-            x_33557521 = a_p0[i_570425422];
+          if (!(i_570425424 < (a_p0).length)) break Label3;
+            x_33557521 = a_p0[i_570425424];
             addChar(str_33557507, x_33557521);;
-            i_570425422 += 1;
+            i_570425424 += 1;
           }
       };
     };
@@ -15997,23 +15997,23 @@ function readNumber__parseZlexer_u107(lex_p0) {
     var vals_1258291330 = [];
     Label4: {
       var part_1258291331 = [];
-      var lastHEX60gensym34_570425428 = 0;
-      var splitsHEX60gensym34_570425429 = (-1);
+      var lastHEX60gensym34_570425430 = 0;
+      var splitsHEX60gensym34_570425431 = (-1);
       Label5: {
           Label6: while (true) {
-          if (!(lastHEX60gensym34_570425428 <= (numStr_1258291311).length)) break Label6;
-            var firstHEX60gensym34_570425431 = lastHEX60gensym34_570425428;
+          if (!(lastHEX60gensym34_570425430 <= (numStr_1258291311).length)) break Label6;
+            var firstHEX60gensym34_570425433 = lastHEX60gensym34_570425430;
             Label7: {
                 Label8: while (true) {
-                if (!((lastHEX60gensym34_570425428 < (numStr_1258291311).length) && !((numStr_1258291311[chckIndx(lastHEX60gensym34_570425428, 0, (numStr_1258291311).length - 1)] == 46)))) break Label8;
-                  lastHEX60gensym34_570425428 = addInt(lastHEX60gensym34_570425428, 1);
+                if (!((lastHEX60gensym34_570425430 < (numStr_1258291311).length) && !((numStr_1258291311[chckIndx(lastHEX60gensym34_570425430, 0, (numStr_1258291311).length - 1)] == 46)))) break Label8;
+                  lastHEX60gensym34_570425430 = addInt(lastHEX60gensym34_570425430, 1);
                 }
             };
-            if ((splitsHEX60gensym34_570425429 == 0)) {
-            lastHEX60gensym34_570425428 = (numStr_1258291311).length;
+            if ((splitsHEX60gensym34_570425431 == 0)) {
+            lastHEX60gensym34_570425430 = (numStr_1258291311).length;
             }
             
-            part_1258291331 = substr__system_u3760(numStr_1258291311, firstHEX60gensym34_570425431, subInt(lastHEX60gensym34_570425428, 1));
+            part_1258291331 = substr__system_u3760(numStr_1258291311, firstHEX60gensym34_570425433, subInt(lastHEX60gensym34_570425430, 1));
             if ((0 < (part_1258291331).length)) {
 ++excHandler;
             try {
@@ -16039,12 +16039,12 @@ function readNumber__parseZlexer_u107(lex_p0) {
             }
             }
             
-            if ((splitsHEX60gensym34_570425429 == 0)) {
+            if ((splitsHEX60gensym34_570425431 == 0)) {
             break Label5;
             }
             
-            splitsHEX60gensym34_570425429 = subInt(splitsHEX60gensym34_570425429, 1);
-            lastHEX60gensym34_570425428 = addInt(lastHEX60gensym34_570425428, 1);
+            splitsHEX60gensym34_570425431 = subInt(splitsHEX60gensym34_570425431, 1);
+            lastHEX60gensym34_570425430 = addInt(lastHEX60gensym34_570425430, 1);
           }
       };
     };
@@ -16186,15 +16186,15 @@ function nsuToLowerAsciiStr(s_p0) {
     result_1023410273 = nimCopy(null, mnewString(chckRange((s_p0).length, 0, 2147483647)), NTI33554449);
     Label1: {
       var iHEX60gensym7_1023410279 = 0;
-      var colontmp__570425442 = 0;
-      colontmp__570425442 = subInt((s_p0).length, 1);
-      var res_570425443 = 0;
+      var colontmp__570425444 = 0;
+      colontmp__570425444 = subInt((s_p0).length, 1);
+      var res_570425445 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570425443 <= colontmp__570425442)) break Label3;
-            iHEX60gensym7_1023410279 = res_570425443;
+          if (!(res_570425445 <= colontmp__570425444)) break Label3;
+            iHEX60gensym7_1023410279 = res_570425445;
             result_1023410273[chckIndx(iHEX60gensym7_1023410279, 0, (result_1023410273).length - 1)] = nsuToLowerAsciiChar(s_p0[chckIndx(iHEX60gensym7_1023410279, 0, (s_p0).length - 1)]);
-            res_570425443 = addInt(res_570425443, 1);
+            res_570425445 = addInt(res_570425445, 1);
           }
       };
     };
@@ -16639,9 +16639,9 @@ function enlarge__coreZtypes_u1777(t_p0) {
     n_704644855 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_704644855[i] = {Field0: 0, Field1: 0, Field2: [], Field3: null}; }    var h_704644914 = t_p0.first;
     t_p0.first = (-1);
     t_p0.last = (-1);
-    var HEX3Atmp_570425733 = nimCopy(null, t_p0.data, NTI704643109);
+    var HEX3Atmp_570425735 = nimCopy(null, t_p0.data, NTI704643109);
     t_p0.data = n_704644855;
-    n_704644855 = HEX3Atmp_570425733;
+    n_704644855 = HEX3Atmp_570425735;
     Label1: {
         Label2: while (true) {
         if (!(0 <= h_704644914)) break Label2;
@@ -16828,19 +16828,19 @@ function findDialect__evalZevaluator_u247(eval_p0, name_p1) {
   BeforeRet: {
     Label1: {
       var d_1291845905 = null;
-      var i_570425831 = 0;
-      var L_570425832 = (eval_p0.dialects).length;
+      var i_570425833 = 0;
+      var L_570425834 = (eval_p0.dialects).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425831 < L_570425832)) break Label3;
-            d_1291845905 = eval_p0.dialects[chckIndx(i_570425831, 0, (eval_p0.dialects).length - 1)];
+          if (!(i_570425833 < L_570425834)) break Label3;
+            d_1291845905 = eval_p0.dialects[chckIndx(i_570425833, 0, (eval_p0.dialects).length - 1)];
             if (eqStrings(d_1291845905.name, name_p1)) {
             result_1291845882 = d_1291845905;
             break BeforeRet;
             }
             
-            i_570425831 += 1;
-            if (!(((eval_p0.dialects).length == L_570425832))) {
+            i_570425833 += 1;
+            if (!(((eval_p0.dialects).length == L_570425834))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -17036,19 +17036,19 @@ function HEX3DHEX3D__coreZequality_u67(x_p0, y_p1) {
     
     Label1: {
       var i_1308622940 = 0;
-      var colontmp__570425902 = 0;
-      colontmp__570425902 = subInt((x_p0).length, 1);
-      var res_570425903 = 0;
+      var colontmp__570425904 = 0;
+      colontmp__570425904 = subInt((x_p0).length, 1);
+      var res_570425905 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570425903 <= colontmp__570425902)) break Label3;
-            i_1308622940 = res_570425903;
+          if (!(res_570425905 <= colontmp__570425904)) break Label3;
+            i_1308622940 = res_570425905;
             if (!((x_p0[chckIndx(i_1308622940, 0, (x_p0).length - 1)] == y_p1[chckIndx(i_1308622940, 0, (y_p1).length - 1)]))) {
             result_1308622919 = false;
             break BeforeRet;
             }
             
-            res_570425903 = addInt(res_570425903, 1);
+            res_570425905 = addInt(res_570425905, 1);
           }
       };
     };
@@ -17072,30 +17072,30 @@ function HEX3CHEX3D__coreZequality_u1209(s_p0, t_p1) {
     result_1308624061 = true;
     Label1: {
       var item_1308624325 = [];
-      var length_570425906 = len__coreZequality_u1268(s_p0);
+      var length_570425908 = len__coreZequality_u1268(s_p0);
       Label2: {
-        var h_570425908 = 0;
-        var colontmp__570425909 = 0;
-        colontmp__570425909 = (s_p0.data).length - 1;
-        var res_570425910 = 0;
+        var h_570425910 = 0;
+        var colontmp__570425911 = 0;
+        colontmp__570425911 = (s_p0.data).length - 1;
+        var res_570425912 = 0;
         Label3: {
             Label4: while (true) {
-            if (!(res_570425910 <= colontmp__570425909)) break Label4;
-              h_570425908 = res_570425910;
-              if (isFilled__pureZcollectionsZsets_u39(s_p0.data[chckIndx(h_570425908, 0, (s_p0.data).length - 1)].Field0)) {
-              item_1308624325 = s_p0.data[chckIndx(h_570425908, 0, (s_p0.data).length - 1)].Field1;
+            if (!(res_570425912 <= colontmp__570425911)) break Label4;
+              h_570425910 = res_570425912;
+              if (isFilled__pureZcollectionsZsets_u39(s_p0.data[chckIndx(h_570425910, 0, (s_p0.data).length - 1)].Field0)) {
+              item_1308624325 = s_p0.data[chckIndx(h_570425910, 0, (s_p0.data).length - 1)].Field1;
               if (!(contains__coreZequality_u1527(t_p1, item_1308624325))) {
               result_1308624061 = false;
               break BeforeRet;
               }
               
-              if (!((len__coreZequality_u1268(s_p0) == length_570425906))) {
+              if (!((len__coreZequality_u1268(s_p0) == length_570425908))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("sets.nim(272, 13) `len(s) == length` the length of the HashSet changed while iterating over it"));
               }
               
               }
               
-              res_570425910 = addInt(res_570425910, 1);
+              res_570425912 = addInt(res_570425912, 1);
             }
         };
       };
@@ -17397,15 +17397,15 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
       
       Label48: {
         var i_1308622954 = 0;
-        var colontmp__570425876 = 0;
+        var colontmp__570425878 = 0;
         var Temporary49 = a_p0;
         if (ConstSet541[Temporary49.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary49.kind, NTI704643076)); }
-        colontmp__570425876 = (Temporary49.blockVals).length;
-        var i_570425877 = 0;
+        colontmp__570425878 = (Temporary49.blockVals).length;
+        var i_570425879 = 0;
         Label50: {
             Label51: while (true) {
-            if (!(i_570425877 < colontmp__570425876)) break Label51;
-              i_1308622954 = i_570425877;
+            if (!(i_570425879 < colontmp__570425878)) break Label51;
+              i_1308622954 = i_570425879;
                 var Temporary52 = a_p0;
                 if (ConstSet542[Temporary52.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary52.kind, NTI704643076)); }
                 var Temporary54 = b_p1;
@@ -17415,7 +17415,7 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
               break BeforeRet;
               }
               
-              i_570425877 = addInt(i_570425877, 1);
+              i_570425879 = addInt(i_570425879, 1);
             }
         };
       };
@@ -17434,15 +17434,15 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
       
       Label58: {
         var i_1308622968 = 0;
-        var colontmp__570425880 = 0;
+        var colontmp__570425882 = 0;
         var Temporary59 = a_p0;
         if (ConstSet546[Temporary59.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary59.kind, NTI704643076)); }
-        colontmp__570425880 = (Temporary59.parenVals).length;
-        var i_570425881 = 0;
+        colontmp__570425882 = (Temporary59.parenVals).length;
+        var i_570425883 = 0;
         Label60: {
             Label61: while (true) {
-            if (!(i_570425881 < colontmp__570425880)) break Label61;
-              i_1308622968 = i_570425881;
+            if (!(i_570425883 < colontmp__570425882)) break Label61;
+              i_1308622968 = i_570425883;
                 var Temporary62 = a_p0;
                 if (ConstSet547[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
                 var Temporary64 = b_p1;
@@ -17452,7 +17452,7 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
               break BeforeRet;
               }
               
-              i_570425881 = addInt(i_570425881, 1);
+              i_570425883 = addInt(i_570425883, 1);
             }
         };
       };
@@ -17472,20 +17472,20 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
       Label68: {
         var key_1308623431 = [];
         var aVal_1308623432 = null;
-        var colontmp__570425884 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425886 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary69 = a_p0;
         if (ConstSet551[Temporary69.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary69.kind, NTI704643076)); }
-        colontmp__570425884 = nimCopy(colontmp__570425884, Temporary69.mapEntries, NTI704643106);
-        var L_570425885 = len__coreZequality_u172(colontmp__570425884);
-        if ((0 < colontmp__570425884.counter)) {
-        var h_570425886 = colontmp__570425884.first;
+        colontmp__570425886 = nimCopy(colontmp__570425886, Temporary69.mapEntries, NTI704643106);
+        var L_570425887 = len__coreZequality_u172(colontmp__570425886);
+        if ((0 < colontmp__570425886.counter)) {
+        var h_570425888 = colontmp__570425886.first;
         Label70: {
             Label71: while (true) {
-            if (!(0 <= h_570425886)) break Label71;
-              var nxt_570425888 = colontmp__570425884.data[chckIndx(h_570425886, 0, (colontmp__570425884.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425884.data[chckIndx(h_570425886, 0, (colontmp__570425884.data).length - 1)].Field0)) {
-              key_1308623431 = colontmp__570425884.data[chckIndx(h_570425886, 0, (colontmp__570425884.data).length - 1)].Field2;
-              aVal_1308623432 = colontmp__570425884.data[chckIndx(h_570425886, 0, (colontmp__570425884.data).length - 1)].Field3;
+            if (!(0 <= h_570425888)) break Label71;
+              var nxt_570425890 = colontmp__570425886.data[chckIndx(h_570425888, 0, (colontmp__570425886.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425886.data[chckIndx(h_570425888, 0, (colontmp__570425886.data).length - 1)].Field0)) {
+              key_1308623431 = colontmp__570425886.data[chckIndx(h_570425888, 0, (colontmp__570425886.data).length - 1)].Field2;
+              aVal_1308623432 = colontmp__570425886.data[chckIndx(h_570425888, 0, (colontmp__570425886.data).length - 1)].Field3;
                 var Temporary72 = b_p1;
                 if (ConstSet552[Temporary72.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary72.kind, NTI704643076)); }
               if (!(contains__coreZtypes_u621(Temporary72.mapEntries, key_1308623431))) {
@@ -17500,13 +17500,13 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
               break BeforeRet;
               }
               
-              if (!((len__coreZequality_u172(colontmp__570425884) == L_570425885))) {
+              if (!((len__coreZequality_u172(colontmp__570425886) == L_570425887))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425886 = nxt_570425888;
+              h_570425888 = nxt_570425890;
             }
         };
         }
@@ -17528,20 +17528,20 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
       Label77: {
         var key_1308623659 = [];
         var aVal_1308623660 = null;
-        var colontmp__570425890 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425892 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary78 = a_p0;
         if (ConstSet556[Temporary78.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary78.kind, NTI704643076)); }
-        colontmp__570425890 = nimCopy(colontmp__570425890, Temporary78.ctx.entries, NTI704643106);
-        var L_570425891 = len__coreZequality_u172(colontmp__570425890);
-        if ((0 < colontmp__570425890.counter)) {
-        var h_570425892 = colontmp__570425890.first;
+        colontmp__570425892 = nimCopy(colontmp__570425892, Temporary78.ctx.entries, NTI704643106);
+        var L_570425893 = len__coreZequality_u172(colontmp__570425892);
+        if ((0 < colontmp__570425892.counter)) {
+        var h_570425894 = colontmp__570425892.first;
         Label79: {
             Label80: while (true) {
-            if (!(0 <= h_570425892)) break Label80;
-              var nxt_570425894 = colontmp__570425890.data[chckIndx(h_570425892, 0, (colontmp__570425890.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425890.data[chckIndx(h_570425892, 0, (colontmp__570425890.data).length - 1)].Field0)) {
-              key_1308623659 = colontmp__570425890.data[chckIndx(h_570425892, 0, (colontmp__570425890.data).length - 1)].Field2;
-              aVal_1308623660 = colontmp__570425890.data[chckIndx(h_570425892, 0, (colontmp__570425890.data).length - 1)].Field3;
+            if (!(0 <= h_570425894)) break Label80;
+              var nxt_570425896 = colontmp__570425892.data[chckIndx(h_570425894, 0, (colontmp__570425892.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425892.data[chckIndx(h_570425894, 0, (colontmp__570425892.data).length - 1)].Field0)) {
+              key_1308623659 = colontmp__570425892.data[chckIndx(h_570425894, 0, (colontmp__570425892.data).length - 1)].Field2;
+              aVal_1308623660 = colontmp__570425892.data[chckIndx(h_570425894, 0, (colontmp__570425892.data).length - 1)].Field3;
                 var Temporary81 = b_p1;
                 if (ConstSet557[Temporary81.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary81.kind, NTI704643076)); }
               if (!(contains__coreZtypes_u621(Temporary81.ctx.entries, key_1308623659))) {
@@ -17556,13 +17556,13 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
               break BeforeRet;
               }
               
-              if (!((len__coreZequality_u172(colontmp__570425890) == L_570425891))) {
+              if (!((len__coreZequality_u172(colontmp__570425892) == L_570425893))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425892 = nxt_570425894;
+              h_570425894 = nxt_570425896;
             }
         };
         }
@@ -17584,20 +17584,20 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
       Label86: {
         var key_1308623887 = [];
         var aVal_1308623888 = null;
-        var colontmp__570425896 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425898 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary87 = a_p0;
         if (ConstSet561[Temporary87.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary87.kind, NTI704643076)); }
-        colontmp__570425896 = nimCopy(colontmp__570425896, Temporary87.obj.entries, NTI704643106);
-        var L_570425897 = len__coreZequality_u172(colontmp__570425896);
-        if ((0 < colontmp__570425896.counter)) {
-        var h_570425898 = colontmp__570425896.first;
+        colontmp__570425898 = nimCopy(colontmp__570425898, Temporary87.obj.entries, NTI704643106);
+        var L_570425899 = len__coreZequality_u172(colontmp__570425898);
+        if ((0 < colontmp__570425898.counter)) {
+        var h_570425900 = colontmp__570425898.first;
         Label88: {
             Label89: while (true) {
-            if (!(0 <= h_570425898)) break Label89;
-              var nxt_570425900 = colontmp__570425896.data[chckIndx(h_570425898, 0, (colontmp__570425896.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425896.data[chckIndx(h_570425898, 0, (colontmp__570425896.data).length - 1)].Field0)) {
-              key_1308623887 = colontmp__570425896.data[chckIndx(h_570425898, 0, (colontmp__570425896.data).length - 1)].Field2;
-              aVal_1308623888 = colontmp__570425896.data[chckIndx(h_570425898, 0, (colontmp__570425896.data).length - 1)].Field3;
+            if (!(0 <= h_570425900)) break Label89;
+              var nxt_570425902 = colontmp__570425898.data[chckIndx(h_570425900, 0, (colontmp__570425898.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425898.data[chckIndx(h_570425900, 0, (colontmp__570425898.data).length - 1)].Field0)) {
+              key_1308623887 = colontmp__570425898.data[chckIndx(h_570425900, 0, (colontmp__570425898.data).length - 1)].Field2;
+              aVal_1308623888 = colontmp__570425898.data[chckIndx(h_570425900, 0, (colontmp__570425898.data).length - 1)].Field3;
                 var Temporary90 = b_p1;
                 if (ConstSet562[Temporary90.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary90.kind, NTI704643076)); }
               if (!(contains__coreZtypes_u621(Temporary90.obj.entries, key_1308623887))) {
@@ -17612,13 +17612,13 @@ function valuesEqual__coreZequality_u5(a_p0, b_p1) {
               break BeforeRet;
               }
               
-              if (!((len__coreZequality_u172(colontmp__570425896) == L_570425897))) {
+              if (!((len__coreZequality_u172(colontmp__570425898) == L_570425899))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425898 = nxt_570425900;
+              h_570425900 = nxt_570425902;
             }
         };
         }
@@ -18765,12 +18765,12 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
     if (ct_p2.isEnum) {
     Label1: {
       var rv_1291848154 = null;
-      var i_570425914 = 0;
-      var L_570425915 = (ct_p2.rule).length;
+      var i_570425916 = 0;
+      var L_570425917 = (ct_p2.rule).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425914 < L_570425915)) break Label3;
-            rv_1291848154 = ct_p2.rule[chckIndx(i_570425914, 0, (ct_p2.rule).length - 1)];
+          if (!(i_570425916 < L_570425917)) break Label3;
+            rv_1291848154 = ct_p2.rule[chckIndx(i_570425916, 0, (ct_p2.rule).length - 1)];
               if (!(rv_1291848154.kind == 23)) Temporary4 = false; else {                var Temporary5 = rv_1291848154;
                 if (ConstSet607[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
                 Temporary4 = (Temporary5.wordKind == 3);              }            if (Temporary4) {
@@ -18787,8 +18787,8 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             
             }
             
-            i_570425914 += 1;
-            if (!(((ct_p2.rule).length == L_570425915))) {
+            i_570425916 += 1;
+            if (!(((ct_p2.rule).length == L_570425917))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -18897,12 +18897,12 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
     var hasLitWords_1291848240 = false;
     Label31: {
       var rv_1291848244 = null;
-      var i_570425921 = 0;
-      var L_570425922 = (ct_p2.rule).length;
+      var i_570425923 = 0;
+      var L_570425924 = (ct_p2.rule).length;
       Label32: {
           Label33: while (true) {
-          if (!(i_570425921 < L_570425922)) break Label33;
-            rv_1291848244 = ct_p2.rule[chckIndx(i_570425921, 0, (ct_p2.rule).length - 1)];
+          if (!(i_570425923 < L_570425924)) break Label33;
+            rv_1291848244 = ct_p2.rule[chckIndx(i_570425923, 0, (ct_p2.rule).length - 1)];
               if (!(rv_1291848244.kind == 23)) Temporary34 = false; else {                var Temporary35 = rv_1291848244;
                 if (ConstSet622[Temporary35.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary35.kind, NTI704643076)); }
                 Temporary34 = (Temporary35.wordKind == 3);              }            if (Temporary34) {
@@ -18910,8 +18910,8 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             break Label31;
             }
             
-            i_570425921 += 1;
-            if (!(((ct_p2.rule).length == L_570425922))) {
+            i_570425923 += 1;
+            if (!(((ct_p2.rule).length == L_570425924))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -18921,12 +18921,12 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
     if (hasLitWords_1291848240) {
     Label36: {
       var rv_1291848256 = null;
-      var i_570425925 = 0;
-      var L_570425926 = (ct_p2.rule).length;
+      var i_570425927 = 0;
+      var L_570425928 = (ct_p2.rule).length;
       Label37: {
           Label38: while (true) {
-          if (!(i_570425925 < L_570425926)) break Label38;
-            rv_1291848256 = ct_p2.rule[chckIndx(i_570425925, 0, (ct_p2.rule).length - 1)];
+          if (!(i_570425927 < L_570425928)) break Label38;
+            rv_1291848256 = ct_p2.rule[chckIndx(i_570425927, 0, (ct_p2.rule).length - 1)];
               if (!(rv_1291848256.kind == 23)) Temporary39 = false; else {                var Temporary40 = rv_1291848256;
                 if (ConstSet623[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
                 Temporary39 = (Temporary40.wordKind == 3);              }            if (Temporary39) {
@@ -18943,8 +18943,8 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             
             }
             
-            i_570425925 += 1;
-            if (!(((ct_p2.rule).length == L_570425926))) {
+            i_570425927 += 1;
+            if (!(((ct_p2.rule).length == L_570425928))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -18958,12 +18958,12 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
     var typeNames_1291848277 = [];
     Label46: {
       var rv_1291848281 = null;
-      var i_570425929 = 0;
-      var L_570425930 = (ct_p2.rule).length;
+      var i_570425931 = 0;
+      var L_570425932 = (ct_p2.rule).length;
       Label47: {
           Label48: while (true) {
-          if (!(i_570425929 < L_570425930)) break Label48;
-            rv_1291848281 = ct_p2.rule[chckIndx(i_570425929, 0, (ct_p2.rule).length - 1)];
+          if (!(i_570425931 < L_570425932)) break Label48;
+            rv_1291848281 = ct_p2.rule[chckIndx(i_570425931, 0, (ct_p2.rule).length - 1)];
             if ((rv_1291848281.kind == 22)) {
             var Temporary49 = rv_1291848281;
             if (ConstSet627[Temporary49.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'typeName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary49.kind, NTI704643076)); }
@@ -18971,8 +18971,8 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             typeNames_1291848277.push(Temporary50);;
             }
             
-            i_570425929 += 1;
-            if (!(((ct_p2.rule).length == L_570425930))) {
+            i_570425931 += 1;
+            if (!(((ct_p2.rule).length == L_570425932))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -18983,12 +18983,12 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
     var actual_1291848293 = typeName__coreZtypes_u3187(value_p1);
     Label51: {
       var tn_1291848297 = [];
-      var i_570425933 = 0;
-      var L_570425934 = (typeNames_1291848277).length;
+      var i_570425935 = 0;
+      var L_570425936 = (typeNames_1291848277).length;
       Label52: {
           Label53: while (true) {
-          if (!(i_570425933 < L_570425934)) break Label53;
-            tn_1291848297 = typeNames_1291848277[chckIndx(i_570425933, 0, (typeNames_1291848277).length - 1)];
+          if (!(i_570425935 < L_570425936)) break Label53;
+            tn_1291848297 = typeNames_1291848277[chckIndx(i_570425935, 0, (typeNames_1291848277).length - 1)];
             if (eqStrings(actual_1291848293, tn_1291848297)) {
             if ((0 < (ct_p2.guard).length)) {
             var guardCtx_1291848301 = child__coreZtypes_u2943(ctx_p3);
@@ -19046,8 +19046,8 @@ function matchesCustomType__evalZevaluator_u2513(eval_p0, value_p1, ct_p2, ctx_p
             break BeforeRet;
             }
             
-            i_570425933 += 1;
-            if (!(((typeNames_1291848277).length == L_570425934))) {
+            i_570425935 += 1;
+            if (!(((typeNames_1291848277).length == L_570425936))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -19178,11 +19178,11 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       var args_1291848857 = [];
       Label2: {
         var i_1291848862 = 0;
-        var i_570425837 = 0;
+        var i_570425839 = 0;
         Label3: {
             Label4: while (true) {
-            if (!(i_570425837 < native_1291848852.arity)) break Label4;
-              i_1291848862 = i_570425837;
+            if (!(i_570425839 < native_1291848852.arity)) break Label4;
+              i_1291848862 = i_570425839;
               if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
               raiseException({kind: [97,114,105,116,121], message: (native_1291848852.name).concat([32,101,120,112,101,99,116,115,32],HEX24__systemZdollars_u14(native_1291848852.arity),[32,97,114,103,117,109,101,110,116,115]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
               }
@@ -19190,27 +19190,27 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               var arg_1291848866 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
               applyInfix__evalZevaluator_u603(eval_p0, arg_1291848866, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
               args_1291848857.push(arg_1291848866[0]);;
-              i_570425837 = addInt(i_570425837, 1);
+              i_570425839 = addInt(i_570425839, 1);
             }
         };
       };
       Label5: {
         var refSpec_1291848892 = ({name: [], params: []});
-        var i_570425844 = 0;
-        var L_570425845 = (native_1291848852.refinements).length;
+        var i_570425846 = 0;
+        var L_570425847 = (native_1291848852.refinements).length;
         Label6: {
             Label7: while (true) {
-            if (!(i_570425844 < L_570425845)) break Label7;
-              refSpec_1291848892 = native_1291848852.refinements[chckIndx(i_570425844, 0, (native_1291848852.refinements).length - 1)];
+            if (!(i_570425846 < L_570425847)) break Label7;
+              refSpec_1291848892 = native_1291848852.refinements[chckIndx(i_570425846, 0, (native_1291848852.refinements).length - 1)];
               if (contains__stdZenumutils_u50(eval_p0.currentRefinements, refSpec_1291848892.name)) {
               Label8: {
                 var rp_1291848919 = ({name: [], typeName: [], elementType: [], isOpt: false});
-                var i_570425841 = 0;
-                var L_570425842 = (refSpec_1291848892.params).length;
+                var i_570425843 = 0;
+                var L_570425844 = (refSpec_1291848892.params).length;
                 Label9: {
                     Label10: while (true) {
-                    if (!(i_570425841 < L_570425842)) break Label10;
-                      rp_1291848919 = refSpec_1291848892.params[chckIndx(i_570425841, 0, (refSpec_1291848892.params).length - 1)];
+                    if (!(i_570425843 < L_570425844)) break Label10;
+                      rp_1291848919 = refSpec_1291848892.params[chckIndx(i_570425843, 0, (refSpec_1291848892.params).length - 1)];
                       if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
                       raiseException({kind: [97,114,105,116,121], message: ([114,101,102,105,110,101,109,101,110,116,32,47]).concat(refSpec_1291848892.name,[32,101,120,112,101,99,116,115,32,97,114,103,117,109,101,110,116,32],rp_1291848919.name), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
@@ -19218,8 +19218,8 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
                       var rarg_1291848923 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
                       applyInfix__evalZevaluator_u603(eval_p0, rarg_1291848923, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
                       args_1291848857.push(rarg_1291848923[0]);;
-                      i_570425841 += 1;
-                      if (!(((refSpec_1291848892.params).length == L_570425842))) {
+                      i_570425843 += 1;
+                      if (!(((refSpec_1291848892.params).length == L_570425844))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -19228,8 +19228,8 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               };
               }
               
-              i_570425844 += 1;
-              if (!(((native_1291848852.refinements).length == L_570425845))) {
+              i_570425846 += 1;
+              if (!(((native_1291848852.refinements).length == L_570425847))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -19259,13 +19259,13 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       var args_1291848972 = [];
       Label13: {
         var i_1291848980 = 0;
-        var colontmp__570425848 = 0;
-        colontmp__570425848 = (f_1291848967.params).length;
-        var i_570425849 = 0;
+        var colontmp__570425850 = 0;
+        colontmp__570425850 = (f_1291848967.params).length;
+        var i_570425851 = 0;
         Label14: {
             Label15: while (true) {
-            if (!(i_570425849 < colontmp__570425848)) break Label15;
-              i_1291848980 = i_570425849;
+            if (!(i_570425851 < colontmp__570425850)) break Label15;
+              i_1291848980 = i_570425851;
               if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
               raiseException({kind: [97,114,105,116,121], message: ([102,117,110,99,116,105,111,110,32,101,120,112,101,99,116,115,32]).concat(HEX24__systemZdollars_u14((f_1291848967.params).length),[32,97,114,103,117,109,101,110,116,115]), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
               }
@@ -19273,7 +19273,7 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               var arg_1291848987 = [evalNext__evalZevaluator_u70(eval_p0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4)];
               applyInfix__evalZevaluator_u603(eval_p0, arg_1291848987, 0, vals_p2, pos_p3, pos_p3_Idx, ctx_p4);
               args_1291848972.push(arg_1291848987[0]);;
-              i_570425849 = addInt(i_570425849, 1);
+              i_570425851 = addInt(i_570425851, 1);
             }
         };
       };
@@ -19281,13 +19281,13 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       Label16: {
         var i_1291849036 = 0;
         var param_1291849037 = ({name: [], typeName: [], elementType: [], isOpt: false});
-        var i_570425858 = 0;
-        var L_570425859 = (f_1291848967.params).length;
+        var i_570425860 = 0;
+        var L_570425861 = (f_1291848967.params).length;
         Label17: {
             Label18: while (true) {
-            if (!(i_570425858 < L_570425859)) break Label18;
-              i_1291849036 = i_570425858;
-              param_1291849037 = nimCopy(param_1291849037, f_1291848967.params[chckIndx(i_570425858, 0, (f_1291848967.params).length - 1)], NTI704643082);
+            if (!(i_570425860 < L_570425861)) break Label18;
+              i_1291849036 = i_570425860;
+              param_1291849037 = nimCopy(param_1291849037, f_1291848967.params[chckIndx(i_570425860, 0, (f_1291848967.params).length - 1)], NTI704643082);
               if ((!(eqStrings(param_1291849037.typeName, [])) && !(eqStrings(param_1291849037.typeName, [97,110,121,45,116,121,112,101,33])))) {
               var actual_1291849038 = typeName__coreZtypes_u3187(args_1291848972[chckIndx(i_1291849036, 0, (args_1291848972).length - 1)]);
               if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1291849038, param_1291849037.typeName, args_1291848972[chckIndx(i_1291849036, 0, (args_1291848972).length - 1)], ctx_p4))) {
@@ -19297,23 +19297,23 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               if ((!(eqStrings(param_1291849037.elementType, [])) && (args_1291848972[chckIndx(i_1291849036, 0, (args_1291848972).length - 1)].kind == 13))) {
               Label19: {
                 var elem_1291849046 = null;
-                var colontmp__570425853 = [];
+                var colontmp__570425855 = [];
                 var Temporary20 = args_1291848972[chckIndx(i_1291849036, 0, (args_1291848972).length - 1)];
                 if (ConstSet633[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
-                colontmp__570425853 = Temporary20.blockVals;
-                var i_570425854 = 0;
-                var L_570425855 = (colontmp__570425853).length;
+                colontmp__570425855 = Temporary20.blockVals;
+                var i_570425856 = 0;
+                var L_570425857 = (colontmp__570425855).length;
                 Label21: {
                     Label22: while (true) {
-                    if (!(i_570425854 < L_570425855)) break Label22;
-                      elem_1291849046 = colontmp__570425853[chckIndx(i_570425854, 0, (colontmp__570425853).length - 1)];
+                    if (!(i_570425856 < L_570425857)) break Label22;
+                      elem_1291849046 = colontmp__570425855[chckIndx(i_570425856, 0, (colontmp__570425855).length - 1)];
                       var elemActual_1291849047 = typeName__coreZtypes_u3187(elem_1291849046);
                       if (!(typeMatches__evalZevaluator_u1090(eval_p0, elemActual_1291849047, param_1291849037.elementType, elem_1291849046, ctx_p4))) {
                       raiseException({kind: [116,121,112,101], message: (param_1291849037.name).concat([32,101,120,112,101,99,116,115,32,98,108,111,99,107,32,111,102,32],param_1291849037.elementType,[44,32,103,111,116,32,101,108,101,109,101,110,116,32,111,102,32],elemActual_1291849047), data: elem_1291849046, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
                       
-                      i_570425854 += 1;
-                      if (!(((colontmp__570425853).length == L_570425855))) {
+                      i_570425856 += 1;
+                      if (!(((colontmp__570425855).length == L_570425857))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -19325,8 +19325,8 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
               }
               
               set__coreZtypes_u1354(funcCtx_1291848992, param_1291849037.name, args_1291848972[chckIndx(i_1291849036, 0, (args_1291848972).length - 1)]);
-              i_570425858 += 1;
-              if (!(((f_1291848967.params).length == L_570425859))) {
+              i_570425860 += 1;
+              if (!(((f_1291848967.params).length == L_570425861))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -19339,22 +19339,22 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
       
       Label23: {
         var refSpec_1291849055 = ({name: [], params: []});
-        var i_570425870 = 0;
-        var L_570425871 = (f_1291848967.refinements).length;
+        var i_570425872 = 0;
+        var L_570425873 = (f_1291848967.refinements).length;
         Label24: {
             Label25: while (true) {
-            if (!(i_570425870 < L_570425871)) break Label25;
-              refSpec_1291849055 = f_1291848967.refinements[chckIndx(i_570425870, 0, (f_1291848967.refinements).length - 1)];
+            if (!(i_570425872 < L_570425873)) break Label25;
+              refSpec_1291849055 = f_1291848967.refinements[chckIndx(i_570425872, 0, (f_1291848967.refinements).length - 1)];
               if (contains__stdZenumutils_u50(eval_p0.currentRefinements, refSpec_1291849055.name)) {
               set__coreZtypes_u1354(funcCtx_1291848992, refSpec_1291849055.name, ktgLogic__coreZtypes_u328(true, 0));
               Label26: {
                 var rp_1291849063 = ({name: [], typeName: [], elementType: [], isOpt: false});
-                var i_570425863 = 0;
-                var L_570425864 = (refSpec_1291849055.params).length;
+                var i_570425865 = 0;
+                var L_570425866 = (refSpec_1291849055.params).length;
                 Label27: {
                     Label28: while (true) {
-                    if (!(i_570425863 < L_570425864)) break Label28;
-                      rp_1291849063 = refSpec_1291849055.params[chckIndx(i_570425863, 0, (refSpec_1291849055.params).length - 1)];
+                    if (!(i_570425865 < L_570425866)) break Label28;
+                      rp_1291849063 = refSpec_1291849055.params[chckIndx(i_570425865, 0, (refSpec_1291849055.params).length - 1)];
                       if (((vals_p2).length <= pos_p3[pos_p3_Idx])) {
                       raiseException({kind: [97,114,105,116,121], message: ([114,101,102,105,110,101,109,101,110,116,32,47]).concat(refSpec_1291849055.name,[32,101,120,112,101,99,116,115,32,97,114,103,117,109,101,110,116,32],rp_1291849063.name), data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                       }
@@ -19370,8 +19370,8 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
                       }
                       
                       set__coreZtypes_u1354(funcCtx_1291848992, rp_1291849063.name, rarg_1291849067[0]);
-                      i_570425863 += 1;
-                      if (!(((refSpec_1291849055.params).length == L_570425864))) {
+                      i_570425865 += 1;
+                      if (!(((refSpec_1291849055.params).length == L_570425866))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -19383,15 +19383,15 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
                 set__coreZtypes_u1354(funcCtx_1291848992, refSpec_1291849055.name, ktgLogic__coreZtypes_u328(false, 0));
                 Label29: {
                   var rp_1291849072 = ({name: [], typeName: [], elementType: [], isOpt: false});
-                  var i_570425867 = 0;
-                  var L_570425868 = (refSpec_1291849055.params).length;
+                  var i_570425869 = 0;
+                  var L_570425870 = (refSpec_1291849055.params).length;
                   Label30: {
                       Label31: while (true) {
-                      if (!(i_570425867 < L_570425868)) break Label31;
-                        rp_1291849072 = refSpec_1291849055.params[chckIndx(i_570425867, 0, (refSpec_1291849055.params).length - 1)];
+                      if (!(i_570425869 < L_570425870)) break Label31;
+                        rp_1291849072 = refSpec_1291849055.params[chckIndx(i_570425869, 0, (refSpec_1291849055.params).length - 1)];
                         set__coreZtypes_u1354(funcCtx_1291848992, rp_1291849072.name, ktgNone__coreZtypes_u332(0));
-                        i_570425867 += 1;
-                        if (!(((refSpec_1291849055.params).length == L_570425868))) {
+                        i_570425869 += 1;
+                        if (!(((refSpec_1291849055.params).length == L_570425870))) {
                         failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                         }
                         
@@ -19400,8 +19400,8 @@ function callCallable__evalZevaluator_u75(eval_p0, fn_p1, vals_p2, pos_p3, pos_p
                 };
               }
               
-              i_570425870 += 1;
-              if (!(((f_1291848967.refinements).length == L_570425871))) {
+              i_570425872 += 1;
+              if (!(((f_1291848967.refinements).length == L_570425873))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -19506,12 +19506,12 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
     var current_1291846353 = head_p1;
     Label1: {
       var seg_1291846357 = [];
-      var i_570425937 = 0;
-      var L_570425938 = (segments_p2).length;
+      var i_570425939 = 0;
+      var L_570425940 = (segments_p2).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425937 < L_570425938)) break Label3;
-            seg_1291846357 = segments_p2[chckIndx(i_570425937, 0, (segments_p2).length - 1)];
+          if (!(i_570425939 < L_570425940)) break Label3;
+            seg_1291846357 = segments_p2[chckIndx(i_570425939, 0, (segments_p2).length - 1)];
 ++excHandler;
             try {
             if (nsuStartsWith(seg_1291846357, [58])) {
@@ -19733,8 +19733,8 @@ function navigatePath__evalZevaluator_u714(eval_p0, head_p1, segments_p2, ctx_p3
             lastJSError = prevJSError;
             } finally {
             }
-            i_570425937 += 1;
-            if (!(((segments_p2).length == L_570425938))) {
+            i_570425939 += 1;
+            if (!(((segments_p2).length == L_570425940))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -20021,13 +20021,13 @@ function toKebabCase__evalZevaluator_u61(name_p0) {
     Label1: {
       var i_1291845696 = 0;
       var c_1291845697 = 0;
-      var i_570425942 = 0;
-      var L_570425943 = (name_p0).length;
+      var i_570425944 = 0;
+      var L_570425945 = (name_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425942 < L_570425943)) break Label3;
-            i_1291845696 = i_570425942;
-            c_1291845697 = name_p0[chckIndx(i_570425942, 0, (name_p0).length - 1)];
+          if (!(i_570425944 < L_570425945)) break Label3;
+            i_1291845696 = i_570425944;
+            c_1291845697 = name_p0[chckIndx(i_570425944, 0, (name_p0).length - 1)];
             if (nsuIsUpperAsciiChar(c_1291845697)) {
             if ((0 < i_1291845696)) {
             addChar(result_1291845695, 45);;
@@ -20039,8 +20039,8 @@ function toKebabCase__evalZevaluator_u61(name_p0) {
               addChar(result_1291845695, c_1291845697);;
             }
             
-            i_570425942 += 1;
-            if (!(((name_p0).length == L_570425943))) {
+            i_570425944 += 1;
+            if (!(((name_p0).length == L_570425945))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(206, 11) `len(a) == L` the length of the string changed while iterating over it"));
             }
             
@@ -20066,12 +20066,12 @@ function HEX3Aanonymous__evalZevaluator_u1990(args_p0, ep_p1, ep_p1_Idx) {
     
     Label1: {
       var fs_1291847634 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-      var i_570425755 = 0;
-      var L_570425756 = (this.specs0).length;
+      var i_570425757 = 0;
+      var L_570425758 = (this.specs0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425755 < L_570425756)) break Label3;
-            fs_1291847634 = this.specs0[chckIndx(i_570425755, 0, (this.specs0).length - 1)];
+          if (!(i_570425757 < L_570425758)) break Label3;
+            fs_1291847634 = this.specs0[chckIndx(i_570425757, 0, (this.specs0).length - 1)];
               var Temporary4 = val_1291847626;
               if (ConstSet713[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
             if (!(contains__coreZtypes_u621(Temporary4.ctx.entries, fs_1291847634.name))) {
@@ -20079,8 +20079,8 @@ function HEX3Aanonymous__evalZevaluator_u1990(args_p0, ep_p1, ep_p1_Idx) {
             break BeforeRet;
             }
             
-            i_570425755 += 1;
-            if (!(((this.specs0).length == L_570425756))) {
+            i_570425757 += 1;
+            if (!(((this.specs0).length == L_570425758))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -20127,12 +20127,12 @@ function composeBlock__evalZevaluator_u2161(eval_p0, blk_p1, ctx_p2, deep_p3, on
     var results_1291847804 = [];
     Label1: {
       var v_1291847808 = null;
-      var i_570425765 = 0;
-      var L_570425766 = (blk_p1).length;
+      var i_570425767 = 0;
+      var L_570425768 = (blk_p1).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425765 < L_570425766)) break Label3;
-            v_1291847808 = blk_p1[chckIndx(i_570425765, 0, (blk_p1).length - 1)];
+          if (!(i_570425767 < L_570425768)) break Label3;
+            v_1291847808 = blk_p1[chckIndx(i_570425767, 0, (blk_p1).length - 1)];
             if ((v_1291847808.kind == 14)) {
             var Temporary4 = v_1291847808;
             if (ConstSet732[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
@@ -20140,19 +20140,19 @@ function composeBlock__evalZevaluator_u2161(eval_p0, blk_p1, ctx_p2, deep_p3, on
             if (((val_1291847813.kind == 13) && !(only_p4))) {
             Label5: {
               var item_1291847821 = null;
-              var colontmp__570425761 = [];
+              var colontmp__570425763 = [];
               var Temporary6 = val_1291847813;
               if (ConstSet733[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
-              colontmp__570425761 = Temporary6.blockVals;
-              var i_570425762 = 0;
-              var L_570425763 = (colontmp__570425761).length;
+              colontmp__570425763 = Temporary6.blockVals;
+              var i_570425764 = 0;
+              var L_570425765 = (colontmp__570425763).length;
               Label7: {
                   Label8: while (true) {
-                  if (!(i_570425762 < L_570425763)) break Label8;
-                    item_1291847821 = colontmp__570425761[chckIndx(i_570425762, 0, (colontmp__570425761).length - 1)];
+                  if (!(i_570425764 < L_570425765)) break Label8;
+                    item_1291847821 = colontmp__570425763[chckIndx(i_570425764, 0, (colontmp__570425763).length - 1)];
                     results_1291847804.push(item_1291847821);;
-                    i_570425762 += 1;
-                    if (!(((colontmp__570425761).length == L_570425763))) {
+                    i_570425764 += 1;
+                    if (!(((colontmp__570425763).length == L_570425765))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                     }
                     
@@ -20175,8 +20175,8 @@ function composeBlock__evalZevaluator_u2161(eval_p0, blk_p1, ctx_p2, deep_p3, on
             results_1291847804.push(v_1291847808);;
             }
             }
-            i_570425765 += 1;
-            if (!(((blk_p1).length == L_570425766))) {
+            i_570425767 += 1;
+            if (!(((blk_p1).length == L_570425768))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -20284,8 +20284,8 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
   var result_1291846733 = null;
 
   BeforeRet: {
-    var HEX3Aenv_570425768 = null;
-    HEX3Aenv_570425768 = {m_type: NTI570425495, specs0: []};
+    var HEX3Aenv_570425770 = null;
+    HEX3Aenv_570425770 = {m_type: NTI570425496, specs0: []};
     if (((vals_p1).length <= pos_p2[pos_p2_Idx])) {
     result_1291846733 = ktgNone__coreZtypes_u332(0);
     break BeforeRet;
@@ -20322,19 +20322,19 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
       var copy_1291846746 = [];
       Label2: {
         var v_1291846750 = null;
-        var colontmp__570425802 = [];
+        var colontmp__570425804 = [];
         var Temporary3 = val_1291846737;
         if (ConstSet432[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
-        colontmp__570425802 = Temporary3.blockVals;
-        var i_570425803 = 0;
-        var L_570425804 = (colontmp__570425802).length;
+        colontmp__570425804 = Temporary3.blockVals;
+        var i_570425805 = 0;
+        var L_570425806 = (colontmp__570425804).length;
         Label4: {
             Label5: while (true) {
-            if (!(i_570425803 < L_570425804)) break Label5;
-              v_1291846750 = colontmp__570425802[chckIndx(i_570425803, 0, (colontmp__570425802).length - 1)];
+            if (!(i_570425805 < L_570425806)) break Label5;
+              v_1291846750 = colontmp__570425804[chckIndx(i_570425805, 0, (colontmp__570425804).length - 1)];
               copy_1291846746.push(v_1291846750);;
-              i_570425803 += 1;
-              if (!(((colontmp__570425802).length == L_570425804))) {
+              i_570425805 += 1;
+              if (!(((colontmp__570425804).length == L_570425806))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -20503,13 +20503,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         var current_1291846992 = headVal_1291846991;
         Label28: {
           var i_1291847000 = 0;
-          var colontmp__570425808 = 0;
-          colontmp__570425808 = subInt((segments_1291846987).length, 1);
-          var i_570425809 = 0;
+          var colontmp__570425810 = 0;
+          colontmp__570425810 = subInt((segments_1291846987).length, 1);
+          var i_570425811 = 0;
           Label29: {
               Label30: while (true) {
-              if (!(i_570425809 < colontmp__570425808)) break Label30;
-                i_1291847000 = i_570425809;
+              if (!(i_570425811 < colontmp__570425810)) break Label30;
+                i_1291847000 = i_570425811;
                 var seg_1291847001 = nimCopy(null, segments_1291846987[chckIndx(i_1291847000, 0, (segments_1291846987).length - 1)], NTI33554449);
 ++excHandler;
                 try {
@@ -20616,7 +20616,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 lastJSError = prevJSError;
                 } finally {
                 }
-                i_570425809 = addInt(i_570425809, 1);
+                i_570425811 = addInt(i_570425811, 1);
               }
           };
         };
@@ -20656,16 +20656,16 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         if ((0 < (Temporary53.ctx.fieldSpecs).length)) {
         Label54: {
           var fs_1291847351 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-          var colontmp__570425812 = [];
+          var colontmp__570425814 = [];
           var Temporary55 = current_1291846992;
           if (ConstSet682[Temporary55.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary55.kind, NTI704643076)); }
-          colontmp__570425812 = Temporary55.ctx.fieldSpecs;
-          var i_570425813 = 0;
-          var L_570425814 = (colontmp__570425812).length;
+          colontmp__570425814 = Temporary55.ctx.fieldSpecs;
+          var i_570425815 = 0;
+          var L_570425816 = (colontmp__570425814).length;
           Label56: {
               Label57: while (true) {
-              if (!(i_570425813 < L_570425814)) break Label57;
-                fs_1291847351 = colontmp__570425812[chckIndx(i_570425813, 0, (colontmp__570425812).length - 1)];
+              if (!(i_570425815 < L_570425816)) break Label57;
+                fs_1291847351 = colontmp__570425814[chckIndx(i_570425815, 0, (colontmp__570425814).length - 1)];
                 if ((eqStrings(fs_1291847351.name, dynKey_1291847325) && !(eqStrings(fs_1291847351.typeName, [])))) {
                 var actual_1291847352 = typeName__coreZtypes_u3187(rhs_1291846926[0]);
                 if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1291847352, fs_1291847351.typeName, rhs_1291846926[0], ctx_p3))) {
@@ -20675,8 +20675,8 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 break Label54;
                 }
                 
-                i_570425813 += 1;
-                if (!(((colontmp__570425812).length == L_570425814))) {
+                i_570425815 += 1;
+                if (!(((colontmp__570425814).length == L_570425816))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                 }
                 
@@ -20711,16 +20711,16 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         if ((0 < (Temporary60.ctx.fieldSpecs).length)) {
         Label61: {
           var fs_1291847413 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-          var colontmp__570425817 = [];
+          var colontmp__570425819 = [];
           var Temporary62 = current_1291846992;
           if (ConstSet686[Temporary62.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary62.kind, NTI704643076)); }
-          colontmp__570425817 = Temporary62.ctx.fieldSpecs;
-          var i_570425818 = 0;
-          var L_570425819 = (colontmp__570425817).length;
+          colontmp__570425819 = Temporary62.ctx.fieldSpecs;
+          var i_570425820 = 0;
+          var L_570425821 = (colontmp__570425819).length;
           Label63: {
               Label64: while (true) {
-              if (!(i_570425818 < L_570425819)) break Label64;
-                fs_1291847413 = colontmp__570425817[chckIndx(i_570425818, 0, (colontmp__570425817).length - 1)];
+              if (!(i_570425820 < L_570425821)) break Label64;
+                fs_1291847413 = colontmp__570425819[chckIndx(i_570425820, 0, (colontmp__570425819).length - 1)];
                 if ((eqStrings(fs_1291847413.name, lastSeg_1291847288) && !(eqStrings(fs_1291847413.typeName, [])))) {
                 var actual_1291847414 = typeName__coreZtypes_u3187(rhs_1291846926[0]);
                 if (!(typeMatches__evalZevaluator_u1090(eval_p0, actual_1291847414, fs_1291847413.typeName, rhs_1291846926[0], ctx_p3))) {
@@ -20730,8 +20730,8 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 break Label61;
                 }
                 
-                i_570425818 += 1;
-                if (!(((colontmp__570425817).length == L_570425819))) {
+                i_570425820 += 1;
+                if (!(((colontmp__570425819).length == L_570425821))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                 }
                 
@@ -20764,13 +20764,13 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
           var holder_1291847473 = get__coreZtypes_u563(ctx_p3, head_1291846986);
           Label67: {
             var i_1291847481 = 0;
-            var colontmp__570425822 = 0;
-            colontmp__570425822 = subInt((segments_1291846987).length, 2);
-            var i_570425823 = 0;
+            var colontmp__570425824 = 0;
+            colontmp__570425824 = subInt((segments_1291846987).length, 2);
+            var i_570425825 = 0;
             Label68: {
                 Label69: while (true) {
-                if (!(i_570425823 < colontmp__570425822)) break Label69;
-                  i_1291847481 = i_570425823;
+                if (!(i_570425825 < colontmp__570425824)) break Label69;
+                  i_1291847481 = i_570425825;
                   var seg_1291847482 = nimCopy(null, segments_1291846987[chckIndx(i_1291847481, 0, (segments_1291846987).length - 1)], NTI33554449);
                   if ((holder_1291847473.kind == 17)) {
                   var Temporary70 = holder_1291847473;
@@ -20793,7 +20793,7 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                     raiseException({kind: [116,121,112,101], message: ([99,97,110,110,111,116,32,110,97,118,105,103,97,116,101,32,112,97,116,104,32,111,110,32]).concat(typeName__coreZtypes_u3187(holder_1291847473)), data: holder_1291847473, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                   }
                   }}
-                  i_570425823 = addInt(i_570425823, 1);
+                  i_570425825 = addInt(i_570425825, 1);
                 }
             };
           };
@@ -20867,8 +20867,8 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         if (!(has__coreZtypes_u2880(ctx_p3, predicateName_1291847620))) {
         var Temporary79 = rhs_1291846926[0];
         if (ConstSet712[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
-        HEX3Aenv_570425768.specs0 = nimCopy(null, Temporary79.obj.fieldSpecs, NTI704643138);
-        Temporary80 = HEX3Aanonymous__evalZevaluator_u1990.bind(HEX3Aenv_570425768); Temporary80.ClP_0 = HEX3Aanonymous__evalZevaluator_u1990; Temporary80.ClE_0 = HEX3Aenv_570425768;
+        HEX3Aenv_570425770.specs0 = nimCopy(null, Temporary79.obj.fieldSpecs, NTI704643138);
+        Temporary80 = HEX3Aanonymous__evalZevaluator_u1990.bind(HEX3Aenv_570425770); Temporary80.ClP_0 = HEX3Aanonymous__evalZevaluator_u1990; Temporary80.ClE_0 = HEX3Aenv_570425770;
         set__coreZtypes_u1354(ctx_p3, predicateName_1291847620, {kind: 20, nativeFn: {name: nimCopy(null, predicateName_1291847620, NTI33554449), arity: 1, fn: Temporary80, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
         }
         
@@ -20933,12 +20933,12 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
         var hasBar_1291847741 = false;
         Label94: {
           var rv_1291847745 = null;
-          var i_570425826 = 0;
-          var L_570425827 = (ruleVals_1291847722).length;
+          var i_570425828 = 0;
+          var L_570425829 = (ruleVals_1291847722).length;
           Label95: {
               Label96: while (true) {
-              if (!(i_570425826 < L_570425827)) break Label96;
-                rv_1291847745 = ruleVals_1291847722[chckIndx(i_570425826, 0, (ruleVals_1291847722).length - 1)];
+              if (!(i_570425828 < L_570425829)) break Label96;
+                rv_1291847745 = ruleVals_1291847722[chckIndx(i_570425828, 0, (ruleVals_1291847722).length - 1)];
                   if (!(rv_1291847745.kind == 23)) Temporary98 = false; else {                    var Temporary99 = rv_1291847745;
                     if (ConstSet723[Temporary99.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary99.kind, NTI704643076)); }
                     Temporary98 = (Temporary99.wordKind == 0);                  }                  if (!Temporary98) Temporary97 = false; else {                    var Temporary100 = rv_1291847745;
@@ -20955,8 +20955,8 @@ function evalNext__evalZevaluator_u70(eval_p0, vals_p1, pos_p2, pos_p2_Idx, ctx_
                 break Label94;
                 }
                 
-                i_570425826 += 1;
-                if (!(((ruleVals_1291847722).length == L_570425827))) {
+                i_570425828 += 1;
+                if (!(((ruleVals_1291847722).length == L_570425829))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                 }
                 
@@ -21079,12 +21079,12 @@ function evalBlock__evalZevaluator_u66(eval_p0, vals_p1, ctx_p2) {
     var hasHooks_1291847919 = false;
     Label1: {
       var v_1291847923 = null;
-      var i_570425736 = 0;
-      var L_570425737 = (vals_p1).length;
+      var i_570425738 = 0;
+      var L_570425739 = (vals_p1).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570425736 < L_570425737)) break Label3;
-            v_1291847923 = vals_p1[chckIndx(i_570425736, 0, (vals_p1).length - 1)];
+          if (!(i_570425738 < L_570425739)) break Label3;
+            v_1291847923 = vals_p1[chckIndx(i_570425738, 0, (vals_p1).length - 1)];
               if (!(v_1291847923.kind == 23)) Temporary5 = false; else {                var Temporary6 = v_1291847923;
                 if (ConstSet424[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 4);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = v_1291847923;
@@ -21094,8 +21094,8 @@ function evalBlock__evalZevaluator_u66(eval_p0, vals_p1, ctx_p2) {
             break Label1;
             }
             
-            i_570425736 += 1;
-            if (!(((vals_p1).length == L_570425737))) {
+            i_570425738 += 1;
+            if (!(((vals_p1).length == L_570425739))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -21145,15 +21145,15 @@ function evalBlock__evalZevaluator_u66(eval_p0, vals_p1, ctx_p2) {
     };
     Label23: {
       var blk_1291848072 = [];
-      var i_570425743 = 0;
-      var L_570425744 = (enterBlocks_1291847989).length;
+      var i_570425745 = 0;
+      var L_570425746 = (enterBlocks_1291847989).length;
       Label24: {
           Label25: while (true) {
-          if (!(i_570425743 < L_570425744)) break Label25;
-            blk_1291848072 = enterBlocks_1291847989[chckIndx(i_570425743, 0, (enterBlocks_1291847989).length - 1)];
+          if (!(i_570425745 < L_570425746)) break Label25;
+            blk_1291848072 = enterBlocks_1291847989[chckIndx(i_570425745, 0, (enterBlocks_1291847989).length - 1)];
             (evalBlock__evalZevaluator_u66(eval_p0, blk_1291848072, ctx_p2));
-            i_570425743 += 1;
-            if (!(((enterBlocks_1291847989).length == L_570425744))) {
+            i_570425745 += 1;
+            if (!(((enterBlocks_1291847989).length == L_570425746))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -21192,15 +21192,15 @@ function evalBlock__evalZevaluator_u66(eval_p0, vals_p1, ctx_p2) {
     } finally {
     Label30: {
       var blk_1291848082 = [];
-      var i_570425748 = 0;
-      var L_570425749 = (exitBlocks_1291847994).length;
+      var i_570425750 = 0;
+      var L_570425751 = (exitBlocks_1291847994).length;
       Label31: {
           Label32: while (true) {
-          if (!(i_570425748 < L_570425749)) break Label32;
-            blk_1291848082 = exitBlocks_1291847994[chckIndx(i_570425748, 0, (exitBlocks_1291847994).length - 1)];
+          if (!(i_570425750 < L_570425751)) break Label32;
+            blk_1291848082 = exitBlocks_1291847994[chckIndx(i_570425750, 0, (exitBlocks_1291847994).length - 1)];
             (evalBlock__evalZevaluator_u66(eval_p0, blk_1291848082, ctx_p2));
-            i_570425748 += 1;
-            if (!(((exitBlocks_1291847994).length == L_570425749))) {
+            i_570425750 += 1;
+            if (!(((exitBlocks_1291847994).length == L_570425751))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -21396,10 +21396,10 @@ function makeTypePredicate__evalZnatives_u325(expected_p0) {
   var result_1476395335 = null;
 
   BeforeRet: {
-    var HEX3Aenv_570425600 = null;
-    HEX3Aenv_570425600 = {m_type: NTI570425390, expected0: []};
-    HEX3Aenv_570425600.expected0 = nimCopy(null, expected_p0, NTI33554449);
-    Temporary1 = HEX3Aanonymous__evalZnatives_u328.bind(HEX3Aenv_570425600); Temporary1.ClP_0 = HEX3Aanonymous__evalZnatives_u328; Temporary1.ClE_0 = HEX3Aenv_570425600;
+    var HEX3Aenv_570425602 = null;
+    HEX3Aenv_570425602 = {m_type: NTI570425391, expected0: []};
+    HEX3Aenv_570425602.expected0 = nimCopy(null, expected_p0, NTI33554449);
+    Temporary1 = HEX3Aanonymous__evalZnatives_u328.bind(HEX3Aenv_570425602); Temporary1.ClP_0 = HEX3Aanonymous__evalZnatives_u328; Temporary1.ClE_0 = HEX3Aenv_570425602;
     result_1476395335 = Temporary1;
     break BeforeRet;
   };
@@ -21511,16 +21511,16 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
     
     Label4: {
       var fs_1476395579 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-      var colontmp__570425449 = [];
+      var colontmp__570425451 = [];
       var Temporary5 = typeArg_1476395452;
       if (ConstSet752[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
-      colontmp__570425449 = Temporary5.obj.fieldSpecs;
-      var i_570425451 = 0;
-      var L_570425452 = (colontmp__570425449).length;
+      colontmp__570425451 = Temporary5.obj.fieldSpecs;
+      var i_570425453 = 0;
+      var L_570425454 = (colontmp__570425451).length;
       Label6: {
           Label7: while (true) {
-          if (!(i_570425451 < L_570425452)) break Label7;
-            fs_1476395579 = colontmp__570425449[chckIndx(i_570425451, 0, (colontmp__570425449).length - 1)];
+          if (!(i_570425453 < L_570425454)) break Label7;
+            fs_1476395579 = colontmp__570425451[chckIndx(i_570425453, 0, (colontmp__570425451).length - 1)];
               var Temporary8 = value_1476395453;
               if (ConstSet753[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
             if (!(contains__coreZtypes_u621(Temporary8.ctx.entries, fs_1476395579.name))) {
@@ -21528,8 +21528,8 @@ function HEX3Aanonymous__evalZnatives_u439(args_p0, ep_p1, ep_p1_Idx) {
             break BeforeRet;
             }
             
-            i_570425451 += 1;
-            if (!(((colontmp__570425449).length == L_570425452))) {
+            i_570425453 += 1;
+            if (!(((colontmp__570425451).length == L_570425454))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -21784,21 +21784,21 @@ function HEX3Aanonymous__evalZnatives_u1071(args_p0, ep_p1, ep_p1_Idx) {
     if (((args_p0[chckIndx(1, 0, (args_p0).length - 1)].kind == 13) && !(only_1476396088))) {
     Label1: {
       var v_1476396100 = null;
-      var colontmp__570425455 = [];
+      var colontmp__570425457 = [];
       var Temporary2 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
       if (ConstSet775[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-      colontmp__570425455 = Temporary2.blockVals;
-      var i_570425456 = 0;
-      var L_570425457 = (colontmp__570425455).length;
+      colontmp__570425457 = Temporary2.blockVals;
+      var i_570425458 = 0;
+      var L_570425459 = (colontmp__570425457).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570425456 < L_570425457)) break Label4;
-            v_1476396100 = colontmp__570425455[chckIndx(i_570425456, 0, (colontmp__570425455).length - 1)];
+          if (!(i_570425458 < L_570425459)) break Label4;
+            v_1476396100 = colontmp__570425457[chckIndx(i_570425458, 0, (colontmp__570425457).length - 1)];
             var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
             if (ConstSet776[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
             Temporary5.blockVals.push(v_1476396100);;
-            i_570425456 += 1;
-            if (!(((colontmp__570425455).length == L_570425457))) {
+            i_570425458 += 1;
+            if (!(((colontmp__570425457).length == L_570425459))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -21855,19 +21855,19 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       var newVals_1476395032 = [];
       Label2: {
         var v_1476395036 = null;
-        var colontmp__570425947 = [];
+        var colontmp__570425949 = [];
         var Temporary3 = val_p0;
         if (ConstSet778[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
-        colontmp__570425947 = Temporary3.blockVals;
-        var i_570425948 = 0;
-        var L_570425949 = (colontmp__570425947).length;
+        colontmp__570425949 = Temporary3.blockVals;
+        var i_570425950 = 0;
+        var L_570425951 = (colontmp__570425949).length;
         Label4: {
             Label5: while (true) {
-            if (!(i_570425948 < L_570425949)) break Label5;
-              v_1476395036 = colontmp__570425947[chckIndx(i_570425948, 0, (colontmp__570425947).length - 1)];
+            if (!(i_570425950 < L_570425951)) break Label5;
+              v_1476395036 = colontmp__570425949[chckIndx(i_570425950, 0, (colontmp__570425949).length - 1)];
               newVals_1476395032.push(deepCopyValue__evalZnatives_u17(v_1476395036));;
-              i_570425948 += 1;
-              if (!(((colontmp__570425947).length == L_570425949))) {
+              i_570425950 += 1;
+              if (!(((colontmp__570425949).length == L_570425951))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -21883,28 +21883,28 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       Label7: {
         var key_1476395046 = [];
         var v_1476395047 = null;
-        var colontmp__570425952 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425954 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary8 = val_p0;
         if (ConstSet780[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
-        colontmp__570425952 = nimCopy(colontmp__570425952, Temporary8.ctx.entries, NTI704643106);
-        var L_570425953 = len__coreZequality_u172(colontmp__570425952);
-        if ((0 < colontmp__570425952.counter)) {
-        var h_570425954 = colontmp__570425952.first;
+        colontmp__570425954 = nimCopy(colontmp__570425954, Temporary8.ctx.entries, NTI704643106);
+        var L_570425955 = len__coreZequality_u172(colontmp__570425954);
+        if ((0 < colontmp__570425954.counter)) {
+        var h_570425956 = colontmp__570425954.first;
         Label9: {
             Label10: while (true) {
-            if (!(0 <= h_570425954)) break Label10;
-              var nxt_570425956 = colontmp__570425952.data[chckIndx(h_570425954, 0, (colontmp__570425952.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425952.data[chckIndx(h_570425954, 0, (colontmp__570425952.data).length - 1)].Field0)) {
-              key_1476395046 = colontmp__570425952.data[chckIndx(h_570425954, 0, (colontmp__570425952.data).length - 1)].Field2;
-              v_1476395047 = colontmp__570425952.data[chckIndx(h_570425954, 0, (colontmp__570425952.data).length - 1)].Field3;
+            if (!(0 <= h_570425956)) break Label10;
+              var nxt_570425958 = colontmp__570425954.data[chckIndx(h_570425956, 0, (colontmp__570425954.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425954.data[chckIndx(h_570425956, 0, (colontmp__570425954.data).length - 1)].Field0)) {
+              key_1476395046 = colontmp__570425954.data[chckIndx(h_570425956, 0, (colontmp__570425954.data).length - 1)].Field2;
+              v_1476395047 = colontmp__570425954.data[chckIndx(h_570425956, 0, (colontmp__570425954.data).length - 1)].Field3;
               set__coreZtypes_u1354(newCtx_1476395041, key_1476395046, deepCopyValue__evalZnatives_u17(v_1476395047));
-              if (!((len__coreZequality_u172(colontmp__570425952) == L_570425953))) {
+              if (!((len__coreZequality_u172(colontmp__570425954) == L_570425955))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425954 = nxt_570425956;
+              h_570425956 = nxt_570425958;
             }
         };
         }
@@ -21922,28 +21922,28 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       Label12: {
         var key_1476395069 = [];
         var v_1476395070 = null;
-        var colontmp__570425958 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425960 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary13 = val_p0;
         if (ConstSet782[Temporary13.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'mapEntries\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary13.kind, NTI704643076)); }
-        colontmp__570425958 = nimCopy(colontmp__570425958, Temporary13.mapEntries, NTI704643106);
-        var L_570425959 = len__coreZequality_u172(colontmp__570425958);
-        if ((0 < colontmp__570425958.counter)) {
-        var h_570425960 = colontmp__570425958.first;
+        colontmp__570425960 = nimCopy(colontmp__570425960, Temporary13.mapEntries, NTI704643106);
+        var L_570425961 = len__coreZequality_u172(colontmp__570425960);
+        if ((0 < colontmp__570425960.counter)) {
+        var h_570425962 = colontmp__570425960.first;
         Label14: {
             Label15: while (true) {
-            if (!(0 <= h_570425960)) break Label15;
-              var nxt_570425962 = colontmp__570425958.data[chckIndx(h_570425960, 0, (colontmp__570425958.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425958.data[chckIndx(h_570425960, 0, (colontmp__570425958.data).length - 1)].Field0)) {
-              key_1476395069 = colontmp__570425958.data[chckIndx(h_570425960, 0, (colontmp__570425958.data).length - 1)].Field2;
-              v_1476395070 = colontmp__570425958.data[chckIndx(h_570425960, 0, (colontmp__570425958.data).length - 1)].Field3;
+            if (!(0 <= h_570425962)) break Label15;
+              var nxt_570425964 = colontmp__570425960.data[chckIndx(h_570425962, 0, (colontmp__570425960.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425960.data[chckIndx(h_570425962, 0, (colontmp__570425960.data).length - 1)].Field0)) {
+              key_1476395069 = colontmp__570425960.data[chckIndx(h_570425962, 0, (colontmp__570425960.data).length - 1)].Field2;
+              v_1476395070 = colontmp__570425960.data[chckIndx(h_570425962, 0, (colontmp__570425960.data).length - 1)].Field3;
               HEX5BHEX5DHEX3D__coreZtypes_u1394(newEntries_1476395064[0], key_1476395069, deepCopyValue__evalZnatives_u17(v_1476395070));
-              if (!((len__coreZequality_u172(colontmp__570425958) == L_570425959))) {
+              if (!((len__coreZequality_u172(colontmp__570425960) == L_570425961))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425960 = nxt_570425962;
+              h_570425962 = nxt_570425964;
             }
         };
         }
@@ -21961,28 +21961,28 @@ function deepCopyValue__evalZnatives_u17(val_p0) {
       Label17: {
         var key_1476395134 = [];
         var v_1476395135 = null;
-        var colontmp__570425964 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425966 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary18 = val_p0;
         if (ConstSet784[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
-        colontmp__570425964 = nimCopy(colontmp__570425964, Temporary18.obj.entries, NTI704643106);
-        var L_570425965 = len__coreZequality_u172(colontmp__570425964);
-        if ((0 < colontmp__570425964.counter)) {
-        var h_570425966 = colontmp__570425964.first;
+        colontmp__570425966 = nimCopy(colontmp__570425966, Temporary18.obj.entries, NTI704643106);
+        var L_570425967 = len__coreZequality_u172(colontmp__570425966);
+        if ((0 < colontmp__570425966.counter)) {
+        var h_570425968 = colontmp__570425966.first;
         Label19: {
             Label20: while (true) {
-            if (!(0 <= h_570425966)) break Label20;
-              var nxt_570425968 = colontmp__570425964.data[chckIndx(h_570425966, 0, (colontmp__570425964.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425964.data[chckIndx(h_570425966, 0, (colontmp__570425964.data).length - 1)].Field0)) {
-              key_1476395134 = colontmp__570425964.data[chckIndx(h_570425966, 0, (colontmp__570425964.data).length - 1)].Field2;
-              v_1476395135 = colontmp__570425964.data[chckIndx(h_570425966, 0, (colontmp__570425964.data).length - 1)].Field3;
+            if (!(0 <= h_570425968)) break Label20;
+              var nxt_570425970 = colontmp__570425966.data[chckIndx(h_570425968, 0, (colontmp__570425966.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425966.data[chckIndx(h_570425968, 0, (colontmp__570425966.data).length - 1)].Field0)) {
+              key_1476395134 = colontmp__570425966.data[chckIndx(h_570425968, 0, (colontmp__570425966.data).length - 1)].Field2;
+              v_1476395135 = colontmp__570425966.data[chckIndx(h_570425968, 0, (colontmp__570425966.data).length - 1)].Field3;
               HEX5BHEX5DHEX3D__coreZtypes_u1394(newEntries_1476395129[0], key_1476395134, deepCopyValue__evalZnatives_u17(v_1476395135));
-              if (!((len__coreZequality_u172(colontmp__570425964) == L_570425965))) {
+              if (!((len__coreZequality_u172(colontmp__570425966) == L_570425967))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425966 = nxt_570425968;
+              h_570425968 = nxt_570425970;
             }
         };
         }
@@ -22044,28 +22044,28 @@ function HEX3Aanonymous__evalZnatives_u1114(args_p0, ep_p1, ep_p1_Idx) {
       Label5: {
         var key_1476396170 = [];
         var v_1476396171 = null;
-        var colontmp__570425460 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425462 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet790[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
-        colontmp__570425460 = nimCopy(colontmp__570425460, Temporary6.ctx.entries, NTI704643106);
-        var L_570425461 = len__coreZequality_u172(colontmp__570425460);
-        if ((0 < colontmp__570425460.counter)) {
-        var h_570425462 = colontmp__570425460.first;
+        colontmp__570425462 = nimCopy(colontmp__570425462, Temporary6.ctx.entries, NTI704643106);
+        var L_570425463 = len__coreZequality_u172(colontmp__570425462);
+        if ((0 < colontmp__570425462.counter)) {
+        var h_570425464 = colontmp__570425462.first;
         Label7: {
             Label8: while (true) {
-            if (!(0 <= h_570425462)) break Label8;
-              var nxt_570425464 = colontmp__570425460.data[chckIndx(h_570425462, 0, (colontmp__570425460.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425460.data[chckIndx(h_570425462, 0, (colontmp__570425460.data).length - 1)].Field0)) {
-              key_1476396170 = colontmp__570425460.data[chckIndx(h_570425462, 0, (colontmp__570425460.data).length - 1)].Field2;
-              v_1476396171 = colontmp__570425460.data[chckIndx(h_570425462, 0, (colontmp__570425460.data).length - 1)].Field3;
+            if (!(0 <= h_570425464)) break Label8;
+              var nxt_570425466 = colontmp__570425462.data[chckIndx(h_570425464, 0, (colontmp__570425462.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425462.data[chckIndx(h_570425464, 0, (colontmp__570425462.data).length - 1)].Field0)) {
+              key_1476396170 = colontmp__570425462.data[chckIndx(h_570425464, 0, (colontmp__570425462.data).length - 1)].Field2;
+              v_1476396171 = colontmp__570425462.data[chckIndx(h_570425464, 0, (colontmp__570425462.data).length - 1)].Field3;
               set__coreZtypes_u1354(newCtx_1476396165, key_1476396170, v_1476396171);
-              if (!((len__coreZequality_u172(colontmp__570425460) == L_570425461))) {
+              if (!((len__coreZequality_u172(colontmp__570425462) == L_570425463))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425462 = nxt_570425464;
+              h_570425464 = nxt_570425466;
             }
         };
         }
@@ -22235,13 +22235,13 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
     var blk_1476396404 = nimCopy(null, Temporary2.blockVals, NTI704643097);
     Label3: {
       var i_1476396412 = 0;
-      var colontmp__570425466 = 0;
-      colontmp__570425466 = subInt((blk_1476396404).length, 1);
-      var i_570425467 = 0;
+      var colontmp__570425468 = 0;
+      colontmp__570425468 = subInt((blk_1476396404).length, 1);
+      var i_570425469 = 0;
       Label4: {
           Label5: while (true) {
-          if (!(i_570425467 < colontmp__570425466)) break Label5;
-            i_1476396412 = i_570425467;
+          if (!(i_570425469 < colontmp__570425468)) break Label5;
+            i_1476396412 = i_570425469;
               if (!(blk_1476396404[chckIndx(i_1476396412, 0, (blk_1476396404).length - 1)].kind == 23)) Temporary6 = false; else {                var Temporary7 = blk_1476396404[chckIndx(i_1476396412, 0, (blk_1476396404).length - 1)];
                 if (ConstSet804[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
                 Temporary6 = eqStrings(nsuToLowerAsciiStr(Temporary7.wordName), nsuToLowerAsciiStr(name_1476396403));              }            if (Temporary6) {
@@ -22249,7 +22249,7 @@ function HEX3Aanonymous__evalZnatives_u1383(args_p0, ep_p1, ep_p1_Idx) {
             break BeforeRet;
             }
             
-            i_570425467 = addInt(i_570425467, 1);
+            i_570425469 = addInt(i_570425469, 1);
           }
       };
     };
@@ -22337,23 +22337,23 @@ function HEX3Aanonymous__evalZnatives_u1655(args_p0, ep_p1, ep_p1_Idx) {
     case 13:
       Label1: {
         var v_1476396670 = null;
-        var colontmp__570425470 = [];
+        var colontmp__570425472 = [];
         var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet812[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-        colontmp__570425470 = Temporary2.blockVals;
-        var i_570425471 = 0;
-        var L_570425472 = (colontmp__570425470).length;
+        colontmp__570425472 = Temporary2.blockVals;
+        var i_570425473 = 0;
+        var L_570425474 = (colontmp__570425472).length;
         Label3: {
             Label4: while (true) {
-            if (!(i_570425471 < L_570425472)) break Label4;
-              v_1476396670 = colontmp__570425470[chckIndx(i_570425471, 0, (colontmp__570425470).length - 1)];
+            if (!(i_570425473 < L_570425474)) break Label4;
+              v_1476396670 = colontmp__570425472[chckIndx(i_570425473, 0, (colontmp__570425472).length - 1)];
               if (valuesEqual__coreZequality_u5(v_1476396670, args_p0[chckIndx(1, 0, (args_p0).length - 1)])) {
               result_1476396666 = ktgLogic__coreZtypes_u328(true, 0);
               break BeforeRet;
               }
               
-              i_570425471 += 1;
-              if (!(((colontmp__570425470).length == L_570425472))) {
+              i_570425473 += 1;
+              if (!(((colontmp__570425472).length == L_570425474))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -22441,16 +22441,16 @@ function HEX3Aanonymous__evalZnatives_u1894(args_p0, ep_p1, ep_p1_Idx) {
     
     Label1: {
       var item_1476396918 = null;
-      var colontmp__570425475 = [];
+      var colontmp__570425477 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet822[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-      colontmp__570425475 = Temporary2.blockVals;
-      var i_570425476 = 0;
-      var L_570425477 = (colontmp__570425475).length;
+      colontmp__570425477 = Temporary2.blockVals;
+      var i_570425478 = 0;
+      var L_570425479 = (colontmp__570425477).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570425476 < L_570425477)) break Label4;
-            item_1476396918 = colontmp__570425475[chckIndx(i_570425476, 0, (colontmp__570425475).length - 1)];
+          if (!(i_570425478 < L_570425479)) break Label4;
+            item_1476396918 = colontmp__570425477[chckIndx(i_570425478, 0, (colontmp__570425477).length - 1)];
             var predArgs_1476396923 = [item_1476396918];
             var predPos_1476396924 = [0];
             var res_1476396925 = callCallable__evalZevaluator_u75(eval_1476396906, args_p0[chckIndx(1, 0, (args_p0).length - 1)], predArgs_1476396923, predPos_1476396924, 0, eval_1476396906.currentCtx, null);
@@ -22459,8 +22459,8 @@ function HEX3Aanonymous__evalZnatives_u1894(args_p0, ep_p1, ep_p1_Idx) {
             break BeforeRet;
             }
             
-            i_570425476 += 1;
-            if (!(((colontmp__570425475).length == L_570425477))) {
+            i_570425478 += 1;
+            if (!(((colontmp__570425477).length == L_570425479))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -22476,24 +22476,24 @@ function HEX3Aanonymous__evalZnatives_u1894(args_p0, ep_p1, ep_p1_Idx) {
       Label5: {
         var i_1476396931 = 0;
         var v_1476396932 = null;
-        var colontmp__570425480 = [];
+        var colontmp__570425482 = [];
         var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet823[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
-        colontmp__570425480 = Temporary6.blockVals;
-        var i_570425481 = 0;
-        var L_570425482 = (colontmp__570425480).length;
+        colontmp__570425482 = Temporary6.blockVals;
+        var i_570425483 = 0;
+        var L_570425484 = (colontmp__570425482).length;
         Label7: {
             Label8: while (true) {
-            if (!(i_570425481 < L_570425482)) break Label8;
-              i_1476396931 = i_570425481;
-              v_1476396932 = colontmp__570425480[chckIndx(i_570425481, 0, (colontmp__570425480).length - 1)];
+            if (!(i_570425483 < L_570425484)) break Label8;
+              i_1476396931 = i_570425483;
+              v_1476396932 = colontmp__570425482[chckIndx(i_570425483, 0, (colontmp__570425482).length - 1)];
               if (valuesEqual__coreZequality_u5(v_1476396932, args_p0[chckIndx(1, 0, (args_p0).length - 1)])) {
               result_1476396905 = ktgInt__coreZtypes_u163(BigInt(addInt(i_1476396931, 1)), 0);
               break BeforeRet;
               }
               
-              i_570425481 += 1;
-              if (!(((colontmp__570425480).length == L_570425482))) {
+              i_570425483 += 1;
+              if (!(((colontmp__570425482).length == L_570425484))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -22542,19 +22542,19 @@ function HEX3Aanonymous__evalZnatives_u1936(args_p0, ep_p1, ep_p1_Idx) {
       var reversed_1476396952 = [];
       Label1: {
         var i_1476396961 = 0;
-        var colontmp__570425485 = 0;
+        var colontmp__570425487 = 0;
         var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet825[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-        colontmp__570425485 = subInt((Temporary2.blockVals).length, 1);
-        var res_570425486 = colontmp__570425485;
+        colontmp__570425487 = subInt((Temporary2.blockVals).length, 1);
+        var res_570425488 = colontmp__570425487;
         Label3: {
             Label4: while (true) {
-            if (!(0 <= res_570425486)) break Label4;
-              i_1476396961 = res_570425486;
+            if (!(0 <= res_570425488)) break Label4;
+              i_1476396961 = res_570425488;
               var Temporary5 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
               if (ConstSet826[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
               reversed_1476396952.push((Temporary6 = Temporary5.blockVals, Temporary6)[chckIndx(i_1476396961, 0, (Temporary6).length - 1)]);;
-              res_570425486 = subInt(res_570425486, 1);
+              res_570425488 = subInt(res_570425488, 1);
             }
         };
       };
@@ -22565,19 +22565,19 @@ function HEX3Aanonymous__evalZnatives_u1936(args_p0, ep_p1, ep_p1_Idx) {
       var s_1476396966 = [];
       Label7: {
         var i_1476396972 = 0;
-        var colontmp__570425489 = 0;
+        var colontmp__570425491 = 0;
         var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet827[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
-        colontmp__570425489 = subInt((Temporary8.strVal).length, 1);
-        var res_570425490 = colontmp__570425489;
+        colontmp__570425491 = subInt((Temporary8.strVal).length, 1);
+        var res_570425492 = colontmp__570425491;
         Label9: {
             Label10: while (true) {
-            if (!(0 <= res_570425490)) break Label10;
-              i_1476396972 = res_570425490;
+            if (!(0 <= res_570425492)) break Label10;
+              i_1476396972 = res_570425492;
               var Temporary11 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
               if (ConstSet828[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
               addChar(s_1476396966, (Temporary12 = Temporary11.strVal, Temporary12)[chckIndx(i_1476396972, 0, (Temporary12).length - 1)]);;
-              res_570425490 = subInt(res_570425490, 1);
+              res_570425492 = subInt(res_570425492, 1);
             }
         };
       };
@@ -22629,16 +22629,16 @@ function HEX3Aanonymous__evalZnatives_u1969(args_p0, ep_p1, ep_p1_Idx) {
     var parts_1476396998 = [];
     Label2: {
       var v_1476397002 = null;
-      var colontmp__570425493 = [];
+      var colontmp__570425495 = [];
       var Temporary3 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet829[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
-      colontmp__570425493 = Temporary3.blockVals;
-      var i_570425494 = 0;
-      var L_570425495 = (colontmp__570425493).length;
+      colontmp__570425495 = Temporary3.blockVals;
+      var i_570425496 = 0;
+      var L_570425497 = (colontmp__570425495).length;
       Label4: {
           Label5: while (true) {
-          if (!(i_570425494 < L_570425495)) break Label5;
-            v_1476397002 = colontmp__570425493[chckIndx(i_570425494, 0, (colontmp__570425493).length - 1)];
+          if (!(i_570425496 < L_570425497)) break Label5;
+            v_1476397002 = colontmp__570425495[chckIndx(i_570425496, 0, (colontmp__570425495).length - 1)];
             if ((v_1476397002.kind == 14)) {
             var Temporary6 = v_1476397002;
             if (ConstSet830[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'parenVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
@@ -22670,8 +22670,8 @@ function HEX3Aanonymous__evalZnatives_u1969(args_p0, ep_p1, ep_p1_Idx) {
             parts_1476396998.push(HEX24__coreZtypes_u3190(v_1476397002));;
             }
             }
-            i_570425494 += 1;
-            if (!(((colontmp__570425493).length == L_570425495))) {
+            i_570425496 += 1;
+            if (!(((colontmp__570425495).length == L_570425497))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -22730,15 +22730,15 @@ function nsuToUpperAsciiStr(s_p0) {
     result_1023410289 = nimCopy(null, mnewString(chckRange((s_p0).length, 0, 2147483647)), NTI33554449);
     Label1: {
       var iHEX60gensym11_1023410295 = 0;
-      var colontmp__570425976 = 0;
-      colontmp__570425976 = subInt((s_p0).length, 1);
-      var res_570425977 = 0;
+      var colontmp__570425978 = 0;
+      colontmp__570425978 = subInt((s_p0).length, 1);
+      var res_570425979 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570425977 <= colontmp__570425976)) break Label3;
-            iHEX60gensym11_1023410295 = res_570425977;
+          if (!(res_570425979 <= colontmp__570425978)) break Label3;
+            iHEX60gensym11_1023410295 = res_570425979;
             result_1023410289[chckIndx(iHEX60gensym11_1023410295, 0, (result_1023410289).length - 1)] = nsuToUpperAsciiChar(s_p0[chckIndx(iHEX60gensym11_1023410295, 0, (s_p0).length - 1)]);
-            res_570425977 = addInt(res_570425977, 1);
+            res_570425979 = addInt(res_570425979, 1);
           }
       };
     };
@@ -22939,15 +22939,15 @@ function HEX3Aanonymous__evalZnatives_u2156(args_p0, ep_p1, ep_p1_Idx) {
     var vals_1476397181 = [];
     Label3: {
       var p_1476397185 = [];
-      var i_570425500 = 0;
-      var L_570425501 = (parts_1476397176).length;
+      var i_570425502 = 0;
+      var L_570425503 = (parts_1476397176).length;
       Label4: {
           Label5: while (true) {
-          if (!(i_570425500 < L_570425501)) break Label5;
-            p_1476397185 = parts_1476397176[chckIndx(i_570425500, 0, (parts_1476397176).length - 1)];
+          if (!(i_570425502 < L_570425503)) break Label5;
+            p_1476397185 = parts_1476397176[chckIndx(i_570425502, 0, (parts_1476397176).length - 1)];
             vals_1476397181.push(ktgString__coreZtypes_u324(p_1476397185, 0));;
-            i_570425500 += 1;
-            if (!(((parts_1476397176).length == L_570425501))) {
+            i_570425502 += 1;
+            if (!(((parts_1476397176).length == L_570425503))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -23024,16 +23024,16 @@ function HEX3Aanonymous__evalZnatives_u2182(args_p0, ep_p1, ep_p1_Idx) {
     var replaced_1476397264 = false;
     Label11: {
       var v_1476397268 = null;
-      var colontmp__570425504 = [];
+      var colontmp__570425506 = [];
       var Temporary12 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet863[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
-      colontmp__570425504 = Temporary12.blockVals;
-      var i_570425505 = 0;
-      var L_570425506 = (colontmp__570425504).length;
+      colontmp__570425506 = Temporary12.blockVals;
+      var i_570425507 = 0;
+      var L_570425508 = (colontmp__570425506).length;
       Label13: {
           Label14: while (true) {
-          if (!(i_570425505 < L_570425506)) break Label14;
-            v_1476397268 = colontmp__570425504[chckIndx(i_570425505, 0, (colontmp__570425504).length - 1)];
+          if (!(i_570425507 < L_570425508)) break Label14;
+            v_1476397268 = colontmp__570425506[chckIndx(i_570425507, 0, (colontmp__570425506).length - 1)];
             if ((valuesEqual__coreZequality_u5(v_1476397268, args_p0[chckIndx(1, 0, (args_p0).length - 1)]) && !((firstOnly_1476397199 && replaced_1476397264)))) {
             items_1476397263.push(args_p0[chckIndx(2, 0, (args_p0).length - 1)]);;
             replaced_1476397264 = true;
@@ -23042,8 +23042,8 @@ function HEX3Aanonymous__evalZnatives_u2182(args_p0, ep_p1, ep_p1_Idx) {
             items_1476397263.push(v_1476397268);;
             }
             
-            i_570425505 += 1;
-            if (!(((colontmp__570425504).length == L_570425506))) {
+            i_570425507 += 1;
+            if (!(((colontmp__570425506).length == L_570425508))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -23269,27 +23269,27 @@ function HEX3Aanonymous__evalZnatives_u2426(args_p0, ep_p1, ep_p1_Idx) {
     case 17:
       Label1: {
         var key_1476397724 = [];
-        var colontmp__570425512 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425514 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet879[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-        colontmp__570425512 = nimCopy(colontmp__570425512, Temporary2.ctx.entries, NTI704643106);
-        var L_570425514 = len__coreZequality_u172(colontmp__570425512);
-        if ((0 < colontmp__570425512.counter)) {
-        var h_570425515 = colontmp__570425512.first;
+        colontmp__570425514 = nimCopy(colontmp__570425514, Temporary2.ctx.entries, NTI704643106);
+        var L_570425516 = len__coreZequality_u172(colontmp__570425514);
+        if ((0 < colontmp__570425514.counter)) {
+        var h_570425517 = colontmp__570425514.first;
         Label3: {
             Label4: while (true) {
-            if (!(0 <= h_570425515)) break Label4;
-              var nxt_570425517 = colontmp__570425512.data[chckIndx(h_570425515, 0, (colontmp__570425512.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425512.data[chckIndx(h_570425515, 0, (colontmp__570425512.data).length - 1)].Field0)) {
-              key_1476397724 = colontmp__570425512.data[chckIndx(h_570425515, 0, (colontmp__570425512.data).length - 1)]["Field2"];
+            if (!(0 <= h_570425517)) break Label4;
+              var nxt_570425519 = colontmp__570425514.data[chckIndx(h_570425517, 0, (colontmp__570425514.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425514.data[chckIndx(h_570425517, 0, (colontmp__570425514.data).length - 1)].Field0)) {
+              key_1476397724 = colontmp__570425514.data[chckIndx(h_570425517, 0, (colontmp__570425514.data).length - 1)]["Field2"];
               names_1476397442.push(ktgWord__coreZtypes_u399(key_1476397724, 0, 0));;
-              if (!((len__coreZequality_u172(colontmp__570425512) == L_570425514))) {
+              if (!((len__coreZequality_u172(colontmp__570425514) == L_570425516))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1865, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425515 = nxt_570425517;
+              h_570425517 = nxt_570425519;
             }
         };
         }
@@ -23299,27 +23299,27 @@ function HEX3Aanonymous__evalZnatives_u2426(args_p0, ep_p1, ep_p1_Idx) {
     case 18:
       Label5: {
         var key_1476397733 = [];
-        var colontmp__570425519 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425521 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary6 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
         if (ConstSet880[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
-        colontmp__570425519 = nimCopy(colontmp__570425519, Temporary6.obj.entries, NTI704643106);
-        var L_570425520 = len__coreZequality_u172(colontmp__570425519);
-        if ((0 < colontmp__570425519.counter)) {
-        var h_570425521 = colontmp__570425519.first;
+        colontmp__570425521 = nimCopy(colontmp__570425521, Temporary6.obj.entries, NTI704643106);
+        var L_570425522 = len__coreZequality_u172(colontmp__570425521);
+        if ((0 < colontmp__570425521.counter)) {
+        var h_570425523 = colontmp__570425521.first;
         Label7: {
             Label8: while (true) {
-            if (!(0 <= h_570425521)) break Label8;
-              var nxt_570425523 = colontmp__570425519.data[chckIndx(h_570425521, 0, (colontmp__570425519.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425519.data[chckIndx(h_570425521, 0, (colontmp__570425519.data).length - 1)].Field0)) {
-              key_1476397733 = colontmp__570425519.data[chckIndx(h_570425521, 0, (colontmp__570425519.data).length - 1)]["Field2"];
+            if (!(0 <= h_570425523)) break Label8;
+              var nxt_570425525 = colontmp__570425521.data[chckIndx(h_570425523, 0, (colontmp__570425521.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425521.data[chckIndx(h_570425523, 0, (colontmp__570425521.data).length - 1)].Field0)) {
+              key_1476397733 = colontmp__570425521.data[chckIndx(h_570425523, 0, (colontmp__570425521.data).length - 1)]["Field2"];
               names_1476397442.push(ktgWord__coreZtypes_u399(key_1476397733, 0, 0));;
-              if (!((len__coreZequality_u172(colontmp__570425519) == L_570425520))) {
+              if (!((len__coreZequality_u172(colontmp__570425521) == L_570425522))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1865, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425521 = nxt_570425523;
+              h_570425523 = nxt_570425525;
             }
         };
         }
@@ -23378,16 +23378,16 @@ function HEX3Aanonymous__evalZnatives_u2730(args_p0, ep_p1, ep_p1_Idx) {
     Label1: {
       var key_1476397765 = [];
       var val_1476397766 = null;
-      var L_570425525 = len__coreZequality_u172(aEntries_1476397758);
+      var L_570425527 = len__coreZequality_u172(aEntries_1476397758);
       if ((0 < aEntries_1476397758.counter)) {
-      var h_570425526 = aEntries_1476397758.first;
+      var h_570425528 = aEntries_1476397758.first;
       Label2: {
           Label3: while (true) {
-          if (!(0 <= h_570425526)) break Label3;
-            var nxt_570425528 = aEntries_1476397758.data[chckIndx(h_570425526, 0, (aEntries_1476397758.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(aEntries_1476397758.data[chckIndx(h_570425526, 0, (aEntries_1476397758.data).length - 1)].Field0)) {
-            key_1476397765 = aEntries_1476397758.data[chckIndx(h_570425526, 0, (aEntries_1476397758.data).length - 1)].Field2;
-            val_1476397766 = aEntries_1476397758.data[chckIndx(h_570425526, 0, (aEntries_1476397758.data).length - 1)].Field3;
+          if (!(0 <= h_570425528)) break Label3;
+            var nxt_570425530 = aEntries_1476397758.data[chckIndx(h_570425528, 0, (aEntries_1476397758.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(aEntries_1476397758.data[chckIndx(h_570425528, 0, (aEntries_1476397758.data).length - 1)].Field0)) {
+            key_1476397765 = aEntries_1476397758.data[chckIndx(h_570425528, 0, (aEntries_1476397758.data).length - 1)].Field2;
+            val_1476397766 = aEntries_1476397758.data[chckIndx(h_570425528, 0, (aEntries_1476397758.data).length - 1)].Field3;
             if (isDeep_1476397747) {
             set__coreZtypes_u1354(merged_1476397760, key_1476397765, deepCopyValue__evalZnatives_u17(val_1476397766));
             }
@@ -23395,13 +23395,13 @@ function HEX3Aanonymous__evalZnatives_u2730(args_p0, ep_p1, ep_p1_Idx) {
             set__coreZtypes_u1354(merged_1476397760, key_1476397765, val_1476397766);
             }
             
-            if (!((len__coreZequality_u172(aEntries_1476397758) == L_570425525))) {
+            if (!((len__coreZequality_u172(aEntries_1476397758) == L_570425527))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570425526 = nxt_570425528;
+            h_570425528 = nxt_570425530;
           }
       };
       }
@@ -23410,16 +23410,16 @@ function HEX3Aanonymous__evalZnatives_u2730(args_p0, ep_p1, ep_p1_Idx) {
     Label4: {
       var key_1476397771 = [];
       var val_1476397772 = null;
-      var L_570425530 = len__coreZequality_u172(bEntries_1476397759);
+      var L_570425532 = len__coreZequality_u172(bEntries_1476397759);
       if ((0 < bEntries_1476397759.counter)) {
-      var h_570425531 = bEntries_1476397759.first;
+      var h_570425533 = bEntries_1476397759.first;
       Label5: {
           Label6: while (true) {
-          if (!(0 <= h_570425531)) break Label6;
-            var nxt_570425533 = bEntries_1476397759.data[chckIndx(h_570425531, 0, (bEntries_1476397759.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(bEntries_1476397759.data[chckIndx(h_570425531, 0, (bEntries_1476397759.data).length - 1)].Field0)) {
-            key_1476397771 = bEntries_1476397759.data[chckIndx(h_570425531, 0, (bEntries_1476397759.data).length - 1)].Field2;
-            val_1476397772 = bEntries_1476397759.data[chckIndx(h_570425531, 0, (bEntries_1476397759.data).length - 1)].Field3;
+          if (!(0 <= h_570425533)) break Label6;
+            var nxt_570425535 = bEntries_1476397759.data[chckIndx(h_570425533, 0, (bEntries_1476397759.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(bEntries_1476397759.data[chckIndx(h_570425533, 0, (bEntries_1476397759.data).length - 1)].Field0)) {
+            key_1476397771 = bEntries_1476397759.data[chckIndx(h_570425533, 0, (bEntries_1476397759.data).length - 1)].Field2;
+            val_1476397772 = bEntries_1476397759.data[chckIndx(h_570425533, 0, (bEntries_1476397759.data).length - 1)].Field3;
             if (!((val_1476397772.kind == 4))) {
             if (isDeep_1476397747) {
             set__coreZtypes_u1354(merged_1476397760, key_1476397771, deepCopyValue__evalZnatives_u17(val_1476397772));
@@ -23430,13 +23430,13 @@ function HEX3Aanonymous__evalZnatives_u2730(args_p0, ep_p1, ep_p1_Idx) {
             
             }
             
-            if (!((len__coreZequality_u172(bEntries_1476397759) == L_570425530))) {
+            if (!((len__coreZequality_u172(bEntries_1476397759) == L_570425532))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570425531 = nxt_570425533;
+            h_570425533 = nxt_570425535;
           }
       };
       }
@@ -23495,20 +23495,20 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
       Label2: {
         var key_1476397841 = [];
         var v_1476397842 = null;
-        var colontmp__570425535 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425537 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary3 = val_p0;
         if (ConstSet884[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
-        colontmp__570425535 = nimCopy(colontmp__570425535, Temporary3.ctx.entries, NTI704643106);
-        var L_570425536 = len__coreZequality_u172(colontmp__570425535);
-        if ((0 < colontmp__570425535.counter)) {
-        var h_570425537 = colontmp__570425535.first;
+        colontmp__570425537 = nimCopy(colontmp__570425537, Temporary3.ctx.entries, NTI704643106);
+        var L_570425538 = len__coreZequality_u172(colontmp__570425537);
+        if ((0 < colontmp__570425537.counter)) {
+        var h_570425539 = colontmp__570425537.first;
         Label4: {
             Label5: while (true) {
-            if (!(0 <= h_570425537)) break Label5;
-              var nxt_570425539 = colontmp__570425535.data[chckIndx(h_570425537, 0, (colontmp__570425535.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425535.data[chckIndx(h_570425537, 0, (colontmp__570425535.data).length - 1)].Field0)) {
-              key_1476397841 = colontmp__570425535.data[chckIndx(h_570425537, 0, (colontmp__570425535.data).length - 1)].Field2;
-              v_1476397842 = colontmp__570425535.data[chckIndx(h_570425537, 0, (colontmp__570425535.data).length - 1)].Field3;
+            if (!(0 <= h_570425539)) break Label5;
+              var nxt_570425541 = colontmp__570425537.data[chckIndx(h_570425539, 0, (colontmp__570425537.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425537.data[chckIndx(h_570425539, 0, (colontmp__570425537.data).length - 1)].Field0)) {
+              key_1476397841 = colontmp__570425537.data[chckIndx(h_570425539, 0, (colontmp__570425537.data).length - 1)].Field2;
+              v_1476397842 = colontmp__570425537.data[chckIndx(h_570425539, 0, (colontmp__570425537.data).length - 1)].Field3;
               if ((deep_p1 && (v_1476397842.kind == 17))) {
               HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1476397836[0], key_1476397841, freezeValue__evalZnatives_u2808(v_1476397842, true));
               }
@@ -23516,13 +23516,13 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
               HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1476397836[0], key_1476397841, v_1476397842);
               }
               
-              if (!((len__coreZequality_u172(colontmp__570425535) == L_570425536))) {
+              if (!((len__coreZequality_u172(colontmp__570425537) == L_570425538))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425537 = nxt_570425539;
+              h_570425539 = nxt_570425541;
             }
         };
         }
@@ -23536,20 +23536,20 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
       Label7: {
         var key_1476397952 = [];
         var v_1476397953 = null;
-        var colontmp__570425541 = ({data: [], counter: 0, first: 0, last: 0});
+        var colontmp__570425543 = ({data: [], counter: 0, first: 0, last: 0});
         var Temporary8 = val_p0;
         if (ConstSet885[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
-        colontmp__570425541 = nimCopy(colontmp__570425541, Temporary8.obj.entries, NTI704643106);
-        var L_570425542 = len__coreZequality_u172(colontmp__570425541);
-        if ((0 < colontmp__570425541.counter)) {
-        var h_570425543 = colontmp__570425541.first;
+        colontmp__570425543 = nimCopy(colontmp__570425543, Temporary8.obj.entries, NTI704643106);
+        var L_570425544 = len__coreZequality_u172(colontmp__570425543);
+        if ((0 < colontmp__570425543.counter)) {
+        var h_570425545 = colontmp__570425543.first;
         Label9: {
             Label10: while (true) {
-            if (!(0 <= h_570425543)) break Label10;
-              var nxt_570425545 = colontmp__570425541.data[chckIndx(h_570425543, 0, (colontmp__570425541.data).length - 1)].Field1;
-              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425541.data[chckIndx(h_570425543, 0, (colontmp__570425541.data).length - 1)].Field0)) {
-              key_1476397952 = colontmp__570425541.data[chckIndx(h_570425543, 0, (colontmp__570425541.data).length - 1)].Field2;
-              v_1476397953 = colontmp__570425541.data[chckIndx(h_570425543, 0, (colontmp__570425541.data).length - 1)].Field3;
+            if (!(0 <= h_570425545)) break Label10;
+              var nxt_570425547 = colontmp__570425543.data[chckIndx(h_570425545, 0, (colontmp__570425543.data).length - 1)].Field1;
+              if (isFilled__pureZcollectionsZtables_u31(colontmp__570425543.data[chckIndx(h_570425545, 0, (colontmp__570425543.data).length - 1)].Field0)) {
+              key_1476397952 = colontmp__570425543.data[chckIndx(h_570425545, 0, (colontmp__570425543.data).length - 1)].Field2;
+              v_1476397953 = colontmp__570425543.data[chckIndx(h_570425545, 0, (colontmp__570425543.data).length - 1)].Field3;
               if ((v_1476397953.kind == 17)) {
               HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1476397947[0], key_1476397952, freezeValue__evalZnatives_u2808(v_1476397953, true));
               }
@@ -23557,13 +23557,13 @@ function freezeValue__evalZnatives_u2808(val_p0, deep_p1) {
               HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1476397947[0], key_1476397952, v_1476397953);
               }
               
-              if (!((len__coreZequality_u172(colontmp__570425541) == L_570425542))) {
+              if (!((len__coreZequality_u172(colontmp__570425543) == L_570425544))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
               }
               
               }
               
-              h_570425543 = nxt_570425545;
+              h_570425545 = nxt_570425547;
             }
         };
         }
@@ -23900,32 +23900,32 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
     Label2: {
       var i_1476398231 = 0;
       var name_1476398232 = null;
-      var i_570425551 = 0;
-      var L_570425552 = (names_1476398219).length;
+      var i_570425553 = 0;
+      var L_570425554 = (names_1476398219).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570425551 < L_570425552)) break Label4;
-            i_1476398231 = i_570425551;
-            name_1476398232 = names_1476398219[chckIndx(i_570425551, 0, (names_1476398219).length - 1)];
+          if (!(i_570425553 < L_570425554)) break Label4;
+            i_1476398231 = i_570425553;
+            name_1476398232 = names_1476398219[chckIndx(i_570425553, 0, (names_1476398219).length - 1)];
               if (!(name_1476398232.kind == 23)) Temporary5 = false; else {                var Temporary6 = name_1476398232;
                 if (ConstSet901[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 4);              }            if (Temporary5) {
             var remaining_1476398245 = [];
             Label7: {
               var j_1476398253 = 0;
-              var colontmp__570425548 = 0;
+              var colontmp__570425550 = 0;
               var Temporary8 = source_1476398220;
               if (ConstSet902[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
-              colontmp__570425548 = (Temporary8.blockVals).length;
-              var i_570425549 = srcIdx_1476398225;
+              colontmp__570425550 = (Temporary8.blockVals).length;
+              var i_570425551 = srcIdx_1476398225;
               Label9: {
                   Label10: while (true) {
-                  if (!(i_570425549 < colontmp__570425548)) break Label10;
-                    j_1476398253 = i_570425549;
+                  if (!(i_570425551 < colontmp__570425550)) break Label10;
+                    j_1476398253 = i_570425551;
                     var Temporary11 = source_1476398220;
                     if (ConstSet903[Temporary11.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary11.kind, NTI704643076)); }
                     remaining_1476398245.push((Temporary12 = Temporary11.blockVals, Temporary12)[chckIndx(j_1476398253, 0, (Temporary12).length - 1)]);;
-                    i_570425549 = addInt(i_570425549, 1);
+                    i_570425551 = addInt(i_570425551, 1);
                   }
               };
             };
@@ -23946,8 +23946,8 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
             srcIdx_1476398225 = addInt(srcIdx_1476398225, 1);
             }
             }
-            i_570425551 += 1;
-            if (!(((names_1476398219).length == L_570425552))) {
+            i_570425553 += 1;
+            if (!(((names_1476398219).length == L_570425554))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -23959,12 +23959,12 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
     if ((source_1476398220.kind == 17)) {
     Label19: {
       var name_1476398276 = null;
-      var i_570425555 = 0;
-      var L_570425556 = (names_1476398219).length;
+      var i_570425557 = 0;
+      var L_570425558 = (names_1476398219).length;
       Label20: {
           Label21: while (true) {
-          if (!(i_570425555 < L_570425556)) break Label21;
-            name_1476398276 = names_1476398219[chckIndx(i_570425555, 0, (names_1476398219).length - 1)];
+          if (!(i_570425557 < L_570425558)) break Label21;
+            name_1476398276 = names_1476398219[chckIndx(i_570425557, 0, (names_1476398219).length - 1)];
               if (!(name_1476398276.kind == 23)) Temporary22 = false; else {                var Temporary23 = source_1476398220;
                 if (ConstSet908[Temporary23.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary23.kind, NTI704643076)); }
                 var Temporary24 = name_1476398276;
@@ -23979,8 +23979,8 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
             set__coreZtypes_u1354(eval_1476398214.currentCtx, Temporary25.wordName, (Temporary28 = HEX5BHEX5D__coreZtypes_u981(Temporary26.ctx.entries, Temporary27.wordName), Temporary28)[0][Temporary28[1]]);
             }
             
-            i_570425555 += 1;
-            if (!(((names_1476398219).length == L_570425556))) {
+            i_570425557 += 1;
+            if (!(((names_1476398219).length == L_570425558))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -23992,12 +23992,12 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
     if ((source_1476398220.kind == 18)) {
     Label29: {
       var name_1476398400 = null;
-      var i_570425559 = 0;
-      var L_570425560 = (names_1476398219).length;
+      var i_570425561 = 0;
+      var L_570425562 = (names_1476398219).length;
       Label30: {
           Label31: while (true) {
-          if (!(i_570425559 < L_570425560)) break Label31;
-            name_1476398400 = names_1476398219[chckIndx(i_570425559, 0, (names_1476398219).length - 1)];
+          if (!(i_570425561 < L_570425562)) break Label31;
+            name_1476398400 = names_1476398219[chckIndx(i_570425561, 0, (names_1476398219).length - 1)];
               if (!(name_1476398400.kind == 23)) Temporary32 = false; else {                var Temporary33 = source_1476398220;
                 if (ConstSet913[Temporary33.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'obj\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary33.kind, NTI704643076)); }
                 var Temporary34 = name_1476398400;
@@ -24012,8 +24012,8 @@ function HEX3Aanonymous__evalZnatives_u3202(args_p0, ep_p1, ep_p1_Idx) {
             set__coreZtypes_u1354(eval_1476398214.currentCtx, Temporary35.wordName, (Temporary38 = HEX5BHEX5D__coreZtypes_u981(Temporary36.obj.entries, Temporary37.wordName), Temporary38)[0][Temporary38[1]]);
             }
             
-            i_570425559 += 1;
-            if (!(((names_1476398219).length == L_570425560))) {
+            i_570425561 += 1;
+            if (!(((names_1476398219).length == L_570425562))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -24279,12 +24279,12 @@ function HEX3Aanonymous__evalZnatives_u3782(a_p0, b_p1) {
   var result_1476398793 = 0;
 
   BeforeRet: {
-    var HEX3Aenv_570425634 = null;
-    HEX3Aenv_570425634 = {m_type: NTI570425419, HEX3Aup: null};
-    HEX3Aenv_570425634.HEX3Aup = this;
-    Temporary1 = callKeyFn__evalZnatives_u3786.bind(HEX3Aenv_570425634); Temporary1.ClP_0 = callKeyFn__evalZnatives_u3786; Temporary1.ClE_0 = HEX3Aenv_570425634;
+    var HEX3Aenv_570425636 = null;
+    HEX3Aenv_570425636 = {m_type: NTI570425420, HEX3Aup: null};
+    HEX3Aenv_570425636.HEX3Aup = this;
+    Temporary1 = callKeyFn__evalZnatives_u3786.bind(HEX3Aenv_570425636); Temporary1.ClP_0 = callKeyFn__evalZnatives_u3786; Temporary1.ClE_0 = HEX3Aenv_570425636;
     var aKeyVal_1476398803 = Temporary1(a_p0);
-    Temporary2 = callKeyFn__evalZnatives_u3786.bind(HEX3Aenv_570425634); Temporary2.ClP_0 = callKeyFn__evalZnatives_u3786; Temporary2.ClE_0 = HEX3Aenv_570425634;
+    Temporary2 = callKeyFn__evalZnatives_u3786.bind(HEX3Aenv_570425636); Temporary2.ClP_0 = callKeyFn__evalZnatives_u3786; Temporary2.ClE_0 = HEX3Aenv_570425636;
     var bKeyVal_1476398804 = Temporary2(b_p1);
     if (((aKeyVal_1476398803.kind == 0) && (bKeyVal_1476398804.kind == 0))) {
     var Temporary3 = aKeyVal_1476398803;
@@ -24428,9 +24428,9 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
   var result_1476398531 = null;
 
   BeforeRet: {
-    var HEX3Aenv_570425633 = null;
-    HEX3Aenv_570425633 = {m_type: NTI570425417, eval0: null, keyFn1: null};
-    HEX3Aenv_570425633.eval0 = getEvaluator__evalZdialect_u131(ep_p1, ep_p1_Idx);
+    var HEX3Aenv_570425635 = null;
+    HEX3Aenv_570425635 = {m_type: NTI570425418, eval0: null, keyFn1: null};
+    HEX3Aenv_570425635.eval0 = getEvaluator__evalZdialect_u131(ep_p1, ep_p1_Idx);
     if (!((ConstSet919[args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind] != undefined))) {
     raiseException({kind: [116,121,112,101], message: [115,111,114,116,32,101,120,112,101,99,116,115,32,98,108,111,99,107,33,32,111,114,32,115,116,114,105,110,103,33], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
     }
@@ -24439,19 +24439,19 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
     var chars_1476398545 = [];
     Label1: {
       var c_1476398546 = 0;
-      var colontmp__570425563 = [];
+      var colontmp__570425565 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet920[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-      colontmp__570425563 = Temporary2.strVal;
-      var i_570425564 = 0;
-      var L_570425565 = (colontmp__570425563).length;
+      colontmp__570425565 = Temporary2.strVal;
+      var i_570425566 = 0;
+      var L_570425567 = (colontmp__570425565).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570425564 < L_570425565)) break Label4;
-            c_1476398546 = colontmp__570425563[chckIndx(i_570425564, 0, (colontmp__570425563).length - 1)];
+          if (!(i_570425566 < L_570425567)) break Label4;
+            c_1476398546 = colontmp__570425565[chckIndx(i_570425566, 0, (colontmp__570425565).length - 1)];
             chars_1476398545.push(c_1476398546);;
-            i_570425564 += 1;
-            if (!(((colontmp__570425563).length == L_570425565))) {
+            i_570425566 += 1;
+            if (!(((colontmp__570425565).length == L_570425567))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(272, 11) `len(a) == L` the length of the string changed while iterating over it"));
             }
             
@@ -24463,16 +24463,16 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
     Label5: {
       var i_1476398780 = 0;
       var c_1476398781 = 0;
-      var i_570425569 = 0;
-      var L_570425570 = (chars_1476398545).length;
+      var i_570425571 = 0;
+      var L_570425572 = (chars_1476398545).length;
       Label6: {
           Label7: while (true) {
-          if (!(i_570425569 < L_570425570)) break Label7;
-            i_1476398780 = i_570425569;
-            c_1476398781 = chars_1476398545[chckIndx(i_570425569, 0, (chars_1476398545).length - 1)];
+          if (!(i_570425571 < L_570425572)) break Label7;
+            i_1476398780 = i_570425571;
+            c_1476398781 = chars_1476398545[chckIndx(i_570425571, 0, (chars_1476398545).length - 1)];
             s_1476398756[chckIndx(i_1476398780, 0, (s_1476398756).length - 1)] = c_1476398781;
-            i_570425569 += 1;
-            if (!(((chars_1476398545).length == L_570425570))) {
+            i_570425571 += 1;
+            if (!(((chars_1476398545).length == L_570425572))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -24483,11 +24483,11 @@ function HEX3Aanonymous__evalZnatives_u3520(args_p0, ep_p1, ep_p1_Idx) {
     break BeforeRet;
     }
     
-    if ((contains__stdZenumutils_u50(HEX3Aenv_570425633.eval0.currentRefinements, [98,121]) && (1 < (args_p0).length))) {
-    HEX3Aenv_570425633.keyFn1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
+    if ((contains__stdZenumutils_u50(HEX3Aenv_570425635.eval0.currentRefinements, [98,121]) && (1 < (args_p0).length))) {
+    HEX3Aenv_570425635.keyFn1 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
     var Temporary8 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     if (ConstSet921[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
-    Temporary9 = HEX3Aanonymous__evalZnatives_u3782.bind(HEX3Aenv_570425633); Temporary9.ClP_0 = HEX3Aanonymous__evalZnatives_u3782; Temporary9.ClE_0 = HEX3Aenv_570425633;
+    Temporary9 = HEX3Aanonymous__evalZnatives_u3782.bind(HEX3Aenv_570425635); Temporary9.ClP_0 = HEX3Aanonymous__evalZnatives_u3782; Temporary9.ClE_0 = HEX3Aenv_570425635;
     sort__evalZnatives_u3851(Temporary8.blockVals, Temporary9, 1);
     result_1476398531 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     break BeforeRet;
@@ -24516,19 +24516,19 @@ function HEX3Aanonymous__evalZnatives_u4059(args_p0, ep_p1, ep_p1_Idx) {
     var members_1476399087 = [initHashSet__evalZstdlib95registry_u3030(64)];
     Label1: {
       var c_1476399088 = 0;
-      var colontmp__570425580 = [];
+      var colontmp__570425582 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet945[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-      colontmp__570425580 = Temporary2.strVal;
-      var i_570425581 = 0;
-      var L_570425582 = (colontmp__570425580).length;
+      colontmp__570425582 = Temporary2.strVal;
+      var i_570425583 = 0;
+      var L_570425584 = (colontmp__570425582).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570425581 < L_570425582)) break Label4;
-            c_1476399088 = colontmp__570425580[chckIndx(i_570425581, 0, (colontmp__570425580).length - 1)];
+          if (!(i_570425583 < L_570425584)) break Label4;
+            c_1476399088 = colontmp__570425582[chckIndx(i_570425583, 0, (colontmp__570425582).length - 1)];
             incl__evalZstdlib95registry_u1530(members_1476399087[0], nimCharToStr(c_1476399088));
-            i_570425581 += 1;
-            if (!(((colontmp__570425580).length == L_570425582))) {
+            i_570425583 += 1;
+            if (!(((colontmp__570425582).length == L_570425584))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(272, 11) `len(a) == L` the length of the string changed while iterating over it"));
             }
             
@@ -24554,30 +24554,30 @@ function HEX3Aanonymous__evalZnatives_u4104(args_p0, ep_p1, ep_p1_Idx) {
     var combined_1476399124 = [nimCopy(null, Temporary1.setMembers, NTI704643118)];
     Label2: {
       var m_1476399128 = [];
-      var colontmp__570425585 = ({data: [], counter: 0});
+      var colontmp__570425587 = ({data: [], counter: 0});
       var Temporary3 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
       if (ConstSet947[Temporary3.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary3.kind, NTI704643076)); }
-      colontmp__570425585 = nimCopy(colontmp__570425585, Temporary3.setMembers, NTI704643118);
-      var length_570425586 = len__coreZequality_u1268(colontmp__570425585);
+      colontmp__570425587 = nimCopy(colontmp__570425587, Temporary3.setMembers, NTI704643118);
+      var length_570425588 = len__coreZequality_u1268(colontmp__570425587);
       Label4: {
-        var h_570425588 = 0;
-        var colontmp__570425589 = 0;
-        colontmp__570425589 = (colontmp__570425585.data).length - 1;
-        var res_570425590 = 0;
+        var h_570425590 = 0;
+        var colontmp__570425591 = 0;
+        colontmp__570425591 = (colontmp__570425587.data).length - 1;
+        var res_570425592 = 0;
         Label5: {
             Label6: while (true) {
-            if (!(res_570425590 <= colontmp__570425589)) break Label6;
-              h_570425588 = res_570425590;
-              if (isFilled__pureZcollectionsZsets_u39(colontmp__570425585.data[chckIndx(h_570425588, 0, (colontmp__570425585.data).length - 1)].Field0)) {
-              m_1476399128 = colontmp__570425585.data[chckIndx(h_570425588, 0, (colontmp__570425585.data).length - 1)].Field1;
+            if (!(res_570425592 <= colontmp__570425591)) break Label6;
+              h_570425590 = res_570425592;
+              if (isFilled__pureZcollectionsZsets_u39(colontmp__570425587.data[chckIndx(h_570425590, 0, (colontmp__570425587.data).length - 1)].Field0)) {
+              m_1476399128 = colontmp__570425587.data[chckIndx(h_570425590, 0, (colontmp__570425587.data).length - 1)].Field1;
               incl__evalZstdlib95registry_u1530(combined_1476399124[0], m_1476399128);
-              if (!((len__coreZequality_u1268(colontmp__570425585) == length_570425586))) {
+              if (!((len__coreZequality_u1268(colontmp__570425587) == length_570425588))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("sets.nim(272, 13) `len(s) == length` the length of the HashSet changed while iterating over it"));
               }
               
               }
               
-              res_570425590 = addInt(res_570425590, 1);
+              res_570425592 = addInt(res_570425592, 1);
             }
         };
       };
@@ -24604,35 +24604,35 @@ function HEX3Aanonymous__evalZnatives_u4144(args_p0, ep_p1, ep_p1_Idx) {
     var res_1476399176 = [initHashSet__evalZstdlib95registry_u3030(64)];
     Label1: {
       var m_1476399180 = [];
-      var colontmp__570425593 = ({data: [], counter: 0});
+      var colontmp__570425595 = ({data: [], counter: 0});
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet948[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-      colontmp__570425593 = nimCopy(colontmp__570425593, Temporary2.setMembers, NTI704643118);
-      var length_570425594 = len__coreZequality_u1268(colontmp__570425593);
+      colontmp__570425595 = nimCopy(colontmp__570425595, Temporary2.setMembers, NTI704643118);
+      var length_570425596 = len__coreZequality_u1268(colontmp__570425595);
       Label3: {
-        var h_570425596 = 0;
-        var colontmp__570425597 = 0;
-        colontmp__570425597 = (colontmp__570425593.data).length - 1;
-        var res_570425598 = 0;
+        var h_570425598 = 0;
+        var colontmp__570425599 = 0;
+        colontmp__570425599 = (colontmp__570425595.data).length - 1;
+        var res_570425600 = 0;
         Label4: {
             Label5: while (true) {
-            if (!(res_570425598 <= colontmp__570425597)) break Label5;
-              h_570425596 = res_570425598;
-              if (isFilled__pureZcollectionsZsets_u39(colontmp__570425593.data[chckIndx(h_570425596, 0, (colontmp__570425593.data).length - 1)].Field0)) {
-              m_1476399180 = colontmp__570425593.data[chckIndx(h_570425596, 0, (colontmp__570425593.data).length - 1)].Field1;
+            if (!(res_570425600 <= colontmp__570425599)) break Label5;
+              h_570425598 = res_570425600;
+              if (isFilled__pureZcollectionsZsets_u39(colontmp__570425595.data[chckIndx(h_570425598, 0, (colontmp__570425595.data).length - 1)].Field0)) {
+              m_1476399180 = colontmp__570425595.data[chckIndx(h_570425598, 0, (colontmp__570425595.data).length - 1)].Field1;
                 var Temporary6 = args_p0[chckIndx(1, 0, (args_p0).length - 1)];
                 if (ConstSet949[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'setMembers\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
               if (contains__coreZequality_u1527(Temporary6.setMembers, m_1476399180)) {
               incl__evalZstdlib95registry_u1530(res_1476399176[0], m_1476399180);
               }
               
-              if (!((len__coreZequality_u1268(colontmp__570425593) == length_570425594))) {
+              if (!((len__coreZequality_u1268(colontmp__570425595) == length_570425596))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("sets.nim(272, 13) `len(s) == length` the length of the HashSet changed while iterating over it"));
               }
               
               }
               
-              res_570425598 = addInt(res_570425598, 1);
+              res_570425600 = addInt(res_570425600, 1);
             }
         };
       };
@@ -24772,29 +24772,29 @@ function skipRandomNumbers__pureZrandom_u45(s_p0) {
     var s1_1509949489 = 0n;
     Label1: {
       var i_1509949498 = 0;
-      var res_570425994 = 0;
+      var res_570425996 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570425994 <= 1)) break Label3;
-            i_1509949498 = res_570425994;
+          if (!(res_570425996 <= 1)) break Label3;
+            i_1509949498 = res_570425996;
             Label4: {
               var b_1509949503 = 0;
-              var i_570425992 = 0;
+              var i_570425994 = 0;
               Label5: {
                   Label6: while (true) {
-                  if (!(i_570425992 < 64)) break Label6;
-                    b_1509949503 = i_570425992;
+                  if (!(i_570425994 < 64)) break Label6;
+                    b_1509949503 = i_570425994;
                     if (!(((helper_1509949487[chckIndx(i_1509949498, 0, (helper_1509949487).length - 1)] & BigInt.asUintN(64, 1n << (BigInt(BigInt.asUintN(64, BigInt(b_1509949503))) & 63n))) == 0n))) {
                     s0_1509949488 = (s0_1509949488 ^ s_p0.a0);
                     s1_1509949489 = (s1_1509949489 ^ s_p0.a1);
                     }
                     
                     (next__pureZrandom_u36(s_p0));
-                    i_570425992 = addInt(i_570425992, 1);
+                    i_570425994 = addInt(i_570425994, 1);
                   }
               };
             };
-            res_570425994 = addInt(res_570425994, 1);
+            res_570425996 = addInt(res_570425996, 1);
           }
       };
     };
@@ -26168,10 +26168,10 @@ function fromEpochDay__pureZtimes_u187(epochday_p0) {
     }
     
     var m_1526726862 = addInt64(mp_1526726860, BigInt(Temporary2));
-    var colontmp__570426125 = chckRange(Number(d_1526726861), 1, 31);
-    var colontmp__570426126 = chckRange(Number(m_1526726862), 1, 12);
-    var colontmp__570426127 = chckRange(Number(addInt64(y_1526726858, BigInt(((m_1526726862 <= 2n) ? 1 : 0)))), (-2147483648), 2147483647);
-    result_1526726848 = nimCopy(result_1526726848, {Field0: nimCopy(null, colontmp__570426125, NTI1526726666), Field1: colontmp__570426126, Field2: colontmp__570426127}, NTI1526726829);
+    var colontmp__570426127 = chckRange(Number(d_1526726861), 1, 31);
+    var colontmp__570426128 = chckRange(Number(m_1526726862), 1, 12);
+    var colontmp__570426129 = chckRange(Number(addInt64(y_1526726858, BigInt(((m_1526726862 <= 2n) ? 1 : 0)))), (-2147483648), 2147483647);
+    result_1526726848 = nimCopy(result_1526726848, {Field0: nimCopy(null, colontmp__570426127, NTI1526726666), Field1: colontmp__570426128, Field2: colontmp__570426129}, NTI1526726829);
     break BeforeRet;
   };
 
@@ -26225,15 +26225,15 @@ function nsuIntToStr(x_p0, minchars_p1) {
     result_1023411027 = nimCopy(null, HEX24__systemZdollars_u14(absInt(x_p0)), NTI33554449);
     Label1: {
       var i_1023411032 = 0;
-      var colontmp__570426129 = 0;
-      colontmp__570426129 = subInt(minchars_p1, (result_1023411027).length);
-      var res_570426130 = 1;
+      var colontmp__570426131 = 0;
+      colontmp__570426131 = subInt(minchars_p1, (result_1023411027).length);
+      var res_570426132 = 1;
       Label2: {
           Label3: while (true) {
-          if (!(res_570426130 <= colontmp__570426129)) break Label3;
-            i_1023411032 = res_570426130;
+          if (!(res_570426132 <= colontmp__570426131)) break Label3;
+            i_1023411032 = res_570426132;
             result_1023411027 = nimCopy(null, [48].concat(result_1023411027), NTI33554449);
-            res_570426130 = addInt(res_570426130, 1);
+            res_570426132 = addInt(res_570426132, 1);
           }
       };
     };
@@ -26561,13 +26561,13 @@ function timeAccessor__evalZnatives95io_u219(ctxName_p0, field_p1, extract_p2) {
 
   var result_1593835745 = null;
 
-    var HEX3Aenv_570426053 = null;
-    HEX3Aenv_570426053 = {m_type: NTI570425646, ctxName0: [], field1: [], extract2: null};
-    HEX3Aenv_570426053.ctxName0 = nimCopy(null, ctxName_p0, NTI33554449);
-    HEX3Aenv_570426053.field1 = nimCopy(null, field_p1, NTI33554449);
-    HEX3Aenv_570426053.extract2 = extract_p2;
-    Temporary1 = HEX3Aanonymous__evalZnatives95io_u226.bind(HEX3Aenv_570426053); Temporary1.ClP_0 = HEX3Aanonymous__evalZnatives95io_u226; Temporary1.ClE_0 = HEX3Aenv_570426053;
-    result_1593835745 = {kind: 20, nativeFn: {name: (HEX3Aenv_570426053.ctxName0).concat([47],HEX3Aenv_570426053.field1), arity: 1, fn: Temporary1, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
+    var HEX3Aenv_570426055 = null;
+    HEX3Aenv_570426055 = {m_type: NTI570425647, ctxName0: [], field1: [], extract2: null};
+    HEX3Aenv_570426055.ctxName0 = nimCopy(null, ctxName_p0, NTI33554449);
+    HEX3Aenv_570426055.field1 = nimCopy(null, field_p1, NTI33554449);
+    HEX3Aenv_570426055.extract2 = extract_p2;
+    Temporary1 = HEX3Aanonymous__evalZnatives95io_u226.bind(HEX3Aenv_570426055); Temporary1.ClP_0 = HEX3Aanonymous__evalZnatives95io_u226; Temporary1.ClE_0 = HEX3Aenv_570426055;
+    result_1593835745 = {kind: 20, nativeFn: {name: (HEX3Aenv_570426055.ctxName0).concat([47],HEX3Aenv_570426055.field1), arity: 1, fn: Temporary1, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
 
   return result_1593835745;
 
@@ -26716,13 +26716,13 @@ function dateAccessor__evalZnatives95io_u267(ctxName_p0, field_p1, extract_p2) {
 
   var result_1593835793 = null;
 
-    var HEX3Aenv_570426087 = null;
-    HEX3Aenv_570426087 = {m_type: NTI570425656, ctxName0: [], field1: [], extract2: null};
-    HEX3Aenv_570426087.ctxName0 = nimCopy(null, ctxName_p0, NTI33554449);
-    HEX3Aenv_570426087.field1 = nimCopy(null, field_p1, NTI33554449);
-    HEX3Aenv_570426087.extract2 = extract_p2;
-    Temporary1 = HEX3Aanonymous__evalZnatives95io_u274.bind(HEX3Aenv_570426087); Temporary1.ClP_0 = HEX3Aanonymous__evalZnatives95io_u274; Temporary1.ClE_0 = HEX3Aenv_570426087;
-    result_1593835793 = {kind: 20, nativeFn: {name: (HEX3Aenv_570426087.ctxName0).concat([47],HEX3Aenv_570426087.field1), arity: 1, fn: Temporary1, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
+    var HEX3Aenv_570426089 = null;
+    HEX3Aenv_570426089 = {m_type: NTI570425657, ctxName0: [], field1: [], extract2: null};
+    HEX3Aenv_570426089.ctxName0 = nimCopy(null, ctxName_p0, NTI33554449);
+    HEX3Aenv_570426089.field1 = nimCopy(null, field_p1, NTI33554449);
+    HEX3Aenv_570426089.extract2 = extract_p2;
+    Temporary1 = HEX3Aanonymous__evalZnatives95io_u274.bind(HEX3Aenv_570426089); Temporary1.ClP_0 = HEX3Aanonymous__evalZnatives95io_u274; Temporary1.ClE_0 = HEX3Aenv_570426089;
+    result_1593835793 = {kind: 20, nativeFn: {name: (HEX3Aenv_570426089.ctxName0).concat([47],HEX3Aenv_570426089.field1), arity: 1, fn: Temporary1, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
 
   return result_1593835793;
 
@@ -26853,13 +26853,13 @@ function stripModuleHeader__evalZstdlib95registry_u1455(source_p0) {
     var inHeader_1358955956 = false;
     Label1: {
       var i_1358955961 = 0;
-      var colontmp__570426133 = 0;
-      colontmp__570426133 = (source_p0).length;
-      var i_570426134 = 0;
+      var colontmp__570426135 = 0;
+      colontmp__570426135 = (source_p0).length;
+      var i_570426136 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426134 < colontmp__570426133)) break Label3;
-            i_1358955961 = i_570426134;
+          if (!(i_570426136 < colontmp__570426135)) break Label3;
+            i_1358955961 = i_570426136;
             if (((source_p0[chckIndx(i_1358955961, 0, (source_p0).length - 1)] == 91) && !(inHeader_1358955956))) {
             inHeader_1358955956 = true;
             depth_1358955955 = 1;
@@ -26878,7 +26878,7 @@ function stripModuleHeader__evalZstdlib95registry_u1455(source_p0) {
             
             }
             }}
-            i_570426134 = addInt(i_570426134, 1);
+            i_570426136 = addInt(i_570426136, 1);
           }
       };
     };
@@ -26937,16 +26937,16 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
     
     Label4: {
       var sym_1593835861 = null;
-      var colontmp__570426008 = [];
+      var colontmp__570426010 = [];
       var Temporary5 = symbols_1593835853;
       if (ConstSet1050[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI704643076)); }
-      colontmp__570426008 = Temporary5.blockVals;
-      var i_570426009 = 0;
-      var L_570426010 = (colontmp__570426008).length;
+      colontmp__570426010 = Temporary5.blockVals;
+      var i_570426011 = 0;
+      var L_570426012 = (colontmp__570426010).length;
       Label6: {
           Label7: while (true) {
-          if (!(i_570426009 < L_570426010)) break Label7;
-            sym_1593835861 = colontmp__570426008[chckIndx(i_570426009, 0, (colontmp__570426008).length - 1)];
+          if (!(i_570426011 < L_570426012)) break Label7;
+            sym_1593835861 = colontmp__570426010[chckIndx(i_570426011, 0, (colontmp__570426010).length - 1)];
             if (!((sym_1593835861.kind == 23))) {
             raiseException({kind: [116,121,112,101], message: [105,109,112,111,114,116,47,117,115,105,110,103,32,101,120,112,101,99,116,115,32,119,111,114,100,115,32,105,110,32,115,121,109,98,111,108,32,108,105,115,116], data: null, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
             }
@@ -26959,8 +26959,8 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
             }
             
             set__coreZtypes_u1354(eval_1593835838.currentCtx, name_1593835866, get__coreZtypes_u563(moduleCtx_1593835848, name_1593835866));
-            i_570426009 += 1;
-            if (!(((colontmp__570426008).length == L_570426010))) {
+            i_570426011 += 1;
+            if (!(((colontmp__570426010).length == L_570426012))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -26981,16 +26981,16 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
     var lastVal_1593835872 = ktgNone__coreZtypes_u332(0);
     Label9: {
       var item_1593835876 = null;
-      var colontmp__570426013 = [];
+      var colontmp__570426015 = [];
       var Temporary10 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet1052[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
-      colontmp__570426013 = Temporary10.blockVals;
-      var i_570426014 = 0;
-      var L_570426015 = (colontmp__570426013).length;
+      colontmp__570426015 = Temporary10.blockVals;
+      var i_570426016 = 0;
+      var L_570426017 = (colontmp__570426015).length;
       Label11: {
           Label12: while (true) {
-          if (!(i_570426014 < L_570426015)) break Label12;
-            item_1593835876 = colontmp__570426013[chckIndx(i_570426014, 0, (colontmp__570426013).length - 1)];
+          if (!(i_570426016 < L_570426017)) break Label12;
+            item_1593835876 = colontmp__570426015[chckIndx(i_570426016, 0, (colontmp__570426015).length - 1)];
               if (!((item_1593835876.kind == 23))) Temporary13 = true; else {                var Temporary14 = item_1593835876;
                 if (ConstSet1053[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
                 Temporary13 = !((Temporary14.wordKind == 3));              }            if (Temporary13) {
@@ -27004,8 +27004,8 @@ function HEX3Aanonymous__evalZnatives95io_u314(args_p0, ep_p1, ep_p1_Idx) {
             var moduleVal_1593835887 = {kind: 17, ctx: moduleCtx_1593835886, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), obj: null, fn: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
             set__coreZtypes_u1354(eval_1593835838.currentCtx, moduleName_1593835885, moduleVal_1593835887);
             lastVal_1593835872 = moduleVal_1593835887;
-            i_570426014 += 1;
-            if (!(((colontmp__570426013).length == L_570426015))) {
+            i_570426016 += 1;
+            if (!(((colontmp__570426015).length == L_570426017))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -27224,12 +27224,12 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
     var allKeywords_1593836030 = [];
     Label3: {
       var s_1593836034 = null;
-      var i_570426026 = 0;
-      var L_570426027 = (schema_1593836016).length;
+      var i_570426028 = 0;
+      var L_570426029 = (schema_1593836016).length;
       Label4: {
           Label5: while (true) {
-          if (!(i_570426026 < L_570426027)) break Label5;
-            s_1593836034 = schema_1593836016[chckIndx(i_570426026, 0, (schema_1593836016).length - 1)];
+          if (!(i_570426028 < L_570426029)) break Label5;
+            s_1593836034 = schema_1593836016[chckIndx(i_570426028, 0, (schema_1593836016).length - 1)];
             Label6: {
                 if (!((s_1593836034.kind == 23))) Temporary7 = true; else {                  var Temporary8 = s_1593836034;
                   if (ConstSet1063[Temporary8.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary8.kind, NTI704643076)); }
@@ -27247,21 +27247,21 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
               var allDigits_1593836050 = true;
               Label10: {
                 var c_1593836055 = 0;
-                var colontmp__570426022 = [];
-                colontmp__570426022 = HEX5BHEX5D__evalZevaluator_u1648(parts_1593836044, 1);
-                var i_570426023 = 0;
-                var L_570426024 = (colontmp__570426022).length;
+                var colontmp__570426024 = [];
+                colontmp__570426024 = HEX5BHEX5D__evalZevaluator_u1648(parts_1593836044, 1);
+                var i_570426025 = 0;
+                var L_570426026 = (colontmp__570426024).length;
                 Label11: {
                     Label12: while (true) {
-                    if (!(i_570426023 < L_570426024)) break Label12;
-                      c_1593836055 = colontmp__570426022[chckIndx(i_570426023, 0, (colontmp__570426022).length - 1)];
+                    if (!(i_570426025 < L_570426026)) break Label12;
+                      c_1593836055 = colontmp__570426024[chckIndx(i_570426025, 0, (colontmp__570426024).length - 1)];
                       if (!((ConstSet1065[c_1593836055] != undefined))) {
                       allDigits_1593836050 = false;
                       break Label10;
                       }
                       
-                      i_570426023 += 1;
-                      if (!(((colontmp__570426022).length == L_570426024))) {
+                      i_570426025 += 1;
+                      if (!(((colontmp__570426024).length == L_570426026))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(272, 11) `len(a) == L` the length of the string changed while iterating over it"));
                       }
                       
@@ -27279,8 +27279,8 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
               var Temporary13 = nimCopy(null, keyword_1593836045, NTI33554449);
               allKeywords_1593836030.push(Temporary13);;
             };
-            i_570426026 += 1;
-            if (!(((schema_1593836016).length == L_570426027))) {
+            i_570426028 += 1;
+            if (!(((schema_1593836016).length == L_570426029))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -27290,15 +27290,15 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
     var resultCtx_1593836091 = newContext__coreZtypes_u456(null);
     Label14: {
       var spec_1593836114 = ({keyword: [], bindName: [], exact: 0});
-      var i_570426031 = 0;
-      var L_570426032 = (specs_1593836025).length;
+      var i_570426033 = 0;
+      var L_570426034 = (specs_1593836025).length;
       Label15: {
           Label16: while (true) {
-          if (!(i_570426031 < L_570426032)) break Label16;
-            spec_1593836114 = specs_1593836025[chckIndx(i_570426031, 0, (specs_1593836025).length - 1)];
+          if (!(i_570426033 < L_570426034)) break Label16;
+            spec_1593836114 = specs_1593836025[chckIndx(i_570426033, 0, (specs_1593836025).length - 1)];
             set__coreZtypes_u1354(resultCtx_1593836091, spec_1593836114.bindName, ktgNone__coreZtypes_u332(0));
-            i_570426031 += 1;
-            if (!(((specs_1593836025).length == L_570426032))) {
+            i_570426033 += 1;
+            if (!(((specs_1593836025).length == L_570426034))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -27313,12 +27313,12 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
           var matched_1593836120 = false;
           Label19: {
             var spec_1593836124 = ({keyword: [], bindName: [], exact: 0});
-            var i_570426050 = 0;
-            var L_570426051 = (specs_1593836025).length;
+            var i_570426052 = 0;
+            var L_570426053 = (specs_1593836025).length;
             Label20: {
                 Label21: while (true) {
-                if (!(i_570426050 < L_570426051)) break Label21;
-                  spec_1593836124 = specs_1593836025[chckIndx(i_570426050, 0, (specs_1593836025).length - 1)];
+                if (!(i_570426052 < L_570426053)) break Label21;
+                  spec_1593836124 = specs_1593836025[chckIndx(i_570426052, 0, (specs_1593836025).length - 1)];
                     if (!(val_1593836119.kind == 23)) Temporary23 = false; else {                      var Temporary24 = val_1593836119;
                       if (ConstSet1066[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
                       Temporary23 = (Temporary24.wordKind == 0);                    }                    if (!Temporary23) Temporary22 = false; else {                      var Temporary25 = val_1593836119;
@@ -27330,17 +27330,17 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                   var captured_1593836141 = [];
                   Label26: {
                     var j_1593836146 = 0;
-                    var i_570426037 = 0;
+                    var i_570426039 = 0;
                     Label27: {
                         Label28: while (true) {
-                        if (!(i_570426037 < spec_1593836124.exact)) break Label28;
-                          j_1593836146 = i_570426037;
+                        if (!(i_570426039 < spec_1593836124.exact)) break Label28;
+                          j_1593836146 = i_570426039;
                           if ((pos_1593836115 < (data_1593836015).length)) {
                           captured_1593836141.push(data_1593836015[chckIndx(pos_1593836115, 0, (data_1593836015).length - 1)]);;
                           pos_1593836115 = addInt(pos_1593836115, 1);
                           }
                           
-                          i_570426037 = addInt(i_570426037, 1);
+                          i_570426039 = addInt(i_570426039, 1);
                         }
                     };
                   };
@@ -27359,19 +27359,19 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                     if ((existing_1593836158.kind == 13)) {
                     Label29: {
                       var v_1593836178 = null;
-                      var colontmp__570426040 = [];
+                      var colontmp__570426042 = [];
                       var Temporary30 = existing_1593836158;
                       if (ConstSet1068[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
-                      colontmp__570426040 = Temporary30.blockVals;
-                      var i_570426041 = 0;
-                      var L_570426042 = (colontmp__570426040).length;
+                      colontmp__570426042 = Temporary30.blockVals;
+                      var i_570426043 = 0;
+                      var L_570426044 = (colontmp__570426042).length;
                       Label31: {
                           Label32: while (true) {
-                          if (!(i_570426041 < L_570426042)) break Label32;
-                            v_1593836178 = colontmp__570426040[chckIndx(i_570426041, 0, (colontmp__570426040).length - 1)];
+                          if (!(i_570426043 < L_570426044)) break Label32;
+                            v_1593836178 = colontmp__570426042[chckIndx(i_570426043, 0, (colontmp__570426042).length - 1)];
                             collected_1593836170.push(v_1593836178);;
-                            i_570426041 += 1;
-                            if (!(((colontmp__570426040).length == L_570426042))) {
+                            i_570426043 += 1;
+                            if (!(((colontmp__570426042).length == L_570426044))) {
                             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                             }
                             
@@ -27385,15 +27385,15 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                     
                     Label33: {
                       var v_1593836190 = null;
-                      var i_570426045 = 0;
-                      var L_570426046 = (captured_1593836141).length;
+                      var i_570426047 = 0;
+                      var L_570426048 = (captured_1593836141).length;
                       Label34: {
                           Label35: while (true) {
-                          if (!(i_570426045 < L_570426046)) break Label35;
-                            v_1593836190 = captured_1593836141[chckIndx(i_570426045, 0, (captured_1593836141).length - 1)];
+                          if (!(i_570426047 < L_570426048)) break Label35;
+                            v_1593836190 = captured_1593836141[chckIndx(i_570426047, 0, (captured_1593836141).length - 1)];
                             collected_1593836170.push(v_1593836190);;
-                            i_570426045 += 1;
-                            if (!(((captured_1593836141).length == L_570426046))) {
+                            i_570426047 += 1;
+                            if (!(((captured_1593836141).length == L_570426048))) {
                             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                             }
                             
@@ -27451,8 +27451,8 @@ function HEX3Aanonymous__evalZnatives95io_u483(args_p0, ep_p1, ep_p1_Idx) {
                   break Label19;
                   }
                   
-                  i_570426050 += 1;
-                  if (!(((specs_1593836025).length == L_570426051))) {
+                  i_570426052 += 1;
+                  if (!(((specs_1593836025).length == L_570426053))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -27828,19 +27828,19 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         var vals_1610612771 = [];
         Label21: {
           var v_1610612793 = 0;
-          var colontmp__570426137 = [];
+          var colontmp__570426139 = [];
           var Temporary22 = val_1610612758;
           if (ConstSet1090[Temporary22.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'tupleVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary22.kind, NTI704643076)); }
-          colontmp__570426137 = Temporary22.tupleVals;
-          var i_570426138 = 0;
-          var L_570426139 = (colontmp__570426137).length;
+          colontmp__570426139 = Temporary22.tupleVals;
+          var i_570426140 = 0;
+          var L_570426141 = (colontmp__570426139).length;
           Label23: {
               Label24: while (true) {
-              if (!(i_570426138 < L_570426139)) break Label24;
-                v_1610612793 = colontmp__570426137[chckIndx(i_570426138, 0, (colontmp__570426137).length - 1)];
+              if (!(i_570426140 < L_570426141)) break Label24;
+                v_1610612793 = colontmp__570426139[chckIndx(i_570426140, 0, (colontmp__570426139).length - 1)];
                 vals_1610612771.push(ktgInt__coreZtypes_u163(BigInt(v_1610612793), 0));;
-                i_570426138 += 1;
-                if (!(((colontmp__570426137).length == L_570426139))) {
+                i_570426140 += 1;
+                if (!(((colontmp__570426139).length == L_570426141))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                 }
                 
@@ -28168,16 +28168,16 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         var vals_1610612919 = [];
         Label73: {
           var v_1610612923 = null;
-          var colontmp__570426142 = [];
+          var colontmp__570426144 = [];
           var Temporary74 = val_1610612758;
           if (ConstSet1127[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
-          colontmp__570426142 = Temporary74.blockVals;
-          var i_570426143 = 0;
-          var L_570426144 = (colontmp__570426142).length;
+          colontmp__570426144 = Temporary74.blockVals;
+          var i_570426145 = 0;
+          var L_570426146 = (colontmp__570426144).length;
           Label75: {
               Label76: while (true) {
-              if (!(i_570426143 < L_570426144)) break Label76;
-                v_1610612923 = colontmp__570426142[chckIndx(i_570426143, 0, (colontmp__570426142).length - 1)];
+              if (!(i_570426145 < L_570426146)) break Label76;
+                v_1610612923 = colontmp__570426144[chckIndx(i_570426145, 0, (colontmp__570426144).length - 1)];
                 if ((v_1610612923.kind == 0)) {
                 var Temporary77 = v_1610612923;
                 if (ConstSet1128[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'intVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
@@ -28187,8 +28187,8 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
                   raiseException({kind: [116,121,112,101], message: [116,117,112,108,101,32,101,108,101,109,101,110,116,115,32,109,117,115,116,32,98,101,32,105,110,116,101,103,101,114,115,32,48,45,50,53,53], data: v_1610612923, m_type: NTI704643149, stack: [], line: 0, path: [], pathSeg: [], parent: null, name: null, trace: [], up: null}, "KtgError:ObjectType");
                 }
                 
-                i_570426143 += 1;
-                if (!(((colontmp__570426142).length == L_570426144))) {
+                i_570426145 += 1;
+                if (!(((colontmp__570426144).length == L_570426146))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                 }
                 
@@ -28202,34 +28202,34 @@ function HEX3Aanonymous__evalZnatives95convert_u13(args_p0, ep_p1, ep_p1_Idx) {
         var vals_1610612936 = [];
         Label78: {
           var part_1610612937 = [];
-          var colontmp__570426147 = [];
+          var colontmp__570426149 = [];
           var Temporary79 = val_1610612758;
           if (ConstSet1129[Temporary79.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary79.kind, NTI704643076)); }
-          colontmp__570426147 = Temporary79.strVal;
-          var lastHEX60gensym34_570426148 = 0;
-          var splitsHEX60gensym34_570426149 = (-1);
+          colontmp__570426149 = Temporary79.strVal;
+          var lastHEX60gensym34_570426150 = 0;
+          var splitsHEX60gensym34_570426151 = (-1);
           Label80: {
               Label81: while (true) {
-              if (!(lastHEX60gensym34_570426148 <= (colontmp__570426147).length)) break Label81;
-                var firstHEX60gensym34_570426151 = lastHEX60gensym34_570426148;
+              if (!(lastHEX60gensym34_570426150 <= (colontmp__570426149).length)) break Label81;
+                var firstHEX60gensym34_570426153 = lastHEX60gensym34_570426150;
                 Label82: {
                     Label83: while (true) {
-                    if (!((lastHEX60gensym34_570426148 < (colontmp__570426147).length) && !((colontmp__570426147[chckIndx(lastHEX60gensym34_570426148, 0, (colontmp__570426147).length - 1)] == 46)))) break Label83;
-                      lastHEX60gensym34_570426148 = addInt(lastHEX60gensym34_570426148, 1);
+                    if (!((lastHEX60gensym34_570426150 < (colontmp__570426149).length) && !((colontmp__570426149[chckIndx(lastHEX60gensym34_570426150, 0, (colontmp__570426149).length - 1)] == 46)))) break Label83;
+                      lastHEX60gensym34_570426150 = addInt(lastHEX60gensym34_570426150, 1);
                     }
                 };
-                if ((splitsHEX60gensym34_570426149 == 0)) {
-                lastHEX60gensym34_570426148 = (colontmp__570426147).length;
+                if ((splitsHEX60gensym34_570426151 == 0)) {
+                lastHEX60gensym34_570426150 = (colontmp__570426149).length;
                 }
                 
-                part_1610612937 = substr__system_u3760(colontmp__570426147, firstHEX60gensym34_570426151, subInt(lastHEX60gensym34_570426148, 1));
+                part_1610612937 = substr__system_u3760(colontmp__570426149, firstHEX60gensym34_570426153, subInt(lastHEX60gensym34_570426150, 1));
                 vals_1610612936.push(Number(BigInt.asUintN(8, BigInt(nsuParseInt(part_1610612937)))));;
-                if ((splitsHEX60gensym34_570426149 == 0)) {
+                if ((splitsHEX60gensym34_570426151 == 0)) {
                 break Label80;
                 }
                 
-                splitsHEX60gensym34_570426149 = subInt(splitsHEX60gensym34_570426149, 1);
-                lastHEX60gensym34_570426148 = addInt(lastHEX60gensym34_570426148, 1);
+                splitsHEX60gensym34_570426151 = subInt(splitsHEX60gensym34_570426151, 1);
+                lastHEX60gensym34_570426150 = addInt(lastHEX60gensym34_570426150, 1);
               }
           };
         };
@@ -28397,17 +28397,17 @@ function registerNatives__evalZnatives_u181(eval_p0) {
     native__evalZnatives_u12(ctx_1476395191, [116,121,112,101], 1, Temporary10);
     Label11: {
       var name_1476395429 = [];
-      var i_570425718 = 0;
+      var i_570425720 = 0;
       Label12: {
           Label13: while (true) {
           if (!true) break Label13;
-            name_1476395429 = (Temporary14 = [[105,110,116,101,103,101,114], [102,108,111,97,116], [115,116,114,105,110,103], [108,111,103,105,99], [110,111,110,101], [109,111,110,101,121], [112,97,105,114], [116,117,112,108,101], [100,97,116,101], [116,105,109,101], [102,105,108,101], [117,114,108], [101,109,97,105,108], [98,108,111,99,107], [112,97,114,101,110], [109,97,112], [115,101,116], [99,111,110,116,101,120,116], [111,98,106,101,99,116], [102,117,110,99,116,105,111,110], [110,97,116,105,118,101], [119,111,114,100], [116,121,112,101]], Temporary14)[chckIndx(i_570425718, 0, (Temporary14).length - 1)];
+            name_1476395429 = (Temporary14 = [[105,110,116,101,103,101,114], [102,108,111,97,116], [115,116,114,105,110,103], [108,111,103,105,99], [110,111,110,101], [109,111,110,101,121], [112,97,105,114], [116,117,112,108,101], [100,97,116,101], [116,105,109,101], [102,105,108,101], [117,114,108], [101,109,97,105,108], [98,108,111,99,107], [112,97,114,101,110], [109,97,112], [115,101,116], [99,111,110,116,101,120,116], [111,98,106,101,99,116], [102,117,110,99,116,105,111,110], [110,97,116,105,118,101], [119,111,114,100], [116,121,112,101]], Temporary14)[chckIndx(i_570425720, 0, (Temporary14).length - 1)];
             native__evalZnatives_u12(ctx_1476395191, (name_1476395429).concat([63]), 1, makeTypePredicate__evalZnatives_u325((name_1476395429).concat([33])));
-            if ((22 <= i_570425718)) {
+            if ((22 <= i_570425720)) {
             break Label12;
             }
             
-            i_570425718 += 1;
+            i_570425720 += 1;
           }
       };
     };
@@ -28705,19 +28705,19 @@ function matchBlock__dialectsZmatch95dialect_u6(patterns_p0, values_p1, bindings
     
     Label1: {
       var i_1694498886 = 0;
-      var colontmp__570426161 = 0;
-      colontmp__570426161 = (patterns_p0).length;
-      var i_570426162 = 0;
+      var colontmp__570426163 = 0;
+      colontmp__570426163 = (patterns_p0).length;
+      var i_570426164 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426162 < colontmp__570426161)) break Label3;
-            i_1694498886 = i_570426162;
+          if (!(i_570426164 < colontmp__570426163)) break Label3;
+            i_1694498886 = i_570426164;
             if (!(matchSingleValue__dialectsZmatch95dialect_u12(patterns_p0[chckIndx(i_1694498886, 0, (patterns_p0).length - 1)], values_p1[chckIndx(i_1694498886, 0, (values_p1).length - 1)], bindings_p2, bindings_p2_Idx, eval_p3, ctx_p4))) {
             result_1694498872 = false;
             break BeforeRet;
             }
             
-            i_570426162 = addInt(i_570426162, 1);
+            i_570426164 = addInt(i_570426164, 1);
           }
       };
     };
@@ -28872,16 +28872,16 @@ function HEX3Aanonymous__dialectsZmatch95dialect_u96(args_p0, ep_p1, ep_p1_Idx) 
             Label15: {
               var name_1694499029 = [];
               var val_1694499030 = null;
-              var i_570426157 = 0;
-              var L_570426158 = (bindings_1694499005[0]).length;
+              var i_570426159 = 0;
+              var L_570426160 = (bindings_1694499005[0]).length;
               Label16: {
                   Label17: while (true) {
-                  if (!(i_570426157 < L_570426158)) break Label17;
-                    name_1694499029 = bindings_1694499005[0][chckIndx(i_570426157, 0, (bindings_1694499005[0]).length - 1)]["Field0"];
-                    val_1694499030 = bindings_1694499005[0][chckIndx(i_570426157, 0, (bindings_1694499005[0]).length - 1)]["Field1"];
+                  if (!(i_570426159 < L_570426160)) break Label17;
+                    name_1694499029 = bindings_1694499005[0][chckIndx(i_570426159, 0, (bindings_1694499005[0]).length - 1)]["Field0"];
+                    val_1694499030 = bindings_1694499005[0][chckIndx(i_570426159, 0, (bindings_1694499005[0]).length - 1)]["Field1"];
                     set__coreZtypes_u1354(handlerCtx_1694499006, name_1694499029, val_1694499030);
-                    i_570426157 += 1;
-                    if (!(((bindings_1694499005[0]).length == L_570426158))) {
+                    i_570426159 += 1;
+                    if (!(((bindings_1694499005[0]).length == L_570426160))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                     }
                     
@@ -28927,15 +28927,15 @@ function add__dialectsZobject95dialect_u211(x_p0, x_p0_Idx, y_p1) {
                else { x_p0[x_p0_Idx].length = Temporary1; };
     Label2: {
       var i_1711276266 = 0;
-      var colontmp__570426209 = 0;
-      colontmp__570426209 = (y_p1).length - 1;
-      var res_570426210 = 0;
+      var colontmp__570426211 = 0;
+      colontmp__570426211 = (y_p1).length - 1;
+      var res_570426212 = 0;
       Label3: {
           Label4: while (true) {
-          if (!(res_570426210 <= colontmp__570426209)) break Label4;
-            i_1711276266 = res_570426210;
+          if (!(res_570426212 <= colontmp__570426211)) break Label4;
+            i_1711276266 = res_570426212;
             x_p0[x_p0_Idx][chckIndx(addInt(xl_1711276250, i_1711276266), 0, (x_p0[x_p0_Idx]).length - 1)] = nimCopy(x_p0[x_p0_Idx][chckIndx(addInt(xl_1711276250, i_1711276266), 0, (x_p0[x_p0_Idx]).length - 1)], y_p1[chckIndx(i_1711276266, 0, (y_p1).length - 1)], NTI704643080);
-            res_570426210 = addInt(res_570426210, 1);
+            res_570426212 = addInt(res_570426212, 1);
           }
       };
     };
@@ -29205,12 +29205,12 @@ function HEX3Aanonymous__dialectsZobject95dialect_u296(args_p0, ep_p1, ep_p1_Idx
     var entries_1711276357 = [initOrderedTable__coreZtypes_u471(32)];
     Label2: {
       var fs_1711276361 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-      var i_570426165 = 0;
-      var L_570426166 = (fieldSpecs_1711276340).length;
+      var i_570426167 = 0;
+      var L_570426168 = (fieldSpecs_1711276340).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570426165 < L_570426166)) break Label4;
-            fs_1711276361 = fieldSpecs_1711276340[chckIndx(i_570426165, 0, (fieldSpecs_1711276340).length - 1)];
+          if (!(i_570426167 < L_570426168)) break Label4;
+            fs_1711276361 = fieldSpecs_1711276340[chckIndx(i_570426167, 0, (fieldSpecs_1711276340).length - 1)];
             if (fs_1711276361.hasDefault) {
             HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1711276357[0], fs_1711276361.name, fs_1711276361.defaultVal);
             }
@@ -29218,8 +29218,8 @@ function HEX3Aanonymous__dialectsZobject95dialect_u296(args_p0, ep_p1, ep_p1_Idx
             HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1711276357[0], fs_1711276361.name, ktgNone__coreZtypes_u332(0));
             }
             
-            i_570426165 += 1;
-            if (!(((fieldSpecs_1711276340).length == L_570426166))) {
+            i_570426167 += 1;
+            if (!(((fieldSpecs_1711276340).length == L_570426168))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29231,12 +29231,12 @@ function HEX3Aanonymous__dialectsZobject95dialect_u296(args_p0, ep_p1, ep_p1_Idx
     bodyCtx_1711276449.localOnly = true;
     Label5: {
       var fs_1711276453 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-      var i_570426169 = 0;
-      var L_570426170 = (fieldSpecs_1711276340).length;
+      var i_570426171 = 0;
+      var L_570426172 = (fieldSpecs_1711276340).length;
       Label6: {
           Label7: while (true) {
-          if (!(i_570426169 < L_570426170)) break Label7;
-            fs_1711276453 = fieldSpecs_1711276340[chckIndx(i_570426169, 0, (fieldSpecs_1711276340).length - 1)];
+          if (!(i_570426171 < L_570426172)) break Label7;
+            fs_1711276453 = fieldSpecs_1711276340[chckIndx(i_570426171, 0, (fieldSpecs_1711276340).length - 1)];
             if (fs_1711276453.hasDefault) {
             set__coreZtypes_u1354(bodyCtx_1711276449, fs_1711276453.name, fs_1711276453.defaultVal);
             }
@@ -29244,8 +29244,8 @@ function HEX3Aanonymous__dialectsZobject95dialect_u296(args_p0, ep_p1, ep_p1_Idx
             set__coreZtypes_u1354(bodyCtx_1711276449, fs_1711276453.name, ktgNone__coreZtypes_u332(0));
             }
             
-            i_570426169 += 1;
-            if (!(((fieldSpecs_1711276340).length == L_570426170))) {
+            i_570426171 += 1;
+            if (!(((fieldSpecs_1711276340).length == L_570426172))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29257,24 +29257,24 @@ function HEX3Aanonymous__dialectsZobject95dialect_u296(args_p0, ep_p1, ep_p1_Idx
     Label8: {
       var key_1711276474 = [];
       var val_1711276475 = null;
-      var L_570426173 = len__coreZequality_u172(bodyCtx_1711276449.entries);
+      var L_570426175 = len__coreZequality_u172(bodyCtx_1711276449.entries);
       if ((0 < bodyCtx_1711276449.entries.counter)) {
-      var h_570426174 = bodyCtx_1711276449.entries.first;
+      var h_570426176 = bodyCtx_1711276449.entries.first;
       Label9: {
           Label10: while (true) {
-          if (!(0 <= h_570426174)) break Label10;
-            var nxt_570426176 = bodyCtx_1711276449.entries.data[chckIndx(h_570426174, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(bodyCtx_1711276449.entries.data[chckIndx(h_570426174, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field0)) {
-            key_1711276474 = bodyCtx_1711276449.entries.data[chckIndx(h_570426174, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field2;
-            val_1711276475 = bodyCtx_1711276449.entries.data[chckIndx(h_570426174, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field3;
+          if (!(0 <= h_570426176)) break Label10;
+            var nxt_570426178 = bodyCtx_1711276449.entries.data[chckIndx(h_570426176, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(bodyCtx_1711276449.entries.data[chckIndx(h_570426176, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field0)) {
+            key_1711276474 = bodyCtx_1711276449.entries.data[chckIndx(h_570426176, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field2;
+            val_1711276475 = bodyCtx_1711276449.entries.data[chckIndx(h_570426176, 0, (bodyCtx_1711276449.entries.data).length - 1)].Field3;
             HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1711276357[0], key_1711276474, val_1711276475);
-            if (!((len__coreZequality_u172(bodyCtx_1711276449.entries) == L_570426173))) {
+            if (!((len__coreZequality_u172(bodyCtx_1711276449.entries) == L_570426175))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570426174 = nxt_570426176;
+            h_570426176 = nxt_570426178;
           }
       };
       }
@@ -29333,24 +29333,24 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     Label4: {
       var key_1711276556 = [];
       var val_1711276557 = null;
-      var L_570426178 = len__coreZequality_u172(ctxInner_1711276534.entries);
+      var L_570426180 = len__coreZequality_u172(ctxInner_1711276534.entries);
       if ((0 < ctxInner_1711276534.entries.counter)) {
-      var h_570426179 = ctxInner_1711276534.entries.first;
+      var h_570426181 = ctxInner_1711276534.entries.first;
       Label5: {
           Label6: while (true) {
-          if (!(0 <= h_570426179)) break Label6;
-            var nxt_570426181 = ctxInner_1711276534.entries.data[chckIndx(h_570426179, 0, (ctxInner_1711276534.entries.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(ctxInner_1711276534.entries.data[chckIndx(h_570426179, 0, (ctxInner_1711276534.entries.data).length - 1)].Field0)) {
-            key_1711276556 = ctxInner_1711276534.entries.data[chckIndx(h_570426179, 0, (ctxInner_1711276534.entries.data).length - 1)].Field2;
-            val_1711276557 = ctxInner_1711276534.entries.data[chckIndx(h_570426179, 0, (ctxInner_1711276534.entries.data).length - 1)].Field3;
+          if (!(0 <= h_570426181)) break Label6;
+            var nxt_570426183 = ctxInner_1711276534.entries.data[chckIndx(h_570426181, 0, (ctxInner_1711276534.entries.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(ctxInner_1711276534.entries.data[chckIndx(h_570426181, 0, (ctxInner_1711276534.entries.data).length - 1)].Field0)) {
+            key_1711276556 = ctxInner_1711276534.entries.data[chckIndx(h_570426181, 0, (ctxInner_1711276534.entries.data).length - 1)].Field2;
+            val_1711276557 = ctxInner_1711276534.entries.data[chckIndx(h_570426181, 0, (ctxInner_1711276534.entries.data).length - 1)].Field3;
             HEX5BHEX5DHEX3D__coreZtypes_u1394(entries_1711276551[0], key_1711276556, val_1711276557);
-            if (!((len__coreZequality_u172(ctxInner_1711276534.entries) == L_570426178))) {
+            if (!((len__coreZequality_u172(ctxInner_1711276534.entries) == L_570426180))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570426179 = nxt_570426181;
+            h_570426181 = nxt_570426183;
           }
       };
       }
@@ -29426,24 +29426,24 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     Label21: {
       var key_1711276670 = [];
       var val_1711276671 = null;
-      var L_570426184 = len__coreZequality_u172(sourceEntries_1711276655);
+      var L_570426186 = len__coreZequality_u172(sourceEntries_1711276655);
       if ((0 < sourceEntries_1711276655.counter)) {
-      var h_570426185 = sourceEntries_1711276655.first;
+      var h_570426187 = sourceEntries_1711276655.first;
       Label22: {
           Label23: while (true) {
-          if (!(0 <= h_570426185)) break Label23;
-            var nxt_570426187 = sourceEntries_1711276655.data[chckIndx(h_570426185, 0, (sourceEntries_1711276655.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(sourceEntries_1711276655.data[chckIndx(h_570426185, 0, (sourceEntries_1711276655.data).length - 1)].Field0)) {
-            key_1711276670 = sourceEntries_1711276655.data[chckIndx(h_570426185, 0, (sourceEntries_1711276655.data).length - 1)].Field2;
-            val_1711276671 = sourceEntries_1711276655.data[chckIndx(h_570426185, 0, (sourceEntries_1711276655.data).length - 1)].Field3;
+          if (!(0 <= h_570426187)) break Label23;
+            var nxt_570426189 = sourceEntries_1711276655.data[chckIndx(h_570426187, 0, (sourceEntries_1711276655.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(sourceEntries_1711276655.data[chckIndx(h_570426187, 0, (sourceEntries_1711276655.data).length - 1)].Field0)) {
+            key_1711276670 = sourceEntries_1711276655.data[chckIndx(h_570426187, 0, (sourceEntries_1711276655.data).length - 1)].Field2;
+            val_1711276671 = sourceEntries_1711276655.data[chckIndx(h_570426187, 0, (sourceEntries_1711276655.data).length - 1)].Field3;
             set__coreZtypes_u1354(instance_1711276661, key_1711276670, val_1711276671);
-            if (!((len__coreZequality_u172(sourceEntries_1711276655) == L_570426184))) {
+            if (!((len__coreZequality_u172(sourceEntries_1711276655) == L_570426186))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570426185 = nxt_570426187;
+            h_570426187 = nxt_570426189;
           }
       };
       }
@@ -29460,24 +29460,24 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     Label26: {
       var key_1711276680 = [];
       var val_1711276681 = null;
-      var L_570426193 = len__coreZequality_u172(overrideCtx_1711276672.entries);
+      var L_570426195 = len__coreZequality_u172(overrideCtx_1711276672.entries);
       if ((0 < overrideCtx_1711276672.entries.counter)) {
-      var h_570426194 = overrideCtx_1711276672.entries.first;
+      var h_570426196 = overrideCtx_1711276672.entries.first;
       Label27: {
           Label28: while (true) {
-          if (!(0 <= h_570426194)) break Label28;
-            var nxt_570426196 = overrideCtx_1711276672.entries.data[chckIndx(h_570426194, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(overrideCtx_1711276672.entries.data[chckIndx(h_570426194, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field0)) {
-            key_1711276680 = overrideCtx_1711276672.entries.data[chckIndx(h_570426194, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field2;
-            val_1711276681 = overrideCtx_1711276672.entries.data[chckIndx(h_570426194, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field3;
+          if (!(0 <= h_570426196)) break Label28;
+            var nxt_570426198 = overrideCtx_1711276672.entries.data[chckIndx(h_570426196, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(overrideCtx_1711276672.entries.data[chckIndx(h_570426196, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field0)) {
+            key_1711276680 = overrideCtx_1711276672.entries.data[chckIndx(h_570426196, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field2;
+            val_1711276681 = overrideCtx_1711276672.entries.data[chckIndx(h_570426196, 0, (overrideCtx_1711276672.entries.data).length - 1)].Field3;
             Label29: {
               var fs_1711276685 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-              var i_570426190 = 0;
-              var L_570426191 = (fieldSpecs_1711276660).length;
+              var i_570426192 = 0;
+              var L_570426193 = (fieldSpecs_1711276660).length;
               Label30: {
                   Label31: while (true) {
-                  if (!(i_570426190 < L_570426191)) break Label31;
-                    fs_1711276685 = fieldSpecs_1711276660[chckIndx(i_570426190, 0, (fieldSpecs_1711276660).length - 1)];
+                  if (!(i_570426192 < L_570426193)) break Label31;
+                    fs_1711276685 = fieldSpecs_1711276660[chckIndx(i_570426192, 0, (fieldSpecs_1711276660).length - 1)];
                     if ((eqStrings(fs_1711276685.name, key_1711276680) && !(eqStrings(fs_1711276685.typeName, [])))) {
                     var actual_1711276686 = typeName__coreZtypes_u3187(val_1711276681);
                     if (!(typeMatches__evalZevaluator_u1090(eval_1711276523, actual_1711276686, fs_1711276685.typeName, val_1711276681, eval_1711276523.currentCtx))) {
@@ -29486,8 +29486,8 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
                     
                     }
                     
-                    i_570426190 += 1;
-                    if (!(((fieldSpecs_1711276660).length == L_570426191))) {
+                    i_570426192 += 1;
+                    if (!(((fieldSpecs_1711276660).length == L_570426193))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                     }
                     
@@ -29495,13 +29495,13 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
               };
             };
             set__coreZtypes_u1354(instance_1711276661, key_1711276680, val_1711276681);
-            if (!((len__coreZequality_u172(overrideCtx_1711276672.entries) == L_570426193))) {
+            if (!((len__coreZequality_u172(overrideCtx_1711276672.entries) == L_570426195))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570426194 = nxt_570426196;
+            h_570426196 = nxt_570426198;
           }
       };
       }
@@ -29511,12 +29511,12 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     
     Label32: {
       var fs_1711276690 = ({name: [], typeName: [], hasDefault: false, defaultVal: null});
-      var i_570426198 = 0;
-      var L_570426199 = (fieldSpecs_1711276660).length;
+      var i_570426200 = 0;
+      var L_570426201 = (fieldSpecs_1711276660).length;
       Label33: {
           Label34: while (true) {
-          if (!(i_570426198 < L_570426199)) break Label34;
-            fs_1711276690 = fieldSpecs_1711276660[chckIndx(i_570426198, 0, (fieldSpecs_1711276660).length - 1)];
+          if (!(i_570426200 < L_570426201)) break Label34;
+            fs_1711276690 = fieldSpecs_1711276660[chckIndx(i_570426200, 0, (fieldSpecs_1711276660).length - 1)];
             if (!(fs_1711276690.hasDefault)) {
             if (contains__coreZtypes_u621(instance_1711276661.entries, fs_1711276690.name)) {
             var val_1711276803 = (Temporary35 = HEX5BHEX5D__coreZtypes_u981(instance_1711276661.entries, fs_1711276690.name), Temporary35)[0][Temporary35[1]];
@@ -29531,8 +29531,8 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
             
             }
             
-            i_570426198 += 1;
-            if (!(((fieldSpecs_1711276660).length == L_570426199))) {
+            i_570426200 += 1;
+            if (!(((fieldSpecs_1711276660).length == L_570426201))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29543,16 +29543,16 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
     Label36: {
       var key_1711276813 = [];
       var val_1711276814 = null;
-      var L_570426202 = len__coreZequality_u172(instance_1711276661.entries);
+      var L_570426204 = len__coreZequality_u172(instance_1711276661.entries);
       if ((0 < instance_1711276661.entries.counter)) {
-      var h_570426203 = instance_1711276661.entries.first;
+      var h_570426205 = instance_1711276661.entries.first;
       Label37: {
           Label38: while (true) {
-          if (!(0 <= h_570426203)) break Label38;
-            var nxt_570426205 = instance_1711276661.entries.data[chckIndx(h_570426203, 0, (instance_1711276661.entries.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(instance_1711276661.entries.data[chckIndx(h_570426203, 0, (instance_1711276661.entries.data).length - 1)].Field0)) {
-            key_1711276813 = instance_1711276661.entries.data[chckIndx(h_570426203, 0, (instance_1711276661.entries.data).length - 1)].Field2;
-            val_1711276814 = instance_1711276661.entries.data[chckIndx(h_570426203, 0, (instance_1711276661.entries.data).length - 1)].Field3;
+          if (!(0 <= h_570426205)) break Label38;
+            var nxt_570426207 = instance_1711276661.entries.data[chckIndx(h_570426205, 0, (instance_1711276661.entries.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(instance_1711276661.entries.data[chckIndx(h_570426205, 0, (instance_1711276661.entries.data).length - 1)].Field0)) {
+            key_1711276813 = instance_1711276661.entries.data[chckIndx(h_570426205, 0, (instance_1711276661.entries.data).length - 1)].Field2;
+            val_1711276814 = instance_1711276661.entries.data[chckIndx(h_570426205, 0, (instance_1711276661.entries.data).length - 1)].Field3;
             if ((val_1711276814.kind == 19)) {
             var Temporary39 = val_1711276814;
             if (ConstSet1190[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fn\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
@@ -29560,13 +29560,13 @@ function HEX3Aanonymous__dialectsZobject95dialect_u487(args_p0, ep_p1, ep_p1_Idx
             set__coreZtypes_u1354(instance_1711276661, key_1711276813, {kind: 19, fn: boundFn_1711276819, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, nativeFn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
             }
             
-            if (!((len__coreZequality_u172(instance_1711276661.entries) == L_570426202))) {
+            if (!((len__coreZequality_u172(instance_1711276661.entries) == L_570426204))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570426203 = nxt_570426205;
+            h_570426205 = nxt_570426207;
           }
       };
       }
@@ -29741,12 +29741,12 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
     var fallbackBody_1728053527 = [];
     Label1: {
       var step_1728053550 = ({kind: 0, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});
-      var i_570426277 = 0;
-      var L_570426278 = (steps_p1).length;
+      var i_570426279 = 0;
+      var L_570426280 = (steps_p1).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426277 < L_570426278)) break Label3;
-            step_1728053550 = steps_p1[chckIndx(i_570426277, 0, (steps_p1).length - 1)];
+          if (!(i_570426279 < L_570426280)) break Label3;
+            step_1728053550 = steps_p1[chckIndx(i_570426279, 0, (steps_p1).length - 1)];
             if ((step_1728053550.kind == 3)) {
             var Temporary4 = step_1728053550;
             if (ConstSet1205[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onKind\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI1728053251)); }
@@ -29761,8 +29761,8 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
             fallbackBody_1728053527 = nimCopy(null, Temporary6.fallbackBody, NTI1728053258);
             }
             }
-            i_570426277 += 1;
-            if (!(((steps_p1).length == L_570426278))) {
+            i_570426279 += 1;
+            if (!(((steps_p1).length == L_570426280))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29771,12 +29771,12 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
     };
     Label7: {
       var step_1728053567 = ({kind: 0, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});
-      var i_570426285 = 0;
-      var L_570426286 = (steps_p1).length;
+      var i_570426287 = 0;
+      var L_570426288 = (steps_p1).length;
       Label8: {
           Label9: while (true) {
-          if (!(i_570426285 < L_570426286)) break Label9;
-            step_1728053567 = steps_p1[chckIndx(i_570426285, 0, (steps_p1).length - 1)];
+          if (!(i_570426287 < L_570426288)) break Label9;
+            step_1728053567 = steps_p1[chckIndx(i_570426287, 0, (steps_p1).length - 1)];
             switch (step_1728053567.kind) {
             case 0:
               break;
@@ -29801,13 +29801,13 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
               Label12: {
                 var kind_1728053582 = [];
                 var body_1728053583 = [];
-                var i_570426282 = 0;
-                var L_570426283 = (errorHandlers_1728053522).length;
+                var i_570426284 = 0;
+                var L_570426285 = (errorHandlers_1728053522).length;
                 Label13: {
                     Label14: while (true) {
-                    if (!(i_570426282 < L_570426283)) break Label14;
-                      kind_1728053582 = errorHandlers_1728053522[chckIndx(i_570426282, 0, (errorHandlers_1728053522).length - 1)]["Field0"];
-                      body_1728053583 = errorHandlers_1728053522[chckIndx(i_570426282, 0, (errorHandlers_1728053522).length - 1)]["Field1"];
+                    if (!(i_570426284 < L_570426285)) break Label14;
+                      kind_1728053582 = errorHandlers_1728053522[chckIndx(i_570426284, 0, (errorHandlers_1728053522).length - 1)]["Field0"];
+                      body_1728053583 = errorHandlers_1728053522[chckIndx(i_570426284, 0, (errorHandlers_1728053522).length - 1)]["Field1"];
                       if (eqStrings(kind_1728053582, e_1728053577.kind)) {
                       var handlerCtx_1728053584 = child__coreZtypes_u2943(ctx_p3);
                       set__coreZtypes_u1354(handlerCtx_1728053584, [105,116], current_1728053517);
@@ -29817,8 +29817,8 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
                       break Label12;
                       }
                       
-                      i_570426282 += 1;
-                      if (!(((errorHandlers_1728053522).length == L_570426283))) {
+                      i_570426284 += 1;
+                      if (!(((errorHandlers_1728053522).length == L_570426285))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -29868,8 +29868,8 @@ function runPipeline__dialectsZattempt95dialect_u263(eval_p0, steps_p1, initialI
             case 5:
               break;
             }
-            i_570426285 += 1;
-            if (!(((steps_p1).length == L_570426286))) {
+            i_570426287 += 1;
+            if (!(((steps_p1).length == L_570426288))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29907,8 +29907,8 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
   var result_1728053633 = null;
 
   BeforeRet: {
-    var HEX3Aenv_570426241 = null;
-    HEX3Aenv_570426241 = {m_type: NTI570425733, capturedSteps0: [], capturedCtx1: null};
+    var HEX3Aenv_570426243 = null;
+    HEX3Aenv_570426243 = {m_type: NTI570425734, capturedSteps0: [], capturedCtx1: null};
     var eval_1728053634 = getEvaluator__evalZdialect_u131(ep_p1, ep_p1_Idx);
     var pipeline_1728053635 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
     if (!((pipeline_1728053635.kind == 13))) {
@@ -29921,20 +29921,20 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
     var retryCount_1728053641 = 0n;
     Label2: {
       var step_1728053645 = ({kind: 0, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});
-      var i_570426217 = 0;
-      var L_570426218 = (steps_1728053640).length;
+      var i_570426219 = 0;
+      var L_570426220 = (steps_1728053640).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570426217 < L_570426218)) break Label4;
-            step_1728053645 = steps_1728053640[chckIndx(i_570426217, 0, (steps_1728053640).length - 1)];
+          if (!(i_570426219 < L_570426220)) break Label4;
+            step_1728053645 = steps_1728053640[chckIndx(i_570426219, 0, (steps_1728053640).length - 1)];
             if ((step_1728053645.kind == 5)) {
             var Temporary5 = step_1728053645;
             if (ConstSet1203[Temporary5.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'retryCount\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary5.kind, NTI1728053251)); }
             retryCount_1728053641 = Temporary5.retryCount;
             }
             
-            i_570426217 += 1;
-            if (!(((steps_1728053640).length == L_570426218))) {
+            i_570426219 += 1;
+            if (!(((steps_1728053640).length == L_570426220))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29949,12 +29949,12 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
     var sourceBody_1728053655 = [];
     Label6: {
       var step_1728053659 = ({kind: 0, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});
-      var i_570426221 = 0;
-      var L_570426222 = (steps_1728053640).length;
+      var i_570426223 = 0;
+      var L_570426224 = (steps_1728053640).length;
       Label7: {
           Label8: while (true) {
-          if (!(i_570426221 < L_570426222)) break Label8;
-            step_1728053659 = steps_1728053640[chckIndx(i_570426221, 0, (steps_1728053640).length - 1)];
+          if (!(i_570426223 < L_570426224)) break Label8;
+            step_1728053659 = steps_1728053640[chckIndx(i_570426223, 0, (steps_1728053640).length - 1)];
             if ((step_1728053659.kind == 0)) {
             hasSource_1728053650 = true;
             var Temporary9 = step_1728053659;
@@ -29963,8 +29963,8 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
             break Label6;
             }
             
-            i_570426221 += 1;
-            if (!(((steps_1728053640).length == L_570426222))) {
+            i_570426223 += 1;
+            if (!(((steps_1728053640).length == L_570426224))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -29975,11 +29975,11 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
     var attempts_1728053664 = addInt64(retryCount_1728053641, 1n);
     Label10: {
       var attempt_1728053665 = 0n;
-      var res_570426235 = 1n;
+      var res_570426237 = 1n;
       Label11: {
           Label12: while (true) {
-          if (!(res_570426235 <= attempts_1728053664)) break Label12;
-            attempt_1728053665 = res_570426235;
+          if (!(res_570426237 <= attempts_1728053664)) break Label12;
+            attempt_1728053665 = res_570426237;
             Label13: {
 ++excHandler;
               try {
@@ -30001,12 +30001,12 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
               
               Label15: {
                 var step_1728053678 = ({kind: 0, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});
-                var i_570426227 = 0;
-                var L_570426228 = (steps_1728053640).length;
+                var i_570426229 = 0;
+                var L_570426230 = (steps_1728053640).length;
                 Label16: {
                     Label17: while (true) {
-                    if (!(i_570426227 < L_570426228)) break Label17;
-                      step_1728053678 = steps_1728053640[chckIndx(i_570426227, 0, (steps_1728053640).length - 1)];
+                    if (!(i_570426229 < L_570426230)) break Label17;
+                      step_1728053678 = steps_1728053640[chckIndx(i_570426229, 0, (steps_1728053640).length - 1)];
                         if (!(step_1728053678.kind == 3)) Temporary18 = false; else {                          var Temporary19 = step_1728053678;
                           if (ConstSet1210[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'onKind\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI1728053251)); }
                           Temporary18 = eqStrings(Temporary19.onKind, e_1728053674.kind);                        }                      if (Temporary18) {
@@ -30018,8 +30018,8 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
                       break BeforeRet;
                       }
                       
-                      i_570426227 += 1;
-                      if (!(((steps_1728053640).length == L_570426228))) {
+                      i_570426229 += 1;
+                      if (!(((steps_1728053640).length == L_570426230))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -30029,12 +30029,12 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
               var fallbackBody_1728053688 = [];
               Label21: {
                 var step_1728053692 = ({kind: 0, sourceBody: [], thenBody: [], whenBody: [], onKind: [], onBody: [], fallbackBody: [], retryCount: 0n});
-                var i_570426231 = 0;
-                var L_570426232 = (steps_1728053640).length;
+                var i_570426233 = 0;
+                var L_570426234 = (steps_1728053640).length;
                 Label22: {
                     Label23: while (true) {
-                    if (!(i_570426231 < L_570426232)) break Label23;
-                      step_1728053692 = steps_1728053640[chckIndx(i_570426231, 0, (steps_1728053640).length - 1)];
+                    if (!(i_570426233 < L_570426234)) break Label23;
+                      step_1728053692 = steps_1728053640[chckIndx(i_570426233, 0, (steps_1728053640).length - 1)];
                       if ((step_1728053692.kind == 4)) {
                       var Temporary24 = step_1728053692;
                       if (ConstSet1212[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'fallbackBody\' is not accessible for type \'PipelineStep\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI1728053251)); }
@@ -30042,8 +30042,8 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
                       break Label21;
                       }
                       
-                      i_570426231 += 1;
-                      if (!(((steps_1728053640).length == L_570426232))) {
+                      i_570426233 += 1;
+                      if (!(((steps_1728053640).length == L_570426234))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -30071,7 +30071,7 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
               } finally {
               }
             };
-            res_570426235 = addInt64(res_570426235, BigInt(1));
+            res_570426237 = addInt64(res_570426237, BigInt(1));
           }
       };
     };
@@ -30079,9 +30079,9 @@ function HEX3Aanonymous__dialectsZattempt95dialect_u382(args_p0, ep_p1, ep_p1_Id
     break BeforeRet;
     }
     else {
-      HEX3Aenv_570426241.capturedSteps0 = nimCopy(null, steps_1728053640, NTI1728053261);
-      HEX3Aenv_570426241.capturedCtx1 = eval_1728053634.currentCtx;
-      Temporary25 = HEX3Aanonymous__dialectsZattempt95dialect_u455.bind(HEX3Aenv_570426241); Temporary25.ClP_0 = HEX3Aanonymous__dialectsZattempt95dialect_u455; Temporary25.ClE_0 = HEX3Aenv_570426241;
+      HEX3Aenv_570426243.capturedSteps0 = nimCopy(null, steps_1728053640, NTI1728053261);
+      HEX3Aenv_570426243.capturedCtx1 = eval_1728053634.currentCtx;
+      Temporary25 = HEX3Aanonymous__dialectsZattempt95dialect_u455.bind(HEX3Aenv_570426243); Temporary25.ClP_0 = HEX3Aanonymous__dialectsZattempt95dialect_u455; Temporary25.ClE_0 = HEX3Aenv_570426243;
       result_1728053633 = {kind: 20, nativeFn: {name: [97,116,116,101,109,112,116,45,112,105,112,101,108,105,110,101], arity: 1, fn: Temporary25, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0};
     }
     
@@ -30365,9 +30365,9 @@ function del__dialectsZparse95dialect_u943(t_p0, key_p1) {
     n_1744831414 = new Array(chckRange((t_p0.data).length, 0, 2147483647)); for (var i = 0 ; i < chckRange((t_p0.data).length, 0, 2147483647) ; ++i) { n_1744831414[i] = {Field0: 0, Field1: 0, Field2: [], Field3: null}; }    var h_1744831462 = t_p0.first;
     t_p0.first = (-1);
     t_p0.last = (-1);
-    var HEX3Atmp_570426326 = nimCopy(null, t_p0.data, NTI704643109);
+    var HEX3Atmp_570426328 = nimCopy(null, t_p0.data, NTI704643109);
     t_p0.data = n_1744831414;
-    n_1744831414 = HEX3Atmp_570426326;
+    n_1744831414 = HEX3Atmp_570426328;
     var resHEX60gensym22_1744831468 = 0;
     resHEX60gensym22_1744831468 = hash__pureZhashes_u761(key_p1);
     if ((resHEX60gensym22_1744831468 == 0)) {
@@ -30487,11 +30487,11 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     var finalRpos_1744830744 = rpos_p2[rpos_p2_Idx];
     Label7: {
       var i_1744830749 = 0;
-      var i_570426305 = 0;
+      var i_570426307 = 0;
       Label8: {
           Label9: while (true) {
-          if (!(i_570426305 < m_1744830728)) break Label9;
-            i_1744830749 = i_570426305;
+          if (!(i_570426307 < m_1744830728)) break Label9;
+            i_1744830749 = i_570426307;
             var subRpos_1744830750 = [ruleStart_1744830737];
             if (!(parseRule__dialectsZparse95dialect_u123(s_p0, rules_p1, subRpos_1744830750, 0))) {
             break Label7;
@@ -30500,7 +30500,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
             count_1744830738 = addInt(count_1744830738, 1);
             finalRpos_1744830744 = subRpos_1744830750[0];
             positions_1744830743.push(s_p0.pos);;
-            i_570426305 = addInt(i_570426305, 1);
+            i_570426307 = addInt(i_570426307, 1);
           }
       };
     };
@@ -30525,11 +30525,11 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
     var finalRpos_1744830763 = rpos_p2[rpos_p2_Idx];
     Label10: {
       var i_1744830768 = 0;
-      var i_570426308 = 0;
+      var i_570426310 = 0;
       Label11: {
           Label12: while (true) {
-          if (!(i_570426308 < n_1744830720)) break Label12;
-            i_1744830768 = i_570426308;
+          if (!(i_570426310 < n_1744830720)) break Label12;
+            i_1744830768 = i_570426310;
             var subRpos_1744830769 = [rpos_p2[rpos_p2_Idx]];
             if (!(parseRule__dialectsZparse95dialect_u123(s_p0, rules_p1, subRpos_1744830769, 0))) {
             s_p0.pos = savedPos_1744830762;
@@ -30538,7 +30538,7 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
             }
             
             finalRpos_1744830763 = subRpos_1744830769[0];
-            i_570426308 = addInt(i_570426308, 1);
+            i_570426310 = addInt(i_570426310, 1);
           }
       };
     };
@@ -30885,13 +30885,13 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
         else {
           Label31: {
             var i_1744831130 = 0;
-            var i_570426315 = beforePos_1744831065;
+            var i_570426317 = beforePos_1744831065;
             Label32: {
                 Label33: while (true) {
-                if (!(i_570426315 < s_p0.pos)) break Label33;
-                  i_1744831130 = i_570426315;
+                if (!(i_570426317 < s_p0.pos)) break Label33;
+                  i_1744831130 = i_570426317;
                   frame_1744831092.values.push(s_p0.blk[chckIndx(i_1744831130, 0, (s_p0.blk).length - 1)]);;
-                  i_570426315 = addInt(i_570426315, 1);
+                  i_570426317 = addInt(i_570426317, 1);
                 }
             };
           };
@@ -30934,24 +30934,24 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
         Label36: {
           var name_1744831162 = [];
           var val_1744831163 = null;
-          var L_570426318 = len__coreZequality_u172(innerState_1744831156.captures);
+          var L_570426320 = len__coreZequality_u172(innerState_1744831156.captures);
           if ((0 < innerState_1744831156.captures.counter)) {
-          var h_570426319 = innerState_1744831156.captures.first;
+          var h_570426321 = innerState_1744831156.captures.first;
           Label37: {
               Label38: while (true) {
-              if (!(0 <= h_570426319)) break Label38;
-                var nxt_570426321 = innerState_1744831156.captures.data[chckIndx(h_570426319, 0, (innerState_1744831156.captures.data).length - 1)].Field1;
-                if (isFilled__pureZcollectionsZtables_u31(innerState_1744831156.captures.data[chckIndx(h_570426319, 0, (innerState_1744831156.captures.data).length - 1)].Field0)) {
-                name_1744831162 = innerState_1744831156.captures.data[chckIndx(h_570426319, 0, (innerState_1744831156.captures.data).length - 1)].Field2;
-                val_1744831163 = innerState_1744831156.captures.data[chckIndx(h_570426319, 0, (innerState_1744831156.captures.data).length - 1)].Field3;
+              if (!(0 <= h_570426321)) break Label38;
+                var nxt_570426323 = innerState_1744831156.captures.data[chckIndx(h_570426321, 0, (innerState_1744831156.captures.data).length - 1)].Field1;
+                if (isFilled__pureZcollectionsZtables_u31(innerState_1744831156.captures.data[chckIndx(h_570426321, 0, (innerState_1744831156.captures.data).length - 1)].Field0)) {
+                name_1744831162 = innerState_1744831156.captures.data[chckIndx(h_570426321, 0, (innerState_1744831156.captures.data).length - 1)].Field2;
+                val_1744831163 = innerState_1744831156.captures.data[chckIndx(h_570426321, 0, (innerState_1744831156.captures.data).length - 1)].Field3;
                 HEX5BHEX5DHEX3D__coreZtypes_u1394(s_p0.captures, name_1744831162, val_1744831163);
-                if (!((len__coreZequality_u172(innerState_1744831156.captures) == L_570426318))) {
+                if (!((len__coreZequality_u172(innerState_1744831156.captures) == L_570426320))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
                 }
                 
                 }
                 
-                h_570426319 = nxt_570426321;
+                h_570426321 = nxt_570426323;
               }
           };
           }
@@ -31042,13 +31042,13 @@ function parseSingleRule__dialectsZparse95dialect_u193(s_p0, rules_p1, rpos_p2, 
         var vals_1744832080 = [];
         Label45: {
           var i_1744832085 = 0;
-          var i_570426323 = beforePos_1744831219;
+          var i_570426325 = beforePos_1744831219;
           Label46: {
               Label47: while (true) {
-              if (!(i_570426323 < s_p0.pos)) break Label47;
-                i_1744832085 = i_570426323;
+              if (!(i_570426325 < s_p0.pos)) break Label47;
+                i_1744832085 = i_570426325;
                 vals_1744832080.push(s_p0.blk[chckIndx(i_1744832085, 0, (s_p0.blk).length - 1)]);;
-                i_570426323 = addInt(i_570426323, 1);
+                i_570426325 = addInt(i_570426325, 1);
               }
           };
         };
@@ -31142,12 +31142,12 @@ function parseSequence__dialectsZparse95dialect_u127(s_p0, rules_p1) {
     var current_1744832391 = [];
     Label1: {
       var r_1744832395 = null;
-      var i_570426294 = 0;
-      var L_570426295 = (rules_p1).length;
+      var i_570426296 = 0;
+      var L_570426297 = (rules_p1).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426294 < L_570426295)) break Label3;
-            r_1744832395 = rules_p1[chckIndx(i_570426294, 0, (rules_p1).length - 1)];
+          if (!(i_570426296 < L_570426297)) break Label3;
+            r_1744832395 = rules_p1[chckIndx(i_570426296, 0, (rules_p1).length - 1)];
               if (!(r_1744832395.kind == 23)) Temporary5 = false; else {                var Temporary6 = r_1744832395;
                 if (ConstSet1215[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 0);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = r_1744832395;
@@ -31161,8 +31161,8 @@ function parseSequence__dialectsZparse95dialect_u127(s_p0, rules_p1) {
             current_1744832391.push(r_1744832395);;
             }
             
-            i_570426294 += 1;
-            if (!(((rules_p1).length == L_570426295))) {
+            i_570426296 += 1;
+            if (!(((rules_p1).length == L_570426297))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -31174,12 +31174,12 @@ function parseSequence__dialectsZparse95dialect_u127(s_p0, rules_p1) {
     var savedPos_1744832420 = s_p0.pos;
     Label10: {
       var alt_1744832424 = [];
-      var i_570426301 = 0;
-      var L_570426302 = (alternatives_1744832386).length;
+      var i_570426303 = 0;
+      var L_570426304 = (alternatives_1744832386).length;
       Label11: {
           Label12: while (true) {
-          if (!(i_570426301 < L_570426302)) break Label12;
-            alt_1744832424 = alternatives_1744832386[chckIndx(i_570426301, 0, (alternatives_1744832386).length - 1)];
+          if (!(i_570426303 < L_570426304)) break Label12;
+            alt_1744832424 = alternatives_1744832386[chckIndx(i_570426303, 0, (alternatives_1744832386).length - 1)];
             s_p0.pos = savedPos_1744832420;
             s_p0.captures = nimCopy(s_p0.captures, s_p0.captures, NTI704643106);
             var btStackBase_1744832429 = (s_p0.backtrackStack).length;
@@ -31230,8 +31230,8 @@ function parseSequence__dialectsZparse95dialect_u127(s_p0, rules_p1) {
             break BeforeRet;
             }
             
-            i_570426301 += 1;
-            if (!(((alternatives_1744832386).length == L_570426302))) {
+            i_570426303 += 1;
+            if (!(((alternatives_1744832386).length == L_570426304))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -31293,27 +31293,27 @@ function executeParse__dialectsZparse95dialect_u2002(eval_p0, input_p1, rules_p2
     Label4: {
       var name_1744832504 = [];
       var val_1744832505 = null;
-      var L_570426289 = len__coreZequality_u172(state_1744832496.captures);
+      var L_570426291 = len__coreZequality_u172(state_1744832496.captures);
       if ((0 < state_1744832496.captures.counter)) {
-      var h_570426290 = state_1744832496.captures.first;
+      var h_570426292 = state_1744832496.captures.first;
       Label5: {
           Label6: while (true) {
-          if (!(0 <= h_570426290)) break Label6;
-            var nxt_570426292 = state_1744832496.captures.data[chckIndx(h_570426290, 0, (state_1744832496.captures.data).length - 1)].Field1;
-            if (isFilled__pureZcollectionsZtables_u31(state_1744832496.captures.data[chckIndx(h_570426290, 0, (state_1744832496.captures.data).length - 1)].Field0)) {
-            name_1744832504 = state_1744832496.captures.data[chckIndx(h_570426290, 0, (state_1744832496.captures.data).length - 1)].Field2;
-            val_1744832505 = state_1744832496.captures.data[chckIndx(h_570426290, 0, (state_1744832496.captures.data).length - 1)].Field3;
+          if (!(0 <= h_570426292)) break Label6;
+            var nxt_570426294 = state_1744832496.captures.data[chckIndx(h_570426292, 0, (state_1744832496.captures.data).length - 1)].Field1;
+            if (isFilled__pureZcollectionsZtables_u31(state_1744832496.captures.data[chckIndx(h_570426292, 0, (state_1744832496.captures.data).length - 1)].Field0)) {
+            name_1744832504 = state_1744832496.captures.data[chckIndx(h_570426292, 0, (state_1744832496.captures.data).length - 1)].Field2;
+            val_1744832505 = state_1744832496.captures.data[chckIndx(h_570426292, 0, (state_1744832496.captures.data).length - 1)].Field3;
             if (!(eqStrings(name_1744832504, [95,95,108,97,115,116,95,99,111,108,108,101,99,116,95,95]))) {
             set__coreZtypes_u1354(resultCtx_1744832499, name_1744832504, val_1744832505);
             }
             
-            if (!((len__coreZequality_u172(state_1744832496.captures) == L_570426289))) {
+            if (!((len__coreZequality_u172(state_1744832496.captures) == L_570426291))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(1822, 11) `len(t) == L` the length of the table changed while iterating over it"));
             }
             
             }
             
-            h_570426290 = nxt_570426292;
+            h_570426292 = nxt_570426294;
           }
       };
       }
@@ -31359,19 +31359,19 @@ function HEX3Aanonymous__evalZevaluator_u3849(args_p0, ep_p1, ep_p1_Idx) {
     if ((args_p0[chckIndx(0, 0, (args_p0).length - 1)].kind == 13)) {
     Label1: {
       var v_1291849492 = null;
-      var colontmp__570426330 = [];
+      var colontmp__570426332 = [];
       var Temporary2 = args_p0[chckIndx(0, 0, (args_p0).length - 1)];
       if (ConstSet1260[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-      colontmp__570426330 = Temporary2.blockVals;
-      var i_570426331 = 0;
-      var L_570426332 = (colontmp__570426330).length;
+      colontmp__570426332 = Temporary2.blockVals;
+      var i_570426333 = 0;
+      var L_570426334 = (colontmp__570426332).length;
       Label3: {
           Label4: while (true) {
-          if (!(i_570426331 < L_570426332)) break Label4;
-            v_1291849492 = colontmp__570426330[chckIndx(i_570426331, 0, (colontmp__570426330).length - 1)];
+          if (!(i_570426333 < L_570426334)) break Label4;
+            v_1291849492 = colontmp__570426332[chckIndx(i_570426333, 0, (colontmp__570426332).length - 1)];
             this.emitted0.push(v_1291849492);;
-            i_570426331 += 1;
-            if (!(((colontmp__570426330).length == L_570426332))) {
+            i_570426333 += 1;
+            if (!(((colontmp__570426332).length == L_570426334))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -31416,19 +31416,19 @@ function HEX3Aanonymous__evalZevaluator_u4047(body_p0) {
           if ((mExpanded_1291849749.kind == 13)) {
           Label8: {
             var v_1291849757 = null;
-            var colontmp__570426338 = [];
+            var colontmp__570426340 = [];
             var Temporary9 = mExpanded_1291849749;
             if (ConstSet1278[Temporary9.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary9.kind, NTI704643076)); }
-            colontmp__570426338 = Temporary9.blockVals;
-            var i_570426339 = 0;
-            var L_570426340 = (colontmp__570426338).length;
+            colontmp__570426340 = Temporary9.blockVals;
+            var i_570426341 = 0;
+            var L_570426342 = (colontmp__570426340).length;
             Label10: {
                 Label11: while (true) {
-                if (!(i_570426339 < L_570426340)) break Label11;
-                  v_1291849757 = colontmp__570426338[chckIndx(i_570426339, 0, (colontmp__570426338).length - 1)];
+                if (!(i_570426341 < L_570426342)) break Label11;
+                  v_1291849757 = colontmp__570426340[chckIndx(i_570426341, 0, (colontmp__570426340).length - 1)];
                   result_1291849681.push(v_1291849757);;
-                  i_570426339 += 1;
-                  if (!(((colontmp__570426338).length == L_570426340))) {
+                  i_570426341 += 1;
+                  if (!(((colontmp__570426340).length == L_570426342))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -31537,18 +31537,18 @@ function rawInsert__dialectsZgame95dialect_u2403(t_p0, data_p1, data_p1_Idx, key
 
 function enlarge__dialectsZgame95dialect_u2129(t_p0) {
     var n_1426065495 = [];
-    n_1426065495 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1426065495[i] = {Field0: 0, Field1: [], Field2: null}; }    var HEX3Atmp_570426473 = nimCopy(null, t_p0.data, NTI704643368);
+    n_1426065495 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1426065495[i] = {Field0: 0, Field1: [], Field2: null}; }    var HEX3Atmp_570426475 = nimCopy(null, t_p0.data, NTI704643368);
     t_p0.data = n_1426065495;
-    n_1426065495 = HEX3Atmp_570426473;
+    n_1426065495 = HEX3Atmp_570426475;
     Label1: {
       var i_1426065555 = 0;
-      var colontmp__570426470 = 0;
-      colontmp__570426470 = (n_1426065495).length - 1;
-      var res_570426471 = 0;
+      var colontmp__570426472 = 0;
+      colontmp__570426472 = (n_1426065495).length - 1;
+      var res_570426473 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570426471 <= colontmp__570426470)) break Label3;
-            i_1426065555 = res_570426471;
+          if (!(res_570426473 <= colontmp__570426472)) break Label3;
+            i_1426065555 = res_570426473;
             var eh_1426065605 = n_1426065495[chckIndx(i_1426065555, 0, (n_1426065495).length - 1)].Field0;
             if (isFilled__pureZcollectionsZtables_u31(eh_1426065605)) {
             var j_1426065609 = (eh_1426065605 & (t_p0.data).length - 1);
@@ -31561,7 +31561,7 @@ function enlarge__dialectsZgame95dialect_u2129(t_p0) {
             rawInsert__dialectsZgame95dialect_u2403(t_p0, t_p0, "data", n_1426065495[chckIndx(i_1426065555, 0, (n_1426065495).length - 1)].Field1, n_1426065495[chckIndx(i_1426065555, 0, (n_1426065495).length - 1)].Field2, eh_1426065605, j_1426065609);
             }
             
-            res_570426471 = addInt(res_570426471, 1);
+            res_570426473 = addInt(res_570426473, 1);
           }
       };
     };
@@ -31673,15 +31673,15 @@ function injectGroupTag__dialectsZgame95dialect_u3444(body_p0, groupName_p1) {
     result_1426066807 = nimCopy(null, [ktgWord__coreZtypes_u399([116,97,103,115], 0, 0), ktgBlock__coreZtypes_u367([ktgWord__coreZtypes_u399(groupName_p1, 0, 0)], 0)], NTI1459617940);
     Label1: {
       var v_1426066819 = null;
-      var i_570426544 = 0;
-      var L_570426545 = (body_p0).length;
+      var i_570426546 = 0;
+      var L_570426547 = (body_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426544 < L_570426545)) break Label3;
-            v_1426066819 = body_p0[chckIndx(i_570426544, 0, (body_p0).length - 1)];
+          if (!(i_570426546 < L_570426547)) break Label3;
+            v_1426066819 = body_p0[chckIndx(i_570426546, 0, (body_p0).length - 1)];
             result_1426066807.push(v_1426066819);;
-            i_570426544 += 1;
-            if (!(((body_p0).length == L_570426545))) {
+            i_570426546 += 1;
+            if (!(((body_p0).length == L_570426547))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -31704,27 +31704,27 @@ function takeTwoNums__dialectsZgame95dialect_u3213(body_p0, i_p1) {
     var p_1426066584 = body_p0[chckIndx(addInt(i_p1, 1), 0, (body_p0).length - 1)];
     var Temporary1 = p_1426066584;
     if (ConstSet1301[Temporary1.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'px\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary1.kind, NTI704643076)); }
-    var colontmp__570426564 = numFromFloat__coreZtypes_u355(Temporary1.px, 0);
+    var colontmp__570426566 = numFromFloat__coreZtypes_u355(Temporary1.px, 0);
     var Temporary2 = p_1426066584;
     if (ConstSet1302[Temporary2.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'py\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary2.kind, NTI704643076)); }
-    var colontmp__570426565 = numFromFloat__coreZtypes_u355(Temporary2.py, 0);
-    var colontmp__570426566 = 2;
-    result_1426066576 = nimCopy(result_1426066576, {Field0: colontmp__570426564, Field1: colontmp__570426565, Field2: colontmp__570426566}, NTI1426065302);
+    var colontmp__570426567 = numFromFloat__coreZtypes_u355(Temporary2.py, 0);
+    var colontmp__570426568 = 2;
+    result_1426066576 = nimCopy(result_1426066576, {Field0: colontmp__570426566, Field1: colontmp__570426567, Field2: colontmp__570426568}, NTI1426065302);
     break BeforeRet;
     }
     
     if ((addInt(i_p1, 2) < (body_p0).length)) {
-    var colontmp__570426567 = body_p0[chckIndx(addInt(i_p1, 1), 0, (body_p0).length - 1)];
-    var colontmp__570426568 = body_p0[chckIndx(addInt(i_p1, 2), 0, (body_p0).length - 1)];
-    var colontmp__570426569 = 3;
-    result_1426066576 = nimCopy(result_1426066576, {Field0: colontmp__570426567, Field1: colontmp__570426568, Field2: colontmp__570426569}, NTI1426065302);
+    var colontmp__570426569 = body_p0[chckIndx(addInt(i_p1, 1), 0, (body_p0).length - 1)];
+    var colontmp__570426570 = body_p0[chckIndx(addInt(i_p1, 2), 0, (body_p0).length - 1)];
+    var colontmp__570426571 = 3;
+    result_1426066576 = nimCopy(result_1426066576, {Field0: colontmp__570426569, Field1: colontmp__570426570, Field2: colontmp__570426571}, NTI1426065302);
     break BeforeRet;
     }
     
-    var colontmp__570426570 = null;
-    var colontmp__570426571 = null;
-    var colontmp__570426572 = 0;
-    result_1426066576 = nimCopy(result_1426066576, {Field0: colontmp__570426570, Field1: colontmp__570426571, Field2: colontmp__570426572}, NTI1426065302);
+    var colontmp__570426572 = null;
+    var colontmp__570426573 = null;
+    var colontmp__570426574 = 0;
+    result_1426066576 = nimCopy(result_1426066576, {Field0: colontmp__570426572, Field1: colontmp__570426573, Field2: colontmp__570426574}, NTI1426065302);
     break BeforeRet;
   };
 
@@ -31748,13 +31748,13 @@ function substituteSelf__dialectsZgame95dialect_u2999(vals_p0, entityName_p1) {
     Label1: {
       var idx_1426066391 = 0;
       var v_1426066392 = null;
-      var i_570426574 = 0;
-      var L_570426575 = (vals_p0).length;
+      var i_570426576 = 0;
+      var L_570426577 = (vals_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426574 < L_570426575)) break Label3;
-            idx_1426066391 = i_570426574;
-            v_1426066392 = vals_p0[chckIndx(i_570426574, 0, (vals_p0).length - 1)];
+          if (!(i_570426576 < L_570426577)) break Label3;
+            idx_1426066391 = i_570426576;
+            v_1426066392 = vals_p0[chckIndx(i_570426576, 0, (vals_p0).length - 1)];
             switch (v_1426066392.kind) {
             case 23:
                 var Temporary4 = v_1426066392;
@@ -31800,8 +31800,8 @@ function substituteSelf__dialectsZgame95dialect_u2999(vals_p0, entityName_p1) {
               result_1426066362[chckIndx(idx_1426066391, 0, (result_1426066362).length - 1)] = v_1426066392;
               break;
             }
-            i_570426574 += 1;
-            if (!(((vals_p0).length == L_570426575))) {
+            i_570426576 += 1;
+            if (!(((vals_p0).length == L_570426577))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -31972,19 +31972,19 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
               if (((addInt(i_1426066611, 1) < (body_p1).length) && (body_p1[chckIndx(addInt(i_1426066611, 1), 0, (body_p1).length - 1)].kind == 13))) {
               Label11: {
                 var v_1426066737 = null;
-                var colontmp__570426550 = [];
+                var colontmp__570426552 = [];
                 var Temporary12 = body_p1[chckIndx(addInt(i_1426066611, 1), 0, (body_p1).length - 1)];
                 if (ConstSet1320[Temporary12.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary12.kind, NTI704643076)); }
-                colontmp__570426550 = substituteSelf__dialectsZgame95dialect_u2999(rewriteDestroy__dialectsZgame95dialect_u3065(Temporary12.blockVals), name_p0);
-                var i_570426551 = 0;
-                var L_570426552 = (colontmp__570426550).length;
+                colontmp__570426552 = substituteSelf__dialectsZgame95dialect_u2999(rewriteDestroy__dialectsZgame95dialect_u3065(Temporary12.blockVals), name_p0);
+                var i_570426553 = 0;
+                var L_570426554 = (colontmp__570426552).length;
                 Label13: {
                     Label14: while (true) {
-                    if (!(i_570426551 < L_570426552)) break Label14;
-                      v_1426066737 = colontmp__570426550[chckIndx(i_570426551, 0, (colontmp__570426550).length - 1)];
+                    if (!(i_570426553 < L_570426554)) break Label14;
+                      v_1426066737 = colontmp__570426552[chckIndx(i_570426553, 0, (colontmp__570426552).length - 1)];
                       result_1426066610.updateBody.push(v_1426066737);;
-                      i_570426551 += 1;
-                      if (!(((colontmp__570426550).length == L_570426552))) {
+                      i_570426553 += 1;
+                      if (!(((colontmp__570426552).length == L_570426554))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -32000,19 +32000,19 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
               if (((addInt(i_1426066611, 1) < (body_p1).length) && (body_p1[chckIndx(addInt(i_1426066611, 1), 0, (body_p1).length - 1)].kind == 13))) {
               Label15: {
                 var v_1426066756 = null;
-                var colontmp__570426555 = [];
+                var colontmp__570426557 = [];
                 var Temporary16 = body_p1[chckIndx(addInt(i_1426066611, 1), 0, (body_p1).length - 1)];
                 if (ConstSet1321[Temporary16.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary16.kind, NTI704643076)); }
-                colontmp__570426555 = substituteSelf__dialectsZgame95dialect_u2999(Temporary16.blockVals, name_p0);
-                var i_570426556 = 0;
-                var L_570426557 = (colontmp__570426555).length;
+                colontmp__570426557 = substituteSelf__dialectsZgame95dialect_u2999(Temporary16.blockVals, name_p0);
+                var i_570426558 = 0;
+                var L_570426559 = (colontmp__570426557).length;
                 Label17: {
                     Label18: while (true) {
-                    if (!(i_570426556 < L_570426557)) break Label18;
-                      v_1426066756 = colontmp__570426555[chckIndx(i_570426556, 0, (colontmp__570426555).length - 1)];
+                    if (!(i_570426558 < L_570426559)) break Label18;
+                      v_1426066756 = colontmp__570426557[chckIndx(i_570426558, 0, (colontmp__570426557).length - 1)];
                       result_1426066610.drawBody.push(v_1426066756);;
-                      i_570426556 += 1;
-                      if (!(((colontmp__570426555).length == L_570426557))) {
+                      i_570426558 += 1;
+                      if (!(((colontmp__570426557).length == L_570426559))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -32029,16 +32029,16 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
               if (((addInt(i_1426066611, 1) < (body_p1).length) && (body_p1[chckIndx(addInt(i_1426066611, 1), 0, (body_p1).length - 1)].kind == 13))) {
               Label19: {
                 var t_1426066775 = null;
-                var colontmp__570426560 = [];
+                var colontmp__570426562 = [];
                 var Temporary20 = body_p1[chckIndx(addInt(i_1426066611, 1), 0, (body_p1).length - 1)];
                 if (ConstSet1322[Temporary20.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary20.kind, NTI704643076)); }
-                colontmp__570426560 = Temporary20.blockVals;
-                var i_570426561 = 0;
-                var L_570426562 = (colontmp__570426560).length;
+                colontmp__570426562 = Temporary20.blockVals;
+                var i_570426563 = 0;
+                var L_570426564 = (colontmp__570426562).length;
                 Label21: {
                     Label22: while (true) {
-                    if (!(i_570426561 < L_570426562)) break Label22;
-                      t_1426066775 = colontmp__570426560[chckIndx(i_570426561, 0, (colontmp__570426560).length - 1)];
+                    if (!(i_570426563 < L_570426564)) break Label22;
+                      t_1426066775 = colontmp__570426562[chckIndx(i_570426563, 0, (colontmp__570426562).length - 1)];
                         if (!(t_1426066775.kind == 23)) Temporary23 = false; else {                          var Temporary24 = t_1426066775;
                           if (ConstSet1323[Temporary24.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary24.kind, NTI704643076)); }
                           Temporary23 = (Temporary24.wordKind == 0);                        }                      if (Temporary23) {
@@ -32048,8 +32048,8 @@ function parseEntity__dialectsZgame95dialect_u3246(name_p0, body_p1, storesColor
                       result_1426066610.tags.push(Temporary26);;
                       }
                       
-                      i_570426561 += 1;
-                      if (!(((colontmp__570426560).length == L_570426562))) {
+                      i_570426563 += 1;
+                      if (!(((colontmp__570426562).length == L_570426564))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -32086,12 +32086,12 @@ function assertNoSelf__dialectsZgame95dialect_u3057(vals_p0, contextLabel_p1) {
 
     Label1: {
       var v_1426066423 = null;
-      var i_570426579 = 0;
-      var L_570426580 = (vals_p0).length;
+      var i_570426581 = 0;
+      var L_570426582 = (vals_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426579 < L_570426580)) break Label3;
-            v_1426066423 = vals_p0[chckIndx(i_570426579, 0, (vals_p0).length - 1)];
+          if (!(i_570426581 < L_570426582)) break Label3;
+            v_1426066423 = vals_p0[chckIndx(i_570426581, 0, (vals_p0).length - 1)];
             switch (v_1426066423.kind) {
             case 23:
                 var Temporary5 = v_1426066423;
@@ -32116,8 +32116,8 @@ function assertNoSelf__dialectsZgame95dialect_u3057(vals_p0, contextLabel_p1) {
             default: 
               break;
             }
-            i_570426579 += 1;
-            if (!(((vals_p0).length == L_570426580))) {
+            i_570426581 += 1;
+            if (!(((vals_p0).length == L_570426582))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32205,18 +32205,18 @@ function rawInsert__dialectsZgame95dialect_u4495(t_p0, data_p1, data_p1_Idx, key
 
 function enlarge__dialectsZgame95dialect_u4221(t_p0) {
     var n_1426067587 = [];
-    n_1426067587 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1426067587[i] = {Field0: 0, Field1: [], Field2: []}; }    var HEX3Atmp_570426588 = nimCopy(null, t_p0.data, NTI1426065513);
+    n_1426067587 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1426067587[i] = {Field0: 0, Field1: [], Field2: []}; }    var HEX3Atmp_570426590 = nimCopy(null, t_p0.data, NTI1426065513);
     t_p0.data = n_1426067587;
-    n_1426067587 = HEX3Atmp_570426588;
+    n_1426067587 = HEX3Atmp_570426590;
     Label1: {
       var i_1426067647 = 0;
-      var colontmp__570426585 = 0;
-      colontmp__570426585 = (n_1426067587).length - 1;
-      var res_570426586 = 0;
+      var colontmp__570426587 = 0;
+      colontmp__570426587 = (n_1426067587).length - 1;
+      var res_570426588 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570426586 <= colontmp__570426585)) break Label3;
-            i_1426067647 = res_570426586;
+          if (!(res_570426588 <= colontmp__570426587)) break Label3;
+            i_1426067647 = res_570426588;
             var eh_1426067697 = n_1426067587[chckIndx(i_1426067647, 0, (n_1426067587).length - 1)].Field0;
             if (isFilled__pureZcollectionsZtables_u31(eh_1426067697)) {
             var j_1426067701 = (eh_1426067697 & (t_p0.data).length - 1);
@@ -32229,7 +32229,7 @@ function enlarge__dialectsZgame95dialect_u4221(t_p0) {
             rawInsert__dialectsZgame95dialect_u4495(t_p0, t_p0, "data", n_1426067587[chckIndx(i_1426067647, 0, (n_1426067587).length - 1)].Field1, n_1426067587[chckIndx(i_1426067647, 0, (n_1426067587).length - 1)].Field2, eh_1426067697, j_1426067701);
             }
             
-            res_570426586 = addInt(res_570426586, 1);
+            res_570426588 = addInt(res_570426588, 1);
           }
       };
     };
@@ -32328,13 +32328,13 @@ function substituteIt__dialectsZgame95dialect_u3137(vals_p0, otherName_p1) {
     Label1: {
       var idx_1426066529 = 0;
       var v_1426066530 = null;
-      var i_570426591 = 0;
-      var L_570426592 = (vals_p0).length;
+      var i_570426593 = 0;
+      var L_570426594 = (vals_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426591 < L_570426592)) break Label3;
-            idx_1426066529 = i_570426591;
-            v_1426066530 = vals_p0[chckIndx(i_570426591, 0, (vals_p0).length - 1)];
+          if (!(i_570426593 < L_570426594)) break Label3;
+            idx_1426066529 = i_570426593;
+            v_1426066530 = vals_p0[chckIndx(i_570426593, 0, (vals_p0).length - 1)];
             switch (v_1426066530.kind) {
             case 23:
                 var Temporary4 = v_1426066530;
@@ -32373,8 +32373,8 @@ function substituteIt__dialectsZgame95dialect_u3137(vals_p0, otherName_p1) {
               result_1426066500[chckIndx(idx_1426066529, 0, (result_1426066500).length - 1)] = v_1426066530;
               break;
             }
-            i_570426591 += 1;
-            if (!(((vals_p0).length == L_570426592))) {
+            i_570426593 += 1;
+            if (!(((vals_p0).length == L_570426594))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32487,19 +32487,19 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
               Temporary5 = eqStrings(Temporary8.wordName, [115,116,97,116,101]);            }            if (!Temporary5) Temporary4 = false; else {              Temporary4 = (addInt(i_1426068437, 1) < (groupBody_p1).length);            }            if (!Temporary4) Temporary3 = false; else {              Temporary3 = (groupBody_p1[chckIndx(addInt(i_1426068437, 1), 0, (groupBody_p1).length - 1)].kind == 13);            }          if (Temporary3) {
           Label9: {
             var v_1426068460 = null;
-            var colontmp__570426477 = [];
+            var colontmp__570426479 = [];
             var Temporary10 = groupBody_p1[chckIndx(addInt(i_1426068437, 1), 0, (groupBody_p1).length - 1)];
             if (ConstSet1294[Temporary10.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary10.kind, NTI704643076)); }
-            colontmp__570426477 = Temporary10.blockVals;
-            var i_570426478 = 0;
-            var L_570426479 = (colontmp__570426477).length;
+            colontmp__570426479 = Temporary10.blockVals;
+            var i_570426480 = 0;
+            var L_570426481 = (colontmp__570426479).length;
             Label11: {
                 Label12: while (true) {
-                if (!(i_570426478 < L_570426479)) break Label12;
-                  v_1426068460 = colontmp__570426477[chckIndx(i_570426478, 0, (colontmp__570426477).length - 1)];
+                if (!(i_570426480 < L_570426481)) break Label12;
+                  v_1426068460 = colontmp__570426479[chckIndx(i_570426480, 0, (colontmp__570426479).length - 1)];
                   stateBlock_1426068416.push(v_1426068460);;
-                  i_570426478 += 1;
-                  if (!(((colontmp__570426477).length == L_570426479))) {
+                  i_570426480 += 1;
+                  if (!(((colontmp__570426479).length == L_570426481))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -32596,19 +32596,19 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
           assertNoSelf__dialectsZgame95dialect_u3057(Temporary72.blockVals, [103,114,111,117,112,32,100,114,97,119,32,98,108,111,99,107]);
           Label73: {
             var v_1426068628 = null;
-            var colontmp__570426482 = [];
+            var colontmp__570426484 = [];
             var Temporary74 = groupBody_p1[chckIndx(addInt(i_1426068437, 1), 0, (groupBody_p1).length - 1)];
             if (ConstSet1353[Temporary74.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary74.kind, NTI704643076)); }
-            colontmp__570426482 = Temporary74.blockVals;
-            var i_570426483 = 0;
-            var L_570426484 = (colontmp__570426482).length;
+            colontmp__570426484 = Temporary74.blockVals;
+            var i_570426485 = 0;
+            var L_570426486 = (colontmp__570426484).length;
             Label75: {
                 Label76: while (true) {
-                if (!(i_570426483 < L_570426484)) break Label76;
-                  v_1426068628 = colontmp__570426482[chckIndx(i_570426483, 0, (colontmp__570426482).length - 1)];
+                if (!(i_570426485 < L_570426486)) break Label76;
+                  v_1426068628 = colontmp__570426484[chckIndx(i_570426485, 0, (colontmp__570426484).length - 1)];
                   userDrawBody_1426068431.push(v_1426068628);;
-                  i_570426483 += 1;
-                  if (!(((colontmp__570426482).length == L_570426484))) {
+                  i_570426485 += 1;
+                  if (!(((colontmp__570426484).length == L_570426486))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -32628,19 +32628,19 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
           assertNoSelf__dialectsZgame95dialect_u3057(Temporary83.blockVals, [103,114,111,117,112,32,111,110,45,117,112,100,97,116,101,32,98,108,111,99,107]);
           Label84: {
             var v_1426068655 = null;
-            var colontmp__570426487 = [];
+            var colontmp__570426489 = [];
             var Temporary85 = groupBody_p1[chckIndx(addInt(i_1426068437, 1), 0, (groupBody_p1).length - 1)];
             if (ConstSet1357[Temporary85.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary85.kind, NTI704643076)); }
-            colontmp__570426487 = rewriteDestroy__dialectsZgame95dialect_u3065(Temporary85.blockVals);
-            var i_570426488 = 0;
-            var L_570426489 = (colontmp__570426487).length;
+            colontmp__570426489 = rewriteDestroy__dialectsZgame95dialect_u3065(Temporary85.blockVals);
+            var i_570426490 = 0;
+            var L_570426491 = (colontmp__570426489).length;
             Label86: {
                 Label87: while (true) {
-                if (!(i_570426488 < L_570426489)) break Label87;
-                  v_1426068655 = colontmp__570426487[chckIndx(i_570426488, 0, (colontmp__570426487).length - 1)];
+                if (!(i_570426490 < L_570426491)) break Label87;
+                  v_1426068655 = colontmp__570426489[chckIndx(i_570426490, 0, (colontmp__570426489).length - 1)];
                   userUpdatePre_1426068436.push(v_1426068655);;
-                  i_570426488 += 1;
-                  if (!(((colontmp__570426487).length == L_570426489))) {
+                  i_570426490 += 1;
+                  if (!(((colontmp__570426489).length == L_570426491))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -32657,15 +32657,15 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label88: {
       var v_1426068671 = null;
-      var i_570426492 = 0;
-      var L_570426493 = (stateBlock_1426068416).length;
+      var i_570426494 = 0;
+      var L_570426495 = (stateBlock_1426068416).length;
       Label89: {
           Label90: while (true) {
-          if (!(i_570426492 < L_570426493)) break Label90;
-            v_1426068671 = stateBlock_1426068416[chckIndx(i_570426492, 0, (stateBlock_1426068416).length - 1)];
+          if (!(i_570426494 < L_570426495)) break Label90;
+            v_1426068671 = stateBlock_1426068416[chckIndx(i_570426494, 0, (stateBlock_1426068416).length - 1)];
             result_1426068411.push(v_1426068671);;
-            i_570426492 += 1;
-            if (!(((stateBlock_1426068416).length == L_570426493))) {
+            i_570426494 += 1;
+            if (!(((stateBlock_1426068416).length == L_570426495))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32674,17 +32674,17 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label91: {
       var ent_1426068698 = ({name: [], ctxBlock: [], updateBody: [], drawBody: [], hasCustomDraw: false, tags: []});
-      var i_570426497 = 0;
-      var L_570426498 = (entities_1426068421).length;
+      var i_570426499 = 0;
+      var L_570426500 = (entities_1426068421).length;
       Label92: {
           Label93: while (true) {
-          if (!(i_570426497 < L_570426498)) break Label93;
-            ent_1426068698 = entities_1426068421[chckIndx(i_570426497, 0, (entities_1426068421).length - 1)];
+          if (!(i_570426499 < L_570426500)) break Label93;
+            ent_1426068698 = entities_1426068421[chckIndx(i_570426499, 0, (entities_1426068421).length - 1)];
             result_1426068411.push(ktgWord__coreZtypes_u399(ent_1426068698.name, 1, 0));;
             result_1426068411.push(ktgWord__coreZtypes_u399([99,111,110,116,101,120,116], 0, 0));;
             result_1426068411.push(ktgBlock__coreZtypes_u367(ent_1426068698.ctxBlock, 0));;
-            i_570426497 += 1;
-            if (!(((entities_1426068421).length == L_570426498))) {
+            i_570426499 += 1;
+            if (!(((entities_1426068421).length == L_570426500))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32694,36 +32694,36 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     var tagMap_1426068729 = [initTable__dialectsZgame95dialect_u3486(32)];
     Label94: {
       var ent_1426068733 = ({name: [], ctxBlock: [], updateBody: [], drawBody: [], hasCustomDraw: false, tags: []});
-      var i_570426505 = 0;
-      var L_570426506 = (entities_1426068421).length;
+      var i_570426507 = 0;
+      var L_570426508 = (entities_1426068421).length;
       Label95: {
           Label96: while (true) {
-          if (!(i_570426505 < L_570426506)) break Label96;
-            ent_1426068733 = entities_1426068421[chckIndx(i_570426505, 0, (entities_1426068421).length - 1)];
+          if (!(i_570426507 < L_570426508)) break Label96;
+            ent_1426068733 = entities_1426068421[chckIndx(i_570426507, 0, (entities_1426068421).length - 1)];
             Label97: {
               var tag_1426068737 = [];
-              var i_570426502 = 0;
-              var L_570426503 = (ent_1426068733.tags).length;
+              var i_570426504 = 0;
+              var L_570426505 = (ent_1426068733.tags).length;
               Label98: {
                   Label99: while (true) {
-                  if (!(i_570426502 < L_570426503)) break Label99;
-                    tag_1426068737 = ent_1426068733.tags[chckIndx(i_570426502, 0, (ent_1426068733.tags).length - 1)];
+                  if (!(i_570426504 < L_570426505)) break Label99;
+                    tag_1426068737 = ent_1426068733.tags[chckIndx(i_570426504, 0, (ent_1426068733.tags).length - 1)];
                     if (!(hasKey__dialectsZgame95dialect_u3643(tagMap_1426068729[0], tag_1426068737))) {
                     HEX5BHEX5DHEX3D__dialectsZgame95dialect_u3913(tagMap_1426068729[0], tag_1426068737, []);
                     }
                     
                     var Temporary101 = nimCopy(null, ent_1426068733.name, NTI33554449);
                     (Temporary100 = HEX5BHEX5D__dialectsZgame95dialect_u4923(tagMap_1426068729[0], tag_1426068737), Temporary100)[0][Temporary100[1]].push(Temporary101);;
-                    i_570426502 += 1;
-                    if (!(((ent_1426068733.tags).length == L_570426503))) {
+                    i_570426504 += 1;
+                    if (!(((ent_1426068733.tags).length == L_570426505))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                     }
                     
                   }
               };
             };
-            i_570426505 += 1;
-            if (!(((entities_1426068421).length == L_570426506))) {
+            i_570426507 += 1;
+            if (!(((entities_1426068421).length == L_570426508))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32733,15 +32733,15 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     var updateStatements_1426068887 = [];
     Label102: {
       var v_1426068891 = null;
-      var i_570426509 = 0;
-      var L_570426510 = (backend_p2.framePrelude).length;
+      var i_570426511 = 0;
+      var L_570426512 = (backend_p2.framePrelude).length;
       Label103: {
           Label104: while (true) {
-          if (!(i_570426509 < L_570426510)) break Label104;
-            v_1426068891 = backend_p2.framePrelude[chckIndx(i_570426509, 0, (backend_p2.framePrelude).length - 1)];
+          if (!(i_570426511 < L_570426512)) break Label104;
+            v_1426068891 = backend_p2.framePrelude[chckIndx(i_570426511, 0, (backend_p2.framePrelude).length - 1)];
             updateStatements_1426068887.push(v_1426068891);;
-            i_570426509 += 1;
-            if (!(((backend_p2.framePrelude).length == L_570426510))) {
+            i_570426511 += 1;
+            if (!(((backend_p2.framePrelude).length == L_570426512))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32750,15 +32750,15 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label105: {
       var v_1426068899 = null;
-      var i_570426513 = 0;
-      var L_570426514 = (userUpdatePre_1426068436).length;
+      var i_570426515 = 0;
+      var L_570426516 = (userUpdatePre_1426068436).length;
       Label106: {
           Label107: while (true) {
-          if (!(i_570426513 < L_570426514)) break Label107;
-            v_1426068899 = userUpdatePre_1426068436[chckIndx(i_570426513, 0, (userUpdatePre_1426068436).length - 1)];
+          if (!(i_570426515 < L_570426516)) break Label107;
+            v_1426068899 = userUpdatePre_1426068436[chckIndx(i_570426515, 0, (userUpdatePre_1426068436).length - 1)];
             updateStatements_1426068887.push(v_1426068899);;
-            i_570426513 += 1;
-            if (!(((userUpdatePre_1426068436).length == L_570426514))) {
+            i_570426515 += 1;
+            if (!(((userUpdatePre_1426068436).length == L_570426516))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32767,20 +32767,20 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label108: {
       var ent_1426068907 = ({name: [], ctxBlock: [], updateBody: [], drawBody: [], hasCustomDraw: false, tags: []});
-      var i_570426517 = 0;
-      var L_570426518 = (entities_1426068421).length;
+      var i_570426519 = 0;
+      var L_570426520 = (entities_1426068421).length;
       Label109: {
           Label110: while (true) {
-          if (!(i_570426517 < L_570426518)) break Label110;
-            ent_1426068907 = entities_1426068421[chckIndx(i_570426517, 0, (entities_1426068421).length - 1)];
+          if (!(i_570426519 < L_570426520)) break Label110;
+            ent_1426068907 = entities_1426068421[chckIndx(i_570426519, 0, (entities_1426068421).length - 1)];
             if ((0 < (ent_1426068907.updateBody).length)) {
             updateStatements_1426068887.push(ktgWord__coreZtypes_u399([105,102], 0, 0));;
             updateStatements_1426068887.push(ktgWord__coreZtypes_u399((ent_1426068907.name).concat([47,97,108,105,118,101,63]), 0, 0));;
             updateStatements_1426068887.push(ktgBlock__coreZtypes_u367(ent_1426068907.updateBody, 0));;
             }
             
-            i_570426517 += 1;
-            if (!(((entities_1426068421).length == L_570426518))) {
+            i_570426519 += 1;
+            if (!(((entities_1426068421).length == L_570426520))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32789,12 +32789,12 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label111: {
       var coll_1426068945 = ({selfEntity: [], tagOrEntity: [], isTag: false, pred: [], body: []});
-      var i_570426527 = 0;
-      var L_570426528 = (collides_1426068426).length;
+      var i_570426529 = 0;
+      var L_570426530 = (collides_1426068426).length;
       Label112: {
           Label113: while (true) {
-          if (!(i_570426527 < L_570426528)) break Label113;
-            coll_1426068945 = collides_1426068426[chckIndx(i_570426527, 0, (collides_1426068426).length - 1)];
+          if (!(i_570426529 < L_570426530)) break Label113;
+            coll_1426068945 = collides_1426068426[chckIndx(i_570426529, 0, (collides_1426068426).length - 1)];
             if (coll_1426068945.isTag) {
             if (hasKey__dialectsZgame95dialect_u3643(tagMap_1426068729[0], coll_1426068945.tagOrEntity)) {
             Temporary115 = (Temporary116 = HEX5BHEX5D__dialectsZgame95dialect_u4923(tagMap_1426068729[0], coll_1426068945.tagOrEntity), Temporary116)[0][Temporary116[1]];
@@ -32812,12 +32812,12 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
             var others_1426069049 = nimCopy(null, Temporary114, NTI1426065504);
             Label117: {
               var other_1426069053 = [];
-              var i_570426523 = 0;
-              var L_570426524 = (others_1426069049).length;
+              var i_570426525 = 0;
+              var L_570426526 = (others_1426069049).length;
               Label118: {
                   Label119: while (true) {
-                  if (!(i_570426523 < L_570426524)) break Label119;
-                    other_1426069053 = others_1426069049[chckIndx(i_570426523, 0, (others_1426069049).length - 1)];
+                  if (!(i_570426525 < L_570426526)) break Label119;
+                    other_1426069053 = others_1426069049[chckIndx(i_570426525, 0, (others_1426069049).length - 1)];
                     Label120: {
                       if (eqStrings(other_1426069053, coll_1426068945.selfEntity)) {
                       break Label120;
@@ -32855,16 +32855,16 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
                       }
                       
                     };
-                    i_570426523 += 1;
-                    if (!(((others_1426069049).length == L_570426524))) {
+                    i_570426525 += 1;
+                    if (!(((others_1426069049).length == L_570426526))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                     }
                     
                   }
               };
             };
-            i_570426527 += 1;
-            if (!(((collides_1426068426).length == L_570426528))) {
+            i_570426529 += 1;
+            if (!(((collides_1426068426).length == L_570426530))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32874,12 +32874,12 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     var drawStatements_1426069171 = [];
     Label121: {
       var ent_1426069175 = ({name: [], ctxBlock: [], updateBody: [], drawBody: [], hasCustomDraw: false, tags: []});
-      var i_570426531 = 0;
-      var L_570426532 = (entities_1426068421).length;
+      var i_570426533 = 0;
+      var L_570426534 = (entities_1426068421).length;
       Label122: {
           Label123: while (true) {
-          if (!(i_570426531 < L_570426532)) break Label123;
-            ent_1426069175 = entities_1426068421[chckIndx(i_570426531, 0, (entities_1426068421).length - 1)];
+          if (!(i_570426533 < L_570426534)) break Label123;
+            ent_1426069175 = entities_1426068421[chckIndx(i_570426533, 0, (entities_1426068421).length - 1)];
             if (ent_1426069175.hasCustomDraw) {
             Temporary124 = ent_1426069175.drawBody;
             }
@@ -32891,8 +32891,8 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
             drawStatements_1426069171.push(ktgWord__coreZtypes_u399([105,102], 0, 0));;
             drawStatements_1426069171.push(ktgWord__coreZtypes_u399((ent_1426069175.name).concat([47,97,108,105,118,101,63]), 0, 0));;
             drawStatements_1426069171.push(ktgBlock__coreZtypes_u367(drawSeq_1426069176, 0));;
-            i_570426531 += 1;
-            if (!(((entities_1426068421).length == L_570426532))) {
+            i_570426533 += 1;
+            if (!(((entities_1426068421).length == L_570426534))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32901,15 +32901,15 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label125: {
       var v_1426069192 = null;
-      var i_570426535 = 0;
-      var L_570426536 = (userDrawBody_1426068431).length;
+      var i_570426537 = 0;
+      var L_570426538 = (userDrawBody_1426068431).length;
       Label126: {
           Label127: while (true) {
-          if (!(i_570426535 < L_570426536)) break Label127;
-            v_1426069192 = userDrawBody_1426068431[chckIndx(i_570426535, 0, (userDrawBody_1426068431).length - 1)];
+          if (!(i_570426537 < L_570426538)) break Label127;
+            v_1426069192 = userDrawBody_1426068431[chckIndx(i_570426537, 0, (userDrawBody_1426068431).length - 1)];
             drawStatements_1426069171.push(v_1426069192);;
-            i_570426535 += 1;
-            if (!(((userDrawBody_1426068431).length == L_570426536))) {
+            i_570426537 += 1;
+            if (!(((userDrawBody_1426068431).length == L_570426538))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32918,17 +32918,17 @@ function expandGroup__dialectsZgame95dialect_u5046(groupName_p0, groupBody_p1, b
     };
     Label128: {
       var v_1426069200 = null;
-      var colontmp__570426539 = [];
-      colontmp__570426539 = backend_p2.emitCallbacks(updateStatements_1426068887, drawStatements_1426069171);
-      var i_570426540 = 0;
-      var L_570426541 = (colontmp__570426539).length;
+      var colontmp__570426541 = [];
+      colontmp__570426541 = backend_p2.emitCallbacks(updateStatements_1426068887, drawStatements_1426069171);
+      var i_570426542 = 0;
+      var L_570426543 = (colontmp__570426541).length;
       Label129: {
           Label130: while (true) {
-          if (!(i_570426540 < L_570426541)) break Label130;
-            v_1426069200 = colontmp__570426539[chckIndx(i_570426540, 0, (colontmp__570426539).length - 1)];
+          if (!(i_570426542 < L_570426543)) break Label130;
+            v_1426069200 = colontmp__570426541[chckIndx(i_570426542, 0, (colontmp__570426541).length - 1)];
             result_1426068411.push(v_1426069200);;
-            i_570426540 += 1;
-            if (!(((colontmp__570426539).length == L_570426541))) {
+            i_570426542 += 1;
+            if (!(((colontmp__570426541).length == L_570426543))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -32981,13 +32981,13 @@ function inlineConstants__dialectsZgame95dialect_u2790(vals_p0, consts_p1) {
     Label1: {
       var idx_1426066189 = 0;
       var v_1426066190 = null;
-      var i_570426595 = 0;
-      var L_570426596 = (vals_p0).length;
+      var i_570426597 = 0;
+      var L_570426598 = (vals_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426595 < L_570426596)) break Label3;
-            idx_1426066189 = i_570426595;
-            v_1426066190 = vals_p0[chckIndx(i_570426595, 0, (vals_p0).length - 1)];
+          if (!(i_570426597 < L_570426598)) break Label3;
+            idx_1426066189 = i_570426597;
+            v_1426066190 = vals_p0[chckIndx(i_570426597, 0, (vals_p0).length - 1)];
             switch (v_1426066190.kind) {
             case 23:
                 var Temporary5 = v_1426066190;
@@ -33018,8 +33018,8 @@ function inlineConstants__dialectsZgame95dialect_u2790(vals_p0, consts_p1) {
               result_1426066155[chckIndx(idx_1426066189, 0, (result_1426066155).length - 1)] = v_1426066190;
               break;
             }
-            i_570426595 += 1;
-            if (!(((vals_p0).length == L_570426596))) {
+            i_570426597 += 1;
+            if (!(((vals_p0).length == L_570426598))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(187, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33098,31 +33098,31 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
           Label13: {
             var k_1426069875 = [];
             var val_1426069876 = null;
-            var colontmp__570426419 = ({data: [], counter: 0});
+            var colontmp__570426421 = ({data: [], counter: 0});
             var Temporary14 = blk_p0[chckIndx(addInt(i_1426069589, 1), 0, (blk_p0).length - 1)];
             if (ConstSet1285[Temporary14.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary14.kind, NTI704643076)); }
-            colontmp__570426419 = nimCopy(colontmp__570426419, collectConstants__dialectsZgame95dialect_u1535(Temporary14.blockVals), NTI704643365);
-            var L_570426424 = len__dialectsZgame95dialect_u6305(colontmp__570426419);
+            colontmp__570426421 = nimCopy(colontmp__570426421, collectConstants__dialectsZgame95dialect_u1535(Temporary14.blockVals), NTI704643365);
+            var L_570426426 = len__dialectsZgame95dialect_u6305(colontmp__570426421);
             Label15: {
-              var h_570426426 = 0;
-              var colontmp__570426427 = 0;
-              colontmp__570426427 = (colontmp__570426419.data).length - 1;
-              var res_570426428 = 0;
+              var h_570426428 = 0;
+              var colontmp__570426429 = 0;
+              colontmp__570426429 = (colontmp__570426421.data).length - 1;
+              var res_570426430 = 0;
               Label16: {
                   Label17: while (true) {
-                  if (!(res_570426428 <= colontmp__570426427)) break Label17;
-                    h_570426426 = res_570426428;
-                    if (isFilled__pureZcollectionsZtables_u31(colontmp__570426419.data[chckIndx(h_570426426, 0, (colontmp__570426419.data).length - 1)].Field0)) {
-                    k_1426069875 = colontmp__570426419.data[chckIndx(h_570426426, 0, (colontmp__570426419.data).length - 1)].Field1;
-                    val_1426069876 = colontmp__570426419.data[chckIndx(h_570426426, 0, (colontmp__570426419.data).length - 1)].Field2;
+                  if (!(res_570426430 <= colontmp__570426429)) break Label17;
+                    h_570426428 = res_570426430;
+                    if (isFilled__pureZcollectionsZtables_u31(colontmp__570426421.data[chckIndx(h_570426428, 0, (colontmp__570426421.data).length - 1)].Field0)) {
+                    k_1426069875 = colontmp__570426421.data[chckIndx(h_570426428, 0, (colontmp__570426421.data).length - 1)].Field1;
+                    val_1426069876 = colontmp__570426421.data[chckIndx(h_570426428, 0, (colontmp__570426421.data).length - 1)].Field2;
                     HEX5BHEX5DHEX3D__dialectsZgame95dialect_u1588(consts_1426069578[0], k_1426069875, val_1426069876);
-                    if (!((len__dialectsZgame95dialect_u6305(colontmp__570426419) == L_570426424))) {
+                    if (!((len__dialectsZgame95dialect_u6305(colontmp__570426421) == L_570426426))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("tables.nim(771, 13) `len(t) == L` the length of the table changed while iterating over it"));
                     }
                     
                     }
                     
-                    res_570426428 = addInt(res_570426428, 1);
+                    res_570426430 = addInt(res_570426430, 1);
                   }
               };
             };
@@ -33137,19 +33137,19 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
               Temporary20 = eqStrings(Temporary23.wordName, [98,105,110,100,105,110,103,115]);            }            if (!Temporary20) Temporary19 = false; else {              Temporary19 = (addInt(i_1426069589, 1) < (blk_p0).length);            }            if (!Temporary19) Temporary18 = false; else {              Temporary18 = (blk_p0[chckIndx(addInt(i_1426069589, 1), 0, (blk_p0).length - 1)].kind == 13);            }          if (Temporary18) {
           Label24: {
             var entry_1426069941 = null;
-            var colontmp__570426431 = [];
+            var colontmp__570426433 = [];
             var Temporary25 = blk_p0[chckIndx(addInt(i_1426069589, 1), 0, (blk_p0).length - 1)];
             if (ConstSet1288[Temporary25.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary25.kind, NTI704643076)); }
-            colontmp__570426431 = Temporary25.blockVals;
-            var i_570426432 = 0;
-            var L_570426433 = (colontmp__570426431).length;
+            colontmp__570426433 = Temporary25.blockVals;
+            var i_570426434 = 0;
+            var L_570426435 = (colontmp__570426433).length;
             Label26: {
                 Label27: while (true) {
-                if (!(i_570426432 < L_570426433)) break Label27;
-                  entry_1426069941 = colontmp__570426431[chckIndx(i_570426432, 0, (colontmp__570426431).length - 1)];
+                if (!(i_570426434 < L_570426435)) break Label27;
+                  entry_1426069941 = colontmp__570426433[chckIndx(i_570426434, 0, (colontmp__570426433).length - 1)];
                   userBindings_1426069588.push(entry_1426069941);;
-                  i_570426432 += 1;
-                  if (!(((colontmp__570426431).length == L_570426433))) {
+                  i_570426434 += 1;
+                  if (!(((colontmp__570426433).length == L_570426435))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -33168,21 +33168,21 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
               Temporary29 = (Temporary36.wordKind == 3);            }            if (!Temporary29) Temporary28 = false; else {              Temporary28 = (blk_p0[chckIndx(addInt(i_1426069589, 2), 0, (blk_p0).length - 1)].kind == 13);            }          if (Temporary28) {
           Label37: {
             var s_1426069976 = null;
-            var colontmp__570426436 = [];
+            var colontmp__570426438 = [];
             var Temporary38 = blk_p0[chckIndx(addInt(i_1426069589, 1), 0, (blk_p0).length - 1)];
             if (ConstSet1364[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
             var Temporary39 = blk_p0[chckIndx(addInt(i_1426069589, 2), 0, (blk_p0).length - 1)];
             if (ConstSet1365[Temporary39.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary39.kind, NTI704643076)); }
-            colontmp__570426436 = expandGroup__dialectsZgame95dialect_u5046(Temporary38.wordName, Temporary39.blockVals, backend_1426069528, macroExpand_p2);
-            var i_570426437 = 0;
-            var L_570426438 = (colontmp__570426436).length;
+            colontmp__570426438 = expandGroup__dialectsZgame95dialect_u5046(Temporary38.wordName, Temporary39.blockVals, backend_1426069528, macroExpand_p2);
+            var i_570426439 = 0;
+            var L_570426440 = (colontmp__570426438).length;
             Label40: {
                 Label41: while (true) {
-                if (!(i_570426437 < L_570426438)) break Label41;
-                  s_1426069976 = colontmp__570426436[chckIndx(i_570426437, 0, (colontmp__570426436).length - 1)];
+                if (!(i_570426439 < L_570426440)) break Label41;
+                  s_1426069976 = colontmp__570426438[chckIndx(i_570426439, 0, (colontmp__570426438).length - 1)];
                   body_1426069583.push(s_1426069976);;
-                  i_570426437 += 1;
-                  if (!(((colontmp__570426436).length == L_570426438))) {
+                  i_570426439 += 1;
+                  if (!(((colontmp__570426438).length == L_570426440))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -33202,19 +33202,19 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
     var mergedEntries_1426070003 = [];
     Label42: {
       var e_1426070007 = null;
-      var colontmp__570426441 = [];
+      var colontmp__570426443 = [];
       var Temporary43 = backend_1426069528.bindings[chckIndx(1, 0, (backend_1426069528.bindings).length - 1)];
       if (ConstSet1366[Temporary43.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary43.kind, NTI704643076)); }
-      colontmp__570426441 = Temporary43.blockVals;
-      var i_570426442 = 0;
-      var L_570426443 = (colontmp__570426441).length;
+      colontmp__570426443 = Temporary43.blockVals;
+      var i_570426444 = 0;
+      var L_570426445 = (colontmp__570426443).length;
       Label44: {
           Label45: while (true) {
-          if (!(i_570426442 < L_570426443)) break Label45;
-            e_1426070007 = colontmp__570426441[chckIndx(i_570426442, 0, (colontmp__570426441).length - 1)];
+          if (!(i_570426444 < L_570426445)) break Label45;
+            e_1426070007 = colontmp__570426443[chckIndx(i_570426444, 0, (colontmp__570426443).length - 1)];
             mergedEntries_1426070003.push(e_1426070007);;
-            i_570426442 += 1;
-            if (!(((colontmp__570426441).length == L_570426443))) {
+            i_570426444 += 1;
+            if (!(((colontmp__570426443).length == L_570426445))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33223,15 +33223,15 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
     };
     Label46: {
       var e_1426070015 = null;
-      var i_570426446 = 0;
-      var L_570426447 = (userBindings_1426069588).length;
+      var i_570426448 = 0;
+      var L_570426449 = (userBindings_1426069588).length;
       Label47: {
           Label48: while (true) {
-          if (!(i_570426446 < L_570426447)) break Label48;
-            e_1426070015 = userBindings_1426069588[chckIndx(i_570426446, 0, (userBindings_1426069588).length - 1)];
+          if (!(i_570426448 < L_570426449)) break Label48;
+            e_1426070015 = userBindings_1426069588[chckIndx(i_570426448, 0, (userBindings_1426069588).length - 1)];
             mergedEntries_1426070003.push(e_1426070015);;
-            i_570426446 += 1;
-            if (!(((userBindings_1426069588).length == L_570426447))) {
+            i_570426448 += 1;
+            if (!(((userBindings_1426069588).length == L_570426449))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33244,15 +33244,15 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
     else {
       Label49: {
         var v_1426070031 = null;
-        var i_570426450 = 0;
-        var L_570426451 = (backend_1426069528.bindings).length;
+        var i_570426452 = 0;
+        var L_570426453 = (backend_1426069528.bindings).length;
         Label50: {
             Label51: while (true) {
-            if (!(i_570426450 < L_570426451)) break Label51;
-              v_1426070031 = backend_1426069528.bindings[chckIndx(i_570426450, 0, (backend_1426069528.bindings).length - 1)];
+            if (!(i_570426452 < L_570426453)) break Label51;
+              v_1426070031 = backend_1426069528.bindings[chckIndx(i_570426452, 0, (backend_1426069528.bindings).length - 1)];
               result_1426069345.push(v_1426070031);;
-              i_570426450 += 1;
-              if (!(((backend_1426069528.bindings).length == L_570426451))) {
+              i_570426452 += 1;
+              if (!(((backend_1426069528.bindings).length == L_570426453))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -33267,15 +33267,15 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
     else {
       Label52: {
         var v_1426070047 = null;
-        var i_570426454 = 0;
-        var L_570426455 = (backend_1426069528.bindings).length;
+        var i_570426456 = 0;
+        var L_570426457 = (backend_1426069528.bindings).length;
         Label53: {
             Label54: while (true) {
-            if (!(i_570426454 < L_570426455)) break Label54;
-              v_1426070047 = backend_1426069528.bindings[chckIndx(i_570426454, 0, (backend_1426069528.bindings).length - 1)];
+            if (!(i_570426456 < L_570426457)) break Label54;
+              v_1426070047 = backend_1426069528.bindings[chckIndx(i_570426456, 0, (backend_1426069528.bindings).length - 1)];
               result_1426069345.push(v_1426070047);;
-              i_570426454 += 1;
-              if (!(((backend_1426069528.bindings).length == L_570426455))) {
+              i_570426456 += 1;
+              if (!(((backend_1426069528.bindings).length == L_570426457))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -33286,15 +33286,15 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
     
     Label55: {
       var v_1426070055 = null;
-      var i_570426458 = 0;
-      var L_570426459 = (backend_1426069528.prelude).length;
+      var i_570426460 = 0;
+      var L_570426461 = (backend_1426069528.prelude).length;
       Label56: {
           Label57: while (true) {
-          if (!(i_570426458 < L_570426459)) break Label57;
-            v_1426070055 = backend_1426069528.prelude[chckIndx(i_570426458, 0, (backend_1426069528.prelude).length - 1)];
+          if (!(i_570426460 < L_570426461)) break Label57;
+            v_1426070055 = backend_1426069528.prelude[chckIndx(i_570426460, 0, (backend_1426069528.prelude).length - 1)];
             result_1426069345.push(v_1426070055);;
-            i_570426458 += 1;
-            if (!(((backend_1426069528.prelude).length == L_570426459))) {
+            i_570426460 += 1;
+            if (!(((backend_1426069528.prelude).length == L_570426461))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33303,17 +33303,17 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
     };
     Label58: {
       var v_1426070063 = null;
-      var colontmp__570426462 = [];
-      colontmp__570426462 = inlineConstants__dialectsZgame95dialect_u2790(body_1426069583, consts_1426069578[0]);
-      var i_570426463 = 0;
-      var L_570426464 = (colontmp__570426462).length;
+      var colontmp__570426464 = [];
+      colontmp__570426464 = inlineConstants__dialectsZgame95dialect_u2790(body_1426069583, consts_1426069578[0]);
+      var i_570426465 = 0;
+      var L_570426466 = (colontmp__570426464).length;
       Label59: {
           Label60: while (true) {
-          if (!(i_570426463 < L_570426464)) break Label60;
-            v_1426070063 = colontmp__570426462[chckIndx(i_570426463, 0, (colontmp__570426462).length - 1)];
+          if (!(i_570426465 < L_570426466)) break Label60;
+            v_1426070063 = colontmp__570426464[chckIndx(i_570426465, 0, (colontmp__570426464).length - 1)];
             result_1426069345.push(v_1426070063);;
-            i_570426463 += 1;
-            if (!(((colontmp__570426462).length == L_570426464))) {
+            i_570426465 += 1;
+            if (!(((colontmp__570426464).length == L_570426466))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33328,26 +33328,26 @@ function expand__dialectsZgame95dialect_u5981(blk_p0, targetName_p1, macroExpand
 function incl__evalZstdlib95registry_u2630(s_p0, other_p1) {
     Label1: {
       var item_1358957133 = [];
-      var length_570426630 = len__coreZequality_u1268(other_p1);
+      var length_570426632 = len__coreZequality_u1268(other_p1);
       Label2: {
-        var h_570426632 = 0;
-        var colontmp__570426633 = 0;
-        colontmp__570426633 = (other_p1.data).length - 1;
-        var res_570426634 = 0;
+        var h_570426634 = 0;
+        var colontmp__570426635 = 0;
+        colontmp__570426635 = (other_p1.data).length - 1;
+        var res_570426636 = 0;
         Label3: {
             Label4: while (true) {
-            if (!(res_570426634 <= colontmp__570426633)) break Label4;
-              h_570426632 = res_570426634;
-              if (isFilled__pureZcollectionsZsets_u39(other_p1.data[chckIndx(h_570426632, 0, (other_p1.data).length - 1)].Field0)) {
-              item_1358957133 = other_p1.data[chckIndx(h_570426632, 0, (other_p1.data).length - 1)].Field1;
+            if (!(res_570426636 <= colontmp__570426635)) break Label4;
+              h_570426634 = res_570426636;
+              if (isFilled__pureZcollectionsZsets_u39(other_p1.data[chckIndx(h_570426634, 0, (other_p1.data).length - 1)].Field0)) {
+              item_1358957133 = other_p1.data[chckIndx(h_570426634, 0, (other_p1.data).length - 1)].Field1;
               incl__evalZstdlib95registry_u1530(s_p0, item_1358957133);
-              if (!((len__coreZequality_u1268(other_p1) == length_570426630))) {
+              if (!((len__coreZequality_u1268(other_p1) == length_570426632))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("sets.nim(272, 13) `len(s) == length` the length of the HashSet changed while iterating over it"));
               }
               
               }
               
-              res_570426634 = addInt(res_570426634, 1);
+              res_570426636 = addInt(res_570426636, 1);
             }
         };
       };
@@ -33385,12 +33385,12 @@ function collectRefs__evalZstdlib95registry_u1498(vals_p0) {
 
     Label1: {
       var v_1358956001 = null;
-      var i_570426626 = 0;
-      var L_570426627 = (vals_p0).length;
+      var i_570426628 = 0;
+      var L_570426629 = (vals_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426626 < L_570426627)) break Label3;
-            v_1358956001 = vals_p0[chckIndx(i_570426626, 0, (vals_p0).length - 1)];
+          if (!(i_570426628 < L_570426629)) break Label3;
+            v_1358956001 = vals_p0[chckIndx(i_570426628, 0, (vals_p0).length - 1)];
             switch (v_1358956001.kind) {
             case 23:
                 var Temporary4 = v_1358956001;
@@ -33415,8 +33415,8 @@ function collectRefs__evalZstdlib95registry_u1498(vals_p0) {
             default: 
               break;
             }
-            i_570426626 += 1;
-            if (!(((vals_p0).length == L_570426627))) {
+            i_570426628 += 1;
+            if (!(((vals_p0).length == L_570426629))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33536,16 +33536,16 @@ function spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_p0, sym
       var resultHEX60gensym26_1358957501 = newSeq__stdZsyncio_u559(chckRange((defs_1358957433).length, 0, 2147483647));
       Label2: {
         var it_1358957505 = ({name: [], startIdx: 0, endIdx: 0, bodyRefs: ({data: [], counter: 0})});
-        var i_570426601 = 0;
-        var L_570426602 = (defs_1358957433).length;
+        var i_570426603 = 0;
+        var L_570426604 = (defs_1358957433).length;
         Label3: {
             Label4: while (true) {
-            if (!(i_570426601 < L_570426602)) break Label4;
-              it_1358957505 = defs_1358957433[chckIndx(i_570426601, 0, (defs_1358957433).length - 1)];
+            if (!(i_570426603 < L_570426604)) break Label4;
+              it_1358957505 = defs_1358957433[chckIndx(i_570426603, 0, (defs_1358957433).length - 1)];
               resultHEX60gensym26_1358957501[chckIndx(iHEX60gensym26_1358957477, 0, (resultHEX60gensym26_1358957501).length - 1)] = nimCopy(null, it_1358957505.name, NTI33554449);
               iHEX60gensym26_1358957477 = addInt(iHEX60gensym26_1358957477, 1);
-              i_570426601 += 1;
-              if (!(((defs_1358957433).length == L_570426602))) {
+              i_570426603 += 1;
+              if (!(((defs_1358957433).length == L_570426604))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               
@@ -33562,47 +33562,47 @@ function spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_p0, sym
           changed_1358957592 = false;
           Label7: {
             var d_1358957596 = ({name: [], startIdx: 0, endIdx: 0, bodyRefs: ({data: [], counter: 0})});
-            var i_570426613 = 0;
-            var L_570426614 = (defs_1358957433).length;
+            var i_570426615 = 0;
+            var L_570426616 = (defs_1358957433).length;
             Label8: {
                 Label9: while (true) {
-                if (!(i_570426613 < L_570426614)) break Label9;
-                  d_1358957596 = defs_1358957433[chckIndx(i_570426613, 0, (defs_1358957433).length - 1)];
+                if (!(i_570426615 < L_570426616)) break Label9;
+                  d_1358957596 = defs_1358957433[chckIndx(i_570426615, 0, (defs_1358957433).length - 1)];
                   if (contains__coreZequality_u1527(needed_1358957591[0], d_1358957596.name)) {
                   Label10: {
                     var r_1358957653 = [];
-                    var length_570426607 = len__coreZequality_u1268(d_1358957596.bodyRefs);
+                    var length_570426609 = len__coreZequality_u1268(d_1358957596.bodyRefs);
                     Label11: {
-                      var h_570426609 = 0;
-                      var colontmp__570426610 = 0;
-                      colontmp__570426610 = (d_1358957596.bodyRefs.data).length - 1;
-                      var res_570426611 = 0;
+                      var h_570426611 = 0;
+                      var colontmp__570426612 = 0;
+                      colontmp__570426612 = (d_1358957596.bodyRefs.data).length - 1;
+                      var res_570426613 = 0;
                       Label12: {
                           Label13: while (true) {
-                          if (!(res_570426611 <= colontmp__570426610)) break Label13;
-                            h_570426609 = res_570426611;
-                            if (isFilled__pureZcollectionsZsets_u39(d_1358957596.bodyRefs.data[chckIndx(h_570426609, 0, (d_1358957596.bodyRefs.data).length - 1)].Field0)) {
-                            r_1358957653 = d_1358957596.bodyRefs.data[chckIndx(h_570426609, 0, (d_1358957596.bodyRefs.data).length - 1)].Field1;
+                          if (!(res_570426613 <= colontmp__570426612)) break Label13;
+                            h_570426611 = res_570426613;
+                            if (isFilled__pureZcollectionsZsets_u39(d_1358957596.bodyRefs.data[chckIndx(h_570426611, 0, (d_1358957596.bodyRefs.data).length - 1)].Field0)) {
+                            r_1358957653 = d_1358957596.bodyRefs.data[chckIndx(h_570426611, 0, (d_1358957596.bodyRefs.data).length - 1)].Field1;
                             if ((contains__coreZequality_u1527(defNames_1358957587, r_1358957653) && !(contains__coreZequality_u1527(needed_1358957591[0], r_1358957653)))) {
                             incl__evalZstdlib95registry_u1530(needed_1358957591[0], r_1358957653);
                             changed_1358957592 = true;
                             }
                             
-                            if (!((len__coreZequality_u1268(d_1358957596.bodyRefs) == length_570426607))) {
+                            if (!((len__coreZequality_u1268(d_1358957596.bodyRefs) == length_570426609))) {
                             failedAssertImpl__stdZassertions_u86(makeNimstrLit("sets.nim(272, 13) `len(s) == length` the length of the HashSet changed while iterating over it"));
                             }
                             
                             }
                             
-                            res_570426611 = addInt(res_570426611, 1);
+                            res_570426613 = addInt(res_570426613, 1);
                           }
                       };
                     };
                   };
                   }
                   
-                  i_570426613 += 1;
-                  if (!(((defs_1358957433).length == L_570426614))) {
+                  i_570426615 += 1;
+                  if (!(((defs_1358957433).length == L_570426616))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -33613,29 +33613,29 @@ function spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_p0, sym
     };
     Label14: {
       var d_1358957786 = ({name: [], startIdx: 0, endIdx: 0, bodyRefs: ({data: [], counter: 0})});
-      var i_570426620 = 0;
-      var L_570426621 = (defs_1358957433).length;
+      var i_570426622 = 0;
+      var L_570426623 = (defs_1358957433).length;
       Label15: {
           Label16: while (true) {
-          if (!(i_570426620 < L_570426621)) break Label16;
-            d_1358957786 = defs_1358957433[chckIndx(i_570426620, 0, (defs_1358957433).length - 1)];
+          if (!(i_570426622 < L_570426623)) break Label16;
+            d_1358957786 = defs_1358957433[chckIndx(i_570426622, 0, (defs_1358957433).length - 1)];
             if (contains__coreZequality_u1527(needed_1358957591[0], d_1358957786.name)) {
             Label17: {
               var idx_1358957844 = 0;
-              var i_570426618 = d_1358957786.startIdx;
+              var i_570426620 = d_1358957786.startIdx;
               Label18: {
                   Label19: while (true) {
-                  if (!(i_570426618 < d_1358957786.endIdx)) break Label19;
-                    idx_1358957844 = i_570426618;
+                  if (!(i_570426620 < d_1358957786.endIdx)) break Label19;
+                    idx_1358957844 = i_570426620;
                     result_1358957430.push(ast_1358957432[chckIndx(idx_1358957844, 0, (ast_1358957432).length - 1)]);;
-                    i_570426618 = addInt(i_570426618, 1);
+                    i_570426620 = addInt(i_570426620, 1);
                   }
               };
             };
             }
             
-            i_570426620 += 1;
-            if (!(((defs_1358957433).length == L_570426621))) {
+            i_570426622 += 1;
+            if (!(((defs_1358957433).length == L_570426623))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33734,18 +33734,18 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
   var result_1291849156 = [];
 
   BeforeRet: {
-    var HEX3Aenv_570426343 = null;
-    HEX3Aenv_570426343 = {m_type: NTI570425756, emitted0: [], eval1: null};
-    HEX3Aenv_570426343.eval1 = eval_p0;
+    var HEX3Aenv_570426345 = null;
+    HEX3Aenv_570426345 = {m_type: NTI570425757, emitted0: [], eval1: null};
+    HEX3Aenv_570426345.eval1 = eval_p0;
     var hasWork_1291849157 = false;
     Label1: {
       var v_1291849161 = null;
-      var i_570426378 = 0;
-      var L_570426379 = (ast_p1).length;
+      var i_570426380 = 0;
+      var L_570426381 = (ast_p1).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426378 < L_570426379)) break Label3;
-            v_1291849161 = ast_p1[chckIndx(i_570426378, 0, (ast_p1).length - 1)];
+          if (!(i_570426380 < L_570426381)) break Label3;
+            v_1291849161 = ast_p1[chckIndx(i_570426380, 0, (ast_p1).length - 1)];
               if (!(v_1291849161.kind == 23)) Temporary5 = false; else {                var Temporary6 = v_1291849161;
                 if (ConstSet1247[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 4);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = v_1291849161;
@@ -33764,34 +33764,34 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
             break Label1;
             }
             
-            i_570426378 += 1;
-            if (!(((ast_p1).length == L_570426379))) {
+            i_570426380 += 1;
+            if (!(((ast_p1).length == L_570426381))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
           }
       };
     };
-    if ((!(hasWork_1291849157) && (0 < len__coreZequality_u1268(HEX3Aenv_570426343.eval1.macros)))) {
+    if ((!(hasWork_1291849157) && (0 < len__coreZequality_u1268(HEX3Aenv_570426345.eval1.macros)))) {
     Label12: {
       var v_1291849341 = null;
-      var i_570426382 = 0;
-      var L_570426383 = (ast_p1).length;
+      var i_570426384 = 0;
+      var L_570426385 = (ast_p1).length;
       Label13: {
           Label14: while (true) {
-          if (!(i_570426382 < L_570426383)) break Label14;
-            v_1291849341 = ast_p1[chckIndx(i_570426382, 0, (ast_p1).length - 1)];
+          if (!(i_570426384 < L_570426385)) break Label14;
+            v_1291849341 = ast_p1[chckIndx(i_570426384, 0, (ast_p1).length - 1)];
               if (!(v_1291849341.kind == 23)) Temporary16 = false; else {                var Temporary17 = v_1291849341;
                 if (ConstSet1251[Temporary17.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary17.kind, NTI704643076)); }
                 Temporary16 = (Temporary17.wordKind == 0);              }              if (!Temporary16) Temporary15 = false; else {                var Temporary18 = v_1291849341;
                 if (ConstSet1252[Temporary18.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary18.kind, NTI704643076)); }
-                Temporary15 = contains__coreZequality_u1527(HEX3Aenv_570426343.eval1.macros, Temporary18.wordName);              }            if (Temporary15) {
+                Temporary15 = contains__coreZequality_u1527(HEX3Aenv_570426345.eval1.macros, Temporary18.wordName);              }            if (Temporary15) {
             hasWork_1291849157 = true;
             break Label12;
             }
             
-            i_570426382 += 1;
-            if (!(((ast_p1).length == L_570426383))) {
+            i_570426384 += 1;
+            if (!(((ast_p1).length == L_570426385))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -33806,7 +33806,7 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
     }
     
     if (forCompilation_p2) {
-    var sys_1291849403 = get__coreZtypes_u563(HEX3Aenv_570426343.eval1.global, [115,121,115,116,101,109]);
+    var sys_1291849403 = get__coreZtypes_u563(HEX3Aenv_570426345.eval1.global, [115,121,115,116,101,109]);
     if ((sys_1291849403.kind == 17)) {
     var Temporary19 = sys_1291849403;
     if (ConstSet1253[Temporary19.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary19.kind, NTI704643076)); }
@@ -33827,24 +33827,24 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
               Temporary24 = eqStrings(Temporary27.wordName, [105,110,108,105,110,101]);            }            if (!Temporary24) Temporary23 = false; else {              Temporary23 = (addInt(i_1291849412, 1) < (ast_p1).length);            }            if (!Temporary23) Temporary22 = false; else {              Temporary22 = (ast_p1[chckIndx(addInt(i_1291849412, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary22) {
           var Temporary28 = ast_p1[chckIndx(addInt(i_1291849412, 1), 0, (ast_p1).length - 1)];
           if (ConstSet1256[Temporary28.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary28.kind, NTI704643076)); }
-          var value_1291849431 = evalBlock__evalZevaluator_u66(HEX3Aenv_570426343.eval1, Temporary28.blockVals, HEX3Aenv_570426343.eval1.global);
+          var value_1291849431 = evalBlock__evalZevaluator_u66(HEX3Aenv_570426345.eval1, Temporary28.blockVals, HEX3Aenv_570426345.eval1.global);
           if ((!((value_1291849431 == null)) && !((value_1291849431.kind == 4)))) {
           if ((value_1291849431.kind == 13)) {
           Label29: {
             var v_1291849447 = null;
-            var colontmp__570426387 = [];
+            var colontmp__570426389 = [];
             var Temporary30 = value_1291849431;
             if (ConstSet1257[Temporary30.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary30.kind, NTI704643076)); }
-            colontmp__570426387 = Temporary30.blockVals;
-            var i_570426388 = 0;
-            var L_570426389 = (colontmp__570426387).length;
+            colontmp__570426389 = Temporary30.blockVals;
+            var i_570426390 = 0;
+            var L_570426391 = (colontmp__570426389).length;
             Label31: {
                 Label32: while (true) {
-                if (!(i_570426388 < L_570426389)) break Label32;
-                  v_1291849447 = colontmp__570426387[chckIndx(i_570426388, 0, (colontmp__570426387).length - 1)];
+                if (!(i_570426390 < L_570426391)) break Label32;
+                  v_1291849447 = colontmp__570426389[chckIndx(i_570426390, 0, (colontmp__570426389).length - 1)];
                   result_1291849156.push(v_1291849447);;
-                  i_570426388 += 1;
-                  if (!(((colontmp__570426387).length == L_570426389))) {
+                  i_570426390 += 1;
+                  if (!(((colontmp__570426389).length == L_570426391))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -33866,24 +33866,24 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
               Temporary36 = (Temporary37.wordKind == 4);            }            if (!Temporary36) Temporary35 = false; else {              var Temporary38 = ast_p1[chckIndx(i_1291849412, 0, (ast_p1).length - 1)];
               if (ConstSet1259[Temporary38.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary38.kind, NTI704643076)); }
               Temporary35 = eqStrings(Temporary38.wordName, [112,114,101,112,114,111,99,101,115,115]);            }            if (!Temporary35) Temporary34 = false; else {              Temporary34 = (addInt(i_1291849412, 1) < (ast_p1).length);            }            if (!Temporary34) Temporary33 = false; else {              Temporary33 = (ast_p1[chckIndx(addInt(i_1291849412, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary33) {
-          var ppCtx_1291849475 = child__coreZtypes_u2943(HEX3Aenv_570426343.eval1.global);
-          HEX3Aenv_570426343.emitted0 = nimCopy(null, [], NTI704643218);
-          Temporary39 = HEX3Aanonymous__evalZevaluator_u3849.bind(HEX3Aenv_570426343); Temporary39.ClP_0 = HEX3Aanonymous__evalZevaluator_u3849; Temporary39.ClE_0 = HEX3Aenv_570426343;
+          var ppCtx_1291849475 = child__coreZtypes_u2943(HEX3Aenv_570426345.eval1.global);
+          HEX3Aenv_570426345.emitted0 = nimCopy(null, [], NTI704643218);
+          Temporary39 = HEX3Aanonymous__evalZevaluator_u3849.bind(HEX3Aenv_570426345); Temporary39.ClP_0 = HEX3Aanonymous__evalZevaluator_u3849; Temporary39.ClE_0 = HEX3Aenv_570426345;
           set__coreZtypes_u1354(ppCtx_1291849475, [101,109,105,116], {kind: 20, nativeFn: {name: [101,109,105,116], arity: 1, fn: Temporary39, refinements: []}, line: 0, boundCtx: null, customType: null, intVal: 0n, floatVal: 0.0, strVal: [], boolVal: false, cents: 0n, px: 0.0, py: 0.0, tupleVals: [], year: 0, month: 0, day: 0, hour: 0, minute: 0, second: 0, filePath: [], urlVal: [], emailVal: [], blockVals: [], parenVals: [], mapEntries: ({data: [], counter: 0, first: 0, last: 0}), setMembers: ({data: [], counter: 0}), ctx: null, obj: null, fn: null, opFn: null, opSymbol: [], typeName: [], wordName: [], wordKind: 0});
           var Temporary40 = ast_p1[chckIndx(addInt(i_1291849412, 1), 0, (ast_p1).length - 1)];
           if (ConstSet1261[Temporary40.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary40.kind, NTI704643076)); }
-          (evalBlock__evalZevaluator_u66(HEX3Aenv_570426343.eval1, Temporary40.blockVals, ppCtx_1291849475));
+          (evalBlock__evalZevaluator_u66(HEX3Aenv_570426345.eval1, Temporary40.blockVals, ppCtx_1291849475));
           Label41: {
             var v_1291849504 = null;
-            var i_570426392 = 0;
-            var L_570426393 = (HEX3Aenv_570426343.emitted0).length;
+            var i_570426394 = 0;
+            var L_570426395 = (HEX3Aenv_570426345.emitted0).length;
             Label42: {
                 Label43: while (true) {
-                if (!(i_570426392 < L_570426393)) break Label43;
-                  v_1291849504 = HEX3Aenv_570426343.emitted0[chckIndx(i_570426392, 0, (HEX3Aenv_570426343.emitted0).length - 1)];
+                if (!(i_570426394 < L_570426395)) break Label43;
+                  v_1291849504 = HEX3Aenv_570426345.emitted0[chckIndx(i_570426394, 0, (HEX3Aenv_570426345.emitted0).length - 1)];
                   result_1291849156.push(v_1291849504);;
-                  i_570426392 += 1;
-                  if (!(((HEX3Aenv_570426343.emitted0).length == L_570426393))) {
+                  i_570426394 += 1;
+                  if (!(((HEX3Aenv_570426345.emitted0).length == L_570426395))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -33926,9 +33926,9 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
           var composedBody_1291849548 = ktgBlock__coreZtypes_u367([ktgWord__coreZtypes_u399(composeName_1291849543, 4, 0), userBody_1291849542], 0);
           var fnAst_1291849553 = [ktgWord__coreZtypes_u399([102,117,110,99,116,105,111,110], 0, 0), specBlock_1291849541, composedBody_1291849548];
           var defPos_1291849554 = [0];
-          var fnVal_1291849555 = evalNext__evalZevaluator_u70(HEX3Aenv_570426343.eval1, fnAst_1291849553, defPos_1291849554, 0, HEX3Aenv_570426343.eval1.global);
-          incl__evalZstdlib95registry_u1530(HEX3Aenv_570426343.eval1.macros, compName_1291849540);
-          set__coreZtypes_u1354(HEX3Aenv_570426343.eval1.global, compName_1291849540, fnVal_1291849555);
+          var fnVal_1291849555 = evalNext__evalZevaluator_u70(HEX3Aenv_570426345.eval1, fnAst_1291849553, defPos_1291849554, 0, HEX3Aenv_570426345.eval1.global);
+          incl__evalZstdlib95registry_u1530(HEX3Aenv_570426345.eval1.macros, compName_1291849540);
+          set__coreZtypes_u1354(HEX3Aenv_570426345.eval1.global, compName_1291849540, fnVal_1291849555);
           i_1291849412 = addInt(i_1291849412, 4);
           }
           else {
@@ -33936,29 +33936,29 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
               if (ConstSet1269[Temporary63.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary63.kind, NTI704643076)); }
               Temporary62 = (Temporary63.wordKind == 0);            }            if (!Temporary62) Temporary61 = false; else {              var Temporary64 = ast_p1[chckIndx(i_1291849412, 0, (ast_p1).length - 1)];
               if (ConstSet1270[Temporary64.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary64.kind, NTI704643076)); }
-              Temporary61 = contains__coreZequality_u1527(HEX3Aenv_570426343.eval1.macros, Temporary64.wordName);            }          if (Temporary61) {
+              Temporary61 = contains__coreZequality_u1527(HEX3Aenv_570426345.eval1.macros, Temporary64.wordName);            }          if (Temporary61) {
           var Temporary65 = ast_p1[chckIndx(i_1291849412, 0, (ast_p1).length - 1)];
           if (ConstSet1271[Temporary65.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary65.kind, NTI704643076)); }
           var macroName_1291849644 = nimCopy(null, Temporary65.wordName, NTI33554449);
-          var macroFn_1291849645 = get__coreZtypes_u563(HEX3Aenv_570426343.eval1.global, macroName_1291849644);
+          var macroFn_1291849645 = get__coreZtypes_u563(HEX3Aenv_570426345.eval1.global, macroName_1291849644);
           var callPos_1291849646 = [addInt(i_1291849412, 1)];
-          var expanded_1291849647 = callCallable__evalZevaluator_u75(HEX3Aenv_570426343.eval1, macroFn_1291849645, ast_p1, callPos_1291849646, 0, HEX3Aenv_570426343.eval1.global, null);
+          var expanded_1291849647 = callCallable__evalZevaluator_u75(HEX3Aenv_570426345.eval1, macroFn_1291849645, ast_p1, callPos_1291849646, 0, HEX3Aenv_570426345.eval1.global, null);
           if ((expanded_1291849647.kind == 13)) {
           Label66: {
             var v_1291849655 = null;
-            var colontmp__570426396 = [];
+            var colontmp__570426398 = [];
             var Temporary67 = expanded_1291849647;
             if (ConstSet1272[Temporary67.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary67.kind, NTI704643076)); }
-            colontmp__570426396 = Temporary67.blockVals;
-            var i_570426397 = 0;
-            var L_570426398 = (colontmp__570426396).length;
+            colontmp__570426398 = Temporary67.blockVals;
+            var i_570426399 = 0;
+            var L_570426400 = (colontmp__570426398).length;
             Label68: {
                 Label69: while (true) {
-                if (!(i_570426397 < L_570426398)) break Label69;
-                  v_1291849655 = colontmp__570426396[chckIndx(i_570426397, 0, (colontmp__570426396).length - 1)];
+                if (!(i_570426399 < L_570426400)) break Label69;
+                  v_1291849655 = colontmp__570426398[chckIndx(i_570426399, 0, (colontmp__570426398).length - 1)];
                   result_1291849156.push(v_1291849655);;
-                  i_570426397 += 1;
-                  if (!(((colontmp__570426396).length == L_570426398))) {
+                  i_570426399 += 1;
+                  if (!(((colontmp__570426398).length == L_570426400))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -33978,22 +33978,22 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
               Temporary73 = (Temporary74.wordKind == 4);            }            if (!Temporary73) Temporary72 = false; else {              var Temporary75 = ast_p1[chckIndx(i_1291849412, 0, (ast_p1).length - 1)];
               if (ConstSet1274[Temporary75.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary75.kind, NTI704643076)); }
               Temporary72 = eqStrings(Temporary75.wordName, [103,97,109,101]);            }            if (!Temporary72) Temporary71 = false; else {              Temporary71 = (addInt(i_1291849412, 1) < (ast_p1).length);            }            if (!Temporary71) Temporary70 = false; else {              Temporary70 = (ast_p1[chckIndx(addInt(i_1291849412, 1), 0, (ast_p1).length - 1)].kind == 13);            }          if (Temporary70) {
-          Temporary76 = HEX3Aanonymous__evalZevaluator_u4047.bind(HEX3Aenv_570426343); Temporary76.ClP_0 = HEX3Aanonymous__evalZevaluator_u4047; Temporary76.ClE_0 = HEX3Aenv_570426343;
+          Temporary76 = HEX3Aanonymous__evalZevaluator_u4047.bind(HEX3Aenv_570426345); Temporary76.ClP_0 = HEX3Aanonymous__evalZevaluator_u4047; Temporary76.ClE_0 = HEX3Aenv_570426345;
           var expander_1291849774 = Temporary76;
           var Temporary77 = ast_p1[chckIndx(addInt(i_1291849412, 1), 0, (ast_p1).length - 1)];
           if (ConstSet1372[Temporary77.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary77.kind, NTI704643076)); }
           var expanded_1291849775 = expand__dialectsZgame95dialect_u5981(Temporary77.blockVals, target_p3, expander_1291849774);
           Label78: {
             var v_1291849779 = null;
-            var i_570426401 = 0;
-            var L_570426402 = (expanded_1291849775).length;
+            var i_570426403 = 0;
+            var L_570426404 = (expanded_1291849775).length;
             Label79: {
                 Label80: while (true) {
-                if (!(i_570426401 < L_570426402)) break Label80;
-                  v_1291849779 = expanded_1291849775[chckIndx(i_570426401, 0, (expanded_1291849775).length - 1)];
+                if (!(i_570426403 < L_570426404)) break Label80;
+                  v_1291849779 = expanded_1291849775[chckIndx(i_570426403, 0, (expanded_1291849775).length - 1)];
                   result_1291849156.push(v_1291849779);;
-                  i_570426401 += 1;
-                  if (!(((expanded_1291849775).length == L_570426402))) {
+                  i_570426403 += 1;
+                  if (!(((expanded_1291849775).length == L_570426404))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -34017,16 +34017,16 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
           var symbols_1291849895 = [];
           Label91: {
             var v_1291849899 = null;
-            var colontmp__570426405 = [];
+            var colontmp__570426407 = [];
             var Temporary92 = ast_p1[chckIndx(addInt(i_1291849412, 2), 0, (ast_p1).length - 1)];
             if (ConstSet1377[Temporary92.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary92.kind, NTI704643076)); }
-            colontmp__570426405 = Temporary92.blockVals;
-            var i_570426406 = 0;
-            var L_570426407 = (colontmp__570426405).length;
+            colontmp__570426407 = Temporary92.blockVals;
+            var i_570426408 = 0;
+            var L_570426409 = (colontmp__570426407).length;
             Label93: {
                 Label94: while (true) {
-                if (!(i_570426406 < L_570426407)) break Label94;
-                  v_1291849899 = colontmp__570426405[chckIndx(i_570426406, 0, (colontmp__570426405).length - 1)];
+                if (!(i_570426408 < L_570426409)) break Label94;
+                  v_1291849899 = colontmp__570426407[chckIndx(i_570426408, 0, (colontmp__570426407).length - 1)];
                   if ((v_1291849899.kind == 23)) {
                   var Temporary95 = v_1291849899;
                   if (ConstSet1378[Temporary95.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary95.kind, NTI704643076)); }
@@ -34034,8 +34034,8 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
                   symbols_1291849895.push(Temporary96);;
                   }
                   
-                  i_570426406 += 1;
-                  if (!(((colontmp__570426405).length == L_570426407))) {
+                  i_570426408 += 1;
+                  if (!(((colontmp__570426407).length == L_570426409))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -34045,15 +34045,15 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
           var selected_1291849908 = spliceSelectedFunctions__evalZstdlib95registry_u2931(moduleName_1291849811, symbols_1291849895);
           Label97: {
             var v_1291849912 = null;
-            var i_570426410 = 0;
-            var L_570426411 = (selected_1291849908).length;
+            var i_570426412 = 0;
+            var L_570426413 = (selected_1291849908).length;
             Label98: {
                 Label99: while (true) {
-                if (!(i_570426410 < L_570426411)) break Label99;
-                  v_1291849912 = selected_1291849908[chckIndx(i_570426410, 0, (selected_1291849908).length - 1)];
+                if (!(i_570426412 < L_570426413)) break Label99;
+                  v_1291849912 = selected_1291849908[chckIndx(i_570426412, 0, (selected_1291849908).length - 1)];
                   result_1291849156.push(v_1291849912);;
-                  i_570426410 += 1;
-                  if (!(((selected_1291849908).length == L_570426411))) {
+                  i_570426412 += 1;
+                  if (!(((selected_1291849908).length == L_570426413))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -34083,15 +34083,15 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
           var moduleAst_1291850054 = parseSource__parseZparser_u263(source_1291850053);
           Label109: {
             var v_1291850058 = null;
-            var i_570426414 = 0;
-            var L_570426415 = (moduleAst_1291850054).length;
+            var i_570426416 = 0;
+            var L_570426417 = (moduleAst_1291850054).length;
             Label110: {
                 Label111: while (true) {
-                if (!(i_570426414 < L_570426415)) break Label111;
-                  v_1291850058 = moduleAst_1291850054[chckIndx(i_570426414, 0, (moduleAst_1291850054).length - 1)];
+                if (!(i_570426416 < L_570426417)) break Label111;
+                  v_1291850058 = moduleAst_1291850054[chckIndx(i_570426416, 0, (moduleAst_1291850054).length - 1)];
                   result_1291849156.push(v_1291850058);;
-                  i_570426414 += 1;
-                  if (!(((moduleAst_1291850054).length == L_570426415))) {
+                  i_570426416 += 1;
+                  if (!(((moduleAst_1291850054).length == L_570426417))) {
                   failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                   }
                   
@@ -34113,7 +34113,7 @@ function preprocess__evalZevaluator_u3519(eval_p0, ast_p1, forCompilation_p2, ta
         }
     };
     if (forCompilation_p2) {
-    var sys_1291850075 = get__coreZtypes_u563(HEX3Aenv_570426343.eval1.global, [115,121,115,116,101,109]);
+    var sys_1291850075 = get__coreZtypes_u563(HEX3Aenv_570426345.eval1.global, [115,121,115,116,101,109]);
     if ((sys_1291850075.kind == 17)) {
     var Temporary112 = sys_1291850075;
     if (ConstSet1396[Temporary112.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'ctx\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary112.kind, NTI704643076)); }
@@ -34155,16 +34155,16 @@ function initNativeBindings__emitZlua_u1649() {
     Label1: {
       var name_1644168890 = [];
       var arity_1644168891 = 0;
-      var i_570426638 = 0;
-      var L_570426639 = (nativeArities_1660944391).length;
+      var i_570426640 = 0;
+      var L_570426641 = (nativeArities_1660944391).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426638 < L_570426639)) break Label3;
-            name_1644168890 = nativeArities_1660944391[chckIndx(i_570426638, 0, (nativeArities_1660944391).length - 1)]["Field0"];
-            arity_1644168891 = nativeArities_1660944391[chckIndx(i_570426638, 0, (nativeArities_1660944391).length - 1)]["Field1"];
+          if (!(i_570426640 < L_570426641)) break Label3;
+            name_1644168890 = nativeArities_1660944391[chckIndx(i_570426640, 0, (nativeArities_1660944391).length - 1)]["Field0"];
+            arity_1644168891 = nativeArities_1660944391[chckIndx(i_570426640, 0, (nativeArities_1660944391).length - 1)]["Field1"];
             HEX5BHEX5DHEX3D__emitZlua_u1760(result_1644168820[0], name_1644168890, bindingFunc__emitZlua_u1622(arity_1644168891, [], (-1)));
-            i_570426638 += 1;
-            if (!(((nativeArities_1660944391).length == L_570426639))) {
+            i_570426640 += 1;
+            if (!(((nativeArities_1660944391).length == L_570426641))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -34173,15 +34173,15 @@ function initNativeBindings__emitZlua_u1649() {
     };
     Label4: {
       var name_1644170013 = [];
-      var i_570426642 = 0;
-      var L_570426643 = (typePredNames_1660944396).length;
+      var i_570426644 = 0;
+      var L_570426645 = (typePredNames_1660944396).length;
       Label5: {
           Label6: while (true) {
-          if (!(i_570426642 < L_570426643)) break Label6;
-            name_1644170013 = typePredNames_1660944396[chckIndx(i_570426642, 0, (typePredNames_1660944396).length - 1)];
+          if (!(i_570426644 < L_570426645)) break Label6;
+            name_1644170013 = typePredNames_1660944396[chckIndx(i_570426644, 0, (typePredNames_1660944396).length - 1)];
             HEX5BHEX5DHEX3D__emitZlua_u1760(result_1644168820[0], (name_1644170013).concat([63]), bindingFunc__emitZlua_u1622(1, [], (-1)));
-            i_570426642 += 1;
-            if (!(((typePredNames_1660944396).length == L_570426643))) {
+            i_570426644 += 1;
+            if (!(((typePredNames_1660944396).length == L_570426645))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -34216,12 +34216,12 @@ function collectModuleNames__emitZlua_u28852(vals_p0) {
     result_1644196023[0] = nimCopy(result_1644196023[0], initHashSet__evalZstdlib95registry_u3030(64), NTI704643118);
     Label1: {
       var v_1644196039 = null;
-      var i_570426646 = 0;
-      var L_570426647 = (vals_p0).length;
+      var i_570426648 = 0;
+      var L_570426649 = (vals_p0).length;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426646 < L_570426647)) break Label3;
-            v_1644196039 = vals_p0[chckIndx(i_570426646, 0, (vals_p0).length - 1)];
+          if (!(i_570426648 < L_570426649)) break Label3;
+            v_1644196039 = vals_p0[chckIndx(i_570426648, 0, (vals_p0).length - 1)];
               if (!(v_1644196039.kind == 23)) Temporary5 = false; else {                var Temporary6 = v_1644196039;
                 if (ConstSet1397[Temporary6.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordKind\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary6.kind, NTI704643076)); }
                 Temporary5 = (Temporary6.wordKind == 1);              }              if (!Temporary5) Temporary4 = false; else {                var Temporary7 = v_1644196039;
@@ -34232,8 +34232,8 @@ function collectModuleNames__emitZlua_u28852(vals_p0) {
             incl__evalZstdlib95registry_u1530(result_1644196023[0], luaName__emitZlua_u2929(Temporary8.wordName));
             }
             
-            i_570426646 += 1;
-            if (!(((vals_p0).length == L_570426647))) {
+            i_570426648 += 1;
+            if (!(((vals_p0).length == L_570426649))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -34268,18 +34268,18 @@ function rawInsert__emitZlua_u25268(t_p0, data_p1, data_p1_Idx, key_p2, val_p3, 
 
 function enlarge__emitZlua_u24967(t_p0) {
     var n_1644192141 = [];
-    n_1644192141 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1644192141[i] = {Field0: 0, Field1: [], Field2: 0}; }    var HEX3Atmp_570426674 = nimCopy(null, t_p0.data, NTI1644167216);
+    n_1644192141 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1644192141[i] = {Field0: 0, Field1: [], Field2: 0}; }    var HEX3Atmp_570426676 = nimCopy(null, t_p0.data, NTI1644167216);
     t_p0.data = n_1644192141;
-    n_1644192141 = HEX3Atmp_570426674;
+    n_1644192141 = HEX3Atmp_570426676;
     Label1: {
       var i_1644192212 = 0;
-      var colontmp__570426671 = 0;
-      colontmp__570426671 = (n_1644192141).length - 1;
-      var res_570426672 = 0;
+      var colontmp__570426673 = 0;
+      colontmp__570426673 = (n_1644192141).length - 1;
+      var res_570426674 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570426672 <= colontmp__570426671)) break Label3;
-            i_1644192212 = res_570426672;
+          if (!(res_570426674 <= colontmp__570426673)) break Label3;
+            i_1644192212 = res_570426674;
             var eh_1644192266 = n_1644192141[chckIndx(i_1644192212, 0, (n_1644192141).length - 1)].Field0;
             if (isFilled__pureZcollectionsZtables_u31(eh_1644192266)) {
             var j_1644192270 = (eh_1644192266 & (t_p0.data).length - 1);
@@ -34292,7 +34292,7 @@ function enlarge__emitZlua_u24967(t_p0) {
             rawInsert__emitZlua_u25268(t_p0, t_p0, "data", n_1644192141[chckIndx(i_1644192212, 0, (n_1644192141).length - 1)].Field1, n_1644192141[chckIndx(i_1644192212, 0, (n_1644192141).length - 1)].Field2, eh_1644192266, j_1644192270);
             }
             
-            res_570426672 = addInt(res_570426672, 1);
+            res_570426674 = addInt(res_570426674, 1);
           }
       };
     };
@@ -34524,18 +34524,18 @@ function rawInsert__emitZlua_u27919(t_p0, data_p1, data_p1_Idx, key_p2, val_p3, 
 
 function enlarge__emitZlua_u27618(t_p0) {
     var n_1644194792 = [];
-    n_1644194792 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1644194792[i] = {Field0: 0, Field1: [], Field2: []}; }    var HEX3Atmp_570426681 = nimCopy(null, t_p0.data, NTI1644167242);
+    n_1644194792 = new Array(chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647)); for (var i = 0 ; i < chckRange(mulInt((t_p0.data).length, 2), 0, 2147483647) ; ++i) { n_1644194792[i] = {Field0: 0, Field1: [], Field2: []}; }    var HEX3Atmp_570426683 = nimCopy(null, t_p0.data, NTI1644167242);
     t_p0.data = n_1644194792;
-    n_1644194792 = HEX3Atmp_570426681;
+    n_1644194792 = HEX3Atmp_570426683;
     Label1: {
       var i_1644194863 = 0;
-      var colontmp__570426678 = 0;
-      colontmp__570426678 = (n_1644194792).length - 1;
-      var res_570426679 = 0;
+      var colontmp__570426680 = 0;
+      colontmp__570426680 = (n_1644194792).length - 1;
+      var res_570426681 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(res_570426679 <= colontmp__570426678)) break Label3;
-            i_1644194863 = res_570426679;
+          if (!(res_570426681 <= colontmp__570426680)) break Label3;
+            i_1644194863 = res_570426681;
             var eh_1644194917 = n_1644194792[chckIndx(i_1644194863, 0, (n_1644194792).length - 1)].Field0;
             if (isFilled__pureZcollectionsZtables_u31(eh_1644194917)) {
             var j_1644194921 = (eh_1644194917 & (t_p0.data).length - 1);
@@ -34548,7 +34548,7 @@ function enlarge__emitZlua_u27618(t_p0) {
             rawInsert__emitZlua_u27919(t_p0, t_p0, "data", n_1644194792[chckIndx(i_1644194863, 0, (n_1644194792).length - 1)].Field1, n_1644194792[chckIndx(i_1644194863, 0, (n_1644194792).length - 1)].Field2, eh_1644194917, j_1644194921);
             }
             
-            res_570426679 = addInt(res_570426679, 1);
+            res_570426681 = addInt(res_570426681, 1);
           }
       };
     };
@@ -34732,15 +34732,15 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
             var refInfos_1644193589 = [];
             Label17: {
               var r_1644193593 = ({name: [], params: []});
-              var i_570426652 = 0;
-              var L_570426653 = (spec_1644193584.refinements).length;
+              var i_570426654 = 0;
+              var L_570426655 = (spec_1644193584.refinements).length;
               Label18: {
                   Label19: while (true) {
-                  if (!(i_570426652 < L_570426653)) break Label19;
-                    r_1644193593 = spec_1644193584.refinements[chckIndx(i_570426652, 0, (spec_1644193584.refinements).length - 1)];
+                  if (!(i_570426654 < L_570426655)) break Label19;
+                    r_1644193593 = spec_1644193584.refinements[chckIndx(i_570426654, 0, (spec_1644193584.refinements).length - 1)];
                     refInfos_1644193589.push({name: nimCopy(null, r_1644193593.name, NTI33554449), paramCount: (r_1644193593.params).length});;
-                    i_570426652 += 1;
-                    if (!(((spec_1644193584.refinements).length == L_570426653))) {
+                    i_570426654 += 1;
+                    if (!(((spec_1644193584.refinements).length == L_570426655))) {
                     failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                     }
                     
@@ -34777,15 +34777,15 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
               var paramNames_1644193757 = [({data: [], counter: 0})];
               Label29: {
                 var ps_1644193761 = ({name: [], typeName: [], elementType: [], isOpt: false});
-                var i_570426656 = 0;
-                var L_570426657 = (spec_1644193584.params).length;
+                var i_570426658 = 0;
+                var L_570426659 = (spec_1644193584.params).length;
                 Label30: {
                     Label31: while (true) {
-                    if (!(i_570426656 < L_570426657)) break Label31;
-                      ps_1644193761 = spec_1644193584.params[chckIndx(i_570426656, 0, (spec_1644193584.params).length - 1)];
+                    if (!(i_570426658 < L_570426659)) break Label31;
+                      ps_1644193761 = spec_1644193584.params[chckIndx(i_570426658, 0, (spec_1644193584.params).length - 1)];
                       incl__evalZstdlib95registry_u1530(paramNames_1644193757[0], ps_1644193761.name);
-                      i_570426656 += 1;
-                      if (!(((spec_1644193584.params).length == L_570426657))) {
+                      i_570426658 += 1;
+                      if (!(((spec_1644193584.params).length == L_570426659))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -34796,12 +34796,12 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
               var hasArithOp_1644193789 = false;
               Label32: {
                 var v_1644193793 = null;
-                var i_570426660 = 0;
-                var L_570426661 = (body_1644193755).length;
+                var i_570426662 = 0;
+                var L_570426663 = (body_1644193755).length;
                 Label33: {
                     Label34: while (true) {
-                    if (!(i_570426660 < L_570426661)) break Label34;
-                      v_1644193793 = body_1644193755[chckIndx(i_570426660, 0, (body_1644193755).length - 1)];
+                    if (!(i_570426662 < L_570426663)) break Label34;
+                      v_1644193793 = body_1644193755[chckIndx(i_570426662, 0, (body_1644193755).length - 1)];
                       switch (v_1644193793.kind) {
                       case 0:
                       case 1:
@@ -34845,8 +34845,8 @@ function prescanBlock__emitZlua_u26363(e_p0, vals_p1) {
                       break Label32;
                       }
                       
-                      i_570426660 += 1;
-                      if (!(((body_1644193755).length == L_570426661))) {
+                      i_570426662 += 1;
+                      if (!(((body_1644193755).length == L_570426663))) {
                       failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
                       }
                       
@@ -35196,13 +35196,13 @@ function scanTypeChecks__emitZlua_u29058(e_p0, vals_p1) {
 
     Label1: {
       var i_1644196236 = 0;
-      var colontmp__570426685 = 0;
-      colontmp__570426685 = (vals_p1).length;
-      var i_570426686 = 0;
+      var colontmp__570426687 = 0;
+      colontmp__570426687 = (vals_p1).length;
+      var i_570426688 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426686 < colontmp__570426685)) break Label3;
-            i_1644196236 = i_570426686;
+          if (!(i_570426688 < colontmp__570426687)) break Label3;
+            i_1644196236 = i_570426688;
             if ((vals_p1[chckIndx(i_1644196236, 0, (vals_p1).length - 1)].kind == 13)) {
             var Temporary4 = vals_p1[chckIndx(i_1644196236, 0, (vals_p1).length - 1)];
             if (ConstSet1468[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
@@ -35228,7 +35228,7 @@ function scanTypeChecks__emitZlua_u29058(e_p0, vals_p1) {
             
             }
             }
-            i_570426686 = addInt(i_570426686, 1);
+            i_570426688 = addInt(i_570426688, 1);
           }
       };
     };
@@ -35246,13 +35246,13 @@ function scanNoneUsage__emitZlua_u29137(e_p0, vals_p1) {
   BeforeRet: {
     Label1: {
       var i_1644196315 = 0;
-      var colontmp__570426689 = 0;
-      colontmp__570426689 = (vals_p1).length;
-      var i_570426690 = 0;
+      var colontmp__570426691 = 0;
+      colontmp__570426691 = (vals_p1).length;
+      var i_570426692 = 0;
       Label2: {
           Label3: while (true) {
-          if (!(i_570426690 < colontmp__570426689)) break Label3;
-            i_1644196315 = i_570426690;
+          if (!(i_570426692 < colontmp__570426691)) break Label3;
+            i_1644196315 = i_570426692;
             switch (vals_p1[chckIndx(i_1644196315, 0, (vals_p1).length - 1)].kind) {
             case 13:
               var Temporary4 = vals_p1[chckIndx(i_1644196315, 0, (vals_p1).length - 1)];
@@ -35278,7 +35278,7 @@ function scanNoneUsage__emitZlua_u29137(e_p0, vals_p1) {
             default: 
               break;
             }
-            i_570426690 = addInt(i_570426690, 1);
+            i_570426692 = addInt(i_570426692, 1);
           }
       };
     };
@@ -35450,15 +35450,15 @@ function kintsugiRun(source_p0) {
     var combinedOut_570425389 = [];
     Label3: {
       var line_570425393 = [];
-      var i_570426693 = 0;
-      var L_570426694 = (eval_570425388.output).length;
+      var i_570426695 = 0;
+      var L_570426696 = (eval_570425388.output).length;
       Label4: {
           Label5: while (true) {
-          if (!(i_570426693 < L_570426694)) break Label5;
-            line_570425393 = eval_570425388.output[chckIndx(i_570426693, 0, (eval_570425388.output).length - 1)];
+          if (!(i_570426695 < L_570426696)) break Label5;
+            line_570425393 = eval_570425388.output[chckIndx(i_570426695, 0, (eval_570425388.output).length - 1)];
             nimAddStrStr(combinedOut_570425389, (line_570425393).concat([10]));;
-            i_570426693 += 1;
-            if (!(((eval_570425388.output).length == L_570426694))) {
+            i_570426695 += 1;
+            if (!(((eval_570425388.output).length == L_570426696))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -35506,6 +35506,15 @@ function kintsugiCodename() {
     result_570425399 = "Sorta-Kinda REBOL";
 
   return result_570425399;
+
+}
+
+function kintsugiBuildDate() {
+  var result_570425401 = null;
+
+    result_570425401 = "2026-04-17";
+
+  return result_570425401;
 
 }
 
@@ -35558,16 +35567,16 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
     if (((pos_1677721667[0] < (blk_p0).length) && (blk_p0[chckIndx(pos_1677721667[0], 0, (blk_p0).length - 1)].kind == 13))) {
     Label3: {
       var v_1677721689 = null;
-      var colontmp__570426710 = [];
+      var colontmp__570426712 = [];
       var Temporary4 = blk_p0[chckIndx(pos_1677721667[0], 0, (blk_p0).length - 1)];
       if (ConstSet1494[Temporary4.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'blockVals\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary4.kind, NTI704643076)); }
-      colontmp__570426710 = Temporary4.blockVals;
-      var i_570426711 = 0;
-      var L_570426712 = (colontmp__570426710).length;
+      colontmp__570426712 = Temporary4.blockVals;
+      var i_570426713 = 0;
+      var L_570426714 = (colontmp__570426712).length;
       Label5: {
           Label6: while (true) {
-          if (!(i_570426711 < L_570426712)) break Label6;
-            v_1677721689 = colontmp__570426710[chckIndx(i_570426711, 0, (colontmp__570426710).length - 1)];
+          if (!(i_570426713 < L_570426714)) break Label6;
+            v_1677721689 = colontmp__570426712[chckIndx(i_570426713, 0, (colontmp__570426712).length - 1)];
             if ((v_1677721689.kind == 23)) {
             var Temporary7 = v_1677721689;
             if (ConstSet1495[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'wordName\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
@@ -35575,8 +35584,8 @@ function parseLoopSpec__dialectsZloop95dialect_u61(blk_p0, eval_p1, ctx_p2) {
             spec_1677721666.vars.push(Temporary8);;
             }
             
-            i_570426711 += 1;
-            if (!(((colontmp__570426710).length == L_570426712))) {
+            i_570426713 += 1;
+            if (!(((colontmp__570426712).length == L_570426714))) {
             failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
             }
             
@@ -35752,19 +35761,19 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
       else {
         Label6: {
           var c_1677721919 = 0;
-          var colontmp__570426698 = [];
+          var colontmp__570426700 = [];
           var Temporary7 = spec_1677721875.series;
           if (ConstSet1508[Temporary7.kind]===undefined) { raiseFieldError2(makeNimstrLit("field \'strVal\' is not accessible for type \'KtgValue\' using \'kind = "), reprDiscriminant(Temporary7.kind, NTI704643076)); }
-          colontmp__570426698 = Temporary7.strVal;
-          var i_570426699 = 0;
-          var L_570426700 = (colontmp__570426698).length;
+          colontmp__570426700 = Temporary7.strVal;
+          var i_570426701 = 0;
+          var L_570426702 = (colontmp__570426700).length;
           Label8: {
               Label9: while (true) {
-              if (!(i_570426699 < L_570426700)) break Label9;
-                c_1677721919 = colontmp__570426698[chckIndx(i_570426699, 0, (colontmp__570426698).length - 1)];
+              if (!(i_570426701 < L_570426702)) break Label9;
+                c_1677721919 = colontmp__570426700[chckIndx(i_570426701, 0, (colontmp__570426700).length - 1)];
                 items_1677721914.push(ktgString__coreZtypes_u324(nimCharToStr(c_1677721919), 0));;
-                i_570426699 += 1;
-                if (!(((colontmp__570426698).length == L_570426700))) {
+                i_570426701 += 1;
+                if (!(((colontmp__570426700).length == L_570426702))) {
                 failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(272, 11) `len(a) == L` the length of the string changed while iterating over it"));
                 }
                 
@@ -35775,12 +35784,12 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
       
       Label10: {
         var item_1677721927 = null;
-        var i_570426704 = 0;
-        var L_570426705 = (items_1677721914).length;
+        var i_570426706 = 0;
+        var L_570426707 = (items_1677721914).length;
         Label11: {
             Label12: while (true) {
-            if (!(i_570426704 < L_570426705)) break Label12;
-              item_1677721927 = items_1677721914[chckIndx(i_570426704, 0, (items_1677721914).length - 1)];
+            if (!(i_570426706 < L_570426707)) break Label12;
+              item_1677721927 = items_1677721914[chckIndx(i_570426706, 0, (items_1677721914).length - 1)];
               Label13: {
                 var loopCtx_1677721928 = child__coreZtypes_u2943(ctx_p3);
                 if (((0 < (spec_1677721875.vars).length) && !(contains__stdZenumutils_u50([[102,111,108,100]], refinement_1677721879)))) {
@@ -35870,8 +35879,8 @@ function interpret__dialectsZloop95dialect_u264(d_p0, blk_p1, eval_p2, ctx_p3, r
                 } finally {
                 }
               };
-              i_570426704 += 1;
-              if (!(((items_1677721914).length == L_570426705))) {
+              i_570426706 += 1;
+              if (!(((items_1677721914).length == L_570426707))) {
               failedAssertImpl__stdZassertions_u86(makeNimstrLit("iterators.nim(254, 11) `len(a) == L` the length of the seq changed while iterating over it"));
               }
               

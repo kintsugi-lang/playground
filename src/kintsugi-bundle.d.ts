@@ -4,6 +4,7 @@ declare global {
     kintsugiRun(source: string): string;
     kintsugiVersion(): string;
     kintsugiCodename(): string;
+    kintsugiBuildDate(): string;
   }
 }
 export {};
