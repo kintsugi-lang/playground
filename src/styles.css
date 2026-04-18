@@ -69,10 +69,12 @@ body {
 .nav-inner {
   max-width: var(--container-wide);
   margin: 0 auto;
-  padding: 0.9rem 2rem;
+  padding: 0.9rem clamp(1rem, 3vw, 2rem);
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
 }
 
 .nav-brand {
@@ -83,6 +85,7 @@ body {
   color: var(--cream);
   font-family: var(--font-display);
   font-size: 1.2rem;
+  flex-shrink: 0;
 }
 
 .nav-logo {
@@ -91,7 +94,9 @@ body {
 
 .nav-links {
   display: flex;
-  gap: 2rem;
+  gap: clamp(0.9rem, 2.5vw, 2rem);
+  flex-wrap: wrap;
+  justify-content: flex-end;
 }
 
 .nav-links a {
@@ -224,12 +229,15 @@ body {
 
 .hero h1 {
   font-family: var(--font-display);
-  font-size: 3.2rem;
+  font-size: clamp(2rem, 5.5vw + 0.5rem, 3.2rem);
   font-weight: 400;
   line-height: 1.2;
   color: var(--cream);
   margin-bottom: 1.5rem;
   letter-spacing: -0.01em;
+  text-wrap: balance;
+  overflow-wrap: break-word;
+  padding: 0 0.5rem;
 }
 
 .hero h1 em {
@@ -620,7 +628,7 @@ body {
     background: rgba(0,0,0,0.2);
     border-radius: 1rem;
     font-size: 1rem;
-    margin-bottom: 2rem;
+    margin: 0 1rem 2rem;
     cursor: default;
 }
 
@@ -675,10 +683,6 @@ body {
     padding-top: 8rem;
   }
 
-  .hero h1 {
-    font-size: 2.4rem;
-  }
-
   .editor-pane textarea {
     min-height: 280px;
   }
@@ -694,17 +698,27 @@ body {
   }
 }
 
-@media (max-width: 480px) {
-  .hero h1 {
-    font-size: 1.9rem;
+@media (max-width: 640px) {
+  .nav-inner {
+    justify-content: center;
   }
 
   .nav-links {
-    gap: 1rem;
+    width: 100%;
+    justify-content: center;
+    gap: 1rem 1.25rem;
   }
+}
 
+@media (max-width: 480px) {
   .hero-actions {
     flex-direction: column;
     align-items: center;
+  }
+
+  .hero-actions .btn {
+    width: 100%;
+    justify-content: center;
+    max-width: 280px;
   }
 }
