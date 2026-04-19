@@ -85,7 +85,7 @@ add5: make-adder 5
 print add5 10
 
 print uppercase "hello"
-print join "hello" " world"`,
+print rejoin ["hello" " world"]`,
   },
   {
     id: "objects",
