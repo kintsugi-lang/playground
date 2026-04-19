@@ -298,7 +298,7 @@ love/keypressed: function [key] [
     target: "",
     snippet: `positive!: @type/where [integer!] [it > 0]
 
-clamp-positive: function [n [positive!]] [n]
+clamp-positive: function [n [positive!] return: [positive!]] [n]
 print clamp-positive 42
 
 score!: @type/where [integer! | string!] [
@@ -313,7 +313,7 @@ print is? score! "N/A"
 print is? score! -5`,
     source: `positive!: @type/where [integer!] [it > 0]
 
-clamp-positive: function [n [positive!]] [n]
+clamp-positive: function [n [positive!] return: [positive!]] [n]
 print clamp-positive 42
 
 score!: @type/where [integer! | string!] [
