@@ -4,6 +4,11 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
+  # Fired by kintsugi master pushes via repository_dispatch so a new
+  # transpiler build triggers a fresh playground deploy automatically.
+  # Source workflow sends event_type `kintsugi-bump`.
+  repository_dispatch:
+    types: [kintsugi-bump]
 
 permissions:
   contents: read
@@ -18,19 +23,48 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout playground
+        uses: actions/checkout@v4
+        with:
+          path: playground
+
+      - name: Checkout kintsugi transpiler
+        uses: actions/checkout@v4
+        with:
+          repository: kintsugi-lang/kintsugi
+          path: kintsugi
+          ref: master
+
+      - name: Setup Nim
+        uses: jiro4989/setup-nim-action@v2
+        with:
+          nim-version: '2.2.x'
+
+      - name: Build kintsugi_js bundle
+        working-directory: kintsugi
+        run: nim js -d:release --outdir:web src/kintsugi_js.nim
+
+      - name: Sync bundle into playground
+        working-directory: playground
+        run: ./sync-bundle.sh
 
       - uses: actions/setup-node@v4
         with:
           node-version: 22
           cache: npm
+          cache-dependency-path: playground/package-lock.json
 
-      - run: npm ci
-      - run: npx vite build
+      - name: Install playground deps
+        working-directory: playground
+        run: npm ci
+
+      - name: Build playground
+        working-directory: playground
+        run: npx vite build
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: dist
+          path: playground/dist
 
   deploy:
     needs: build
