@@ -8,21 +8,41 @@ const keywords = new Set([
   "if", "either", "unless", "loop", "break", "return",
   "function", "does", "try", "match", "attempt", "scope",
   "not", "and", "or", "all?", "any?",
+  // Loop dialect
   "for", "in", "from", "to", "by", "when", "do", "it",
+  // Attempt dialect
   "source", "then", "fallback", "retries", "catch",
+  // Match dialect
   "default",
-  "fields", "required", "optional",
+  // Object dialect
+  "fields", "required", "optional", "include",
+  // @game dialect
+  "entity", "collide", "collide/using", "on-update",
+  "constants", "state", "tags",
+  // Bindings dialect
   "bindings", "import",
+  // Assert
   "assert",
 ]);
 
-const builtins = new Set([
+// Type names without ! suffix. Predicates (name?) are generated below.
+const typeNames = [
+  "integer", "float", "money", "string", "logic", "none",
+  "pair", "tuple", "date", "time", "file",
+  "url", "email", "word", "set-word", "get-word", "lit-word", "meta-word",
+  "block", "paren", "map", "set", "context", "object", "function",
+  "native", "op", "type", "frozen",
+  // Union types
+  "any-type", "number", "any-word", "any-block", "scalar",
+];
+
+const builtins = new Set<string>([
   "print", "probe", "reduce", "apply",
   "select", "first", "second", "last", "pick", "find", "reverse",
   "append", "insert", "remove", "copy", "sort",
   "has?", "is?",
   "length", "empty?", "type",
-  "odd?", "even?", "number?", "function?",
+  "odd?", "even?",
   "min", "max", "abs", "negate", "round", "sqrt",
   "sin", "cos", "tan", "asin", "acos", "atan2",
   "pow", "exp", "log", "log10",
@@ -34,14 +54,14 @@ const builtins = new Set([
   "byte", "char",
   "context", "object", "freeze", "frozen?", "words", "set", "merge",
   "make", "to", "using",
-  "charset", "union", "intersect",
-  "load", "save", "exports",
+  "union", "intersect",
+  "load", "import", "save", "exports",
   "read", "write", "dir?", "file?", "exit",
-  "error", "rethrow", "now", "time", "date", "system",
-  "pad", "capture", "emit", "raw",
-  "integer?", "float?", "money?", "string?", "logic?", "none?",
-  "pair?", "tuple?", "date?", "time?", "file?",
-  "block?", "context?", "object?", "map?", "set?",
+  "error", "now", "time", "date", "system",
+  "pad", "capture",
+  // Preprocess / compile-time
+  "emit", "raw",
+  ...typeNames.map((n) => n + "?"),
 ]);
 
 const constants = new Set([
