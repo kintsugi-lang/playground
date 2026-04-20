@@ -20,7 +20,7 @@ const basics = `; Variables, arithmetic, comparisons.
 x: 10
 y: 3
 print x + y               ; 13
-print 2 + 3 * 4           ; 20 (left-to-right, no precedence)
+print 2 + 3 * 4           ; 20 -- no precedence
 
 ; Control flow -- either is the expression form of if/else.
 print either x > y ["big"] ["small"]
@@ -51,7 +51,7 @@ squares: loop/collect [
 ]
 print squares             ; [1 4 9 16 25]
 
-; loop/partition splits by a predicate -- returns [truthy falsy].
+; loop/partition splits by predicate -- [truthy falsy].
 set [evens odds] loop/partition [
   for [x] in [1 2 3 4 5 6] do [(x % 2) = 0]
 ]
@@ -64,8 +64,8 @@ big: loop/collect [
 ]
 print big                 ; [17 42 99]`;
 
-const match = `; match is a dialect: each [pattern] [body] pair is tried in order.
-; A bare word in [pattern] captures the value; 'when [guard] refines.
+const match = `; match tries each [pattern] [body] pair in order.
+; A bare word captures the value; 'when [guard] refines.
 classify: function [n [integer!]] [
   match n [
     [0]                  ["zero"]
@@ -80,11 +80,11 @@ print classify -5         ; negative
 print classify 500        ; huge
 print classify 42         ; other`;
 
-const types = `; @type/where -- subset type via guard. 'it is the candidate.
+const types = `; @type/where -- subset type via guard. 'it is the value.
 positive!: @type/where [integer!] [it > 0]
 
-clamp-positive: function [n [positive!] return: [positive!]] [n]
-print clamp-positive 42   ; 42
+clamp: function [n [positive!] return: [positive!]] [n]
+print clamp 42            ; 42
 
 ; Unions with per-branch guards.
 score!: @type/where [integer! | string!] [
@@ -113,7 +113,9 @@ slash: make Ability [
 ; match dispatches on any value, including a field.
 match slash/kind [
   ["heal"]     [print "healing"]
-  ["physical"] [print rejoin [slash/name " hits for " slash/power]]
+  ["physical"] [
+    print rejoin [slash/name " hits for " slash/power]
+  ]
   default      [print "unknown"]
 ]`;
 
@@ -188,8 +190,7 @@ recover: attempt [
 print recover       ; recovered: bad input`;
 
 const dispatch = `; match destructures blocks, binds names, guards with 'when.
-; First matching arm wins. Patterns can mix lit-words, types,
-; and bare names.
+; First match wins. Patterns mix lit-words, types, names.
 
 describe: function [shape] [
   match shape [
