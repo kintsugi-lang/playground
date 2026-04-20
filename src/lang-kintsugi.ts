@@ -138,8 +138,9 @@ const kintsugiParser: StreamParser<Record<string, never>> = {
       return "variableName.definition";
     }
 
-    // Type name (word!)
-    if (stream.match(/[A-Za-z][A-Za-z0-9_-]*!/)) {
+    // Type name (word!) — `/` permitted inside so enum singleton types
+    // like `direction/north!` tokenize as a single type.
+    if (stream.match(/[A-Za-z][A-Za-z0-9_/-]*!/)) {
       return "typeName";
     }
 
