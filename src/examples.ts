@@ -216,29 +216,28 @@ const pong = `@game [
     PADDLE-SPEED: 420
   ]
 
-  group 'main [
-    entity player [
-      pos 20 260  rect 12 80
-      update [
-        if love/keyboard/isDown "w" [
-          self/y: self/y - (PADDLE-SPEED * dt)
-        ]
-      ]
-    ]
+  tags [main]
 
-    entity ball [
-      pos 396 296  rect 8 8
-      field dx 1  field speed 350
-      update [
-        self/x: self/x + (self/dx * self/speed * dt)
+  entity player [
+    pos 20 260  rect 12 80
+    update [
+      if love/keyboard/isDown "w" [
+        self/y: self/y - (PADDLE-SPEED * dt)
       ]
-    ]
-
-    collide ball 'paddle [
-      ball/dx: negate ball/dx
     ]
   ]
-  go 'main
+
+  entity ball [
+    pos 396 296  rect 8 8
+    field dx 1  field speed 350
+    update [
+      self/x: self/x + (self/dx * self/speed * dt)
+    ]
+  ]
+
+  collide ball 'paddle [
+    ball/dx: negate ball/dx
+  ]
 ]`;
 
 export const examples: Example[] = [
