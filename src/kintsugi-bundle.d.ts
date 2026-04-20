@@ -13,7 +13,7 @@ declare global {
 
   interface Window {
     /** Returns a JSON string parseable as `KintsugiCompileResult`. */
-    kintsugiCompile(source: string, target: string): string;
+    kintsugiCompile(source: string): string;
     kintsugiRun(source: string): string;
     kintsugiVersion(): string;
     kintsugiCodename(): string;

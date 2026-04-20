@@ -124,15 +124,6 @@ function initExamples() {
     titleWrap.appendChild(dot);
     titleWrap.appendChild(title);
 
-    const badge = document.createElement("span");
-    badge.className = "example-badge";
-    badge.textContent =
-      ex.target === "love2d"
-        ? "LÖVE"
-        : ex.target === "playdate"
-          ? "Playdate"
-          : "Lua 5.4";
-
     const headerRight = document.createElement("div");
     headerRight.className = "example-card-actions";
 
@@ -143,13 +134,10 @@ function initExamples() {
     playBtn.textContent = "\u25B6";
     playBtn.addEventListener("click", () => {
       setEditorContent(sourceEditor, ex.source);
-      (document.getElementById("target-select") as HTMLSelectElement).value =
-        ex.target;
       setEditorContent(outputEditor, "");
       setEditorContent(preludeEditor, "");
     });
 
-    headerRight.appendChild(badge);
     headerRight.appendChild(playBtn);
 
     header.appendChild(titleWrap);
@@ -177,13 +165,10 @@ function initExamples() {
 function initCompile() {
   $("compile-btn").addEventListener("click", () => {
     const source = sourceEditor.state.doc.toString();
-    const target = (
-      document.getElementById("target-select") as HTMLSelectElement
-    ).value;
     setEditorContent(outputEditor, "");
     setEditorContent(preludeEditor, "");
     try {
-      const raw = window.kintsugiCompile(source, target);
+      const raw = window.kintsugiCompile(source);
       const result = JSON.parse(raw) as KintsugiCompileResult;
       if (result.error) {
         setEditorContent(outputEditor, "-- Error: " + result.error);

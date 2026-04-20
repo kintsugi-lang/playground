@@ -2,7 +2,6 @@ export type Example = {
   id: string;
   label: string;
   desc: string;
-  target: "" | "love2d" | "playdate";
   snippet: string;
   source: string;
 };
@@ -209,43 +208,11 @@ print describe ['rect 3 7]         ; rect 3x7
 print describe ['triangle 1 2 3]   ; unknown: triangle
 print describe []                  ; empty`;
 
-const pong = `@game [
-  constants [
-    SCREEN-W: 800
-    SCREEN-H: 600
-    PADDLE-SPEED: 420
-  ]
-
-  tags [main]
-
-  entity player [
-    pos 20 260  rect 12 80
-    update [
-      if love/keyboard/isDown "w" [
-        self/y: self/y - (PADDLE-SPEED * dt)
-      ]
-    ]
-  ]
-
-  entity ball [
-    pos 396 296  rect 8 8
-    field dx 1  field speed 350
-    update [
-      self/x: self/x + (self/dx * self/speed * dt)
-    ]
-  ]
-
-  collide ball 'paddle [
-    ball/dx: negate ball/dx
-  ]
-]`;
-
 export const examples: Example[] = [
   {
     id: "hello",
     label: "Hello World",
     desc: "Functions, rejoin, loop/collect.",
-    target: "",
     snippet: hello,
     source: hello,
   },
@@ -253,7 +220,6 @@ export const examples: Example[] = [
     id: "basics",
     label: "Basics",
     desc: "Variables, arithmetic, control flow.",
-    target: "",
     snippet: basics,
     source: basics,
   },
@@ -261,7 +227,6 @@ export const examples: Example[] = [
     id: "closures",
     label: "Closures",
     desc: "Functions closing over scope, recursion.",
-    target: "",
     snippet: closures,
     source: closures,
   },
@@ -269,7 +234,6 @@ export const examples: Example[] = [
     id: "loops",
     label: "Loops",
     desc: "Collect, partition, filter.",
-    target: "",
     snippet: loops,
     source: loops,
   },
@@ -277,7 +241,6 @@ export const examples: Example[] = [
     id: "match",
     label: "Pattern Matching",
     desc: "The match dialect, with predicates and defaults.",
-    target: "",
     snippet: match,
     source: match,
   },
@@ -285,7 +248,6 @@ export const examples: Example[] = [
     id: "types",
     label: "Custom Types",
     desc: "Subset types with where-guards.",
-    target: "",
     snippet: types,
     source: types,
   },
@@ -293,7 +255,6 @@ export const examples: Example[] = [
     id: "objects",
     label: "Objects",
     desc: "Typed fields, make, match on field access.",
-    target: "",
     snippet: objects,
     source: objects,
   },
@@ -301,7 +262,6 @@ export const examples: Example[] = [
     id: "money",
     label: "Money",
     desc: "Cent-exact arithmetic. No float drift.",
-    target: "",
     snippet: money,
     source: money,
   },
@@ -309,7 +269,6 @@ export const examples: Example[] = [
     id: "dispatch",
     label: "Destructuring",
     desc: "match binds names, guards, and falls through arms in order.",
-    target: "",
     snippet: dispatch,
     source: dispatch,
   },
@@ -317,7 +276,6 @@ export const examples: Example[] = [
     id: "attempt",
     label: "Error Pipelines",
     desc: "attempt threads `it`, catches by symbol, falls back.",
-    target: "",
     snippet: attempt,
     source: attempt,
   },
@@ -325,16 +283,7 @@ export const examples: Example[] = [
     id: "metaprog",
     label: "Metaprogramming",
     desc: "@template + @preprocess: compile-time codegen from data.",
-    target: "",
     snippet: metaprog,
     source: metaprog,
-  },
-  {
-    id: "pong",
-    label: "Pong",
-    desc: "Compile-time @game dialect. We have E and C, bring your own S.",
-    target: "love2d",
-    snippet: pong,
-    source: pong,
   },
 ];
