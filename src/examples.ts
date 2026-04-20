@@ -131,6 +131,84 @@ print rejoin ["Total: " total]      ; Total: $21.59
 ; $100 + 42    -- type error
 ; $100 = 100   -- false`;
 
+const metaprog = `; Code is data. Templates rewrite blocks at the call site.
+; @preprocess runs at compile time and emits AST.
+
+; @template -- declarative macro, splices args via (paren).
+@template unless: [cond body [block!]] [
+  if not (cond) (body)
+]
+unless (1 > 10) [print "math works"]   ; math works
+
+; @preprocess -- run real Kintsugi at parse time. emit
+; injects code into the output program. Generate a family
+; of functions from a data list, no boilerplate.
+@preprocess [
+  loop [for [op] in [double triple quadruple] do [
+    n: match op [
+      ['double]    [2]
+      ['triple]    [3]
+      ['quadruple] [4]
+    ]
+    emit @compose/deep [
+      (to set-word! op) function [x] [x * (n)]
+    ]
+  ]]
+]
+
+print double 5      ; 10
+print triple 5      ; 15
+print quadruple 5   ; 20`;
+
+const attempt = `; attempt is an error-aware pipeline. Each step receives
+; the previous result as 'it'. Errors short-circuit to a
+; matching 'catch by symbol kind. 'fallback is last resort.
+
+result: attempt [
+  source ["  Hello, World  "]
+  then   [trim it]
+  then   [lowercase it]
+  then   [split it ", "]
+]
+print result        ; ["hello" "world"]
+
+; Without 'source the pipeline becomes a reusable function.
+clean: attempt [
+  when [not empty? it]
+  then [trim it]
+  then [lowercase it]
+]
+print clean "  HEY  "      ; hey
+
+; Errors are typed by symbol. catch dispatches by kind.
+recover: attempt [
+  source [error 'parse "bad input"]
+  catch 'parse [rejoin ["recovered: " error]]
+  fallback ["unknown failure"]
+]
+print recover       ; recovered: bad input`;
+
+const dispatch = `; match destructures blocks, binds names, guards with 'when.
+; First matching arm wins. Patterns can mix lit-words, types,
+; and bare names.
+
+describe: function [shape] [
+  match shape [
+    ['circle r]            [rejoin ["circle r=" r]]
+    ['rect w h] when [w = h]
+                           [rejoin ["square " w]]
+    ['rect w h]            [rejoin ["rect " w "x" h]]
+    [kind tail]            [rejoin ["unknown: " kind]]
+    default                ["empty"]
+  ]
+]
+
+print describe ['circle 5]         ; circle r=5
+print describe ['rect 4 4]         ; square 4
+print describe ['rect 3 7]         ; rect 3x7
+print describe ['triangle 1 2 3]   ; unknown: triangle
+print describe []                  ; empty`;
+
 const pong = `@game [
   constants [
     SCREEN-W: 800
@@ -227,6 +305,30 @@ export const examples: Example[] = [
     target: "",
     snippet: money,
     source: money,
+  },
+  {
+    id: "dispatch",
+    label: "Destructuring",
+    desc: "match binds names, guards, and falls through arms in order.",
+    target: "",
+    snippet: dispatch,
+    source: dispatch,
+  },
+  {
+    id: "attempt",
+    label: "Error Pipelines",
+    desc: "attempt threads `it`, catches by symbol, falls back.",
+    target: "",
+    snippet: attempt,
+    source: attempt,
+  },
+  {
+    id: "metaprog",
+    label: "Metaprogramming",
+    desc: "@template + @preprocess: compile-time codegen from data.",
+    target: "",
+    snippet: metaprog,
+    source: metaprog,
   },
   {
     id: "pong",
