@@ -133,7 +133,7 @@ print rejoin ["Total: " total]      ; Total: $21.59
 ; $100 = 100   -- false`;
 
 const metaprog = `; Code is data. Templates rewrite blocks at the call site.
-; @preprocess runs at compile time and emits AST.
+; @preprocess runs at parse time and emits AST via @emit.
 
 ; @template -- declarative macro, splices args via (paren).
 @template unless: [cond body [block!]] [
@@ -141,7 +141,7 @@ const metaprog = `; Code is data. Templates rewrite blocks at the call site.
 ]
 unless (1 > 10) [print "math works"]   ; math works
 
-; @preprocess -- run real Kintsugi at parse time. emit
+; @preprocess -- run real Kintsugi at parse time. @emit
 ; injects code into the output program. Generate a family
 ; of functions from a data list, no boilerplate.
 @preprocess [
@@ -151,7 +151,7 @@ unless (1 > 10) [print "math works"]   ; math works
       ['triple]    [3]
       ['quadruple] [4]
     ]
-    emit @compose/deep [
+    @emit [
       (to set-word! op) function [x] [x * (n)]
     ]
   ]]
@@ -189,6 +189,34 @@ recover: attempt [
 ]
 print recover       ; recovered: bad input`;
 
+const tagged = `; Tagged unions: nominal-by-tag variants with typed fields.
+; Declare with @type, match destructures by the leading lit-word,
+; and the compiler checks exhaustiveness for you.
+
+shape!: @type [
+    ['circle float!]
+  | ['rect   float! float!]
+  | ['line   pair!  pair!]
+]
+
+area: function [s [shape!]] [
+  match s [
+    ['circle r]      [r * r * 3.14]
+    ['rect   w h]    [w * h]
+    ['line   a b]    [0.0]
+  ]
+]
+
+print area ['circle 2.5]                     ; 19.625
+print area ['rect 3.0 4.0]                   ; 12.0
+print area ['line 0x0 10x10]                 ; 0.0
+
+; Leaving out an arm is a compile-time error:
+;   area: function [s [shape!]] [
+;     match s [['circle r] [r * r * 3.14]]
+;   ]
+; -> "non-exhaustive match on shape!; missing: rect, line"`;
+
 const dispatch = `; match destructures blocks, binds names, guards with 'when.
 ; First match wins. Patterns mix lit-words, types, names.
 
@@ -198,16 +226,15 @@ describe: function [shape] [
     ['rect w h] when [w = h]
                            [rejoin ["square " w]]
     ['rect w h]            [rejoin ["rect " w "x" h]]
-    [kind tail]            [rejoin ["unknown: " kind]]
-    default                ["empty"]
+    default                ["unknown"]
   ]
 ]
 
 print describe ['circle 5]         ; circle r=5
 print describe ['rect 4 4]         ; square 4
 print describe ['rect 3 7]         ; rect 3x7
-print describe ['triangle 1 2 3]   ; unknown: triangle
-print describe []                  ; empty`;
+print describe ['triangle 1 2 3]   ; unknown
+print describe []                  ; unknown`;
 
 export const examples: Example[] = [
   {
@@ -272,6 +299,13 @@ export const examples: Example[] = [
     desc: "match binds names, guards, and falls through arms in order.",
     snippet: dispatch,
     source: dispatch,
+  },
+  {
+    id: "tagged",
+    label: "Tagged Unions",
+    desc: "Nominal variants with typed fields. Match is checked for exhaustiveness.",
+    snippet: tagged,
+    source: tagged,
   },
   {
     id: "attempt",
